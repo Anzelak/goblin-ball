@@ -1,0 +1,72 @@
+[15:44:42.424] [INFO] === Goblinball Debug Log - 20250403_154442 ===
+[15:44:42.425] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_154442.txt
+[15:44:42.445] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:44:43.657] [INFO] Moving carrier Grubsquisher the Cunning with 4 movement points
+[15:44:43.657] [INFO] Carrier Grubsquisher the Cunning has 0 defenders in path to end zone
+[15:44:43.657] [INFO] Carrier Grubsquisher the Cunning has 0 nearby defenders
+[15:44:43.657] [INFO] Carrier Grubsquisher the Cunning is close to end zone, prioritizing touchdown
+[15:44:43.660] [INFO] Carrier Grubsquisher the Cunning has goal: score_touchdown
+[15:44:43.660] [INFO] Goblin Grubsquisher the Cunning moved from (4, 8) to (5, 5)
+[15:44:43.660] [INFO] Movement trail: [(4, 8), (5, 5)]
+[15:44:43.660] [INFO] Carrier Grubsquisher the Cunning moved along clear path to (5, 5)
+[15:44:43.660] [INFO] Moving offensive blocker Grubbiter Dargo with 3 movement points
+[15:44:43.660] [INFO] Offensive blocker chose move (2, 5) with score 583
+[15:44:43.660] [INFO] Goblin Grubbiter Dargo moved from (2, 8) to (2, 5)
+[15:44:43.660] [INFO] Movement trail: [(2, 8), (2, 5)]
+[15:44:43.660] [INFO] Moving offensive blocker Krunktooth Lothe the Sneaky with 4 movement points
+[15:44:43.660] [INFO] Offensive blocker chose move (5, 6) with score 748
+[15:44:43.661] [INFO] Goblin Krunktooth Lothe the Sneaky moved from (6, 8) to (5, 6)
+[15:44:43.661] [INFO] Movement trail: [(6, 8), (5, 6)]
+[15:44:43.661] [INFO] Moving offensive blocker Grakfoot with 1 movement points
+[15:44:43.661] [INFO] Offensive blocker chose move (7, 8) with score 410
+[15:44:43.661] [INFO] Goblin Grakfoot moved from (8, 8) to (7, 8)
+[15:44:43.661] [INFO] Movement trail: [(8, 8), (7, 8)]
+[15:44:43.661] [INFO] Moving offensive blocker Splatsquisher with 3 movement points
+[15:44:43.661] [INFO] Offensive blocker chose move (9, 5) with score 519
+[15:44:43.661] [INFO] Goblin Splatsquisher moved from (9, 8) to (9, 5)
+[15:44:43.661] [INFO] Movement trail: [(9, 8), (9, 5)]
+[15:44:43.661] [INFO] Moving defensive blocker Grimnose with 4 movement points
+[15:44:43.661] [INFO] Defensive blocker chose move (5, 2) with score 1318
+[15:44:43.661] [INFO] Goblin Grimnose moved from (2, 1) to (5, 2)
+[15:44:43.661] [INFO] Movement trail: [(2, 1), (5, 2)]
+[15:44:43.661] [INFO] Moving defensive blocker Krakfoot with 3 movement points
+[15:44:43.661] [INFO] Defensive blocker chose move (5, 3) with score 1355
+[15:44:43.661] [INFO] Goblin Krakfoot moved from (4, 1) to (5, 3)
+[15:44:43.662] [INFO] Movement trail: [(4, 1), (5, 3)]
+[15:44:43.662] [INFO] Moving defensive blocker Skrizgob Arade with 4 movement points
+[15:44:43.662] [INFO] Defensive blocker chose move (5, 4) with score 3409
+[15:44:43.662] [INFO] Goblin Skrizgob Arade moved from (6, 1) to (5, 4)
+[15:44:43.662] [INFO] Movement trail: [(6, 1), (5, 4)]
+[15:44:43.662] [INFO] Moving defensive blocker Mugchewer with 4 movement points
+[15:44:43.662] [INFO] Defensive blocker chose move (6, 3) with score 1323
+[15:44:43.662] [INFO] Goblin Mugchewer moved from (8, 1) to (6, 3)
+[15:44:43.662] [INFO] Movement trail: [(8, 1), (6, 3)]
+[15:44:43.662] [INFO] Moving defensive blocker Gnogstabber the Tough with 1 movement points
+[15:44:43.662] [INFO] Defensive blocker chose move (8, 1) with score 913
+[15:44:43.662] [INFO] Goblin Gnogstabber the Tough moved from (9, 1) to (8, 1)
+[15:44:43.662] [INFO] Movement trail: [(9, 1), (8, 1)]
+[15:44:45.482] [INFO] Moving carrier Grubsquisher the Cunning with 4 movement points
+[15:44:45.482] [INFO] Carrier Grubsquisher the Cunning has 0 defenders in path to end zone
+[15:44:45.482] [INFO] Carrier Grubsquisher the Cunning has 1 nearby defenders
+[15:44:45.482] [INFO] Carrier Grubsquisher the Cunning is in immediate danger (adjacent to defender)
+[15:44:45.482] [INFO] Carrier Grubsquisher the Cunning has clear path to end zone, prioritizing touchdown
+[15:44:45.482] [INFO] Carrier Grubsquisher the Cunning has goal: score_touchdown
+[15:44:45.484] [INFO] Carrier Grubsquisher the Cunning couldn't find valid move
+[15:44:45.484] [INFO] Moving offensive blocker Grimnose with 4 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving offensive blocker Krakfoot with 3 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving offensive blocker Skrizgob Arade with 4 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving offensive blocker Mugchewer with 4 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving offensive blocker Gnogstabber the Tough with 1 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving defensive blocker Grubbiter Dargo with 3 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving defensive blocker Krunktooth Lothe the Sneaky with 4 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving defensive blocker Grakfoot with 1 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!
+[15:44:45.484] [INFO] Moving defensive blocker Splatsquisher with 3 movement points
+[15:44:45.484] [INFO] No carrier found for team Skullsmashers!

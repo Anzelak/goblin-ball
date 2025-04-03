@@ -1,0 +1,24 @@
+[15:38:06.423] [INFO] === Goblinball Debug Log - 20250403_153806 ===
+[15:38:06.423] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_153806.txt
+[15:38:06.444] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:38:07.550] [INFO] Moving carrier Stabstomper with 1 movement points
+[15:38:07.551] [INFO] Moving offensive blocker Grimgulper Dhyana with 2 movement points
+[15:38:07.551] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.551] [INFO] Moving offensive blocker Lugnose with 3 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving offensive blocker Grakfinger  with 1 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving offensive blocker Mugslicer with 3 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving offensive blocker Bludtooth Birinair with 3 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving defensive blocker Grubmangler Tuek the Mighty with 3 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving defensive blocker Stabstomper with 1 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving defensive blocker Splatfist Syrena the Sneaky with 2 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving defensive blocker Globchewer  with 4 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!
+[15:38:07.552] [INFO] Moving defensive blocker Krakchomper Ronald the Cunning with 3 movement points
+[15:38:07.552] [INFO] No carrier found for team Skullsmashers!

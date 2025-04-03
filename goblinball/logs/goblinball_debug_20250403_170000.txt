@@ -1,0 +1,3 @@
+[17:00:00.507] [INFO] === Goblinball Debug Log - 20250403_170000 ===
+[17:00:00.507] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_170000.txt
+[17:00:00.530] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers

@@ -1,0 +1,24 @@
+[15:36:50.997] [INFO] === Goblinball Debug Log - 20250403_153650 ===
+[15:36:50.998] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_153650.txt
+[15:36:51.019] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:36:52.042] [INFO] Moving carrier Kraksquisher Juthocen with 1 movement points
+[15:36:52.044] [INFO] Moving offensive blocker Fizzmangler Clawsen with 3 movement points
+[15:36:52.044] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.044] [INFO] Moving offensive blocker Globslicer the Brutal with 1 movement points
+[15:36:52.046] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.046] [INFO] Moving offensive blocker Snotgulper with 2 movement points
+[15:36:52.046] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.046] [INFO] Moving offensive blocker Grakgulper with 2 movement points
+[15:36:52.046] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.046] [INFO] Moving offensive blocker Gnogface with 1 movement points
+[15:36:52.046] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.047] [INFO] Moving defensive blocker Grimstomper Ailyn with 2 movement points
+[15:36:52.047] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.047] [INFO] Moving defensive blocker Kraksquisher Juthocen with 1 movement points
+[15:36:52.047] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.047] [INFO] Moving defensive blocker Snotfinger Cyton with 1 movement points
+[15:36:52.047] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.047] [INFO] Moving defensive blocker Gutsmasher Porcpoke with 1 movement points
+[15:36:52.047] [INFO] No carrier found for team Skullsmashers!
+[15:36:52.047] [INFO] Moving defensive blocker Splatchewer Karenann with 2 movement points
+[15:36:52.047] [INFO] No carrier found for team Skullsmashers!

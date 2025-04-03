@@ -71,28 +71,23 @@ class MovementSystem:
         # First check if the goblin is currently in any opponent's zone of control
         # This handles the case of leaving a zone of control
         current_blockers = self.get_adjacent_blockers(goblin.position, goblin.team)
+        
         if current_blockers:
+            # DUKE check is only needed when LEAVING a zone of control
+            # Log for debugging
+            blocker_names = ", ".join([b.name for b in current_blockers])
+            DEBUG.log(f"Goblin {goblin.name} is attempting to leave the zone of control of: {blocker_names}")
+            
             # Need to make DUKE check to leave ZoC
             duke_result = self.perform_duke_check(goblin, current_blockers)
             
             if not duke_result["success"]:
                 # Failed to leave ZoC
+                DEBUG.log(f"Goblin {goblin.name} failed DUKE check to leave zone of control")
                 return False
+            else:
+                DEBUG.log(f"Goblin {goblin.name} succeeded DUKE check to leave zone of control")
         
-        # Now check for zone of control along the path
-        path = self.calculate_path(goblin.position, target_pos)
-        
-        for pos in path[1:]:  # Skip starting position
-            blockers = self.get_adjacent_blockers(pos, goblin.team)
-            
-            if blockers and pos != target_pos:  # If not the final position
-                # Need to make DUKE check to move through ZoC
-                duke_result = self.perform_duke_check(goblin, blockers)
-                
-                if not duke_result["success"]:
-                    # Failed to move through ZoC
-                    return False
-            
         # Move the goblin to the new position and update the game state
         old_pos = goblin.position
         self.game.grid.move_entity(goblin, target_pos)

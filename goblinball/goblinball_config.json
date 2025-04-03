@@ -15,10 +15,6 @@
   "knockdown_threshold": 6,
   "carrier_penalty": -3,
   "dodge_bonus": 3,
-  "field_goal_range": 3,
-  "field_goal_success_chance": 0.5,
-  "critical_success_chance": 0.05,
-  "critical_failure_chance": 0.05,
   "ai_aggression": 0.7,
   "ai_blocking_preference": 0.6,
   "movement_style_weights": {

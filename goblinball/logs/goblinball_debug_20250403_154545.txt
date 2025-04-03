@@ -1,0 +1,112 @@
+[15:45:45.687] [INFO] === Goblinball Debug Log - 20250403_154545 ===
+[15:45:45.687] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_154545.txt
+[15:45:45.708] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:45:46.792] [INFO] Moving carrier Grimfinger with 3 movement points
+[15:45:46.792] [INFO] Carrier Grimfinger has 0 defenders in path to end zone
+[15:45:46.793] [INFO] Carrier Grimfinger has 0 nearby defenders
+[15:45:46.793] [INFO] Carrier Grimfinger is close to end zone, prioritizing touchdown
+[15:45:46.795] [INFO] Carrier Grimfinger has goal: score_touchdown
+[15:45:46.795] [INFO] Goblin Grimfinger moved from (4, 8) to (5, 6)
+[15:45:46.795] [INFO] Movement trail: [(4, 8), (5, 6)]
+[15:45:46.795] [INFO] Carrier Grimfinger moved along clear path to (5, 6)
+[15:45:46.795] [INFO] Moving offensive blocker Fizzfist with 4 movement points
+[15:45:46.796] [INFO] Offensive blocker chose move (4, 6) with score 755
+[15:45:46.796] [INFO] Goblin Fizzfist moved from (2, 8) to (4, 6)
+[15:45:46.796] [INFO] Movement trail: [(2, 8), (4, 6)]
+[15:45:46.796] [INFO] Moving offensive blocker Zoggob Goatgrave with 1 movement points
+[15:45:46.796] [INFO] Offensive blocker chose move (5, 8) with score 667
+[15:45:46.796] [INFO] Goblin Zoggob Goatgrave moved from (6, 8) to (5, 8)
+[15:45:46.796] [INFO] Movement trail: [(6, 8), (5, 8)]
+[15:45:46.796] [INFO] Moving offensive blocker Grimslicer Kirwendus with 4 movement points
+[15:45:46.796] [INFO] Offensive blocker chose move (5, 7) with score 728
+[15:45:46.796] [INFO] Goblin Grimslicer Kirwendus moved from (8, 8) to (5, 7)
+[15:45:46.796] [INFO] Movement trail: [(8, 8), (5, 7)]
+[15:45:46.796] [INFO] Moving offensive blocker Grakface with 3 movement points
+[15:45:46.796] [INFO] Offensive blocker chose move (8, 6) with score 595
+[15:45:46.796] [INFO] Goblin Grakface moved from (9, 8) to (8, 6)
+[15:45:46.796] [INFO] Movement trail: [(9, 8), (8, 6)]
+[15:45:46.797] [INFO] Moving defensive blocker Wortchewer with 3 movement points
+[15:45:46.797] [INFO] Defensive blocker chose move (5, 1) with score 1223
+[15:45:46.797] [INFO] Goblin Wortchewer moved from (2, 1) to (5, 1)
+[15:45:46.797] [INFO] Movement trail: [(2, 1), (5, 1)]
+[15:45:46.797] [INFO] Moving defensive blocker Bludgulper Nazim with 2 movement points
+[15:45:46.797] [INFO] Defensive blocker chose move (5, 2) with score 1245
+[15:45:46.797] [INFO] Goblin Bludgulper Nazim moved from (4, 1) to (5, 2)
+[15:45:46.797] [INFO] Movement trail: [(4, 1), (5, 2)]
+[15:45:46.797] [INFO] Moving defensive blocker Thraksquisher with 2 movement points
+[15:45:46.797] [INFO] Defensive blocker chose move (6, 3) with score 1272
+[15:45:46.797] [INFO] Goblin Thraksquisher moved from (6, 1) to (6, 3)
+[15:45:46.797] [INFO] Movement trail: [(6, 1), (6, 3)]
+[15:45:46.797] [INFO] Moving defensive blocker Snotfist Sovetov with 3 movement points
+[15:45:46.797] [INFO] Defensive blocker chose move (6, 2) with score 1182
+[15:45:46.797] [INFO] Goblin Snotfist Sovetov moved from (8, 1) to (6, 2)
+[15:45:46.797] [INFO] Movement trail: [(8, 1), (6, 2)]
+[15:45:46.797] [INFO] Moving defensive blocker Graknose with 1 movement points
+[15:45:46.797] [INFO] Defensive blocker chose move (8, 1) with score 865
+[15:45:46.797] [INFO] Goblin Graknose moved from (9, 1) to (8, 1)
+[15:45:46.797] [INFO] Movement trail: [(9, 1), (8, 1)]
+[15:45:48.591] [INFO] Moving carrier Grimfinger with 3 movement points
+[15:45:48.591] [INFO] Carrier Grimfinger has 0 defenders in path to end zone
+[15:45:48.591] [INFO] Carrier Grimfinger has 0 nearby defenders
+[15:45:48.591] [INFO] Carrier Grimfinger is close to end zone, prioritizing touchdown
+[15:45:48.591] [INFO] Carrier Grimfinger has goal: score_touchdown
+[15:45:48.592] [INFO] Goblin Grimfinger moved from (5, 6) to (5, 5)
+[15:45:48.592] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5)]
+[15:45:48.592] [INFO] Carrier Grimfinger moved to (5, 5) (score: 33.4)
+[15:45:48.592] [INFO] Moving offensive blocker Fizzfist with 4 movement points
+[15:45:48.592] [INFO] Offensive blocker chose move (5, 3) with score 5065
+[15:45:48.592] [INFO] Goblin Fizzfist moved from (4, 6) to (5, 3)
+[15:45:48.592] [INFO] Movement trail: [(2, 8), (4, 6), (5, 3)]
+[15:45:48.592] [INFO] Moving offensive blocker Zoggob Goatgrave with 1 movement points
+[15:45:48.592] [INFO] Offensive blocker chose move (6, 8) with score 489
+[15:45:48.592] [INFO] Goblin Zoggob Goatgrave moved from (5, 8) to (6, 8)
+[15:45:48.592] [INFO] Movement trail: [(6, 8), (5, 8), (6, 8)]
+[15:45:48.592] [INFO] Moving offensive blocker Grimslicer Kirwendus with 4 movement points
+[15:45:48.593] [INFO] Offensive blocker chose move (6, 4) with score 2519
+[15:45:48.593] [INFO] Goblin Grimslicer Kirwendus moved from (5, 7) to (6, 4)
+[15:45:48.593] [INFO] Movement trail: [(8, 8), (5, 7), (6, 4)]
+[15:45:48.593] [INFO] Moving offensive blocker Grakface with 3 movement points
+[15:45:48.593] [INFO] Offensive blocker chose move (6, 5) with score 763
+[15:45:48.593] [INFO] Goblin Grakface moved from (8, 6) to (6, 5)
+[15:45:48.593] [INFO] Movement trail: [(9, 8), (8, 6), (6, 5)]
+[15:45:48.593] [INFO] Moving defensive blocker Wortchewer with 3 movement points
+[15:45:48.593] [INFO] Defensive blocker chose move (5, 4) with score 3412
+[15:45:48.593] [INFO] Goblin Wortchewer moved from (5, 1) to (5, 4)
+[15:45:48.593] [INFO] Movement trail: [(2, 1), (5, 1), (5, 4)]
+[15:45:48.593] [INFO] Moving defensive blocker Bludgulper Nazim with 2 movement points
+[15:45:48.593] [INFO] Defensive blocker chose move (5, 2) with score 1310
+[15:45:48.593] [INFO] Moving defensive blocker Thraksquisher with 2 movement points
+[15:45:48.593] [INFO] Defensive blocker chose move (6, 3) with score 1308
+[15:45:48.593] [INFO] Moving defensive blocker Snotfist Sovetov with 3 movement points
+[15:45:48.593] [INFO] Defensive blocker chose move (4, 3) with score 1283
+[15:45:48.593] [INFO] Goblin Snotfist Sovetov moved from (6, 2) to (4, 3)
+[15:45:48.593] [INFO] Movement trail: [(8, 1), (6, 2), (4, 3)]
+[15:45:48.593] [INFO] Moving defensive blocker Graknose with 1 movement points
+[15:45:48.593] [INFO] Defensive blocker chose move (8, 2) with score 974
+[15:45:48.593] [INFO] Goblin Graknose moved from (8, 1) to (8, 2)
+[15:45:48.593] [INFO] Movement trail: [(9, 1), (8, 1), (8, 2)]
+[15:46:04.195] [INFO] Moving carrier Grimfinger with 3 movement points
+[15:46:04.195] [INFO] Carrier Grimfinger has 0 defenders in path to end zone
+[15:46:04.195] [INFO] Carrier Grimfinger has 1 nearby defenders
+[15:46:04.195] [INFO] Carrier Grimfinger is in immediate danger (adjacent to defender)
+[15:46:04.195] [INFO] Carrier Grimfinger has clear path to end zone, prioritizing touchdown
+[15:46:04.195] [INFO] Carrier Grimfinger has goal: score_touchdown
+[15:46:04.196] [INFO] Carrier Grimfinger couldn't find valid move
+[15:46:04.196] [INFO] Moving offensive blocker Wortchewer with 3 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving offensive blocker Bludgulper Nazim with 2 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving offensive blocker Thraksquisher with 2 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving offensive blocker Snotfist Sovetov with 3 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving offensive blocker Graknose with 1 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving defensive blocker Fizzfist with 4 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving defensive blocker Zoggob Goatgrave with 1 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving defensive blocker Grimslicer Kirwendus with 4 movement points
+[15:46:04.196] [INFO] No carrier found for team Skullsmashers!
+[15:46:04.196] [INFO] Moving defensive blocker Grakface with 3 movement points
+[15:46:04.197] [INFO] No carrier found for team Skullsmashers!

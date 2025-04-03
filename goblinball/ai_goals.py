@@ -24,25 +24,54 @@ class AIGoalSystem:
             
             # Check path to end zone for active defenders
             path_defender_count = self.count_defenders_in_path(goblin, target_y)
+            DEBUG.log(f"Carrier {goblin.name} has {path_defender_count} defenders in path to end zone")
             
             # Count defenders that are still up nearby
             nearby_defender_count = self.count_nearby_opponents(goblin.position, goblin.team)
+            DEBUG.log(f"Carrier {goblin.name} has {nearby_defender_count} nearby defenders")
+            
+            # Check if in immediate danger of being blocked (adjacent to defender)
+            in_danger = self.is_adjacent_to_opponent(goblin)
+            if in_danger:
+                DEBUG.log(f"Carrier {goblin.name} is in immediate danger (adjacent to defender)")
             
             # First check if very close to end zone, always prioritize scoring when close
             if distance <= 3:
+                DEBUG.log(f"Carrier {goblin.name} is close to end zone, prioritizing touchdown")
                 return "score_touchdown"
-            # Next check if in field goal range but path to end zone is blocked
-            elif self.in_field_goal_range(goblin) and path_defender_count >= 2:
-                return "attempt_field_goal"
-            # Next check for clear path to end zone - be more aggressive
+            # Check for clear path to end zone - be more aggressive
             elif path_defender_count == 0:
                 # Clear path to end zone, prioritize direct scoring run
+                DEBUG.log(f"Carrier {goblin.name} has clear path to end zone, prioritizing touchdown")
                 return "score_touchdown"
+            # Field goal as a last resort if:
+            # 1. Multiple defenders blocking path to end zone, or
+            # 2. In immediate danger of being blocked with no good escape, or
+            # 3. Blocked by defenders with low chance of advancing
+            elif (path_defender_count >= 3 or 
+                  (in_danger and nearby_defender_count >= 3) or
+                  (nearby_defender_count >= 4 and path_defender_count >= 2)):
+                
+                # Calculate field goal success chance to decide if it's worth attempting
+                field_goal_chance = self.estimate_field_goal_chance(goblin)
+                DEBUG.log(f"Carrier {goblin.name} considering field goal, success chance: {field_goal_chance:.2f}")
+                
+                # Only attempt field goal if chance is reasonable (above 30%)
+                # And we're at least a moderate distance from the end zone
+                if field_goal_chance >= 0.3 and distance >= 4:
+                    DEBUG.log(f"Carrier {goblin.name} decided to attempt field goal")
+                    return "attempt_field_goal"
+                else:
+                    # If field goal chance is too low, try to advance or evade
+                    DEBUG.log(f"Carrier {goblin.name} decided against field goal, will evade instead")
+                    return "evade_defenders"
             # Only evade if multiple defenders are nearby and active
             elif nearby_defender_count >= 2:
+                DEBUG.log(f"Carrier {goblin.name} has multiple defenders nearby, will evade")
                 return "evade_defenders"
             # Default goal is to advance
             else:
+                DEBUG.log(f"Carrier {goblin.name} will advance downfield")
                 return "advance_downfield"
         
         elif goblin.team == self.game.offense_team:
@@ -85,18 +114,14 @@ class AIGoalSystem:
         Returns:
             bool: True if in field goal range, False otherwise
         """
-        # Field goal is shot at the hoop in the middle of end zone
-        if goblin.team == self.game.team1:
-            hoop_y = 0  # Top
-        else:
-            hoop_y = self.game.grid.height - 1  # Bottom
-            
-        hoop_x = self.game.grid.width // 2  # Center
-        hoop_pos = (hoop_x, hoop_y)
+        # Field goals can be attempted from anywhere, but success chance varies
+        # This is now primarily used to check if a field goal is a viable option
         
-        # Check distance to hoop
-        distance = manhattan_distance(goblin.position, hoop_pos)
-        return distance <= self.game.config.get("field_goal_range", 3)
+        # Calculate estimated success chance
+        chance = self.estimate_field_goal_chance(goblin)
+        
+        # Consider "in range" if chance is at least 20%
+        return chance >= 0.20
     
     def count_nearby_opponents(self, position, team):
         """Count enemy goblins near a position
@@ -226,6 +251,90 @@ class AIGoalSystem:
                     count += 1
         
         return count
+    
+    def is_adjacent_to_opponent(self, goblin):
+        """Check if a goblin is adjacent to any opponent
+        
+        Args:
+            goblin: The goblin to check
+            
+        Returns:
+            bool: True if adjacent to an opponent, False otherwise
+        """
+        x, y = goblin.position
+        
+        # Check all adjacent squares
+        for dx in range(-1, 2):
+            for dy in range(-1, 2):
+                if dx == 0 and dy == 0:
+                    continue  # Skip self
+                    
+                check_pos = (x + dx, y + dy)
+                if 0 <= check_pos[0] < self.game.grid.width and 0 <= check_pos[1] < self.game.grid.height:
+                    entity = self.game.grid.get_entity_at_position(check_pos)
+                    if entity and hasattr(entity, 'team') and entity.team != goblin.team and not entity.knocked_down:
+                        return True
+                        
+        return False
+            
+    def estimate_field_goal_chance(self, goblin):
+        """Estimate the chance of a successful field goal
+        
+        Args:
+            goblin: The carrier goblin
+            
+        Returns:
+            float: Estimated success chance (0.0-1.0)
+        """
+        # Find hoop position
+        if goblin.team == self.game.team1:
+            hoop_y = 0
+        else:
+            hoop_y = self.game.grid.height - 1
+            
+        hoop_x = self.game.grid.width // 2
+        hoop_pos = (hoop_x, hoop_y)
+        
+        # Calculate distance to hoop
+        distance = manhattan_distance(goblin.position, hoop_pos)
+        
+        # Base chance calculation (more conservative than before)
+        if distance > 5:
+            # "Hail Magoo" shot - very low chance
+            base_chance = 0.05 + (0.05 * min(5, goblin.agility) / 5.0)  # Max 10% for highest agility
+            DEBUG.log(f"Hail Magoo shot from distance {distance}, base chance: {base_chance:.2f}")
+        else:
+            # More conservative base percentages:
+            # 35% at 5 squares, +10% for each square closer
+            base_chance = 0.35 + (5 - distance) * 0.10
+            DEBUG.log(f"Field goal from distance {distance}, base chance: {base_chance:.2f}")
+            
+        # Simple adjustment for nearby defenders (quick estimate)
+        nearby_defenders = self.count_nearby_opponents(goblin.position, goblin.team)
+        defender_penalty = nearby_defenders * -0.15  # More significant penalty
+        DEBUG.log(f"Field goal defender penalty ({nearby_defenders} defenders): {defender_penalty:.2f}")
+        
+        # Simple adjustment for dexterity
+        dexterity = getattr(goblin, 'agility', 5)
+        dexterity_mod = (dexterity - 5) * 0.05
+        DEBUG.log(f"Field goal dexterity modifier (agility {dexterity}): {dexterity_mod:.2f}")
+        
+        # Additional distance penalty for longer shots
+        distance_penalty = -0.05 * max(0, distance - 3)  # Additional penalty beyond 3 squares
+        DEBUG.log(f"Field goal additional distance penalty: {distance_penalty:.2f}")
+        
+        # Calculate estimated chance
+        chance = base_chance + dexterity_mod + defender_penalty + distance_penalty
+        
+        # Cap "Hail Magoo" shots at 10%
+        if distance > 5:
+            chance = min(0.10, chance)
+            
+        # Ensure chance is at least 5% and at most 90% (never guaranteed)
+        final_chance = max(0.05, min(0.90, chance))
+        DEBUG.log(f"Field goal final estimated chance: {final_chance:.2f}")
+            
+        return final_chance
 
 class MovementStyleSelector:
     """Selects movement styles based on goals and situation"""

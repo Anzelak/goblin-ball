@@ -36,6 +36,21 @@ class CarrierMovement:
         # Determine forward direction (towards end zone)
         forward_direction = -1 if carrier.team == self.game.team1 else 1
         
+        # Get the carrier's goal from the AI system
+        goal = self.game.goal_system.set_goblin_goal(carrier)
+        DEBUG.log(f"Carrier {carrier.name} has goal: {goal}")
+        
+        # Check if the goal is to attempt a field goal
+        if goal == "attempt_field_goal":
+            DEBUG.log(f"Carrier {carrier.name} is attempting a field goal")
+            # Calculate field goal success chance
+            fg_chance = self.game.goal_system.estimate_field_goal_chance(carrier)
+            DEBUG.log(f"Field goal success chance: {fg_chance:.2f}")
+            
+            # Attempt the field goal
+            self.attempt_field_goal(carrier)
+            return True
+        
         # Check if there's a clear path to the end zone
         has_clear_path = True
         path_to_end = []
@@ -105,18 +120,6 @@ class CarrierMovement:
                     if self.movement_system.move_goblin(carrier, target_pos):
                         DEBUG.log(f"Carrier {carrier.name} moved along clear path to {target_pos}")
                         return True
-
-        # Check if carrier is in field goal range
-        if self.in_field_goal_range(carrier):
-            # Check if touchdown is possible (within movement range)
-            if abs(current_y - target_y) <= carrier.movement:
-                # Touchdown is possible, don't attempt field goal
-                # (AI will prioritize direct path to end zone)
-                pass
-            else:
-                # Touchdown not possible, attempt field goal
-                self.attempt_field_goal(carrier)
-                return True
         
         # Use different strategies for finding movement targets
         # 1. First try to move directly toward the end zone
@@ -441,18 +444,31 @@ class CarrierMovement:
         Returns:
             bool: True if in field goal range, False otherwise
         """
-        # Field goal is shot at the hoop in the middle of end zone
+        # Field goals can be attempted from anywhere, but we should only consider
+        # it "in range" if there's a reasonable chance of success
+        
+        # Find hoop position
         if carrier.team == self.game.team1:
-            hoop_y = 0  # Top
+            hoop_y = 0
         else:
-            hoop_y = self.game.grid.height - 1  # Bottom
+            hoop_y = self.game.grid.height - 1
             
-        hoop_x = self.game.grid.width // 2  # Center
+        hoop_x = self.game.grid.width // 2
         hoop_pos = (hoop_x, hoop_y)
         
-        # Check distance to hoop
+        # Calculate distance to hoop
         distance = manhattan_distance(carrier.position, hoop_pos)
-        return distance <= self.game.config.get("field_goal_range", 3)
+        
+        # For simplicity, consider in range if:
+        # 1. Distance is 5 or less (not a "Hail Magoo" shot)
+        # 2. At least 4 squares from end zone (otherwise prefer touchdown)
+        # 3. We have a goal system to estimate more precisely
+        if distance <= 5 and distance >= 4 and hasattr(self.game, 'goal_system'):
+            # Use the AI's estimation if available
+            return self.game.goal_system.estimate_field_goal_chance(carrier) >= 0.3
+        else:
+            # Simple fallback
+            return distance <= 5 and distance >= 4
         
     def attempt_field_goal(self, carrier):
         """Attempt a field goal from the current position
@@ -466,8 +482,7 @@ class CarrierMovement:
         if not carrier or not carrier.has_ball:
             return False
             
-        # Calculate base success chance
-        # Further from hoop = harder
+        # Find hoop position (center of opponent's end zone)
         if carrier.team == self.game.team1:
             hoop_y = 0
         else:
@@ -476,22 +491,90 @@ class CarrierMovement:
         hoop_x = self.game.grid.width // 2
         hoop_pos = (hoop_x, hoop_y)
         
+        # Calculate distance to hoop
         distance = manhattan_distance(carrier.position, hoop_pos)
-        base_chance = 0.8 - (distance * 0.1)  # 0.8 when adjacent, decreasing with distance
         
-        # Adjust for goblin's strength (treat as "kicking power")
-        strength_bonus = carrier.strength * 0.02  # +0.02 per strength point
+        # Calculate base success chance based on distance
+        if distance > 5:
+            # "Hail Magoo" shot - very low chance
+            base_chance = 0.05 + (0.05 * min(5, carrier.agility) / 5.0)  # Max 10% for highest agility
+        else:
+            # More conservative base percentages:
+            # 35% at 5 squares, +10% for each square closer
+            base_chance = 0.35 + (5 - distance) * 0.10
         
-        # Final chance
-        success_chance = min(0.9, max(0.2, base_chance + strength_bonus))
+        # Get carrier's dexterity (default to 5 if not found)
+        dexterity = getattr(carrier, 'agility', 5)  # Using agility as dexterity
+        
+        # Calculate dexterity modifier (0% at 5, -5% at 4, +5% at 6, etc.)
+        dexterity_mod = (dexterity - 5) * 0.05
+        
+        # Count defenders whose zone of control the carrier is in
+        defender_zoc_count = 0
+        carrier_x, carrier_y = carrier.position
+        
+        # Check all adjacent positions for defenders (8-way adjacency)
+        for dx in range(-1, 2):
+            for dy in range(-1, 2):
+                if dx == 0 and dy == 0:
+                    continue  # Skip the carrier's own position
+                
+                check_pos = (carrier_x + dx, carrier_y + dy)
+                if 0 <= check_pos[0] < self.game.grid.width and 0 <= check_pos[1] < self.game.grid.height:
+                    entity = self.game.grid.get_entity_at_position(check_pos)
+                    if entity and hasattr(entity, 'team') and entity.team != carrier.team and not entity.knocked_down:
+                        defender_zoc_count += 1
+        
+        # Apply -15% per defender zone of control (more significant penalty)
+        defender_zoc_penalty = defender_zoc_count * -0.15
+        
+        # Check for defender zones of control along the path to the hoop
+        path_zoc_penalty = 0
+        
+        # Calculate a simple path from carrier to hoop
+        path_points = self.calculate_path_to_hoop(carrier.position, hoop_pos)
+        
+        # Check each point on the path (excluding start and end points)
+        for point in path_points[1:-1]:  # Skip carrier position and hoop
+            # Check adjacent squares for defenders
+            x, y = point
+            has_defender_zoc = False
+            
+            for dx in range(-1, 2):
+                for dy in range(-1, 2):
+                    check_pos = (x + dx, y + dy)
+                    if 0 <= check_pos[0] < self.game.grid.width and 0 <= check_pos[1] < self.game.grid.height:
+                        entity = self.game.grid.get_entity_at_position(check_pos)
+                        if entity and hasattr(entity, 'team') and entity.team != carrier.team and not entity.knocked_down:
+                            has_defender_zoc = True
+                            break
+                            
+            if has_defender_zoc:
+                path_zoc_penalty -= 0.15  # Higher penalty
+        
+        # Additional distance penalty for longer shots
+        distance_penalty = -0.05 * max(0, distance - 3)  # Additional penalty beyond 3 squares
+        
+        # Calculate final success chance
+        success_chance = base_chance + dexterity_mod + defender_zoc_penalty + path_zoc_penalty + distance_penalty
+        
+        # Ensure "Hail Magoo" shots never exceed 10%
+        if distance > 5:
+            success_chance = min(0.10, success_chance)
+        
+        # Ensure chance is between 0.05 and 0.90 (always at least 5% chance, never more than 90%)
+        success_chance = max(0.05, min(0.90, success_chance))
         
         # Roll for success
         roll = random.random()
         success = roll < success_chance
         
-        # Log the attempt
+        # Log the attempt details
         self.logger.info(f"Field goal attempt by {carrier.name} from distance {distance}")
-        self.logger.info(f"Success chance: {success_chance:.2f}, Roll: {roll:.2f}, Result: {'SUCCESS' if success else 'FAIL'}")
+        self.logger.info(f"Base chance: {base_chance:.2f}, Dexterity mod: {dexterity_mod:.2f}")
+        self.logger.info(f"Defender ZOC penalty: {defender_zoc_penalty:.2f}, Path ZOC penalty: {path_zoc_penalty:.2f}")
+        self.logger.info(f"Distance penalty: {distance_penalty:.2f}")
+        self.logger.info(f"Final chance: {success_chance:.2f}, Roll: {roll:.2f}, Result: {'SUCCESS' if success else 'FAIL'}")
         
         # If successful, score points
         if success:
@@ -516,6 +599,40 @@ class CarrierMovement:
             # End the play
             self.game.end_play()
             return False
+            
+    def calculate_path_to_hoop(self, start_pos, hoop_pos):
+        """Calculate a simple path from the carrier to the hoop
+        
+        Args:
+            start_pos: Starting position (x, y)
+            hoop_pos: Hoop position (x, y)
+            
+        Returns:
+            list: List of positions (x, y) forming the path
+        """
+        path = [start_pos]
+        current_x, current_y = start_pos
+        target_x, target_y = hoop_pos
+        
+        # Bresenham's line algorithm for a reasonably straight path
+        dx = abs(target_x - current_x)
+        dy = abs(target_y - current_y)
+        sx = 1 if current_x < target_x else -1
+        sy = 1 if current_y < target_y else -1
+        err = dx - dy
+        
+        while current_x != target_x or current_y != target_y:
+            e2 = 2 * err
+            if e2 > -dy:
+                err -= dy
+                current_x += sx
+            if e2 < dx:
+                err += dx
+                current_y += sy
+                
+            path.append((current_x, current_y))
+            
+        return path
 
     def evaluate_move_safety(self, carrier, move_pos):
         """Evaluate how safe a potential move is based on blocker positions

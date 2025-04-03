@@ -1,0 +1,64 @@
+[15:37:25.040] [INFO] === Goblinball Debug Log - 20250403_153725 ===
+[15:37:25.040] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_153725.txt
+[15:37:25.061] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:37:26.453] [INFO] Moving carrier Krunkmangler with 3 movement points
+[15:37:26.453] [INFO] Goblin Krunkmangler moved from (4, 8) to (5, 6)
+[15:37:26.453] [INFO] Movement trail: [(4, 8), (5, 6)]
+[15:37:26.453] [INFO] Carrier Krunkmangler moved along clear path to (5, 6)
+[15:37:26.456] [INFO] Moving offensive blocker Lugcrusher Upchurch with 4 movement points
+[15:37:26.456] [INFO] Offensive blocker chose move (4, 6) with score 752
+[15:37:26.456] [INFO] Goblin Lugcrusher Upchurch moved from (2, 8) to (4, 6)
+[15:37:26.456] [INFO] Movement trail: [(2, 8), (4, 6)]
+[15:37:26.456] [INFO] Moving offensive blocker Splatcrusher with 2 movement points
+[15:37:26.456] [INFO] Offensive blocker chose move (5, 7) with score 743
+[15:37:26.456] [INFO] Goblin Splatcrusher moved from (6, 8) to (5, 7)
+[15:37:26.456] [INFO] Movement trail: [(6, 8), (5, 7)]
+[15:37:26.456] [INFO] Moving offensive blocker Wortchomper Opimius with 3 movement points
+[15:37:26.457] [INFO] Offensive blocker chose move (7, 6) with score 678
+[15:37:26.457] [INFO] Goblin Wortchomper Opimius moved from (8, 8) to (7, 6)
+[15:37:26.457] [INFO] Movement trail: [(8, 8), (7, 6)]
+[15:37:26.457] [INFO] Moving offensive blocker Wortface with 3 movement points
+[15:37:26.457] [INFO] Offensive blocker chose move (8, 6) with score 573
+[15:37:26.457] [INFO] Goblin Wortface moved from (9, 8) to (8, 6)
+[15:37:26.457] [INFO] Movement trail: [(9, 8), (8, 6)]
+[15:37:26.457] [INFO] Moving defensive blocker Gnogchewer Austin with 4 movement points
+[15:37:26.458] [INFO] Defensive blocker chose move (5, 2) with score 1270
+[15:37:26.458] [INFO] Goblin Gnogchewer Austin moved from (2, 1) to (5, 2)
+[15:37:26.458] [INFO] Movement trail: [(2, 1), (5, 2)]
+[15:37:26.458] [INFO] Moving defensive blocker Grubchomper Meldrop the Fierce with 1 movement points
+[15:37:26.458] [INFO] Defensive blocker chose move (4, 2) with score 1220
+[15:37:26.458] [INFO] Goblin Grubchomper Meldrop the Fierce moved from (4, 1) to (4, 2)
+[15:37:26.458] [INFO] Movement trail: [(4, 1), (4, 2)]
+[15:37:26.458] [INFO] Moving defensive blocker Grimbasher with 4 movement points
+[15:37:26.458] [INFO] Defensive blocker chose move (6, 5) with score 1356
+[15:37:26.458] [INFO] Goblin Grimbasher moved from (6, 1) to (6, 5)
+[15:37:26.458] [INFO] Movement trail: [(6, 1), (6, 5)]
+[15:37:26.458] [INFO] Moving defensive blocker Lugcrusher with 2 movement points
+[15:37:26.458] [INFO] Defensive blocker chose move (6, 1) with score 1175
+[15:37:26.458] [INFO] Goblin Lugcrusher moved from (8, 1) to (6, 1)
+[15:37:26.459] [INFO] Movement trail: [(8, 1), (6, 1)]
+[15:37:26.459] [INFO] Moving defensive blocker Thrakstomper Fistwound with 4 movement points
+[15:37:26.459] [INFO] Defensive blocker chose move (5, 1) with score 1222
+[15:37:26.459] [INFO] Goblin Thrakstomper Fistwound moved from (9, 1) to (5, 1)
+[15:37:26.459] [INFO] Movement trail: [(9, 1), (5, 1)]
+[15:37:27.663] [INFO] Moving carrier Krunkmangler with 3 movement points
+[15:37:27.663] [INFO] Moving offensive blocker Gnogchewer Austin with 4 movement points
+[15:37:27.663] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.663] [INFO] Moving offensive blocker Grubchomper Meldrop the Fierce with 1 movement points
+[15:37:27.663] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.663] [INFO] Moving offensive blocker Grimbasher with 4 movement points
+[15:37:27.663] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.663] [INFO] Moving offensive blocker Lugcrusher with 2 movement points
+[15:37:27.663] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.663] [INFO] Moving offensive blocker Thrakstomper Fistwound with 4 movement points
+[15:37:27.663] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.663] [INFO] Moving defensive blocker Lugcrusher Upchurch with 4 movement points
+[15:37:27.663] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.663] [INFO] Moving defensive blocker Krunkmangler with 3 movement points
+[15:37:27.663] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.664] [INFO] Moving defensive blocker Splatcrusher with 2 movement points
+[15:37:27.664] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.664] [INFO] Moving defensive blocker Wortchomper Opimius with 3 movement points
+[15:37:27.664] [INFO] No carrier found for team Skullsmashers!
+[15:37:27.664] [INFO] Moving defensive blocker Wortface with 3 movement points
+[15:37:27.664] [INFO] No carrier found for team Skullsmashers!

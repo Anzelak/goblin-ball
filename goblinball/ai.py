@@ -58,19 +58,17 @@ class MovementSystem:
         if move_distance > goblin.movement:
             return False
             
-        # Check for zone of control along the path
-        path = self.calculate_path(goblin.position, target_pos)
+        # Check if the goblin is currently in any opponent's zone of control
+        # DUKE check is only needed when LEAVING a zone of control
+        current_blockers = self.get_adjacent_blockers(goblin.position, goblin.team)
         
-        for pos in path[1:]:  # Skip starting position
-            blockers = self.get_adjacent_blockers(pos, goblin.team)
+        if current_blockers:
+            # Need to make DUKE check to leave ZoC
+            duke_result = self.perform_duke_check(goblin, current_blockers)
             
-            if blockers and pos != target_pos:  # If not the final position
-                # Need to make DUKE check to move through ZoC
-                duke_result = self.perform_duke_check(goblin, blockers)
-                
-                if not duke_result["success"]:
-                    # Failed to move through ZoC
-                    return False
+            if not duke_result["success"]:
+                # Failed to leave ZoC
+                return False
             
         # Move the goblin to the new position and update the game state
         old_pos = goblin.position
@@ -394,6 +392,10 @@ class MovementSystem:
         valid_positions = []
         current_x, current_y = goblin.position
         
+        # Check if goblin is currently in a zone of control
+        current_blockers = self.get_adjacent_blockers(goblin.position, goblin.team)
+        needs_duke_check = len(current_blockers) > 0
+        
         # Check all positions within manhattan distance of movement points
         for dx in range(-goblin.movement, goblin.movement + 1):
             for dy in range(-goblin.movement, goblin.movement + 1):
@@ -422,34 +424,50 @@ class MovementSystem:
                         valid_positions.append(pos)
                     continue
                 
-                # Calculate a path to this position and check for ZoC
-                path = self.calculate_path(goblin.position, pos)
-                path = path[1:]  # Skip starting position
+                # Calculate the movement cost to reach this position
+                move_distance = manhattan_distance(goblin.position, pos)
                 
-                can_reach = True
-                remaining_movement = goblin.movement
-                
-                for path_pos in path:
-                    # Check for zone of control
-                    blockers = self.get_adjacent_blockers(path_pos, goblin.team)
+                # If the goblin needs to make a DUKE check to leave its current position,
+                # verify that it would likely succeed
+                if needs_duke_check:
+                    # Estimate DUKE success chance
+                    duke_chance = self.estimate_duke_success_chance(goblin, current_blockers)
                     
-                    if blockers and path_pos != pos:  # If not the final position
-                        # Need to make DUKE check which requires additional movement point
-                        remaining_movement -= 1
-                        if remaining_movement < 0:
-                            can_reach = False
-                            break
-                    
-                    # Moving to this square
-                    remaining_movement -= 1
-                    if remaining_movement < 0:
-                        can_reach = False
-                        break
+                    # If DUKE chance is very low, don't consider this move valid
+                    if duke_chance < 0.3:  # Only consider moves with at least 30% chance
+                        continue
                 
-                if can_reach:
+                # If we can reach the position with our movement points, add it
+                if move_distance <= goblin.movement:
                     valid_positions.append(pos)
         
         return valid_positions
+        
+    def estimate_duke_success_chance(self, goblin, blockers):
+        """Estimate the chance of a successful DUKE check without actually performing it
+        
+        Args:
+            goblin: The goblin attempting to dodge
+            blockers: List of enemy goblins in zone of control
+            
+        Returns:
+            float: Estimated success chance (0.0-1.0)
+        """
+        # Base success chance
+        success_chance = 0.5
+        
+        # Adjust for number of blockers (-10% per additional blocker)
+        success_chance -= (len(blockers) - 1) * 0.1
+        
+        # Adjust for goblin's agility (+10% per point)
+        success_chance += goblin.agility * 0.1
+        
+        # Ball carrier penalty (-20%)
+        if goblin.has_ball:
+            success_chance -= 0.2
+        
+        # Ensure chance is between 0.1 and 0.9
+        return max(0.1, min(0.9, success_chance))
 
     def find_path_to(self, goblin, target_pos):
         """Find a path for the goblin to the target position

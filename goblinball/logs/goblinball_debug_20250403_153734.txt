@@ -1,0 +1,64 @@
+[15:37:34.186] [INFO] === Goblinball Debug Log - 20250403_153734 ===
+[15:37:34.187] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_153734.txt
+[15:37:34.207] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:37:35.406] [INFO] Moving carrier Wortslicer Pearson  with 3 movement points
+[15:37:35.406] [INFO] Goblin Wortslicer Pearson  moved from (4, 8) to (5, 6)
+[15:37:35.406] [INFO] Movement trail: [(4, 8), (5, 6)]
+[15:37:35.406] [INFO] Carrier Wortslicer Pearson  moved along clear path to (5, 6)
+[15:37:35.407] [INFO] Moving offensive blocker Grubface with 4 movement points
+[15:37:35.407] [INFO] Offensive blocker chose move (4, 6) with score 756
+[15:37:35.407] [INFO] Goblin Grubface moved from (2, 8) to (4, 6)
+[15:37:35.407] [INFO] Movement trail: [(2, 8), (4, 6)]
+[15:37:35.407] [INFO] Moving offensive blocker Lugmangler with 1 movement points
+[15:37:35.408] [INFO] Offensive blocker chose move (5, 8) with score 663
+[15:37:35.408] [INFO] Goblin Lugmangler moved from (6, 8) to (5, 8)
+[15:37:35.408] [INFO] Movement trail: [(6, 8), (5, 8)]
+[15:37:35.408] [INFO] Moving offensive blocker Globfoot Qadir with 1 movement points
+[15:37:35.408] [INFO] Offensive blocker chose move (8, 7) with score 503
+[15:37:35.408] [INFO] Goblin Globfoot Qadir moved from (8, 8) to (8, 7)
+[15:37:35.408] [INFO] Movement trail: [(8, 8), (8, 7)]
+[15:37:35.408] [INFO] Moving offensive blocker Krunkfinger Mamarce the Mighty with 1 movement points
+[15:37:35.408] [INFO] Offensive blocker chose move (9, 7) with score 429
+[15:37:35.408] [INFO] Goblin Krunkfinger Mamarce the Mighty moved from (9, 8) to (9, 7)
+[15:37:35.408] [INFO] Movement trail: [(9, 8), (9, 7)]
+[15:37:35.408] [INFO] Moving defensive blocker Fizzgulper with 2 movement points
+[15:37:35.408] [INFO] Defensive blocker chose move (2, 3) with score 959
+[15:37:35.408] [INFO] Goblin Fizzgulper moved from (2, 1) to (2, 3)
+[15:37:35.408] [INFO] Movement trail: [(2, 1), (2, 3)]
+[15:37:35.408] [INFO] Moving defensive blocker Fizzstabber with 3 movement points
+[15:37:35.408] [INFO] Defensive blocker chose move (5, 3) with score 1305
+[15:37:35.409] [INFO] Goblin Fizzstabber moved from (4, 1) to (5, 3)
+[15:37:35.409] [INFO] Movement trail: [(4, 1), (5, 3)]
+[15:37:35.409] [INFO] Moving defensive blocker Grubcrusher Doyle with 3 movement points
+[15:37:35.409] [INFO] Defensive blocker chose move (6, 4) with score 1321
+[15:37:35.409] [INFO] Goblin Grubcrusher Doyle moved from (6, 1) to (6, 4)
+[15:37:35.409] [INFO] Movement trail: [(6, 1), (6, 4)]
+[15:37:35.409] [INFO] Moving defensive blocker Grimcrusher with 2 movement points
+[15:37:35.409] [INFO] Defensive blocker chose move (6, 1) with score 1174
+[15:37:35.409] [INFO] Goblin Grimcrusher moved from (8, 1) to (6, 1)
+[15:37:35.409] [INFO] Movement trail: [(8, 1), (6, 1)]
+[15:37:35.409] [INFO] Moving defensive blocker Gutbiter with 1 movement points
+[15:37:35.409] [INFO] Defensive blocker chose move (8, 1) with score 839
+[15:37:35.409] [INFO] Goblin Gutbiter moved from (9, 1) to (8, 1)
+[15:37:35.409] [INFO] Movement trail: [(9, 1), (8, 1)]
+[15:37:36.097] [INFO] Moving carrier Wortslicer Pearson  with 3 movement points
+[15:37:36.098] [INFO] Moving offensive blocker Fizzgulper with 2 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving offensive blocker Fizzstabber with 3 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving offensive blocker Grubcrusher Doyle with 3 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving offensive blocker Grimcrusher with 2 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving offensive blocker Gutbiter with 1 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving defensive blocker Grubface with 4 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving defensive blocker Wortslicer Pearson  with 3 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving defensive blocker Lugmangler with 1 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving defensive blocker Globfoot Qadir with 1 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!
+[15:37:36.098] [INFO] Moving defensive blocker Krunkfinger Mamarce the Mighty with 1 movement points
+[15:37:36.098] [INFO] No carrier found for team Skullsmashers!

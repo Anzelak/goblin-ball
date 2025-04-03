@@ -1,0 +1,15 @@
+2025-04-03 16:59:53,136 - goblinball - INFO - ==================================================
+2025-04-03 16:59:53,136 - goblinball - INFO - Starting Goblinball
+2025-04-03 16:59:53,136 - goblinball - INFO - Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+2025-04-03 16:59:53,136 - goblinball - INFO - Current working directory: C:\Users\johnm\OneDrive\Documents\goblin-ball
+2025-04-03 16:59:53,136 - goblinball - INFO - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 16:59:53,136 - goblinball - INFO - ==================================================
+2025-04-03 16:59:53,138 - goblinball - CRITICAL - Cannot start game. Missing required modules: config, goblin, team, event, renderer, logger, animation, movement_system, carrier_movement, blocker_movement, ai_goals, utils, grid, game_controller, grid_renderer, goblin_renderer, ui_renderer, animation_renderer
+2025-04-03 16:59:53,138 - goblinball - CRITICAL - Current directory: C:\Users\johnm\OneDrive\Documents\goblin-ball
+2025-04-03 16:59:53,138 - goblinball - CRITICAL - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 16:59:53,138 - goblinball - CRITICAL - Missing animation_renderer.py. This file should be in the same directory as renderer.py.
+2025-04-03 16:59:53,139 - goblinball - CRITICAL - 
+Possible solutions:
+2025-04-03 16:59:53,139 - goblinball - CRITICAL - 1. Run from parent directory: python -m goblinball.main
+2025-04-03 16:59:53,139 - goblinball - CRITICAL - 2. Ensure all required files exist in the project structure
+2025-04-03 16:59:53,139 - goblinball - CRITICAL - 3. Check for circular imports

@@ -1,0 +1,24 @@
+[15:36:07.015] [INFO] === Goblinball Debug Log - 20250403_153607 ===
+[15:36:07.015] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_153607.txt
+[15:36:07.043] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:36:08.448] [INFO] Moving carrier Gnogfist with 1 movement points
+[15:36:08.449] [INFO] Moving offensive blocker Grakslicer Cebrizun with 3 movement points
+[15:36:08.449] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.449] [INFO] Moving offensive blocker Gutfinger Erikarn with 4 movement points
+[15:36:08.451] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.451] [INFO] Moving offensive blocker Skabskull Gwalcmai with 1 movement points
+[15:36:08.451] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.451] [INFO] Moving offensive blocker Stabchomper  with 3 movement points
+[15:36:08.451] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.451] [INFO] Moving offensive blocker Snotcrusher with 4 movement points
+[15:36:08.451] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.452] [INFO] Moving defensive blocker Snotsquisher Consepcion with 1 movement points
+[15:36:08.452] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.452] [INFO] Moving defensive blocker Gnogfist with 1 movement points
+[15:36:08.452] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.452] [INFO] Moving defensive blocker Gutcrusher Gnorth with 1 movement points
+[15:36:08.452] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.452] [INFO] Moving defensive blocker Gutbiter with 3 movement points
+[15:36:08.452] [INFO] No carrier found for team Skullsmashers!
+[15:36:08.452] [INFO] Moving defensive blocker Splatchomper with 1 movement points
+[15:36:08.452] [INFO] No carrier found for team Skullsmashers!

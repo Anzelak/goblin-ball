@@ -1,0 +1,236 @@
+[15:46:34.787] [INFO] === Goblinball Debug Log - 20250403_154634 ===
+[15:46:34.787] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_154634.txt
+[15:46:34.808] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[15:46:36.133] [INFO] Moving carrier Bludsquisher  with 1 movement points
+[15:46:36.133] [INFO] Carrier Bludsquisher  has 0 defenders in path to end zone
+[15:46:36.133] [INFO] Carrier Bludsquisher  has 0 nearby defenders
+[15:46:36.133] [INFO] Carrier Bludsquisher  is close to end zone, prioritizing touchdown
+[15:46:36.133] [INFO] Carrier Bludsquisher  has goal: score_touchdown
+[15:46:36.134] [INFO] Goblin Bludsquisher  moved from (4, 8) to (4, 7)
+[15:46:36.134] [INFO] Movement trail: [(4, 8), (4, 7)]
+[15:46:36.134] [INFO] Carrier Bludsquisher  moved to (4, 7) (score: 23.0)
+[15:46:36.134] [INFO] Moving offensive blocker Gutfist with 3 movement points
+[15:46:36.135] [INFO] Offensive blocker chose move (4, 8) with score 722
+[15:46:36.135] [INFO] Goblin Gutfist moved from (2, 8) to (4, 8)
+[15:46:36.135] [INFO] Movement trail: [(2, 8), (4, 8)]
+[15:46:36.135] [INFO] Moving offensive blocker Krunkstomper with 2 movement points
+[15:46:36.135] [INFO] Offensive blocker chose move (5, 7) with score 722
+[15:46:36.135] [INFO] Goblin Krunkstomper moved from (6, 8) to (5, 7)
+[15:46:36.135] [INFO] Movement trail: [(6, 8), (5, 7)]
+[15:46:36.135] [INFO] Moving offensive blocker Lugbasher with 4 movement points
+[15:46:36.135] [INFO] Offensive blocker chose move (6, 7) with score 644
+[15:46:36.135] [INFO] Goblin Lugbasher moved from (8, 8) to (6, 7)
+[15:46:36.135] [INFO] Movement trail: [(8, 8), (6, 7)]
+[15:46:36.135] [INFO] Moving offensive blocker Gutstomper the Mighty with 4 movement points
+[15:46:36.135] [INFO] Offensive blocker chose move (5, 8) with score 653
+[15:46:36.136] [INFO] Goblin Gutstomper the Mighty moved from (9, 8) to (5, 8)
+[15:46:36.136] [INFO] Movement trail: [(9, 8), (5, 8)]
+[15:46:36.136] [INFO] Moving defensive blocker Gutsquisher Wilder with 2 movement points
+[15:46:36.136] [INFO] Defensive blocker chose move (3, 2) with score 1136
+[15:46:36.136] [INFO] Goblin Gutsquisher Wilder moved from (2, 1) to (3, 2)
+[15:46:36.136] [INFO] Movement trail: [(2, 1), (3, 2)]
+[15:46:36.136] [INFO] Moving defensive blocker Gutgulper with 2 movement points
+[15:46:36.136] [INFO] Defensive blocker chose move (4, 3) with score 1248
+[15:46:36.136] [INFO] Goblin Gutgulper moved from (4, 1) to (4, 3)
+[15:46:36.136] [INFO] Movement trail: [(4, 1), (4, 3)]
+[15:46:36.136] [INFO] Moving defensive blocker Splatfoot with 4 movement points
+[15:46:36.136] [INFO] Defensive blocker chose move (5, 4) with score 1258
+[15:46:36.136] [INFO] Goblin Splatfoot moved from (6, 1) to (5, 4)
+[15:46:36.136] [INFO] Movement trail: [(6, 1), (5, 4)]
+[15:46:36.136] [INFO] Moving defensive blocker Krunkgulper with 2 movement points
+[15:46:36.137] [INFO] Defensive blocker chose move (6, 1) with score 859
+[15:46:36.137] [INFO] Goblin Krunkgulper moved from (8, 1) to (6, 1)
+[15:46:36.137] [INFO] Movement trail: [(8, 1), (6, 1)]
+[15:46:36.137] [INFO] Moving defensive blocker Zogcrusher Lonavan with 1 movement points
+[15:46:36.137] [INFO] Defensive blocker chose move (9, 2) with score 774
+[15:46:36.137] [INFO] Goblin Zogcrusher Lonavan moved from (9, 1) to (9, 2)
+[15:46:36.137] [INFO] Movement trail: [(9, 1), (9, 2)]
+[15:46:36.965] [INFO] Moving carrier Bludsquisher  with 1 movement points
+[15:46:36.965] [INFO] Carrier Bludsquisher  has 0 defenders in path to end zone
+[15:46:36.965] [INFO] Carrier Bludsquisher  has 0 nearby defenders
+[15:46:36.965] [INFO] Carrier Bludsquisher  is close to end zone, prioritizing touchdown
+[15:46:36.965] [INFO] Carrier Bludsquisher  has goal: score_touchdown
+[15:46:36.966] [INFO] Goblin Bludsquisher  moved from (4, 7) to (3, 7)
+[15:46:36.966] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7)]
+[15:46:36.966] [INFO] Carrier Bludsquisher  moved to (3, 7) (score: 23.0)
+[15:46:36.966] [INFO] Moving offensive blocker Gutfist with 3 movement points
+[15:46:36.966] [INFO] Offensive blocker chose move (3, 6) with score 755
+[15:46:36.966] [INFO] Goblin Gutfist moved from (4, 8) to (3, 6)
+[15:46:36.966] [INFO] Movement trail: [(2, 8), (4, 8), (3, 6)]
+[15:46:36.966] [INFO] Moving offensive blocker Krunkstomper with 2 movement points
+[15:46:36.966] [INFO] Offensive blocker chose move (4, 7) with score 722
+[15:46:36.966] [INFO] Goblin Krunkstomper moved from (5, 7) to (4, 7)
+[15:46:36.966] [INFO] Movement trail: [(6, 8), (5, 7), (4, 7)]
+[15:46:36.966] [INFO] Moving offensive blocker Lugbasher with 4 movement points
+[15:46:36.966] [INFO] Offensive blocker chose move (2, 7) with score 728
+[15:46:36.966] [INFO] Goblin Lugbasher moved from (6, 7) to (2, 7)
+[15:46:36.966] [INFO] Movement trail: [(8, 8), (6, 7), (2, 7)]
+[15:46:36.966] [INFO] Moving offensive blocker Gutstomper the Mighty with 4 movement points
+[15:46:36.967] [INFO] Offensive blocker chose move (3, 8) with score 726
+[15:46:36.967] [INFO] Goblin Gutstomper the Mighty moved from (5, 8) to (3, 8)
+[15:46:36.967] [INFO] Movement trail: [(9, 8), (5, 8), (3, 8)]
+[15:46:36.967] [INFO] Moving defensive blocker Gutsquisher Wilder with 2 movement points
+[15:46:36.967] [INFO] Defensive blocker chose move (3, 4) with score 1287
+[15:46:36.967] [INFO] Goblin Gutsquisher Wilder moved from (3, 2) to (3, 4)
+[15:46:36.967] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4)]
+[15:46:36.967] [INFO] Moving defensive blocker Gutgulper with 2 movement points
+[15:46:36.967] [INFO] Defensive blocker chose move (4, 5) with score 1314
+[15:46:36.967] [INFO] Goblin Gutgulper moved from (4, 3) to (4, 5)
+[15:46:36.967] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5)]
+[15:46:36.967] [INFO] Moving defensive blocker Splatfoot with 4 movement points
+[15:46:36.967] [INFO] Defensive blocker chose move (4, 6) with score 1367
+[15:46:36.967] [INFO] Moving defensive blocker Krunkgulper with 2 movement points
+[15:46:36.967] [INFO] Defensive blocker chose move (4, 1) with score 1106
+[15:46:36.967] [INFO] Goblin Krunkgulper moved from (6, 1) to (4, 1)
+[15:46:36.967] [INFO] Movement trail: [(8, 1), (6, 1), (4, 1)]
+[15:46:36.967] [INFO] Moving defensive blocker Zogcrusher Lonavan with 1 movement points
+[15:46:36.967] [INFO] Defensive blocker chose move (9, 3) with score 748
+[15:46:36.967] [INFO] Goblin Zogcrusher Lonavan moved from (9, 2) to (9, 3)
+[15:46:36.967] [INFO] Movement trail: [(9, 1), (9, 2), (9, 3)]
+[15:47:00.545] [INFO] Moving carrier Bludsquisher  with 1 movement points
+[15:47:00.545] [INFO] Carrier Bludsquisher  has 0 defenders in path to end zone
+[15:47:00.545] [INFO] Carrier Bludsquisher  has 0 nearby defenders
+[15:47:00.545] [INFO] Carrier Bludsquisher  is close to end zone, prioritizing touchdown
+[15:47:00.545] [INFO] Carrier Bludsquisher  has goal: score_touchdown
+[15:47:00.545] [INFO] Carrier Bludsquisher  couldn't find valid move
+[15:47:00.545] [INFO] Moving offensive blocker Gutfist with 3 movement points
+[15:47:00.545] [INFO] Attempt block of Gutgulper by Gutfist
+[15:47:00.545] [INFO] Block succeeded!
+[15:47:00.545] [INFO] Moving offensive blocker Krunkstomper with 2 movement points
+[15:47:00.545] [INFO] Offensive blocker chose move (4, 6) with score 651
+[15:47:00.545] [INFO] Goblin Krunkstomper moved from (4, 7) to (4, 6)
+[15:47:00.545] [INFO] Movement trail: [(6, 8), (5, 7), (4, 7), (4, 6)]
+[15:47:00.545] [INFO] Moving offensive blocker Lugbasher with 4 movement points
+[15:47:00.546] [INFO] Offensive blocker chose move (3, 5) with score 3707
+[15:47:00.546] [INFO] Goblin Lugbasher moved from (2, 7) to (3, 5)
+[15:47:00.546] [INFO] Movement trail: [(8, 8), (6, 7), (2, 7), (3, 5)]
+[15:47:00.546] [INFO] Offensive blocker Lugbasher attempting to block Gutsquisher Wilder after moving
+[15:47:00.546] [INFO] Moving offensive blocker Gutstomper the Mighty with 4 movement points
+[15:47:00.546] [INFO] Offensive blocker chose move (2, 7) with score 755
+[15:47:00.546] [INFO] Goblin Gutstomper the Mighty moved from (3, 8) to (2, 7)
+[15:47:00.546] [INFO] Movement trail: [(9, 8), (5, 8), (3, 8), (2, 7)]
+[15:47:00.546] [INFO] Moving defensive blocker Gutsquisher Wilder with 2 movement points
+[15:47:00.546] [INFO] Defensive blocker chose move (3, 4) with score 1315
+[15:47:00.546] [INFO] Goblin Gutsquisher Wilder moved from (3, 3) to (3, 4)
+[15:47:00.546] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4), (3, 3), (3, 4)]
+[15:47:00.546] [INFO] Moving defensive blocker Krunkgulper with 2 movement points
+[15:47:00.546] [INFO] Defensive blocker chose move (3, 2) with score 1210
+[15:47:00.546] [INFO] Goblin Krunkgulper moved from (4, 1) to (3, 2)
+[15:47:00.546] [INFO] Movement trail: [(8, 1), (6, 1), (4, 1), (3, 2)]
+[15:47:00.546] [INFO] Moving defensive blocker Zogcrusher Lonavan with 1 movement points
+[15:47:00.546] [INFO] Defensive blocker chose move (8, 3) with score 810
+[15:47:00.546] [INFO] Goblin Zogcrusher Lonavan moved from (9, 3) to (8, 3)
+[15:47:00.546] [INFO] Movement trail: [(9, 1), (9, 2), (9, 3), (8, 3)]
+[15:47:32.737] [INFO] Moving carrier Bludsquisher  with 1 movement points
+[15:47:32.737] [INFO] Carrier Bludsquisher  has 0 defenders in path to end zone
+[15:47:32.737] [INFO] Carrier Bludsquisher  has 0 nearby defenders
+[15:47:32.737] [INFO] Carrier Bludsquisher  is close to end zone, prioritizing touchdown
+[15:47:32.737] [INFO] Carrier Bludsquisher  has goal: score_touchdown
+[15:47:32.738] [INFO] Goblin Bludsquisher  moved from (3, 7) to (4, 7)
+[15:47:32.738] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7), (4, 7)]
+[15:47:32.738] [INFO] Carrier Bludsquisher  moved to lateral position (4, 7) (safety: 0.0)
+[15:47:32.738] [INFO] Moving offensive blocker Gutfist with 3 movement points
+[15:47:32.738] [INFO] Offensive blocker chose move (3, 7) with score 728
+[15:47:32.738] [INFO] Goblin Gutfist moved from (3, 6) to (3, 7)
+[15:47:32.738] [INFO] Movement trail: [(2, 8), (4, 8), (3, 6), (3, 7)]
+[15:47:32.738] [INFO] Moving offensive blocker Krunkstomper with 2 movement points
+[15:47:32.738] [INFO] Offensive blocker chose move (5, 7) with score 725
+[15:47:32.738] [INFO] Goblin Krunkstomper moved from (4, 6) to (5, 7)
+[15:47:32.738] [INFO] Movement trail: [(6, 8), (5, 7), (4, 7), (4, 6), (5, 7)]
+[15:47:32.738] [INFO] Moving offensive blocker Lugbasher with 4 movement points
+[15:47:32.738] [INFO] Offensive blocker chose move (4, 6) with score 709
+[15:47:32.738] [INFO] Moving offensive blocker Gutstomper the Mighty with 4 movement points
+[15:47:32.738] [INFO] Offensive blocker chose move (4, 6) with score 727
+[15:47:32.738] [INFO] Goblin Gutstomper the Mighty moved from (2, 7) to (4, 6)
+[15:47:32.738] [INFO] Movement trail: [(9, 8), (5, 8), (3, 8), (2, 7), (4, 6)]
+[15:47:32.738] [INFO] Moving defensive blocker Gutsquisher Wilder with 2 movement points
+[15:47:32.739] [INFO] Defensive blocker chose move (3, 6) with score 1363
+[15:47:32.739] [INFO] Goblin Gutsquisher Wilder moved from (3, 4) to (3, 6)
+[15:47:32.739] [INFO] Movement trail: [(3, 2), (3, 4), (3, 3), (3, 4), (3, 6)]
+[15:47:32.739] [INFO] Moving defensive blocker Krunkgulper with 2 movement points
+[15:47:32.739] [INFO] Defensive blocker chose move (3, 4) with score 1272
+[15:47:32.739] [INFO] Goblin Krunkgulper moved from (3, 2) to (3, 4)
+[15:47:32.739] [INFO] Movement trail: [(8, 1), (6, 1), (4, 1), (3, 2), (3, 4)]
+[15:47:32.739] [INFO] Moving defensive blocker Zogcrusher Lonavan with 1 movement points
+[15:47:32.739] [INFO] Defensive blocker chose move (7, 3) with score 925
+[15:47:32.739] [INFO] Goblin Zogcrusher Lonavan moved from (8, 3) to (7, 3)
+[15:47:32.739] [INFO] Movement trail: [(9, 1), (9, 2), (9, 3), (8, 3), (7, 3)]
+[15:47:33.307] [INFO] Moving carrier Bludsquisher  with 1 movement points
+[15:47:33.307] [INFO] Carrier Bludsquisher  has 0 defenders in path to end zone
+[15:47:33.307] [INFO] Carrier Bludsquisher  has 1 nearby defenders
+[15:47:33.307] [INFO] Carrier Bludsquisher  is in immediate danger (adjacent to defender)
+[15:47:33.307] [INFO] Carrier Bludsquisher  is close to end zone, prioritizing touchdown
+[15:47:33.307] [INFO] Carrier Bludsquisher  has goal: score_touchdown
+[15:47:33.307] [INFO] Carrier Bludsquisher  couldn't find valid move
+[15:47:33.307] [INFO] Moving offensive blocker Gutfist with 3 movement points
+[15:47:33.307] [INFO] Attempt block of Gutsquisher Wilder by Gutfist
+[15:47:33.307] [INFO] Offensive blocker chose move (3, 7) with score 3146
+[15:47:33.307] [INFO] Moving offensive blocker Krunkstomper with 2 movement points
+[15:47:33.307] [INFO] Offensive blocker chose move (4, 8) with score 716
+[15:47:33.307] [INFO] Goblin Krunkstomper moved from (5, 7) to (4, 8)
+[15:47:33.307] [INFO] Movement trail: [(5, 7), (4, 7), (4, 6), (5, 7), (4, 8)]
+[15:47:33.307] [INFO] Moving offensive blocker Gutstomper the Mighty with 4 movement points
+[15:47:33.307] [INFO] Attempt block of Gutsquisher Wilder by Gutstomper the Mighty
+[15:47:33.307] [INFO] Block succeeded!
+[15:47:33.307] [INFO] Moving defensive blocker Krunkgulper with 2 movement points
+[15:47:33.308] [INFO] Defensive blocker chose move (4, 4) with score 1278
+[15:47:33.308] [INFO] Goblin Krunkgulper moved from (3, 4) to (4, 4)
+[15:47:33.308] [INFO] Movement trail: [(6, 1), (4, 1), (3, 2), (3, 4), (4, 4)]
+[15:47:33.308] [INFO] Moving defensive blocker Zogcrusher Lonavan with 1 movement points
+[15:47:33.308] [INFO] Defensive blocker chose move (6, 3) with score 949
+[15:47:33.308] [INFO] Goblin Zogcrusher Lonavan moved from (7, 3) to (6, 3)
+[15:47:33.308] [INFO] Movement trail: [(9, 2), (9, 3), (8, 3), (7, 3), (6, 3)]
+[15:47:33.755] [INFO] Moving carrier Bludsquisher  with 1 movement points
+[15:47:33.755] [INFO] Carrier Bludsquisher  has 0 defenders in path to end zone
+[15:47:33.755] [INFO] Carrier Bludsquisher  has 0 nearby defenders
+[15:47:33.755] [INFO] Carrier Bludsquisher  is close to end zone, prioritizing touchdown
+[15:47:33.755] [INFO] Carrier Bludsquisher  has goal: score_touchdown
+[15:47:33.755] [INFO] Goblin Bludsquisher  moved from (4, 7) to (5, 7)
+[15:47:33.755] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7), (4, 7), (5, 7)]
+[15:47:33.755] [INFO] Carrier Bludsquisher  moved to (5, 7) (score: 23.0)
+[15:47:33.755] [INFO] Moving offensive blocker Gutfist with 3 movement points
+[15:47:33.755] [INFO] Offensive blocker chose move (6, 7) with score 753
+[15:47:33.756] [INFO] Goblin Gutfist moved from (3, 7) to (6, 7)
+[15:47:33.756] [INFO] Movement trail: [(2, 8), (4, 8), (3, 6), (3, 7), (6, 7)]
+[15:47:33.756] [INFO] Moving offensive blocker Krunkstomper with 2 movement points
+[15:47:33.756] [INFO] Offensive blocker chose move (5, 8) with score 742
+[15:47:33.756] [INFO] Goblin Krunkstomper moved from (4, 8) to (5, 8)
+[15:47:33.756] [INFO] Movement trail: [(4, 7), (4, 6), (5, 7), (4, 8), (5, 8)]
+[15:47:33.756] [INFO] Moving offensive blocker Gutstomper the Mighty with 4 movement points
+[15:47:33.756] [INFO] Offensive blocker chose move (5, 6) with score 759
+[15:47:33.756] [INFO] Goblin Gutstomper the Mighty moved from (4, 6) to (5, 6)
+[15:47:33.756] [INFO] Movement trail: [(5, 8), (3, 8), (2, 7), (4, 6), (5, 6)]
+[15:47:33.756] [INFO] Moving defensive blocker Krunkgulper with 2 movement points
+[15:47:33.756] [INFO] Defensive blocker chose move (4, 6) with score 1364
+[15:47:33.756] [INFO] Goblin Krunkgulper moved from (4, 4) to (4, 6)
+[15:47:33.756] [INFO] Movement trail: [(4, 1), (3, 2), (3, 4), (4, 4), (4, 6)]
+[15:47:33.756] [INFO] Moving defensive blocker Zogcrusher Lonavan with 1 movement points
+[15:47:33.756] [INFO] Defensive blocker chose move (6, 4) with score 1263
+[15:47:33.756] [INFO] Goblin Zogcrusher Lonavan moved from (6, 3) to (6, 4)
+[15:47:33.756] [INFO] Movement trail: [(9, 3), (8, 3), (7, 3), (6, 3), (6, 4)]
+[15:47:34.161] [INFO] Moving carrier Bludsquisher  with 1 movement points
+[15:47:34.161] [INFO] Carrier Bludsquisher  has 0 defenders in path to end zone
+[15:47:34.161] [INFO] Carrier Bludsquisher  has 1 nearby defenders
+[15:47:34.161] [INFO] Carrier Bludsquisher  is in immediate danger (adjacent to defender)
+[15:47:34.161] [INFO] Carrier Bludsquisher  is close to end zone, prioritizing touchdown
+[15:47:34.161] [INFO] Carrier Bludsquisher  has goal: score_touchdown
+[15:47:34.161] [INFO] Goblin Bludsquisher  moved from (5, 7) to (4, 7)
+[15:47:34.161] [INFO] Movement trail: [(4, 7), (3, 7), (4, 7), (5, 7), (4, 7)]
+[15:47:34.161] [INFO] Carrier Bludsquisher  moved to lateral position (4, 7) (safety: 2.0)
+[15:47:34.161] [INFO] Moving offensive blocker Gutfist with 3 movement points
+[15:47:34.161] [INFO] Offensive blocker chose move (5, 7) with score 744
+[15:47:34.161] [INFO] Goblin Gutfist moved from (6, 7) to (5, 7)
+[15:47:34.161] [INFO] Movement trail: [(4, 8), (3, 6), (3, 7), (6, 7), (5, 7)]
+[15:47:34.161] [INFO] Offensive blocker Gutfist attempting to block Krunkgulper after moving
+[15:47:34.161] [INFO] Moving offensive blocker Krunkstomper with 2 movement points
+[15:47:34.161] [INFO] Offensive blocker chose move (4, 8) with score 744
+[15:47:34.161] [INFO] Goblin Krunkstomper moved from (5, 8) to (4, 8)
+[15:47:34.161] [INFO] Movement trail: [(4, 6), (5, 7), (4, 8), (5, 8), (4, 8)]
+[15:47:34.161] [INFO] Moving offensive blocker Gutstomper the Mighty with 4 movement points
+[15:47:34.161] [INFO] Attempt block of Krunkgulper by Gutstomper the Mighty
+[15:47:34.161] [INFO] Offensive blocker chose move (5, 6) with score 3111
+[15:47:34.161] [INFO] Moving defensive blocker Krunkgulper with 2 movement points
+[15:47:34.161] [INFO] Defensive blocker Krunkgulper attempting to block carrier Bludsquisher 
+[15:47:34.162] [INFO] Block succeeded!
+[15:47:34.162] [INFO] Moving offensive blocker Zogcrusher Lonavan with 1 movement points
+[15:47:34.162] [INFO] No carrier found for team Skullsmashers!
