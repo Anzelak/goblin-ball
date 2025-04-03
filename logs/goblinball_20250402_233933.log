@@ -1,0 +1,5 @@
+2025-04-02 23:39:33,025 - goblinball - CRITICAL - Could not import required modules: No module named 'config'
+2025-04-02 23:39:33,025 - goblinball - CRITICAL - Make sure you're running the game from the correct directory.
+2025-04-02 23:39:33,025 - goblinball - CRITICAL - See README.md for instructions on how to run the game.
+2025-04-02 23:39:33,025 - goblinball - CRITICAL - Current directory: C:\Users\johnm\OneDrive\Documents\goblin-ball
+2025-04-02 23:39:33,025 - goblinball - CRITICAL - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']

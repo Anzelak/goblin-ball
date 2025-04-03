@@ -1,0 +1,98 @@
+2025-04-03 01:32:17,804 - goblinball - INFO - ==================================================
+2025-04-03 01:32:17,804 - goblinball - INFO - Starting Goblinball
+2025-04-03 01:32:17,804 - goblinball - INFO - Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+2025-04-03 01:32:17,804 - goblinball - INFO - Current working directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 01:32:17,804 - goblinball - INFO - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball\\goblinball', 'C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 01:32:17,805 - goblinball - INFO - ==================================================
+2025-04-03 01:32:17,812 - goblinball - INFO - All required modules validated successfully
+2025-04-03 01:32:17,813 - goblinball - INFO - Starting Goblinball
+2025-04-03 01:32:17,813 - goblinball - INFO - Running from directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 01:32:17,832 - goblinball.controller - INFO - Selected carrier: Bludfist Galach from team Mudcrushers
+2025-04-03 01:32:17,832 - goblinball.controller - INFO - ===== Starting Play 1 =====
+2025-04-03 01:32:17,833 - goblinball.controller - INFO - Selected carrier: Krunkfist Peredon from team Mudcrushers
+2025-04-03 01:32:19,335 - goblinball.controller - INFO - ==== Processing Turn 1 ====
+2025-04-03 01:32:19,335 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:32:19,335 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:32:19,338 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:32:19,339 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:32:20,025 - goblinball.controller - INFO - ==== Processing Turn 2 ====
+2025-04-03 01:32:20,025 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:32:20,025 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:32:20,026 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:32:20,026 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:32:20,931 - goblinball.controller - INFO - ==== Processing Turn 3 ====
+2025-04-03 01:32:20,931 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:32:20,931 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:32:20,931 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:32:20,931 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:35:17,701 - goblinball.controller - INFO - ==== Processing Turn 4 ====
+2025-04-03 01:35:17,701 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:35:17,702 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:35:17,702 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:35:17,702 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:36:04,793 - goblinball.controller - INFO - ==== Processing Turn 5 ====
+2025-04-03 01:36:04,794 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:36:04,794 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:36:04,795 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:36:04,795 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:36:06,979 - goblinball.controller - INFO - ==== Processing Turn 6 ====
+2025-04-03 01:36:06,979 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:36:06,979 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:36:06,980 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:36:06,980 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:37:27,406 - goblinball.controller - INFO - ==== Processing Turn 7 ====
+2025-04-03 01:37:27,406 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:37:27,406 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:37:27,407 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:37:27,407 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:38:39,926 - goblinball.controller - INFO - ==== Processing Turn 8 ====
+2025-04-03 01:38:39,926 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:38:39,926 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:38:39,926 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:38:39,926 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:38:51,257 - goblinball.controller - INFO - ==== Processing Turn 9 ====
+2025-04-03 01:38:51,257 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:38:51,257 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:38:51,258 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:38:51,259 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:38:55,312 - goblinball.controller - INFO - ==== Processing Turn 10 ====
+2025-04-03 01:38:55,312 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:38:55,312 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:38:55,312 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:38:55,313 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:38:57,284 - goblinball.controller - INFO - ==== Processing Turn 11 ====
+2025-04-03 01:38:57,284 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:38:57,284 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:38:57,284 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:38:57,284 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:38:59,400 - goblinball.controller - INFO - ==== Processing Turn 12 ====
+2025-04-03 01:38:59,400 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:38:59,400 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:38:59,400 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:38:59,400 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:39:00,752 - goblinball.controller - INFO - ==== Processing Turn 13 ====
+2025-04-03 01:39:00,752 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:39:00,752 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:39:00,752 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:39:00,755 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:39:02,514 - goblinball.controller - INFO - ==== Processing Turn 14 ====
+2025-04-03 01:39:02,514 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:39:02,514 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:39:02,514 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:39:02,514 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:39:05,439 - goblinball.controller - INFO - ==== Processing Turn 15 ====
+2025-04-03 01:39:05,440 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:39:05,440 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:39:05,440 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 01:39:05,440 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 01:39:06,556 - goblinball.controller - INFO - ==== Processing Turn 16 ====
+2025-04-03 01:39:06,556 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - Attempting to move carrier Krunkfist Peredon
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - ===== Ending Play 1 after 16 turns =====
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - Score: Mudcrushers 3 - 0 Skullsmashers
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - ===== Ending Play 1 after 16 turns =====
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - Carrier Krunkfist Peredon scored! Ending play.
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - ===== Ending Play 1 after 16 turns =====
+2025-04-03 01:39:06,557 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 01:43:41,992 - goblinball - INFO - Goblinball ended

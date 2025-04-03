@@ -1,0 +1,521 @@
+[01:32:17.811] [INFO] === Goblinball Debug Log - 20250403_013217 ===
+[01:32:17.811] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_013217.txt
+[01:32:17.832] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[01:32:19.335] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:32:19.335] [INFO] Goblin Krunkfist Peredon moved from (4, 8) to (5, 7)
+[01:32:19.336] [INFO] Movement trail: [(4, 8), (5, 7)]
+[01:32:19.336] [INFO] Carrier Krunkfist Peredon moved to (5, 7)
+[01:32:19.338] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:32:19.338] [INFO] Offensive blocker chose move (4, 7) with score 939
+[01:32:19.338] [INFO] Goblin Bludfist Galach moved from (2, 8) to (4, 7)
+[01:32:19.338] [INFO] Movement trail: [(2, 8), (4, 7)]
+[01:32:19.338] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:32:19.339] [INFO] Offensive blocker chose move (5, 8) with score 939
+[01:32:19.339] [INFO] Goblin Grakslicer moved from (6, 8) to (5, 8)
+[01:32:19.339] [INFO] Movement trail: [(6, 8), (5, 8)]
+[01:32:19.339] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:32:19.339] [INFO] Offensive blocker chose move (6, 7) with score 951
+[01:32:19.339] [INFO] Goblin Thrakfoot Cerdern moved from (8, 8) to (6, 7)
+[01:32:19.339] [INFO] Movement trail: [(8, 8), (6, 7)]
+[01:32:19.339] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:32:19.339] [INFO] Offensive blocker chose move (8, 7) with score 731
+[01:32:19.339] [INFO] Goblin Bludfist Teondra moved from (9, 8) to (8, 7)
+[01:32:19.339] [INFO] Movement trail: [(9, 8), (8, 7)]
+[01:32:19.339] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:32:19.339] [INFO] Defensive blocker chose move (1, 2) with score 373
+[01:32:19.339] [INFO] Goblin Graksmasher Silvano  moved from (2, 1) to (1, 2)
+[01:32:19.339] [INFO] Movement trail: [(2, 1), (1, 2)]
+[01:32:19.339] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:32:19.339] [INFO] Defensive blocker chose move (4, 2) with score 667
+[01:32:19.339] [INFO] Goblin Graktooth moved from (4, 1) to (4, 2)
+[01:32:19.339] [INFO] Movement trail: [(4, 1), (4, 2)]
+[01:32:19.339] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:32:19.339] [INFO] Defensive blocker chose move (6, 2) with score 675
+[01:32:19.339] [INFO] Goblin Fizzmangler Talarin moved from (6, 1) to (6, 2)
+[01:32:19.339] [INFO] Movement trail: [(6, 1), (6, 2)]
+[01:32:19.339] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:32:19.339] [INFO] Defensive blocker chose move (5, 1) with score 671
+[01:32:19.339] [INFO] Goblin Mugfinger moved from (8, 1) to (5, 1)
+[01:32:19.339] [INFO] Movement trail: [(8, 1), (5, 1)]
+[01:32:19.339] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:32:19.339] [INFO] Defensive blocker chose move (9, 3) with score 375
+[01:32:19.339] [INFO] Goblin Globgob Yelina moved from (9, 1) to (9, 3)
+[01:32:19.339] [INFO] Movement trail: [(9, 1), (9, 3)]
+[01:32:20.025] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:32:20.026] [INFO] Goblin Krunkfist Peredon moved from (5, 7) to (5, 6)
+[01:32:20.026] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[01:32:20.026] [INFO] Carrier Krunkfist Peredon moved to (5, 6)
+[01:32:20.026] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:32:20.026] [INFO] Offensive blocker chose move (4, 6) with score 955
+[01:32:20.026] [INFO] Goblin Bludfist Galach moved from (4, 7) to (4, 6)
+[01:32:20.026] [INFO] Movement trail: [(2, 8), (4, 7), (4, 6)]
+[01:32:20.026] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:32:20.026] [INFO] Offensive blocker chose move (5, 7) with score 905
+[01:32:20.026] [INFO] Goblin Grakslicer moved from (5, 8) to (5, 7)
+[01:32:20.026] [INFO] Movement trail: [(6, 8), (5, 8), (5, 7)]
+[01:32:20.026] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:32:20.026] [INFO] Offensive blocker chose move (6, 6) with score 937
+[01:32:20.026] [INFO] Goblin Thrakfoot Cerdern moved from (6, 7) to (6, 6)
+[01:32:20.026] [INFO] Movement trail: [(8, 8), (6, 7), (6, 6)]
+[01:32:20.026] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:32:20.026] [INFO] Offensive blocker chose move (7, 6) with score 834
+[01:32:20.026] [INFO] Goblin Bludfist Teondra moved from (8, 7) to (7, 6)
+[01:32:20.026] [INFO] Movement trail: [(9, 8), (8, 7), (7, 6)]
+[01:32:20.026] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:32:20.026] [INFO] Defensive blocker chose move (2, 1) with score 371
+[01:32:20.026] [INFO] Goblin Graksmasher Silvano  moved from (1, 2) to (2, 1)
+[01:32:20.026] [INFO] Movement trail: [(2, 1), (1, 2), (2, 1)]
+[01:32:20.026] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:32:20.026] [INFO] Defensive blocker chose move (4, 1) with score 653
+[01:32:20.026] [INFO] Goblin Graktooth moved from (4, 2) to (4, 1)
+[01:32:20.026] [INFO] Movement trail: [(4, 1), (4, 2), (4, 1)]
+[01:32:20.026] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:32:20.026] [INFO] Defensive blocker chose move (6, 3) with score 666
+[01:32:20.026] [INFO] Goblin Fizzmangler Talarin moved from (6, 2) to (6, 3)
+[01:32:20.026] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3)]
+[01:32:20.026] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:32:20.026] [INFO] Defensive blocker chose move (5, 3) with score 675
+[01:32:20.026] [INFO] Goblin Mugfinger moved from (5, 1) to (5, 3)
+[01:32:20.026] [INFO] Movement trail: [(8, 1), (5, 1), (5, 3)]
+[01:32:20.026] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:32:20.026] [INFO] Defensive blocker chose move (9, 5) with score 375
+[01:32:20.026] [INFO] Goblin Globgob Yelina moved from (9, 3) to (9, 5)
+[01:32:20.026] [INFO] Movement trail: [(9, 1), (9, 3), (9, 5)]
+[01:32:20.931] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:32:20.931] [INFO] Goblin Krunkfist Peredon moved from (5, 6) to (5, 5)
+[01:32:20.931] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 5)]
+[01:32:20.931] [INFO] Carrier Krunkfist Peredon moved to (5, 5)
+[01:32:20.931] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:32:20.931] [INFO] Offensive blocker chose move (5, 4) with score 2353
+[01:32:20.931] [INFO] Goblin Bludfist Galach moved from (4, 6) to (5, 4)
+[01:32:20.931] [INFO] Movement trail: [(2, 8), (4, 7), (4, 6), (5, 4)]
+[01:32:20.931] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:32:20.931] [INFO] Offensive blocker chose move (5, 6) with score 935
+[01:32:20.931] [INFO] Goblin Grakslicer moved from (5, 7) to (5, 6)
+[01:32:20.931] [INFO] Movement trail: [(6, 8), (5, 8), (5, 7), (5, 6)]
+[01:32:20.931] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:32:20.931] [INFO] Offensive blocker chose move (6, 4) with score 1284
+[01:32:20.931] [INFO] Goblin Thrakfoot Cerdern moved from (6, 6) to (6, 4)
+[01:32:20.931] [INFO] Movement trail: [(8, 8), (6, 7), (6, 6), (6, 4)]
+[01:32:20.931] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:32:20.931] [INFO] Offensive blocker chose move (7, 4) with score 977
+[01:32:20.931] [INFO] Goblin Bludfist Teondra moved from (7, 6) to (7, 4)
+[01:32:20.931] [INFO] Movement trail: [(9, 8), (8, 7), (7, 6), (7, 4)]
+[01:32:20.931] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:32:20.932] [INFO] Defensive blocker chose move (1, 2) with score 369
+[01:32:20.932] [INFO] Goblin Graksmasher Silvano  moved from (2, 1) to (1, 2)
+[01:32:20.932] [INFO] Movement trail: [(2, 1), (1, 2), (2, 1), (1, 2)]
+[01:32:20.932] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:32:20.932] [INFO] Defensive blocker chose move (4, 0) with score 658
+[01:32:20.932] [INFO] Goblin Graktooth moved from (4, 1) to (4, 0)
+[01:32:20.932] [INFO] Movement trail: [(4, 1), (4, 2), (4, 1), (4, 0)]
+[01:32:20.932] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:32:20.932] [INFO] Defensive blocker Fizzmangler Talarin pursuing carrier Krunkfist Peredon
+[01:32:20.932] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:32:20.932] [INFO] Defensive blocker Mugfinger pursuing carrier Krunkfist Peredon
+[01:32:20.932] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:32:20.932] [INFO] Defensive blocker chose move (7, 5) with score 779
+[01:35:17.702] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:35:17.702] [INFO] Goblin Krunkfist Peredon moved from (5, 5) to (4, 5)
+[01:35:17.702] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 5), (4, 5)]
+[01:35:17.702] [INFO] Carrier Krunkfist Peredon moved to (4, 5)
+[01:35:17.702] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:35:17.702] [INFO] Attempt block of Mugfinger by Bludfist Galach
+[01:35:17.702] [INFO] Offensive blocker chose move (4, 4) with score 2145
+[01:35:17.702] [INFO] Goblin Bludfist Galach moved from (5, 4) to (4, 4)
+[01:35:17.702] [INFO] Movement trail: [(2, 8), (4, 7), (4, 6), (5, 4), (4, 4)]
+[01:35:17.702] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:35:17.702] [INFO] Offensive blocker chose move (5, 4) with score 1059
+[01:35:17.702] [INFO] Goblin Grakslicer moved from (5, 6) to (5, 4)
+[01:35:17.702] [INFO] Movement trail: [(6, 8), (5, 8), (5, 7), (5, 6), (5, 4)]
+[01:35:17.702] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:35:17.702] [INFO] Attempt block of Mugfinger by Thrakfoot Cerdern
+[01:35:17.702] [INFO] Offensive blocker chose move (6, 5) with score 799
+[01:35:17.702] [INFO] Goblin Thrakfoot Cerdern moved from (6, 4) to (6, 5)
+[01:35:17.702] [INFO] Movement trail: [(8, 8), (6, 7), (6, 6), (6, 4), (6, 5)]
+[01:35:17.702] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:35:17.702] [INFO] Offensive blocker chose move (6, 4) with score 937
+[01:35:17.702] [INFO] Goblin Bludfist Teondra moved from (7, 4) to (6, 4)
+[01:35:17.702] [INFO] Movement trail: [(9, 8), (8, 7), (7, 6), (7, 4), (6, 4)]
+[01:35:17.703] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:35:17.703] [INFO] Defensive blocker chose move (3, 2) with score 672
+[01:35:17.703] [INFO] Goblin Graksmasher Silvano  moved from (1, 2) to (3, 2)
+[01:35:17.703] [INFO] Movement trail: [(2, 1), (1, 2), (2, 1), (1, 2), (3, 2)]
+[01:35:17.703] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:35:17.703] [INFO] Defensive blocker chose move (4, 1) with score 649
+[01:35:17.703] [INFO] Goblin Graktooth moved from (4, 0) to (4, 1)
+[01:35:17.703] [INFO] Movement trail: [(4, 1), (4, 2), (4, 1), (4, 0), (4, 1)]
+[01:35:17.703] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:35:17.703] [INFO] Defensive blocker chose move (5, 2) with score 674
+[01:35:17.703] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:35:17.703] [INFO] Defensive blocker Mugfinger pursuing carrier Krunkfist Peredon
+[01:35:17.703] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:35:17.703] [INFO] Defensive blocker chose move (7, 5) with score 685
+[01:35:17.703] [INFO] Goblin Globgob Yelina moved from (9, 5) to (7, 5)
+[01:35:17.703] [INFO] Movement trail: [(9, 1), (9, 3), (9, 5), (7, 5)]
+[01:36:04.795] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:36:04.795] [INFO] Goblin Krunkfist Peredon moved from (4, 5) to (3, 5)
+[01:36:04.795] [INFO] Movement trail: [(5, 7), (5, 6), (5, 5), (4, 5), (3, 5)]
+[01:36:04.795] [INFO] Carrier Krunkfist Peredon moved to (3, 5)
+[01:36:04.795] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:36:04.795] [INFO] Offensive blocker chose move (3, 4) with score 2138
+[01:36:04.795] [INFO] Goblin Bludfist Galach moved from (4, 4) to (3, 4)
+[01:36:04.795] [INFO] Movement trail: [(4, 7), (4, 6), (5, 4), (4, 4), (3, 4)]
+[01:36:04.795] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:36:04.795] [INFO] Offensive blocker chose move (4, 4) with score 1078
+[01:36:04.795] [INFO] Goblin Grakslicer moved from (5, 4) to (4, 4)
+[01:36:04.795] [INFO] Movement trail: [(5, 8), (5, 7), (5, 6), (5, 4), (4, 4)]
+[01:36:04.795] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:36:04.795] [INFO] Offensive blocker chose move (4, 5) with score 929
+[01:36:04.795] [INFO] Goblin Thrakfoot Cerdern moved from (6, 5) to (4, 5)
+[01:36:04.795] [INFO] Movement trail: [(6, 7), (6, 6), (6, 4), (6, 5), (4, 5)]
+[01:36:04.795] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:36:04.795] [INFO] Offensive blocker chose move (5, 5) with score 816
+[01:36:04.797] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:36:04.797] [INFO] Defensive blocker Graksmasher Silvano  pursuing carrier Krunkfist Peredon
+[01:36:04.797] [INFO] Goblin Graksmasher Silvano  moved from (3, 2) to (3, 3)
+[01:36:04.797] [INFO] Movement trail: [(1, 2), (2, 1), (1, 2), (3, 2), (3, 3)]
+[01:36:04.797] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:36:04.797] [INFO] Defensive blocker chose move (4, 0) with score 658
+[01:36:04.797] [INFO] Goblin Graktooth moved from (4, 1) to (4, 0)
+[01:36:04.797] [INFO] Movement trail: [(4, 2), (4, 1), (4, 0), (4, 1), (4, 0)]
+[01:36:04.797] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:36:04.797] [INFO] Defensive blocker chose move (6, 5) with score 723
+[01:36:04.797] [INFO] Goblin Fizzmangler Talarin moved from (6, 3) to (6, 5)
+[01:36:04.797] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3), (6, 5)]
+[01:36:04.797] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:36:04.797] [INFO] Defensive blocker chose move (5, 5) with score 797
+[01:36:04.797] [INFO] Goblin Mugfinger moved from (5, 3) to (5, 5)
+[01:36:04.797] [INFO] Movement trail: [(8, 1), (5, 1), (5, 3), (5, 5)]
+[01:36:04.797] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:36:04.797] [INFO] Defensive blocker chose move (6, 6) with score 609
+[01:36:04.797] [INFO] Goblin Globgob Yelina moved from (7, 5) to (6, 6)
+[01:36:04.797] [INFO] Movement trail: [(9, 1), (9, 3), (9, 5), (7, 5), (6, 6)]
+[01:36:06.980] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:36:06.980] [INFO] Goblin Krunkfist Peredon moved from (3, 5) to (2, 5)
+[01:36:06.980] [INFO] Movement trail: [(5, 6), (5, 5), (4, 5), (3, 5), (2, 5)]
+[01:36:06.980] [INFO] Carrier Krunkfist Peredon moved to (2, 5)
+[01:36:06.980] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:36:06.980] [INFO] Attempt block of Graksmasher Silvano  by Bludfist Galach
+[01:36:06.980] [INFO] Offensive blocker chose move (2, 4) with score 2165
+[01:36:06.980] [INFO] Goblin Bludfist Galach moved from (3, 4) to (2, 4)
+[01:36:06.980] [INFO] Movement trail: [(4, 6), (5, 4), (4, 4), (3, 4), (2, 4)]
+[01:36:06.980] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:36:06.980] [INFO] Attempt block of Graksmasher Silvano  by Grakslicer
+[01:36:06.980] [INFO] Block succeeded!
+[01:36:06.980] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:36:06.980] [INFO] Attempt block of Mugfinger by Thrakfoot Cerdern
+[01:36:06.980] [INFO] Offensive blocker chose move (3, 5) with score 1929
+[01:36:06.980] [INFO] Goblin Thrakfoot Cerdern moved from (4, 5) to (3, 5)
+[01:36:06.980] [INFO] Movement trail: [(6, 6), (6, 4), (6, 5), (4, 5), (3, 5)]
+[01:36:06.980] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:36:06.980] [INFO] Attempt block of Mugfinger by Bludfist Teondra
+[01:36:06.983] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:36:06.983] [INFO] Defensive blocker Graksmasher Silvano  pursuing carrier Krunkfist Peredon
+[01:36:06.983] [INFO] Goblin Graksmasher Silvano  moved from (2, 2) to (2, 3)
+[01:36:06.983] [INFO] Movement trail: [(1, 2), (3, 2), (3, 3), (2, 2), (2, 3)]
+[01:36:06.983] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:36:06.983] [INFO] Defensive blocker chose move (3, 0) with score 640
+[01:36:06.983] [INFO] Goblin Graktooth moved from (4, 0) to (3, 0)
+[01:36:06.983] [INFO] Movement trail: [(4, 1), (4, 0), (4, 1), (4, 0), (3, 0)]
+[01:36:06.983] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:36:06.983] [INFO] Defensive blocker chose move (4, 5) with score 811
+[01:36:06.983] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:36:06.983] [INFO] Defensive blocker Mugfinger pursuing carrier Krunkfist Peredon
+[01:36:06.983] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:36:06.983] [INFO] Defensive blocker chose move (4, 6) with score 705
+[01:36:06.983] [INFO] Goblin Globgob Yelina moved from (6, 6) to (4, 6)
+[01:36:06.983] [INFO] Movement trail: [(9, 3), (9, 5), (7, 5), (6, 6), (4, 6)]
+[01:37:27.406] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:37:27.407] [INFO] Goblin Krunkfist Peredon moved from (2, 5) to (1, 5)
+[01:37:27.407] [INFO] Movement trail: [(5, 5), (4, 5), (3, 5), (2, 5), (1, 5)]
+[01:37:27.407] [INFO] Carrier Krunkfist Peredon moved to (1, 5)
+[01:37:27.407] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:37:27.407] [INFO] Attempt block of Graksmasher Silvano  by Bludfist Galach
+[01:37:27.407] [INFO] Offensive blocker chose move (1, 4) with score 2173
+[01:37:27.407] [INFO] Goblin Bludfist Galach moved from (2, 4) to (1, 4)
+[01:37:27.407] [INFO] Movement trail: [(5, 4), (4, 4), (3, 4), (2, 4), (1, 4)]
+[01:37:27.407] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:37:27.407] [INFO] Offensive blocker chose move (2, 4) with score 1044
+[01:37:27.407] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:37:27.407] [INFO] Offensive blocker chose move (2, 4) with score 1065
+[01:37:27.407] [INFO] Goblin Thrakfoot Cerdern moved from (3, 5) to (2, 4)
+[01:37:27.407] [INFO] Movement trail: [(6, 4), (6, 5), (4, 5), (3, 5), (2, 4)]
+[01:37:27.407] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:37:27.407] [INFO] Offensive blocker chose move (5, 4) with score 538
+[01:37:27.407] [INFO] Goblin Bludfist Teondra moved from (6, 4) to (5, 4)
+[01:37:27.407] [INFO] Movement trail: [(8, 7), (7, 6), (7, 4), (6, 4), (5, 4)]
+[01:37:27.407] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:37:27.407] [INFO] Defensive blocker Graksmasher Silvano  pursuing carrier Krunkfist Peredon
+[01:37:27.407] [INFO] Goblin Graksmasher Silvano  moved from (2, 3) to (2, 5)
+[01:37:27.407] [INFO] Movement trail: [(3, 2), (3, 3), (2, 2), (2, 3), (2, 5)]
+[01:37:27.407] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:37:27.407] [INFO] Defensive blocker chose move (2, 0) with score 648
+[01:37:27.407] [INFO] Goblin Graktooth moved from (3, 0) to (2, 0)
+[01:37:27.407] [INFO] Movement trail: [(4, 0), (4, 1), (4, 0), (3, 0), (2, 0)]
+[01:37:27.407] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:37:27.407] [INFO] Defensive blocker chose move (4, 5) with score 717
+[01:37:27.407] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:37:27.407] [INFO] Defensive blocker chose move (3, 5) with score 806
+[01:37:27.407] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:37:27.407] [INFO] Defensive blocker chose move (2, 6) with score 797
+[01:37:27.407] [INFO] Goblin Globgob Yelina moved from (4, 6) to (2, 6)
+[01:37:27.407] [INFO] Movement trail: [(9, 5), (7, 5), (6, 6), (4, 6), (2, 6)]
+[01:38:39.926] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:38:39.926] [INFO] Goblin Krunkfist Peredon moved from (1, 5) to (0, 5)
+[01:38:39.926] [INFO] Movement trail: [(4, 5), (3, 5), (2, 5), (1, 5), (0, 5)]
+[01:38:39.926] [INFO] Carrier Krunkfist Peredon moved to (0, 5)
+[01:38:39.926] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:38:39.926] [INFO] Attempt block of Graksmasher Silvano  by Bludfist Galach
+[01:38:39.926] [INFO] Offensive blocker chose move (1, 5) with score 1898
+[01:38:39.926] [INFO] Goblin Bludfist Galach moved from (1, 4) to (1, 5)
+[01:38:39.926] [INFO] Movement trail: [(4, 4), (3, 4), (2, 4), (1, 4), (1, 5)]
+[01:38:39.926] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:38:39.926] [INFO] Offensive blocker chose move (3, 5) with score 681
+[01:38:39.926] [INFO] Goblin Grakslicer moved from (4, 4) to (3, 5)
+[01:38:39.926] [INFO] Movement trail: [(5, 7), (5, 6), (5, 4), (4, 4), (3, 5)]
+[01:38:39.926] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:38:39.926] [INFO] Attempt block of Graksmasher Silvano  by Thrakfoot Cerdern
+[01:38:39.926] [INFO] Offensive blocker chose move (1, 4) with score 878
+[01:38:39.926] [INFO] Goblin Thrakfoot Cerdern moved from (2, 4) to (1, 4)
+[01:38:39.926] [INFO] Movement trail: [(6, 5), (4, 5), (3, 5), (2, 4), (1, 4)]
+[01:38:39.926] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:38:39.926] [INFO] Offensive blocker chose move (3, 4) with score 655
+[01:38:39.926] [INFO] Goblin Bludfist Teondra moved from (5, 4) to (3, 4)
+[01:38:39.926] [INFO] Movement trail: [(7, 6), (7, 4), (6, 4), (5, 4), (3, 4)]
+[01:38:39.927] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:38:39.927] [INFO] Defensive blocker Graksmasher Silvano  pursuing carrier Krunkfist Peredon
+[01:38:39.927] [INFO] Goblin Graksmasher Silvano  moved from (2, 5) to (1, 6)
+[01:38:39.927] [INFO] Movement trail: [(3, 3), (2, 2), (2, 3), (2, 5), (1, 6)]
+[01:38:39.927] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:38:39.927] [INFO] Defensive blocker chose move (1, 0) with score 638
+[01:38:39.927] [INFO] Goblin Graktooth moved from (2, 0) to (1, 0)
+[01:38:39.927] [INFO] Movement trail: [(4, 1), (4, 0), (3, 0), (2, 0), (1, 0)]
+[01:38:39.927] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:38:39.927] [INFO] Defensive blocker chose move (4, 5) with score 598
+[01:38:39.927] [INFO] Goblin Fizzmangler Talarin moved from (6, 5) to (4, 5)
+[01:38:39.927] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3), (6, 5), (4, 5)]
+[01:38:39.927] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:38:39.927] [INFO] Defensive blocker chose move (2, 5) with score 786
+[01:38:39.927] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:38:39.927] [INFO] Defensive blocker Globgob Yelina pursuing carrier Krunkfist Peredon
+[01:38:39.927] [INFO] Goblin Globgob Yelina moved from (2, 6) to (0, 6)
+[01:38:39.927] [INFO] Movement trail: [(7, 5), (6, 6), (4, 6), (2, 6), (0, 6)]
+[01:38:51.257] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:38:51.257] [INFO] Goblin Krunkfist Peredon moved from (0, 5) to (0, 4)
+[01:38:51.258] [INFO] Movement trail: [(3, 5), (2, 5), (1, 5), (0, 5), (0, 4)]
+[01:38:51.258] [INFO] Carrier Krunkfist Peredon moved to (0, 4)
+[01:38:51.258] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:38:51.258] [INFO] Attempt block of Globgob Yelina by Bludfist Galach
+[01:38:51.258] [INFO] Attempt block of Graksmasher Silvano  by Bludfist Galach
+[01:38:51.258] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:38:51.258] [INFO] Offensive blocker chose move (2, 4) with score 835
+[01:38:51.258] [INFO] Goblin Grakslicer moved from (3, 5) to (2, 4)
+[01:38:51.258] [INFO] Movement trail: [(5, 6), (5, 4), (4, 4), (3, 5), (2, 4)]
+[01:38:51.258] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:38:51.259] [INFO] Offensive blocker chose move (0, 5) with score 1904
+[01:38:51.259] [INFO] Goblin Thrakfoot Cerdern moved from (1, 4) to (0, 5)
+[01:38:51.259] [INFO] Movement trail: [(4, 5), (3, 5), (2, 4), (1, 4), (0, 5)]
+[01:38:51.259] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:38:51.259] [INFO] Offensive blocker chose move (1, 4) with score 961
+[01:38:51.259] [INFO] Goblin Bludfist Teondra moved from (3, 4) to (1, 4)
+[01:38:51.259] [INFO] Movement trail: [(7, 4), (6, 4), (5, 4), (3, 4), (1, 4)]
+[01:38:51.259] [INFO] Moving defensive blocker Graksmasher Silvano  with 2 movement points
+[01:38:51.259] [INFO] Defensive blocker Graksmasher Silvano  pursuing carrier Krunkfist Peredon
+[01:38:51.259] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:38:51.259] [INFO] Defensive blocker chose move (0, 0) with score 629
+[01:38:51.259] [INFO] Goblin Graktooth moved from (1, 0) to (0, 0)
+[01:38:51.259] [INFO] Movement trail: [(4, 0), (3, 0), (2, 0), (1, 0), (0, 0)]
+[01:38:51.259] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:38:51.259] [INFO] Defensive blocker chose move (3, 4) with score 706
+[01:38:51.259] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:38:51.259] [INFO] Defensive blocker chose move (2, 5) with score 718
+[01:38:51.259] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:38:51.259] [INFO] Defensive blocker Globgob Yelina pursuing carrier Krunkfist Peredon
+[01:38:51.259] [INFO] Goblin Globgob Yelina moved from (0, 6) to (0, 7)
+[01:38:51.259] [INFO] Movement trail: [(6, 6), (4, 6), (2, 6), (0, 6), (0, 7)]
+[01:38:55.312] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:38:55.312] [INFO] Goblin Krunkfist Peredon moved from (0, 4) to (1, 3)
+[01:38:55.312] [INFO] Movement trail: [(2, 5), (1, 5), (0, 5), (0, 4), (1, 3)]
+[01:38:55.312] [INFO] Carrier Krunkfist Peredon moved to (1, 3)
+[01:38:55.312] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:38:55.312] [INFO] Attempt block of Graksmasher Silvano  by Bludfist Galach
+[01:38:55.313] [INFO] Offensive blocker chose move (0, 4) with score 846
+[01:38:55.313] [INFO] Goblin Bludfist Galach moved from (1, 5) to (0, 4)
+[01:38:55.313] [INFO] Movement trail: [(3, 4), (2, 4), (1, 4), (1, 5), (0, 4)]
+[01:38:55.313] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:38:55.313] [INFO] Offensive blocker chose move (2, 3) with score 977
+[01:38:55.313] [INFO] Goblin Grakslicer moved from (2, 4) to (2, 3)
+[01:38:55.313] [INFO] Movement trail: [(5, 4), (4, 4), (3, 5), (2, 4), (2, 3)]
+[01:38:55.313] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:38:55.313] [INFO] Attempt block of Graksmasher Silvano  by Thrakfoot Cerdern
+[01:38:55.313] [INFO] Block succeeded!
+[01:38:55.313] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:38:55.313] [INFO] Offensive blocker chose move (0, 3) with score 987
+[01:38:55.313] [INFO] Goblin Bludfist Teondra moved from (1, 4) to (0, 3)
+[01:38:55.313] [INFO] Movement trail: [(6, 4), (5, 4), (3, 4), (1, 4), (0, 3)]
+[01:38:55.313] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:38:55.313] [INFO] Defensive blocker chose move (1, 0) with score 661
+[01:38:55.313] [INFO] Goblin Graktooth moved from (0, 0) to (1, 0)
+[01:38:55.313] [INFO] Movement trail: [(3, 0), (2, 0), (1, 0), (0, 0), (1, 0)]
+[01:38:55.313] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:38:55.313] [INFO] Defensive blocker chose move (4, 3) with score 717
+[01:38:55.313] [INFO] Goblin Fizzmangler Talarin moved from (4, 5) to (4, 3)
+[01:38:55.313] [INFO] Movement trail: [(6, 2), (6, 3), (6, 5), (4, 5), (4, 3)]
+[01:38:55.313] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:38:55.313] [INFO] Defensive blocker chose move (2, 5) with score 725
+[01:38:55.313] [INFO] Goblin Mugfinger moved from (5, 5) to (2, 5)
+[01:38:55.313] [INFO] Movement trail: [(8, 1), (5, 1), (5, 3), (5, 5), (2, 5)]
+[01:38:55.313] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:38:55.313] [INFO] Defensive blocker chose move (1, 7) with score 600
+[01:38:55.313] [INFO] Goblin Globgob Yelina moved from (0, 7) to (1, 7)
+[01:38:55.313] [INFO] Movement trail: [(4, 6), (2, 6), (0, 6), (0, 7), (1, 7)]
+[01:38:57.284] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:38:57.284] [INFO] Goblin Krunkfist Peredon moved from (1, 3) to (2, 2)
+[01:38:57.284] [INFO] Movement trail: [(1, 5), (0, 5), (0, 4), (1, 3), (2, 2)]
+[01:38:57.284] [INFO] Carrier Krunkfist Peredon moved to (2, 2)
+[01:38:57.284] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:38:57.284] [INFO] Offensive blocker chose move (1, 1) with score 2115
+[01:38:57.284] [INFO] Goblin Bludfist Galach moved from (0, 4) to (1, 1)
+[01:38:57.284] [INFO] Movement trail: [(2, 4), (1, 4), (1, 5), (0, 4), (1, 1)]
+[01:38:57.284] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:38:57.284] [INFO] Offensive blocker chose move (2, 1) with score 1176
+[01:38:57.284] [INFO] Goblin Grakslicer moved from (2, 3) to (2, 1)
+[01:38:57.284] [INFO] Movement trail: [(4, 4), (3, 5), (2, 4), (2, 3), (2, 1)]
+[01:38:57.284] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:38:57.284] [INFO] Offensive blocker chose move (0, 2) with score 882
+[01:38:57.284] [INFO] Goblin Thrakfoot Cerdern moved from (0, 5) to (0, 2)
+[01:38:57.284] [INFO] Movement trail: [(3, 5), (2, 4), (1, 4), (0, 5), (0, 2)]
+[01:38:57.284] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:38:57.284] [INFO] Offensive blocker chose move (2, 3) with score 1992
+[01:38:57.284] [INFO] Goblin Bludfist Teondra moved from (0, 3) to (2, 3)
+[01:38:57.284] [INFO] Movement trail: [(5, 4), (3, 4), (1, 4), (0, 3), (2, 3)]
+[01:38:57.284] [INFO] Moving defensive blocker Graktooth with 1 movement points
+[01:38:57.285] [INFO] Defensive blocker Graktooth pursuing carrier Krunkfist Peredon
+[01:38:57.285] [INFO] Goblin Graktooth moved from (1, 0) to (2, 0)
+[01:38:57.285] [INFO] Movement trail: [(2, 0), (1, 0), (0, 0), (1, 0), (2, 0)]
+[01:38:57.285] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:38:57.285] [INFO] Defensive blocker Fizzmangler Talarin pursuing carrier Krunkfist Peredon
+[01:38:57.285] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:38:57.285] [INFO] Defensive blocker Mugfinger pursuing carrier Krunkfist Peredon
+[01:38:57.285] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:38:57.285] [INFO] Defensive blocker chose move (1, 5) with score 621
+[01:38:57.285] [INFO] Goblin Globgob Yelina moved from (1, 7) to (1, 5)
+[01:38:57.285] [INFO] Movement trail: [(2, 6), (0, 6), (0, 7), (1, 7), (1, 5)]
+[01:38:59.400] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:38:59.400] [INFO] Goblin Krunkfist Peredon moved from (2, 2) to (1, 2)
+[01:38:59.400] [INFO] Movement trail: [(0, 5), (0, 4), (1, 3), (2, 2), (1, 2)]
+[01:38:59.400] [INFO] Carrier Krunkfist Peredon moved to (1, 2)
+[01:38:59.400] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:38:59.400] [INFO] Attempt block of Graktooth by Bludfist Galach
+[01:38:59.400] [INFO] Offensive blocker chose move (1, 3) with score 1941
+[01:38:59.400] [INFO] Goblin Bludfist Galach moved from (1, 1) to (1, 3)
+[01:38:59.400] [INFO] Movement trail: [(1, 4), (1, 5), (0, 4), (1, 1), (1, 3)]
+[01:38:59.400] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:38:59.400] [INFO] Attempt block of Graktooth by Grakslicer
+[01:38:59.400] [INFO] Block succeeded!
+[01:38:59.400] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:38:59.400] [INFO] Offensive blocker chose move (1, 1) with score 984
+[01:38:59.400] [INFO] Goblin Thrakfoot Cerdern moved from (0, 2) to (1, 1)
+[01:38:59.400] [INFO] Movement trail: [(2, 4), (1, 4), (0, 5), (0, 2), (1, 1)]
+[01:38:59.400] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:38:59.400] [INFO] Offensive blocker chose move (2, 2) with score 970
+[01:38:59.400] [INFO] Goblin Bludfist Teondra moved from (2, 3) to (2, 2)
+[01:38:59.400] [INFO] Movement trail: [(3, 4), (1, 4), (0, 3), (2, 3), (2, 2)]
+[01:38:59.400] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:38:59.401] [INFO] Defensive blocker chose move (3, 2) with score 812
+[01:38:59.401] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:38:59.401] [INFO] Defensive blocker chose move (1, 4) with score 822
+[01:38:59.401] [INFO] Goblin Mugfinger moved from (2, 5) to (1, 4)
+[01:38:59.401] [INFO] Movement trail: [(5, 1), (5, 3), (5, 5), (2, 5), (1, 4)]
+[01:38:59.401] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:38:59.401] [INFO] Defensive blocker Globgob Yelina pursuing carrier Krunkfist Peredon
+[01:38:59.401] [INFO] Goblin Globgob Yelina moved from (1, 5) to (0, 4)
+[01:38:59.401] [INFO] Movement trail: [(0, 6), (0, 7), (1, 7), (1, 5), (0, 4)]
+[01:39:00.752] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:39:00.752] [INFO] Goblin Krunkfist Peredon moved from (1, 2) to (0, 2)
+[01:39:00.752] [INFO] Movement trail: [(0, 4), (1, 3), (2, 2), (1, 2), (0, 2)]
+[01:39:00.752] [INFO] Carrier Krunkfist Peredon moved to (0, 2)
+[01:39:00.755] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:39:00.755] [INFO] Attempt block of Globgob Yelina by Bludfist Galach
+[01:39:00.755] [INFO] Attempt block of Mugfinger by Bludfist Galach
+[01:39:00.755] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:39:00.755] [INFO] Offensive blocker chose move (0, 1) with score 1007
+[01:39:00.755] [INFO] Goblin Grakslicer moved from (2, 1) to (0, 1)
+[01:39:00.755] [INFO] Movement trail: [(3, 5), (2, 4), (2, 3), (2, 1), (0, 1)]
+[01:39:00.755] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:39:00.755] [INFO] Offensive blocker chose move (0, 3) with score 1941
+[01:39:00.755] [INFO] Goblin Thrakfoot Cerdern moved from (1, 1) to (0, 3)
+[01:39:00.755] [INFO] Movement trail: [(1, 4), (0, 5), (0, 2), (1, 1), (0, 3)]
+[01:39:00.755] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:39:00.755] [INFO] Offensive blocker chose move (1, 2) with score 966
+[01:39:00.755] [INFO] Goblin Bludfist Teondra moved from (2, 2) to (1, 2)
+[01:39:00.755] [INFO] Movement trail: [(1, 4), (0, 3), (2, 3), (2, 2), (1, 2)]
+[01:39:00.755] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:39:00.755] [INFO] Defensive blocker chose move (2, 3) with score 704
+[01:39:00.755] [INFO] Goblin Fizzmangler Talarin moved from (4, 3) to (2, 3)
+[01:39:00.755] [INFO] Movement trail: [(6, 3), (6, 5), (4, 5), (4, 3), (2, 3)]
+[01:39:00.755] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:39:00.755] [INFO] Defensive blocker Mugfinger pursuing carrier Krunkfist Peredon
+[01:39:00.755] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:39:00.755] [INFO] Defensive blocker Globgob Yelina pursuing carrier Krunkfist Peredon
+[01:39:00.755] [INFO] Goblin Globgob Yelina moved from (0, 4) to (0, 5)
+[01:39:00.755] [INFO] Movement trail: [(0, 7), (1, 7), (1, 5), (0, 4), (0, 5)]
+[01:39:02.514] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:39:02.514] [INFO] Goblin Krunkfist Peredon moved from (0, 2) to (1, 1)
+[01:39:02.514] [INFO] Movement trail: [(1, 3), (2, 2), (1, 2), (0, 2), (1, 1)]
+[01:39:02.514] [INFO] Carrier Krunkfist Peredon moved to (1, 1)
+[01:39:02.514] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:39:02.514] [INFO] Attempt block of Mugfinger by Bludfist Galach
+[01:39:02.514] [INFO] Attempt block of Fizzmangler Talarin by Bludfist Galach
+[01:39:02.514] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:39:02.514] [INFO] Offensive blocker chose move (1, 0) with score 1023
+[01:39:02.514] [INFO] Goblin Grakslicer moved from (0, 1) to (1, 0)
+[01:39:02.514] [INFO] Movement trail: [(2, 4), (2, 3), (2, 1), (0, 1), (1, 0)]
+[01:39:02.514] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:39:02.514] [INFO] Attempt block of Mugfinger by Thrakfoot Cerdern
+[01:39:02.514] [INFO] Offensive blocker chose move (0, 2) with score 881
+[01:39:02.514] [INFO] Goblin Thrakfoot Cerdern moved from (0, 3) to (0, 2)
+[01:39:02.514] [INFO] Movement trail: [(0, 5), (0, 2), (1, 1), (0, 3), (0, 2)]
+[01:39:02.514] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:39:02.514] [INFO] Attempt block of Fizzmangler Talarin by Bludfist Teondra
+[01:39:02.514] [INFO] Block succeeded!
+[01:39:02.514] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:39:02.515] [INFO] Defensive blocker chose move (2, 3) with score 682
+[01:39:02.515] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:39:02.515] [INFO] Defensive blocker Mugfinger pursuing carrier Krunkfist Peredon
+[01:39:02.515] [INFO] Goblin Mugfinger moved from (1, 4) to (2, 2)
+[01:39:02.515] [INFO] Movement trail: [(5, 3), (5, 5), (2, 5), (1, 4), (2, 2)]
+[01:39:02.515] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:39:02.515] [INFO] Defensive blocker chose move (0, 3) with score 724
+[01:39:05.440] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:39:05.440] [INFO] Goblin Krunkfist Peredon moved from (1, 1) to (0, 1)
+[01:39:05.440] [INFO] Movement trail: [(2, 2), (1, 2), (0, 2), (1, 1), (0, 1)]
+[01:39:05.440] [INFO] Carrier Krunkfist Peredon moved to (0, 1)
+[01:39:05.440] [INFO] Moving offensive blocker Bludfist Galach with 4 movement points
+[01:39:05.440] [INFO] Attempt block of Mugfinger by Bludfist Galach
+[01:39:05.440] [INFO] Offensive blocker chose move (1, 1) with score 981
+[01:39:05.440] [INFO] Goblin Bludfist Galach moved from (1, 3) to (1, 1)
+[01:39:05.440] [INFO] Movement trail: [(1, 5), (0, 4), (1, 1), (1, 3), (1, 1)]
+[01:39:05.440] [INFO] Moving offensive blocker Grakslicer with 2 movement points
+[01:39:05.440] [INFO] Offensive blocker chose move (0, 0) with score 1004
+[01:39:05.440] [INFO] Goblin Grakslicer moved from (1, 0) to (0, 0)
+[01:39:05.440] [INFO] Movement trail: [(2, 3), (2, 1), (0, 1), (1, 0), (0, 0)]
+[01:39:05.440] [INFO] Moving offensive blocker Thrakfoot Cerdern with 3 movement points
+[01:39:05.440] [INFO] Offensive blocker chose move (2, 1) with score 890
+[01:39:05.440] [INFO] Moving offensive blocker Bludfist Teondra with 2 movement points
+[01:39:05.440] [INFO] Attempt block of Mugfinger by Bludfist Teondra
+[01:39:05.440] [INFO] Moving defensive blocker Fizzmangler Talarin with 2 movement points
+[01:39:05.440] [INFO] Defensive blocker chose move (3, 2) with score 616
+[01:39:05.440] [INFO] Goblin Fizzmangler Talarin moved from (3, 4) to (3, 2)
+[01:39:05.440] [INFO] Movement trail: [(4, 5), (4, 3), (2, 3), (3, 4), (3, 2)]
+[01:39:05.440] [INFO] Moving defensive blocker Mugfinger with 3 movement points
+[01:39:05.440] [INFO] Defensive blocker Mugfinger pursuing carrier Krunkfist Peredon
+[01:39:05.440] [INFO] Moving defensive blocker Globgob Yelina with 2 movement points
+[01:39:05.440] [INFO] Defensive blocker chose move (0, 3) with score 786
+[01:39:05.440] [INFO] Goblin Globgob Yelina moved from (0, 5) to (0, 3)
+[01:39:05.440] [INFO] Movement trail: [(1, 7), (1, 5), (0, 4), (0, 5), (0, 3)]
+[01:39:06.557] [INFO] Moving carrier Krunkfist Peredon with 3 movement points
+[01:39:06.557] [INFO] Goblin Krunkfist Peredon moved from (0, 1) to (1, 0)
+[01:39:06.557] [INFO] Movement trail: [(1, 2), (0, 2), (1, 1), (0, 1), (1, 0)]
+[01:39:06.557] [INFO] Carrier Krunkfist Peredon moved to (1, 0)

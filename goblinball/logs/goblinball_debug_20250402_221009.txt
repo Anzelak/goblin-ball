@@ -1,0 +1,526 @@
+[22:10:09.436] [INFO] === Goblinball Debug Log - 20250402_221009 ===
+[22:10:09.464] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[22:10:10.793] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:10.793] [INFO] Carrier Bludgulper Streis moved to (3, 8)
+[22:10:10.793] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:10.793] [INFO] Offensive blocker chose move (3, 7) with score 949
+[22:10:10.794] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:10.794] [INFO] Offensive blocker chose move (4, 8) with score 911
+[22:10:10.796] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:10.796] [INFO] Offensive blocker chose move (6, 8) with score 716
+[22:10:10.796] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:10.796] [INFO] Offensive blocker chose move (5, 8) with score 811
+[22:10:10.796] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:10.796] [INFO] Defensive blocker chose move (3, 1) with score 674
+[22:10:10.796] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:10.796] [INFO] Defensive blocker chose move (3, 0) with score 672
+[22:10:10.796] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:10.796] [INFO] Defensive blocker chose move (6, 0) with score 345
+[22:10:10.796] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:10.796] [INFO] Defensive blocker chose move (4, 1) with score 647
+[22:10:10.796] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:10.796] [INFO] Defensive blocker chose move (8, 1) with score 365
+[22:10:11.539] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:11.539] [INFO] Carrier Bludgulper Streis moved to (2, 8)
+[22:10:11.539] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:11.539] [INFO] Offensive blocker chose move (2, 7) with score 943
+[22:10:11.539] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:11.539] [INFO] Offensive blocker chose move (3, 8) with score 938
+[22:10:11.539] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:11.539] [INFO] Offensive blocker chose move (4, 8) with score 817
+[22:10:11.539] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:11.539] [INFO] Offensive blocker chose move (1, 8) with score 940
+[22:10:11.539] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:11.539] [INFO] Defensive blocker chose move (2, 3) with score 668
+[22:10:11.539] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:11.539] [INFO] Defensive blocker chose move (2, 0) with score 663
+[22:10:11.539] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:11.539] [INFO] Defensive blocker chose move (7, 0) with score 370
+[22:10:11.539] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:11.539] [INFO] Defensive blocker chose move (2, 1) with score 675
+[22:10:11.539] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:11.539] [INFO] Defensive blocker chose move (9, 1) with score 362
+[22:10:12.428] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:12.428] [INFO] Carrier Bludgulper Streis moved to (2, 9)
+[22:10:12.428] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:12.429] [INFO] Offensive blocker chose move (1, 9) with score 883
+[22:10:12.429] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:12.429] [INFO] Offensive blocker chose move (2, 8) with score 921
+[22:10:12.429] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:12.429] [INFO] Offensive blocker chose move (3, 9) with score 856
+[22:10:12.429] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:12.429] [INFO] Offensive blocker chose move (2, 7) with score 837
+[22:10:12.429] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:12.429] [INFO] Defensive blocker chose move (1, 1) with score 674
+[22:10:12.429] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:12.429] [INFO] Defensive blocker chose move (2, 2) with score 668
+[22:10:12.429] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:12.429] [INFO] Defensive blocker chose move (6, 0) with score 349
+[22:10:12.429] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:12.429] [INFO] Defensive blocker chose move (3, 1) with score 674
+[22:10:12.429] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:12.429] [INFO] Defensive blocker chose move (8, 1) with score 358
+[22:10:13.316] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:13.316] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:13.316] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:13.316] [INFO] Offensive blocker chose move (0, 9) with score 830
+[22:10:13.316] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:13.316] [INFO] Offensive blocker chose move (1, 9) with score 872
+[22:10:13.316] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:13.316] [INFO] Offensive blocker chose move (2, 8) with score 934
+[22:10:13.316] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:13.316] [INFO] Offensive blocker chose move (3, 9) with score 848
+[22:10:13.316] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:13.316] [INFO] Defensive blocker chose move (2, 3) with score 675
+[22:10:13.316] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:13.316] [INFO] Defensive blocker chose move (2, 0) with score 662
+[22:10:13.316] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:13.316] [INFO] Defensive blocker chose move (7, 0) with score 365
+[22:10:13.316] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:13.316] [INFO] Defensive blocker chose move (2, 4) with score 675
+[22:10:13.316] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:13.316] [INFO] Defensive blocker chose move (8, 0) with score 365
+[22:10:14.168] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:14.168] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:14.168] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:14.168] [INFO] Offensive blocker chose move (2, 7) with score 853
+[22:10:14.168] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:14.168] [INFO] Offensive blocker chose move (1, 8) with score 833
+[22:10:14.168] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:14.168] [INFO] Offensive blocker chose move (1, 9) with score 848
+[22:10:14.168] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:14.169] [INFO] Offensive blocker chose move (2, 8) with score 897
+[22:10:14.169] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:14.169] [INFO] Defensive blocker chose move (2, 6) with score 675
+[22:10:14.169] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:14.169] [INFO] Defensive blocker chose move (1, 1) with score 675
+[22:10:14.169] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:14.169] [INFO] Defensive blocker chose move (7, 1) with score 363
+[22:10:14.169] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:14.169] [INFO] Defensive blocker chose move (1, 7) with score 674
+[22:10:14.169] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:14.169] [INFO] Defensive blocker chose move (9, 0) with score 364
+[22:10:15.017] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:15.017] [INFO] Carrier Bludgulper Streis moved to (3, 9)
+[22:10:15.017] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:15.017] [INFO] Offensive blocker chose move (2, 9) with score 877
+[22:10:15.017] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:15.017] [INFO] Offensive blocker chose move (3, 8) with score 924
+[22:10:15.017] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:15.017] [INFO] Offensive blocker chose move (1, 8) with score 696
+[22:10:15.017] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:15.017] [INFO] Offensive blocker chose move (4, 9) with score 884
+[22:10:15.017] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:15.017] [INFO] Defensive blocker chose move (2, 3) with score 675
+[22:10:15.017] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:15.017] [INFO] Defensive blocker chose move (3, 1) with score 657
+[22:10:15.017] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:15.017] [INFO] Defensive blocker chose move (7, 0) with score 363
+[22:10:15.017] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:15.017] [INFO] Defensive blocker chose move (1, 9) with score 807
+[22:10:15.017] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:15.017] [INFO] Defensive blocker chose move (8, 0) with score 357
+[22:10:15.871] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:15.871] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:15.871] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:15.871] [INFO] Offensive blocker chose move (3, 7) with score 838
+[22:10:15.871] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:15.871] [INFO] Offensive blocker chose move (2, 9) with score 850
+[22:10:15.871] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:15.871] [INFO] Offensive blocker chose move (3, 8) with score 920
+[22:10:15.871] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:15.871] [INFO] Offensive blocker chose move (5, 9) with score 815
+[22:10:15.871] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:15.871] [INFO] Defensive blocker chose move (3, 2) with score 672
+[22:10:15.871] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:15.871] [INFO] Defensive blocker chose move (2, 1) with score 671
+[22:10:15.871] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:15.871] [INFO] Defensive blocker chose move (7, 1) with score 344
+[22:10:15.871] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:15.871] [INFO] Defensive blocker chose move (1, 9) with score 780
+[22:10:15.871] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:15.871] [INFO] Defensive blocker chose move (9, 0) with score 366
+[22:10:16.887] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:16.887] [INFO] Carrier Bludgulper Streis moved to (4, 9)
+[22:10:16.887] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:16.887] [INFO] Offensive blocker chose move (3, 9) with score 1882
+[22:10:16.887] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:16.887] [INFO] Attempt block of Krakchewer Ahburn by Lugfoot the Tough
+[22:10:16.887] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:16.887] [INFO] Offensive blocker chose move (4, 8) with score 936
+[22:10:16.887] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:16.887] [INFO] Offensive blocker chose move (4, 7) with score 846
+[22:10:16.887] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:16.887] [INFO] Defensive blocker chose move (4, 0) with score 669
+[22:10:16.887] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:16.887] [INFO] Defensive blocker chose move (4, 1) with score 669
+[22:10:16.887] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:16.887] [INFO] Defensive blocker chose move (6, 1) with score 366
+[22:10:16.887] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:16.887] [INFO] Defensive blocker Krakchewer Ahburn pursuing carrier Bludgulper Streis
+[22:10:16.887] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:16.888] [INFO] Defensive blocker chose move (9, 1) with score 338
+[22:10:17.477] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:17.477] [INFO] Carrier Bludgulper Streis moved to (5, 9)
+[22:10:17.477] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:17.477] [INFO] Offensive blocker chose move (6, 9) with score 908
+[22:10:17.477] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:17.477] [INFO] Offensive blocker chose move (4, 9) with score 931
+[22:10:17.477] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:17.477] [INFO] Offensive blocker chose move (5, 8) with score 918
+[22:10:17.477] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:17.477] [INFO] Offensive blocker chose move (5, 7) with score 825
+[22:10:17.477] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:17.477] [INFO] Defensive blocker chose move (6, 0) with score 648
+[22:10:17.477] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:17.477] [INFO] Defensive blocker chose move (5, 0) with score 657
+[22:10:17.477] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:17.477] [INFO] Defensive blocker chose move (5, 1) with score 672
+[22:10:17.477] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:17.477] [INFO] Defensive blocker chose move (3, 9) with score 778
+[22:10:17.477] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:17.477] [INFO] Defensive blocker chose move (9, 2) with score 373
+[22:10:18.202] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:18.202] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:18.202] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:18.202] [INFO] Offensive blocker chose move (4, 8) with score 826
+[22:10:18.202] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:18.202] [INFO] Attempt block of Krakchewer Ahburn by Lugfoot the Tough
+[22:10:18.202] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:18.202] [INFO] Offensive blocker chose move (6, 9) with score 849
+[22:10:18.202] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:18.202] [INFO] Offensive blocker chose move (5, 8) with score 862
+[22:10:18.202] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:18.202] [INFO] Defensive blocker chose move (5, 2) with score 669
+[22:10:18.202] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:18.202] [INFO] Defensive blocker chose move (4, 1) with score 669
+[22:10:18.202] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:18.202] [INFO] Defensive blocker chose move (5, 0) with score 647
+[22:10:18.202] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:18.202] [INFO] Defensive blocker Krakchewer Ahburn pursuing carrier Bludgulper Streis
+[22:10:18.202] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:18.202] [INFO] Defensive blocker chose move (9, 3) with score 350
+[22:10:18.610] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:18.610] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:18.610] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:18.610] [INFO] Attempt block of Krakchewer Ahburn by Gnogfoot
+[22:10:18.610] [INFO] Offensive blocker chose move (6, 8) with score 833
+[22:10:18.610] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:18.610] [INFO] Attempt block of Krakchewer Ahburn by Lugfoot the Tough
+[22:10:18.610] [INFO] Block succeeded!
+[22:10:18.610] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:18.610] [INFO] Offensive blocker chose move (7, 9) with score 800
+[22:10:18.610] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:18.610] [INFO] Offensive blocker chose move (6, 9) with score 881
+[22:10:18.610] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:18.610] [INFO] Defensive blocker chose move (4, 0) with score 674
+[22:10:18.610] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:18.610] [INFO] Defensive blocker chose move (4, 2) with score 667
+[22:10:18.610] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:18.610] [INFO] Defensive blocker chose move (6, 0) with score 654
+[22:10:18.610] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:18.610] [INFO] Defensive blocker Krakchewer Ahburn pursuing carrier Bludgulper Streis
+[22:10:18.610] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:18.611] [INFO] Defensive blocker chose move (9, 4) with score 354
+[22:10:18.974] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:18.975] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:18.975] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:18.975] [INFO] Attempt block of Krakchewer Ahburn by Gnogfoot
+[22:10:18.975] [INFO] Offensive blocker chose move (4, 8) with score 839
+[22:10:18.975] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:18.975] [INFO] Attempt block of Krakchewer Ahburn by Lugfoot the Tough
+[22:10:18.975] [INFO] Block succeeded!
+[22:10:18.975] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:18.975] [INFO] Offensive blocker chose move (6, 8) with score 1013
+[22:10:18.975] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:18.975] [INFO] Offensive blocker chose move (5, 8) with score 2105
+[22:10:18.975] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:18.975] [INFO] Defensive blocker chose move (4, 3) with score 664
+[22:10:18.975] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:18.975] [INFO] Defensive blocker chose move (6, 2) with score 674
+[22:10:18.975] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:18.975] [INFO] Defensive blocker chose move (6, 1) with score 658
+[22:10:18.975] [INFO] Moving defensive blocker Krakchewer Ahburn with 4 movement points
+[22:10:18.975] [INFO] Defensive blocker Krakchewer Ahburn pursuing carrier Bludgulper Streis
+[22:10:18.975] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:18.975] [INFO] Defensive blocker chose move (9, 5) with score 360
+[22:10:19.354] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:19.354] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:19.354] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:19.354] [INFO] Offensive blocker chose move (5, 7) with score 845
+[22:10:19.354] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:19.354] [INFO] Offensive blocker chose move (3, 9) with score 805
+[22:10:19.354] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:19.354] [INFO] Attempt block of Krakchewer Ahburn by Wortsmasher Vonessa the Mighty
+[22:10:19.354] [INFO] Block succeeded!
+[22:10:19.354] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:19.354] [INFO] Offensive blocker chose move (4, 9) with score 850
+[22:10:19.354] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:19.354] [INFO] Defensive blocker chose move (4, 2) with score 674
+[22:10:19.354] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:19.354] [INFO] Defensive blocker chose move (6, 0) with score 658
+[22:10:19.354] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:19.354] [INFO] Defensive blocker chose move (6, 2) with score 667
+[22:10:19.354] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:19.354] [INFO] Defensive blocker chose move (9, 6) with score 370
+[22:10:19.697] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:19.697] [INFO] Carrier Bludgulper Streis moved to (5, 8)
+[22:10:19.697] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:19.698] [INFO] Offensive blocker chose move (5, 9) with score 874
+[22:10:19.698] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:19.698] [INFO] Offensive blocker chose move (4, 8) with score 933
+[22:10:19.698] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:19.698] [INFO] Offensive blocker chose move (5, 7) with score 951
+[22:10:19.698] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:19.698] [INFO] Offensive blocker chose move (6, 8) with score 925
+[22:10:19.698] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:19.698] [INFO] Defensive blocker chose move (5, 0) with score 663
+[22:10:19.698] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:19.698] [INFO] Defensive blocker chose move (6, 1) with score 670
+[22:10:19.698] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:19.698] [INFO] Defensive blocker chose move (5, 2) with score 654
+[22:10:19.698] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:19.698] [INFO] Defensive blocker chose move (8, 6) with score 373
+[22:10:20.255] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:20.255] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:20.255] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:20.255] [INFO] Offensive blocker chose move (5, 6) with score 833
+[22:10:20.255] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:20.255] [INFO] Offensive blocker chose move (5, 9) with score 860
+[22:10:20.255] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:20.255] [INFO] Offensive blocker chose move (4, 8) with score 859
+[22:10:20.255] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:20.256] [INFO] Offensive blocker chose move (5, 7) with score 955
+[22:10:20.256] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:20.256] [INFO] Defensive blocker chose move (4, 1) with score 661
+[22:10:20.256] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:20.256] [INFO] Defensive blocker chose move (5, 1) with score 673
+[22:10:20.256] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:20.256] [INFO] Defensive blocker chose move (6, 2) with score 669
+[22:10:20.256] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:20.256] [INFO] Defensive blocker chose move (7, 6) with score 360
+[22:10:20.718] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:20.718] [INFO] Carrier Bludgulper Streis moved to (6, 8)
+[22:10:20.718] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:20.718] [INFO] Offensive blocker chose move (6, 7) with score 2103
+[22:10:20.718] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:20.719] [INFO] Offensive blocker chose move (5, 8) with score 899
+[22:10:20.719] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:20.719] [INFO] Offensive blocker chose move (5, 9) with score 771
+[22:10:20.719] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:20.719] [INFO] Offensive blocker chose move (6, 7) with score 2123
+[22:10:20.719] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:20.719] [INFO] Defensive blocker chose move (5, 2) with score 667
+[22:10:20.719] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:20.719] [INFO] Defensive blocker chose move (5, 3) with score 668
+[22:10:20.719] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:20.719] [INFO] Defensive blocker chose move (6, 3) with score 667
+[22:10:20.719] [INFO] Moving defensive blocker Fizzstabber with 1 movement points
+[22:10:20.719] [INFO] Defensive blocker Fizzstabber pursuing carrier Bludgulper Streis
+[22:10:21.209] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:21.209] [INFO] Carrier Bludgulper Streis moved to (7, 8)
+[22:10:21.209] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:21.209] [INFO] Attempt block of Fizzstabber by Gnogfoot
+[22:10:21.209] [INFO] Offensive blocker chose move (5, 7) with score 889
+[22:10:21.209] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:21.209] [INFO] Offensive blocker chose move (6, 8) with score 935
+[22:10:21.209] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:21.209] [INFO] Offensive blocker chose move (7, 9) with score 935
+[22:10:21.209] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:21.209] [INFO] Attempt block of Fizzstabber by Grakgob the Strong
+[22:10:21.209] [INFO] Block succeeded!
+[22:10:21.209] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:21.209] [INFO] Defensive blocker chose move (8, 2) with score 670
+[22:10:21.209] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:21.209] [INFO] Defensive blocker chose move (7, 3) with score 666
+[22:10:21.209] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:21.209] [INFO] Defensive blocker chose move (6, 4) with score 640
+[22:10:21.654] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:21.654] [INFO] Carrier Bludgulper Streis moved to (8, 8)
+[22:10:21.654] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:21.654] [INFO] Offensive blocker chose move (8, 7) with score 918
+[22:10:21.654] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:21.654] [INFO] Offensive blocker chose move (7, 8) with score 935
+[22:10:21.654] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:21.654] [INFO] Offensive blocker chose move (8, 9) with score 930
+[22:10:21.654] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:21.654] [INFO] Offensive blocker chose move (9, 8) with score 880
+[22:10:21.654] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:21.654] [INFO] Defensive blocker chose move (8, 0) with score 673
+[22:10:21.654] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:21.654] [INFO] Defensive blocker chose move (7, 5) with score 675
+[22:10:21.654] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:21.654] [INFO] Defensive blocker chose move (7, 4) with score 636
+[22:10:22.065] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:22.065] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:22.065] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:22.066] [INFO] Offensive blocker chose move (8, 6) with score 843
+[22:10:22.066] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:22.066] [INFO] Offensive blocker chose move (8, 7) with score 948
+[22:10:22.066] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:22.066] [INFO] Offensive blocker chose move (7, 8) with score 941
+[22:10:22.066] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:22.066] [INFO] Offensive blocker chose move (8, 9) with score 865
+[22:10:22.066] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:22.066] [INFO] Defensive blocker chose move (7, 0) with score 671
+[22:10:22.066] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:22.066] [INFO] Defensive blocker chose move (7, 6) with score 670
+[22:10:22.066] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:22.066] [INFO] Defensive blocker chose move (7, 3) with score 666
+[22:10:22.427] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:22.427] [INFO] Carrier Bludgulper Streis moved to (9, 8)
+[22:10:22.427] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:22.427] [INFO] Offensive blocker chose move (9, 7) with score 867
+[22:10:22.427] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:22.427] [INFO] Offensive blocker chose move (8, 8) with score 849
+[22:10:22.427] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:22.427] [INFO] Offensive blocker chose move (8, 7) with score 852
+[22:10:22.427] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:22.427] [INFO] Offensive blocker chose move (9, 9) with score 933
+[22:10:22.427] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:22.427] [INFO] Defensive blocker chose move (8, 0) with score 674
+[22:10:22.427] [INFO] Moving defensive blocker Luggulper Baldur with 2 movement points
+[22:10:22.427] [INFO] Defensive blocker chose move (7, 8) with score 783
+[22:10:22.427] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:22.427] [INFO] Defensive blocker chose move (8, 3) with score 674
+[22:10:23.196] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:23.196] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:23.196] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:23.196] [INFO] Offensive blocker chose move (9, 6) with score 857
+[22:10:23.196] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:23.196] [INFO] Attempt block of Luggulper Baldur by Lugfoot the Tough
+[22:10:23.196] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:23.196] [INFO] Attempt block of Luggulper Baldur by Wortsmasher Vonessa the Mighty
+[22:10:23.196] [INFO] Block succeeded!
+[22:10:23.196] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:23.196] [INFO] Offensive blocker chose move (9, 7) with score 930
+[22:10:23.196] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:23.196] [INFO] Defensive blocker chose move (8, 1) with score 675
+[22:10:23.196] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:23.196] [INFO] Defensive blocker chose move (8, 2) with score 675
+[22:10:23.624] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:23.624] [INFO] Carrier Bludgulper Streis moved to (9, 9)
+[22:10:23.624] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:23.625] [INFO] Offensive blocker chose move (8, 9) with score 876
+[22:10:23.625] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:23.625] [INFO] Offensive blocker chose move (9, 8) with score 943
+[22:10:23.625] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:23.625] [INFO] Offensive blocker chose move (8, 8) with score 790
+[22:10:23.625] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:23.625] [INFO] Offensive blocker chose move (7, 9) with score 782
+[22:10:23.625] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:23.625] [INFO] Defensive blocker chose move (9, 2) with score 669
+[22:10:23.625] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:23.625] [INFO] Defensive blocker chose move (8, 1) with score 655
+[22:10:24.119] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:24.119] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:24.119] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:24.119] [INFO] Offensive blocker chose move (9, 7) with score 829
+[22:10:24.119] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:24.119] [INFO] Offensive blocker chose move (8, 9) with score 845
+[22:10:24.119] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:24.119] [INFO] Offensive blocker chose move (9, 8) with score 908
+[22:10:24.119] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:24.119] [INFO] Offensive blocker chose move (8, 8) with score 814
+[22:10:24.119] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:24.119] [INFO] Defensive blocker chose move (9, 3) with score 657
+[22:10:24.119] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:24.119] [INFO] Defensive blocker chose move (8, 2) with score 675
+[22:10:24.600] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:24.600] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:24.600] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:24.600] [INFO] Offensive blocker chose move (9, 6) with score 752
+[22:10:24.600] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:24.600] [INFO] Offensive blocker chose move (7, 9) with score 826
+[22:10:24.600] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:24.600] [INFO] Offensive blocker chose move (8, 9) with score 883
+[22:10:24.600] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:24.600] [INFO] Offensive blocker chose move (9, 8) with score 917
+[22:10:24.600] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:24.600] [INFO] Defensive blocker chose move (8, 1) with score 665
+[22:10:24.600] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:24.600] [INFO] Defensive blocker chose move (9, 2) with score 666
+[22:10:24.927] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:24.927] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:24.927] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:24.927] [INFO] Offensive blocker chose move (8, 8) with score 795
+[22:10:24.927] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:24.927] [INFO] Offensive blocker chose move (5, 9) with score 633
+[22:10:24.928] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:24.928] [INFO] Offensive blocker chose move (7, 9) with score 788
+[22:10:24.928] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:24.928] [INFO] Offensive blocker chose move (8, 9) with score 872
+[22:10:24.928] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:24.928] [INFO] Defensive blocker chose move (9, 0) with score 669
+[22:10:24.928] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:24.928] [INFO] Defensive blocker chose move (9, 1) with score 659
+[22:10:25.405] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:25.406] [INFO] Carrier Bludgulper Streis moved to (9, 8)
+[22:10:25.406] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:25.406] [INFO] Offensive blocker chose move (9, 7) with score 952
+[22:10:25.406] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:25.406] [INFO] Offensive blocker chose move (6, 8) with score 729
+[22:10:25.406] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:25.406] [INFO] Offensive blocker chose move (9, 9) with score 913
+[22:10:25.406] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:25.406] [INFO] Offensive blocker chose move (8, 8) with score 906
+[22:10:25.406] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:25.406] [INFO] Defensive blocker chose move (9, 3) with score 670
+[22:10:25.406] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:25.406] [INFO] Defensive blocker chose move (9, 2) with score 668
+[22:10:25.767] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:25.767] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:25.768] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:25.768] [INFO] Offensive blocker chose move (9, 6) with score 852
+[22:10:25.768] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:25.768] [INFO] Offensive blocker chose move (7, 7) with score 733
+[22:10:25.768] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:25.768] [INFO] Offensive blocker chose move (9, 7) with score 918
+[22:10:25.768] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:25.768] [INFO] Offensive blocker chose move (9, 9) with score 864
+[22:10:25.768] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:25.768] [INFO] Defensive blocker chose move (8, 2) with score 674
+[22:10:25.768] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:25.768] [INFO] Defensive blocker chose move (9, 3) with score 674
+[22:10:26.081] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:26.082] [INFO] Carrier Bludgulper Streis moved to (8, 8)
+[22:10:26.082] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:26.082] [INFO] Offensive blocker chose move (8, 7) with score 892
+[22:10:26.082] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:26.082] [INFO] Offensive blocker chose move (8, 6) with score 828
+[22:10:26.082] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:26.082] [INFO] Offensive blocker chose move (9, 8) with score 894
+[22:10:26.082] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:26.082] [INFO] Offensive blocker chose move (8, 9) with score 908
+[22:10:26.082] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:26.082] [INFO] Defensive blocker chose move (8, 4) with score 673
+[22:10:26.082] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:26.082] [INFO] Defensive blocker chose move (9, 2) with score 674
+[22:10:26.426] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:26.426] [INFO] Carrier Bludgulper Streis couldn't find valid move
+[22:10:26.426] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:26.426] [INFO] Offensive blocker chose move (9, 7) with score 811
+[22:10:26.426] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:26.426] [INFO] Offensive blocker chose move (8, 7) with score 877
+[22:10:26.426] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:26.426] [INFO] Offensive blocker chose move (9, 9) with score 771
+[22:10:26.426] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:26.426] [INFO] Offensive blocker chose move (9, 8) with score 931
+[22:10:26.426] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:26.426] [INFO] Defensive blocker chose move (9, 6) with score 674
+[22:10:26.426] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:26.426] [INFO] Defensive blocker chose move (9, 3) with score 667
+[22:10:26.835] [INFO] Moving carrier Bludgulper Streis with 1 movement points
+[22:10:26.835] [INFO] Carrier Bludgulper Streis moved to (8, 9)
+[22:10:26.835] [INFO] Moving offensive blocker Gnogfoot with 4 movement points
+[22:10:26.835] [INFO] Offensive blocker chose move (8, 8) with score 875
+[22:10:26.835] [INFO] Moving offensive blocker Lugfoot the Tough with 2 movement points
+[22:10:26.835] [INFO] Offensive blocker chose move (9, 7) with score 748
+[22:10:26.835] [INFO] Moving offensive blocker Wortsmasher Vonessa the Mighty with 2 movement points
+[22:10:26.835] [INFO] Offensive blocker chose move (7, 9) with score 926
+[22:10:26.835] [INFO] Moving offensive blocker Grakgob the Strong with 4 movement points
+[22:10:26.835] [INFO] Offensive blocker chose move (9, 9) with score 866
+[22:10:26.835] [INFO] Moving defensive blocker Zogskull the Brutal with 3 movement points
+[22:10:26.835] [INFO] Defensive blocker chose move (7, 7) with score 661
+[22:10:26.835] [INFO] Moving defensive blocker Skabcrusher Tisnolthtos with 1 movement points
+[22:10:26.835] [INFO] Defensive blocker chose move (9, 2) with score 657

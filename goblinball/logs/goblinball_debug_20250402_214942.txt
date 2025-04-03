@@ -1,0 +1,30 @@
+[21:49:42.030] [INFO] === Goblinball Debug Log - 20250402_214942 ===
+[21:49:42.051] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[21:49:43.830] [INFO] Moving carrier Krakfinger with 3 movement points
+[21:49:43.830] [INFO] Carrier Krakfinger moved to (5, 7)
+[21:49:43.830] [INFO] Moving offensive blocker Grakgulper with 1 movement points
+[21:49:43.830] [INFO] Offensive blocker chose move (3, 8) with score 739
+[21:49:43.830] [INFO] Moving offensive blocker Skrizface with 3 movement points
+[21:49:43.830] [INFO] Offensive blocker chose move (4, 7) with score 942
+[21:49:43.830] [INFO] Moving offensive blocker Wortchomper Cyberchucks  with 3 movement points
+[21:49:43.830] [INFO] Offensive blocker chose move (6, 7) with score 948
+[21:49:43.830] [INFO] Moving offensive blocker Globface with 1 movement points
+[21:49:43.830] [INFO] Offensive blocker chose move (9, 7) with score 642
+[21:49:43.830] [INFO] Moving defensive blocker Lugstomper  with 2 movement points
+[21:49:43.830] [INFO] Defensive blocker chose move (2, 2) with score 361
+[21:49:43.830] [INFO] Moving defensive blocker Stabslicer with 4 movement points
+[21:49:43.830] [INFO] Defensive blocker chose move (4, 0) with score 668
+[21:49:43.830] [INFO] Moving defensive blocker Wortstomper with 3 movement points
+[21:49:43.830] [INFO] Defensive blocker chose move (4, 2) with score 673
+[21:49:43.830] [INFO] Moving defensive blocker Mugchewer with 3 movement points
+[21:49:43.830] [INFO] Defensive blocker chose move (5, 1) with score 674
+[21:49:43.830] [INFO] Moving defensive blocker Skabgulper Enton the Quick with 3 movement points
+[21:49:43.830] [INFO] Defensive blocker chose move (6, 1) with score 663
+[21:49:46.057] [INFO] Moving carrier Krakfinger with 1 movement points
+[21:49:46.057] [INFO] Carrier Krakfinger moved to (5, 6)
+[21:49:46.057] [INFO] Moving defensive blocker Lugstomper  with 1 movement points
+[21:49:46.057] [INFO] Defensive blocker chose move (2, 3) with score 375
+[21:49:46.057] [INFO] Moving defensive blocker Stabslicer with 3 movement points
+[21:49:46.057] [INFO] Defensive blocker chose move (4, 1) with score 656
+[21:49:49.264] [INFO] Moving defensive blocker Stabslicer with 2 movement points
+[21:49:49.264] [INFO] Defensive blocker chose move (5, 0) with score 664

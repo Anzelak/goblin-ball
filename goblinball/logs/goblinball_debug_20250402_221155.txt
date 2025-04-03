@@ -1,0 +1,186 @@
+[22:11:55.824] [INFO] === Goblinball Debug Log - 20250402_221155 ===
+[22:11:55.845] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[22:11:57.225] [INFO] Moving carrier Stabnose with 2 movement points
+[22:11:57.226] [INFO] Carrier Stabnose moved to (5, 7)
+[22:11:57.226] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:11:57.227] [INFO] Offensive blocker chose move (5, 8) with score 930
+[22:11:57.227] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:11:57.227] [INFO] Offensive blocker chose move (6, 7) with score 926
+[22:11:57.230] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:11:57.230] [INFO] Offensive blocker chose move (8, 7) with score 754
+[22:11:57.230] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:11:57.230] [INFO] Offensive blocker chose move (6, 8) with score 840
+[22:11:57.230] [INFO] Moving defensive blocker Grimstomper Landoris with 2 movement points
+[22:11:57.230] [INFO] Defensive blocker chose move (2, 2) with score 375
+[22:11:57.230] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:11:57.230] [INFO] Defensive blocker chose move (4, 2) with score 666
+[22:11:57.230] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:11:57.230] [INFO] Defensive blocker chose move (4, 1) with score 670
+[22:11:57.230] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:11:57.230] [INFO] Defensive blocker chose move (6, 1) with score 652
+[22:11:57.230] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:11:57.230] [INFO] Defensive blocker chose move (9, 4) with score 367
+[22:11:57.654] [INFO] Moving carrier Stabnose with 2 movement points
+[22:11:57.654] [INFO] Carrier Stabnose moved to (5, 6)
+[22:11:57.654] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:11:57.654] [INFO] Offensive blocker chose move (5, 7) with score 949
+[22:11:57.654] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:11:57.654] [INFO] Offensive blocker chose move (6, 6) with score 960
+[22:11:57.654] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:11:57.654] [INFO] Offensive blocker chose move (7, 7) with score 754
+[22:11:57.654] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:11:57.654] [INFO] Offensive blocker chose move (5, 8) with score 837
+[22:11:57.654] [INFO] Moving defensive blocker Grimstomper Landoris with 2 movement points
+[22:11:57.654] [INFO] Defensive blocker chose move (2, 4) with score 371
+[22:11:57.654] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:11:57.654] [INFO] Defensive blocker chose move (4, 3) with score 674
+[22:11:57.654] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:11:57.654] [INFO] Defensive blocker chose move (5, 0) with score 663
+[22:11:57.654] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:11:57.654] [INFO] Defensive blocker chose move (5, 2) with score 673
+[22:11:57.654] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:11:57.654] [INFO] Defensive blocker chose move (8, 6) with score 682
+[22:11:58.285] [INFO] Moving carrier Stabnose with 2 movement points
+[22:11:58.285] [INFO] Carrier Stabnose moved to (5, 5)
+[22:11:58.285] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:11:58.285] [INFO] Offensive blocker chose move (5, 4) with score 2377
+[22:11:58.285] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:11:58.285] [INFO] Offensive blocker chose move (5, 6) with score 958
+[22:11:58.285] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:11:58.285] [INFO] Offensive blocker chose move (7, 6) with score 762
+[22:11:58.285] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:11:58.285] [INFO] Offensive blocker chose move (6, 6) with score 858
+[22:11:58.285] [INFO] Moving defensive blocker Grimstomper Landoris with 2 movement points
+[22:11:58.285] [INFO] Defensive blocker chose move (3, 5) with score 809
+[22:11:58.285] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:11:58.285] [INFO] Defensive blocker Skabchomper the Sneaky pursuing carrier Stabnose
+[22:11:58.285] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:11:58.285] [INFO] Defensive blocker chose move (5, 1) with score 669
+[22:11:58.285] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:11:58.285] [INFO] Defensive blocker Mugmangler Karter pursuing carrier Stabnose
+[22:11:58.285] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:11:58.285] [INFO] Defensive blocker chose move (6, 5) with score 915
+[22:11:58.879] [INFO] Moving carrier Stabnose with 2 movement points
+[22:11:58.879] [INFO] Carrier Stabnose moved to (4, 5)
+[22:11:58.880] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:11:58.880] [INFO] Attempt block of Skabchomper the Sneaky by Krakskull Browning
+[22:11:58.880] [INFO] Attempt block of Mugmangler Karter by Krakskull Browning
+[22:11:58.880] [INFO] Offensive blocker chose move (4, 4) with score 2365
+[22:11:58.880] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:11:58.880] [INFO] Offensive blocker chose move (5, 5) with score 960
+[22:11:58.880] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:11:58.880] [INFO] Offensive blocker chose move (7, 5) with score 737
+[22:11:58.880] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:11:58.880] [INFO] Offensive blocker chose move (5, 4) with score 1249
+[22:11:58.880] [INFO] Moving defensive blocker Grimstomper Landoris with 2 movement points
+[22:11:58.880] [INFO] Defensive blocker Grimstomper Landoris attempting to block carrier Stabnose
+[22:11:58.880] [INFO] Defensive blocker Grimstomper Landoris pursuing carrier Stabnose
+[22:11:58.880] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:11:58.880] [INFO] Defensive blocker Skabchomper the Sneaky pursuing carrier Stabnose
+[22:11:58.880] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:11:58.880] [INFO] Defensive blocker chose move (3, 1) with score 672
+[22:11:58.880] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:11:58.880] [INFO] Defensive blocker Mugmangler Karter pursuing carrier Stabnose
+[22:11:58.880] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:11:58.880] [INFO] Defensive blocker chose move (6, 5) with score 810
+[22:11:59.452] [INFO] Moving carrier Stabnose with 2 movement points
+[22:11:59.452] [INFO] Carrier Stabnose moved to (3, 4)
+[22:11:59.452] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:11:59.453] [INFO] Attempt block of Grimstomper Landoris by Krakskull Browning
+[22:11:59.453] [INFO] Block succeeded!
+[22:11:59.453] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:11:59.453] [INFO] Offensive blocker chose move (4, 5) with score 844
+[22:11:59.453] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:11:59.453] [INFO] Offensive blocker chose move (6, 5) with score 663
+[22:11:59.453] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:11:59.453] [INFO] Attempt block of Skabchomper the Sneaky by Gutgulper
+[22:11:59.453] [INFO] Attempt block of Mugmangler Karter by Gutgulper
+[22:11:59.453] [INFO] Offensive blocker chose move (6, 4) with score 784
+[22:11:59.453] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:11:59.453] [INFO] Defensive blocker Skabchomper the Sneaky attempting to block carrier Stabnose
+[22:11:59.453] [INFO] Defensive blocker Skabchomper the Sneaky pursuing carrier Stabnose
+[22:11:59.453] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:11:59.453] [INFO] Defensive blocker Splatchomper pursuing carrier Stabnose
+[22:11:59.453] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:11:59.453] [INFO] Defensive blocker Mugmangler Karter pursuing carrier Stabnose
+[22:11:59.453] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:11:59.453] [INFO] Defensive blocker chose move (5, 6) with score 591
+[22:12:00.078] [INFO] Moving carrier Stabnose with 2 movement points
+[22:12:00.078] [INFO] Carrier Stabnose moved to (2, 4)
+[22:12:00.078] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:12:00.078] [INFO] Attempt block of Skabchomper the Sneaky by Krakskull Browning
+[22:12:00.078] [INFO] Block succeeded!
+[22:12:00.078] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:12:00.078] [INFO] Offensive blocker chose move (5, 5) with score 660
+[22:12:00.078] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:12:00.078] [INFO] Offensive blocker chose move (7, 5) with score 463
+[22:12:00.078] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:12:00.078] [INFO] Offensive blocker chose move (3, 4) with score 950
+[22:12:00.078] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:12:00.078] [INFO] Defensive blocker Skabchomper the Sneaky pursuing carrier Stabnose
+[22:12:00.078] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:12:00.078] [INFO] Defensive blocker Splatchomper attempting to block carrier Stabnose
+[22:12:00.078] [INFO] Defensive blocker Splatchomper pursuing carrier Stabnose
+[22:12:00.079] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:12:00.079] [INFO] Defensive blocker Mugmangler Karter pursuing carrier Stabnose
+[22:12:00.079] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:12:00.079] [INFO] Defensive blocker chose move (2, 6) with score 825
+[22:12:00.688] [INFO] Moving carrier Stabnose with 2 movement points
+[22:12:00.688] [INFO] Carrier Stabnose moved to (3, 3)
+[22:12:00.688] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:12:00.688] [INFO] Offensive blocker chose move (4, 3) with score 981
+[22:12:00.688] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:12:00.688] [INFO] Offensive blocker chose move (5, 4) with score 756
+[22:12:00.688] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:12:00.688] [INFO] Offensive blocker chose move (6, 5) with score 561
+[22:12:00.688] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:12:00.688] [INFO] Attempt block of Mugmangler Karter by Gutgulper
+[22:12:00.688] [INFO] Offensive blocker chose move (4, 4) with score 864
+[22:12:00.688] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:12:00.688] [INFO] Defensive blocker Skabchomper the Sneaky pursuing carrier Stabnose
+[22:12:00.688] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:12:00.688] [INFO] Defensive blocker Splatchomper pursuing carrier Stabnose
+[22:12:00.688] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:12:00.688] [INFO] Defensive blocker Mugmangler Karter attempting to block carrier Stabnose
+[22:12:00.688] [INFO] Block succeeded!
+[22:12:00.688] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:12:00.688] [INFO] Defensive blocker chose move (2, 4) with score 802
+[22:12:01.728] [INFO] Moving carrier Stabnose with 2 movement points
+[22:12:01.728] [INFO] Carrier Stabnose moved to (3, 2)
+[22:12:01.728] [INFO] Moving offensive blocker Krakskull Browning with 3 movement points
+[22:12:01.728] [INFO] Attempt block of Skabchomper the Sneaky by Krakskull Browning
+[22:12:01.728] [INFO] Block succeeded!
+[22:12:01.728] [INFO] Moving offensive blocker Krakchewer Krila with 1 movement points
+[22:12:01.728] [INFO] Offensive blocker chose move (5, 3) with score 785
+[22:12:01.728] [INFO] Moving offensive blocker Globfinger the Sneaky with 1 movement points
+[22:12:01.728] [INFO] Offensive blocker chose move (5, 5) with score 558
+[22:12:01.728] [INFO] Moving offensive blocker Gutgulper with 3 movement points
+[22:12:01.728] [INFO] Offensive blocker chose move (4, 2) with score 971
+[22:12:01.728] [INFO] Moving defensive blocker Skabchomper the Sneaky with 3 movement points
+[22:12:01.728] [INFO] Defensive blocker chose move (3, 3) with score 923
+[22:12:01.728] [INFO] Moving defensive blocker Splatchomper with 3 movement points
+[22:12:01.728] [INFO] Defensive blocker Splatchomper pursuing carrier Stabnose
+[22:12:01.728] [INFO] Moving defensive blocker Mugmangler Karter with 2 movement points
+[22:12:01.728] [INFO] Defensive blocker Mugmangler Karter attempting to block carrier Stabnose
+[22:12:01.728] [INFO] Block succeeded!
+[22:12:01.728] [INFO] Moving defensive blocker Gutnose Portly the Quick with 3 movement points
+[22:12:01.728] [INFO] Defensive blocker chose move (2, 1) with score 822
+[22:12:02.602] [INFO] Moving carrier Stabnose with 2 movement points
+[22:12:02.602] [INFO] Moving offensive blocker Skabchomper the Sneaky with 3 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving offensive blocker Splatchomper with 3 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving offensive blocker Mugmangler Karter with 2 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving offensive blocker Gutnose Portly the Quick with 3 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving defensive blocker Krakskull Browning with 3 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving defensive blocker Stabnose with 2 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving defensive blocker Krakchewer Krila with 1 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving defensive blocker Globfinger the Sneaky with 1 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!
+[22:12:02.602] [INFO] Moving defensive blocker Gutgulper with 3 movement points
+[22:12:02.602] [INFO] No carrier found for team Skullsmashers!

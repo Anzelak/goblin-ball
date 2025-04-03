@@ -1,0 +1,159 @@
+[01:43:46.053] [INFO] === Goblinball Debug Log - 20250403_014346 ===
+[01:43:46.053] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_014346.txt
+[01:43:46.074] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[01:43:48.739] [INFO] Moving carrier Lugchomper with 4 movement points
+[01:43:48.739] [INFO] Goblin Lugchomper moved from (4, 8) to (5, 7)
+[01:43:48.739] [INFO] Movement trail: [(4, 8), (5, 7)]
+[01:43:48.739] [INFO] Carrier Lugchomper moved to (5, 7)
+[01:43:48.740] [INFO] Moving offensive blocker Splatchewer with 4 movement points
+[01:43:48.744] [INFO] Offensive blocker chose move (4, 7) with score 943
+[01:43:48.744] [INFO] Goblin Splatchewer moved from (2, 8) to (4, 7)
+[01:43:48.744] [INFO] Movement trail: [(2, 8), (4, 7)]
+[01:43:48.744] [INFO] Moving offensive blocker Bludbasher Morton with 4 movement points
+[01:43:48.744] [INFO] Offensive blocker chose move (5, 6) with score 959
+[01:43:48.744] [INFO] Goblin Bludbasher Morton moved from (6, 8) to (5, 6)
+[01:43:48.744] [INFO] Movement trail: [(6, 8), (5, 6)]
+[01:43:48.744] [INFO] Moving offensive blocker Zogfoot with 1 movement points
+[01:43:48.744] [INFO] Offensive blocker chose move (8, 7) with score 752
+[01:43:48.744] [INFO] Goblin Zogfoot moved from (8, 8) to (8, 7)
+[01:43:48.744] [INFO] Movement trail: [(8, 8), (8, 7)]
+[01:43:48.744] [INFO] Moving offensive blocker Thrakface Snadrider  with 1 movement points
+[01:43:48.744] [INFO] Offensive blocker chose move (9, 7) with score 645
+[01:43:48.744] [INFO] Goblin Thrakface Snadrider  moved from (9, 8) to (9, 7)
+[01:43:48.744] [INFO] Movement trail: [(9, 8), (9, 7)]
+[01:43:48.744] [INFO] Moving defensive blocker Lugnose Nena with 4 movement points
+[01:43:48.744] [INFO] Defensive blocker chose move (5, 0) with score 671
+[01:43:48.744] [INFO] Goblin Lugnose Nena moved from (2, 1) to (5, 0)
+[01:43:48.744] [INFO] Movement trail: [(2, 1), (5, 0)]
+[01:43:48.744] [INFO] Moving defensive blocker Fizzsmasher Xandrog with 3 movement points
+[01:43:48.744] [INFO] Defensive blocker chose move (5, 2) with score 675
+[01:43:48.744] [INFO] Goblin Fizzsmasher Xandrog moved from (4, 1) to (5, 2)
+[01:43:48.744] [INFO] Movement trail: [(4, 1), (5, 2)]
+[01:43:48.744] [INFO] Moving defensive blocker Snotslicer Milbasqe with 3 movement points
+[01:43:48.744] [INFO] Defensive blocker chose move (6, 2) with score 672
+[01:43:48.744] [INFO] Goblin Snotslicer Milbasqe moved from (6, 1) to (6, 2)
+[01:43:48.744] [INFO] Movement trail: [(6, 1), (6, 2)]
+[01:43:48.744] [INFO] Moving defensive blocker Bludgulper the Strong with 2 movement points
+[01:43:48.744] [INFO] Defensive blocker chose move (6, 1) with score 634
+[01:43:48.744] [INFO] Goblin Bludgulper the Strong moved from (8, 1) to (6, 1)
+[01:43:48.744] [INFO] Movement trail: [(8, 1), (6, 1)]
+[01:43:48.744] [INFO] Moving defensive blocker Skrizsmasher with 3 movement points
+[01:43:48.744] [INFO] Defensive blocker chose move (8, 1) with score 369
+[01:43:48.744] [INFO] Goblin Skrizsmasher moved from (9, 1) to (8, 1)
+[01:43:48.744] [INFO] Movement trail: [(9, 1), (8, 1)]
+[01:43:50.920] [INFO] Moving carrier Lugchomper with 4 movement points
+[01:43:50.920] [INFO] Goblin Lugchomper moved from (5, 7) to (5, 5)
+[01:43:50.920] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5)]
+[01:43:50.920] [INFO] Carrier Lugchomper moved to (5, 5)
+[01:43:50.920] [INFO] Moving offensive blocker Splatchewer with 4 movement points
+[01:43:50.920] [INFO] Offensive blocker chose move (5, 4) with score 2141
+[01:43:50.920] [INFO] Goblin Splatchewer moved from (4, 7) to (5, 4)
+[01:43:50.920] [INFO] Movement trail: [(2, 8), (4, 7), (5, 4)]
+[01:43:50.920] [INFO] Moving offensive blocker Bludbasher Morton with 4 movement points
+[01:43:50.920] [INFO] Offensive blocker chose move (5, 3) with score 1079
+[01:43:50.920] [INFO] Goblin Bludbasher Morton moved from (5, 6) to (5, 3)
+[01:43:50.920] [INFO] Movement trail: [(6, 8), (5, 6), (5, 3)]
+[01:43:50.920] [INFO] Moving offensive blocker Zogfoot with 1 movement points
+[01:43:50.920] [INFO] Offensive blocker chose move (8, 6) with score 656
+[01:43:50.920] [INFO] Goblin Zogfoot moved from (8, 7) to (8, 6)
+[01:43:50.920] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6)]
+[01:43:50.920] [INFO] Moving offensive blocker Thrakface Snadrider  with 1 movement points
+[01:43:50.920] [INFO] Offensive blocker chose move (9, 6) with score 557
+[01:43:50.921] [INFO] Goblin Thrakface Snadrider  moved from (9, 7) to (9, 6)
+[01:43:50.921] [INFO] Movement trail: [(9, 8), (9, 7), (9, 6)]
+[01:43:50.921] [INFO] Moving defensive blocker Lugnose Nena with 4 movement points
+[01:43:50.921] [INFO] Defensive blocker chose move (4, 1) with score 673
+[01:43:50.921] [INFO] Goblin Lugnose Nena moved from (5, 0) to (4, 1)
+[01:43:50.921] [INFO] Movement trail: [(2, 1), (5, 0), (4, 1)]
+[01:43:50.921] [INFO] Moving defensive blocker Fizzsmasher Xandrog with 3 movement points
+[01:43:50.921] [INFO] Defensive blocker Fizzsmasher Xandrog pursuing carrier Lugchomper
+[01:43:50.921] [INFO] Goblin Fizzsmasher Xandrog moved from (5, 2) to (4, 4)
+[01:43:50.921] [INFO] Movement trail: [(4, 1), (5, 2), (4, 4)]
+[01:43:50.921] [INFO] Moving defensive blocker Snotslicer Milbasqe with 3 movement points
+[01:43:50.921] [INFO] Defensive blocker chose move (6, 5) with score 877
+[01:43:50.921] [INFO] Moving defensive blocker Bludgulper the Strong with 2 movement points
+[01:43:50.921] [INFO] Defensive blocker chose move (6, 0) with score 667
+[01:43:50.921] [INFO] Goblin Bludgulper the Strong moved from (6, 1) to (6, 0)
+[01:43:50.921] [INFO] Movement trail: [(8, 1), (6, 1), (6, 0)]
+[01:43:50.921] [INFO] Moving defensive blocker Skrizsmasher with 3 movement points
+[01:43:50.921] [INFO] Defensive blocker chose move (5, 1) with score 668
+[01:43:50.921] [INFO] Goblin Skrizsmasher moved from (8, 1) to (5, 1)
+[01:43:50.921] [INFO] Movement trail: [(9, 1), (8, 1), (5, 1)]
+[01:43:58.042] [INFO] Moving carrier Lugchomper with 4 movement points
+[01:43:58.042] [INFO] Goblin Lugchomper moved from (5, 5) to (4, 5)
+[01:43:58.042] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5), (4, 5)]
+[01:43:58.042] [INFO] Carrier Lugchomper moved to (4, 5)
+[01:43:58.042] [INFO] Moving offensive blocker Splatchewer with 4 movement points
+[01:43:58.042] [INFO] Attempt block of Fizzsmasher Xandrog by Splatchewer
+[01:43:58.042] [INFO] Offensive blocker chose move (5, 5) with score 892
+[01:43:58.042] [INFO] Goblin Splatchewer moved from (5, 4) to (5, 5)
+[01:43:58.042] [INFO] Movement trail: [(2, 8), (4, 7), (5, 4), (5, 5)]
+[01:43:58.042] [INFO] Moving offensive blocker Bludbasher Morton with 4 movement points
+[01:43:58.042] [INFO] Attempt block of Fizzsmasher Xandrog by Bludbasher Morton
+[01:43:58.042] [INFO] Offensive blocker chose move (4, 3) with score 863
+[01:43:58.042] [INFO] Goblin Bludbasher Morton moved from (5, 3) to (4, 3)
+[01:43:58.042] [INFO] Movement trail: [(6, 8), (5, 6), (5, 3), (4, 3)]
+[01:43:58.042] [INFO] Moving offensive blocker Zogfoot with 1 movement points
+[01:43:58.042] [INFO] Offensive blocker chose move (8, 5) with score 663
+[01:43:58.042] [INFO] Goblin Zogfoot moved from (8, 6) to (8, 5)
+[01:43:58.042] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6), (8, 5)]
+[01:43:58.042] [INFO] Moving offensive blocker Thrakface Snadrider  with 1 movement points
+[01:43:58.042] [INFO] Offensive blocker chose move (9, 5) with score 552
+[01:43:58.042] [INFO] Goblin Thrakface Snadrider  moved from (9, 6) to (9, 5)
+[01:43:58.042] [INFO] Movement trail: [(9, 8), (9, 7), (9, 6), (9, 5)]
+[01:43:58.042] [INFO] Moving defensive blocker Lugnose Nena with 4 movement points
+[01:43:58.042] [INFO] Defensive blocker chose move (5, 2) with score 675
+[01:43:58.042] [INFO] Goblin Lugnose Nena moved from (4, 1) to (5, 2)
+[01:43:58.042] [INFO] Movement trail: [(2, 1), (5, 0), (4, 1), (5, 2)]
+[01:43:58.042] [INFO] Moving defensive blocker Fizzsmasher Xandrog with 3 movement points
+[01:43:58.042] [INFO] Defensive blocker Fizzsmasher Xandrog attempting to block carrier Lugchomper
+[01:43:58.043] [INFO] Defensive blocker Fizzsmasher Xandrog pursuing carrier Lugchomper
+[01:43:58.043] [INFO] Goblin Fizzsmasher Xandrog moved from (4, 4) to (3, 4)
+[01:43:58.043] [INFO] Movement trail: [(4, 1), (5, 2), (4, 4), (3, 4)]
+[01:43:58.043] [INFO] Moving defensive blocker Snotslicer Milbasqe with 3 movement points
+[01:43:58.043] [INFO] Defensive blocker chose move (6, 5) with score 782
+[01:43:58.043] [INFO] Goblin Snotslicer Milbasqe moved from (6, 2) to (6, 5)
+[01:43:58.043] [INFO] Movement trail: [(6, 1), (6, 2), (6, 5)]
+[01:43:58.043] [INFO] Moving defensive blocker Bludgulper the Strong with 2 movement points
+[01:43:58.043] [INFO] Defensive blocker chose move (5, 0) with score 644
+[01:43:58.043] [INFO] Goblin Bludgulper the Strong moved from (6, 0) to (5, 0)
+[01:43:58.043] [INFO] Movement trail: [(8, 1), (6, 1), (6, 0), (5, 0)]
+[01:43:58.043] [INFO] Moving defensive blocker Skrizsmasher with 3 movement points
+[01:43:58.043] [INFO] Defensive blocker chose move (4, 0) with score 662
+[01:43:58.043] [INFO] Goblin Skrizsmasher moved from (5, 1) to (4, 0)
+[01:43:58.043] [INFO] Movement trail: [(9, 1), (8, 1), (5, 1), (4, 0)]
+[01:43:59.025] [INFO] Moving carrier Lugchomper with 4 movement points
+[01:43:59.025] [INFO] Goblin Lugchomper moved from (4, 5) to (3, 5)
+[01:43:59.025] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5), (4, 5), (3, 5)]
+[01:43:59.025] [INFO] Carrier Lugchomper moved to (3, 5)
+[01:43:59.025] [INFO] Moving offensive blocker Splatchewer with 4 movement points
+[01:43:59.025] [INFO] Attempt block of Snotslicer Milbasqe by Splatchewer
+[01:43:59.025] [INFO] Offensive blocker chose move (4, 5) with score 1934
+[01:43:59.025] [INFO] Goblin Splatchewer moved from (5, 5) to (4, 5)
+[01:43:59.025] [INFO] Movement trail: [(2, 8), (4, 7), (5, 4), (5, 5), (4, 5)]
+[01:43:59.025] [INFO] Moving offensive blocker Bludbasher Morton with 4 movement points
+[01:43:59.025] [INFO] Attempt block of Fizzsmasher Xandrog by Bludbasher Morton
+[01:43:59.025] [INFO] Offensive blocker chose move (3, 3) with score 849
+[01:43:59.025] [INFO] Goblin Bludbasher Morton moved from (4, 3) to (3, 3)
+[01:43:59.025] [INFO] Movement trail: [(6, 8), (5, 6), (5, 3), (4, 3), (3, 3)]
+[01:43:59.025] [INFO] Moving offensive blocker Zogfoot with 1 movement points
+[01:43:59.025] [INFO] Offensive blocker chose move (7, 5) with score 671
+[01:43:59.025] [INFO] Goblin Zogfoot moved from (8, 5) to (7, 5)
+[01:43:59.025] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6), (8, 5), (7, 5)]
+[01:43:59.025] [INFO] Moving offensive blocker Thrakface Snadrider  with 1 movement points
+[01:43:59.025] [INFO] Offensive blocker chose move (8, 5) with score 535
+[01:43:59.025] [INFO] Goblin Thrakface Snadrider  moved from (9, 5) to (8, 5)
+[01:43:59.025] [INFO] Movement trail: [(9, 8), (9, 7), (9, 6), (9, 5), (8, 5)]
+[01:43:59.025] [INFO] Moving defensive blocker Lugnose Nena with 4 movement points
+[01:43:59.025] [INFO] Defensive blocker chose move (5, 5) with score 801
+[01:43:59.025] [INFO] Goblin Lugnose Nena moved from (5, 2) to (5, 5)
+[01:43:59.025] [INFO] Movement trail: [(2, 1), (5, 0), (4, 1), (5, 2), (5, 5)]
+[01:43:59.025] [INFO] Moving defensive blocker Fizzsmasher Xandrog with 3 movement points
+[01:43:59.025] [INFO] Defensive blocker Fizzsmasher Xandrog attempting to block carrier Lugchomper
+[01:43:59.026] [INFO] Block succeeded!
+[01:43:59.026] [INFO] Moving offensive blocker Snotslicer Milbasqe with 3 movement points
+[01:43:59.026] [INFO] No carrier found for team Skullsmashers!
+[01:43:59.026] [INFO] Moving offensive blocker Bludgulper the Strong with 2 movement points
+[01:43:59.026] [INFO] No carrier found for team Skullsmashers!
+[01:43:59.026] [INFO] Moving offensive blocker Skrizsmasher with 3 movement points
+[01:43:59.026] [INFO] No carrier found for team Skullsmashers!

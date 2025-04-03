@@ -1,0 +1,195 @@
+[01:50:08.482] [INFO] === Goblinball Debug Log - 20250403_015008 ===
+[01:50:08.482] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_015008.txt
+[01:50:08.502] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[01:50:13.630] [INFO] Moving carrier Grakchewer with 4 movement points
+[01:50:13.630] [INFO] Goblin Grakchewer moved from (4, 8) to (5, 7)
+[01:50:13.630] [INFO] Movement trail: [(4, 8), (5, 7)]
+[01:50:13.631] [INFO] Carrier Grakchewer moved to (5, 7)
+[01:50:13.631] [INFO] Moving offensive blocker Mugchomper the Quick with 1 movement points
+[01:50:13.633] [INFO] Offensive blocker chose move (2, 7) with score 718
+[01:50:13.633] [INFO] Goblin Mugchomper the Quick moved from (2, 8) to (2, 7)
+[01:50:13.633] [INFO] Movement trail: [(2, 8), (2, 7)]
+[01:50:13.633] [INFO] Moving offensive blocker Wortslicer Korell with 1 movement points
+[01:50:13.633] [INFO] Offensive blocker chose move (6, 7) with score 947
+[01:50:13.633] [INFO] Goblin Wortslicer Korell moved from (6, 8) to (6, 7)
+[01:50:13.633] [INFO] Movement trail: [(6, 8), (6, 7)]
+[01:50:13.633] [INFO] Moving offensive blocker Thrakfist Iarmod with 3 movement points
+[01:50:13.634] [INFO] Offensive blocker chose move (5, 8) with score 898
+[01:50:13.634] [INFO] Goblin Thrakfist Iarmod moved from (8, 8) to (5, 8)
+[01:50:13.634] [INFO] Movement trail: [(8, 8), (5, 8)]
+[01:50:13.634] [INFO] Moving offensive blocker Worttooth Mastache with 3 movement points
+[01:50:13.634] [INFO] Offensive blocker chose move (7, 7) with score 837
+[01:50:13.634] [INFO] Goblin Worttooth Mastache moved from (9, 8) to (7, 7)
+[01:50:13.634] [INFO] Movement trail: [(9, 8), (7, 7)]
+[01:50:13.634] [INFO] Moving defensive blocker Zogfoot Hyrim with 2 movement points
+[01:50:13.634] [INFO] Defensive blocker chose move (2, 0) with score 372
+[01:50:13.634] [INFO] Goblin Zogfoot Hyrim moved from (2, 1) to (2, 0)
+[01:50:13.634] [INFO] Movement trail: [(2, 1), (2, 0)]
+[01:50:13.634] [INFO] Moving defensive blocker Splatchomper Gakk the Brutal with 2 movement points
+[01:50:13.634] [INFO] Defensive blocker chose move (5, 0) with score 675
+[01:50:13.634] [INFO] Goblin Splatchomper Gakk the Brutal moved from (4, 1) to (5, 0)
+[01:50:13.634] [INFO] Movement trail: [(4, 1), (5, 0)]
+[01:50:13.634] [INFO] Moving defensive blocker Gutbasher Blueaxe the Cunning with 1 movement points
+[01:50:13.634] [INFO] Defensive blocker chose move (6, 2) with score 671
+[01:50:13.634] [INFO] Goblin Gutbasher Blueaxe the Cunning moved from (6, 1) to (6, 2)
+[01:50:13.634] [INFO] Movement trail: [(6, 1), (6, 2)]
+[01:50:13.634] [INFO] Moving defensive blocker Zogsquisher with 2 movement points
+[01:50:13.634] [INFO] Defensive blocker chose move (6, 1) with score 675
+[01:50:13.634] [INFO] Goblin Zogsquisher moved from (8, 1) to (6, 1)
+[01:50:13.634] [INFO] Movement trail: [(8, 1), (6, 1)]
+[01:50:13.634] [INFO] Moving defensive blocker Krakchomper the Cunning with 3 movement points
+[01:50:13.634] [INFO] Defensive blocker chose move (9, 4) with score 367
+[01:50:13.634] [INFO] Goblin Krakchomper the Cunning moved from (9, 1) to (9, 4)
+[01:50:13.634] [INFO] Movement trail: [(9, 1), (9, 4)]
+[01:50:15.241] [INFO] Moving carrier Grakchewer with 4 movement points
+[01:50:15.241] [INFO] Goblin Grakchewer moved from (5, 7) to (5, 6)
+[01:50:15.241] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[01:50:15.241] [INFO] Carrier Grakchewer moved to (5, 6)
+[01:50:15.241] [INFO] Moving offensive blocker Mugchomper the Quick with 1 movement points
+[01:50:15.241] [INFO] Offensive blocker chose move (2, 6) with score 765
+[01:50:15.241] [INFO] Goblin Mugchomper the Quick moved from (2, 7) to (2, 6)
+[01:50:15.241] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6)]
+[01:50:15.241] [INFO] Moving offensive blocker Wortslicer Korell with 1 movement points
+[01:50:15.241] [INFO] Offensive blocker chose move (6, 6) with score 946
+[01:50:15.241] [INFO] Goblin Wortslicer Korell moved from (6, 7) to (6, 6)
+[01:50:15.241] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6)]
+[01:50:15.241] [INFO] Moving offensive blocker Thrakfist Iarmod with 3 movement points
+[01:50:15.241] [INFO] Offensive blocker chose move (4, 6) with score 949
+[01:50:15.241] [INFO] Goblin Thrakfist Iarmod moved from (5, 8) to (4, 6)
+[01:50:15.241] [INFO] Movement trail: [(8, 8), (5, 8), (4, 6)]
+[01:50:15.241] [INFO] Moving offensive blocker Worttooth Mastache with 3 movement points
+[01:50:15.241] [INFO] Offensive blocker chose move (5, 7) with score 913
+[01:50:15.241] [INFO] Goblin Worttooth Mastache moved from (7, 7) to (5, 7)
+[01:50:15.241] [INFO] Movement trail: [(9, 8), (7, 7), (5, 7)]
+[01:50:15.241] [INFO] Moving defensive blocker Zogfoot Hyrim with 2 movement points
+[01:50:15.241] [INFO] Defensive blocker chose move (4, 0) with score 672
+[01:50:15.241] [INFO] Goblin Zogfoot Hyrim moved from (2, 0) to (4, 0)
+[01:50:15.242] [INFO] Movement trail: [(2, 1), (2, 0), (4, 0)]
+[01:50:15.242] [INFO] Moving defensive blocker Splatchomper Gakk the Brutal with 2 movement points
+[01:50:15.242] [INFO] Defensive blocker chose move (6, 0) with score 670
+[01:50:15.242] [INFO] Goblin Splatchomper Gakk the Brutal moved from (5, 0) to (6, 0)
+[01:50:15.242] [INFO] Movement trail: [(4, 1), (5, 0), (6, 0)]
+[01:50:15.242] [INFO] Moving defensive blocker Gutbasher Blueaxe the Cunning with 1 movement points
+[01:50:15.242] [INFO] Defensive blocker chose move (6, 3) with score 660
+[01:50:15.242] [INFO] Goblin Gutbasher Blueaxe the Cunning moved from (6, 2) to (6, 3)
+[01:50:15.242] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3)]
+[01:50:15.242] [INFO] Moving defensive blocker Zogsquisher with 2 movement points
+[01:50:15.242] [INFO] Defensive blocker chose move (5, 1) with score 674
+[01:50:15.242] [INFO] Goblin Zogsquisher moved from (6, 1) to (5, 1)
+[01:50:15.242] [INFO] Movement trail: [(8, 1), (6, 1), (5, 1)]
+[01:50:15.242] [INFO] Moving defensive blocker Krakchomper the Cunning with 3 movement points
+[01:50:15.242] [INFO] Defensive blocker chose move (8, 6) with score 694
+[01:50:15.242] [INFO] Goblin Krakchomper the Cunning moved from (9, 4) to (8, 6)
+[01:50:15.242] [INFO] Movement trail: [(9, 1), (9, 4), (8, 6)]
+[01:50:21.218] [INFO] Moving carrier Grakchewer with 4 movement points
+[01:50:21.218] [INFO] Goblin Grakchewer moved from (5, 6) to (5, 5)
+[01:50:21.218] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 5)]
+[01:50:21.218] [INFO] Carrier Grakchewer moved to (5, 5)
+[01:50:21.219] [INFO] Moving offensive blocker Mugchomper the Quick with 1 movement points
+[01:50:21.219] [INFO] Offensive blocker chose move (2, 5) with score 762
+[01:50:21.219] [INFO] Goblin Mugchomper the Quick moved from (2, 6) to (2, 5)
+[01:50:21.219] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6), (2, 5)]
+[01:50:21.219] [INFO] Moving offensive blocker Wortslicer Korell with 1 movement points
+[01:50:21.219] [INFO] Offensive blocker chose move (5, 6) with score 941
+[01:50:21.219] [INFO] Goblin Wortslicer Korell moved from (6, 6) to (5, 6)
+[01:50:21.219] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6), (5, 6)]
+[01:50:21.219] [INFO] Moving offensive blocker Thrakfist Iarmod with 3 movement points
+[01:50:21.219] [INFO] Offensive blocker chose move (5, 4) with score 2182
+[01:50:21.219] [INFO] Goblin Thrakfist Iarmod moved from (4, 6) to (5, 4)
+[01:50:21.219] [INFO] Movement trail: [(8, 8), (5, 8), (4, 6), (5, 4)]
+[01:50:21.219] [INFO] Moving offensive blocker Worttooth Mastache with 3 movement points
+[01:50:21.219] [INFO] Offensive blocker chose move (4, 5) with score 954
+[01:50:21.219] [INFO] Goblin Worttooth Mastache moved from (5, 7) to (4, 5)
+[01:50:21.219] [INFO] Movement trail: [(9, 8), (7, 7), (5, 7), (4, 5)]
+[01:50:21.219] [INFO] Moving defensive blocker Zogfoot Hyrim with 2 movement points
+[01:50:21.219] [INFO] Defensive blocker chose move (5, 0) with score 673
+[01:50:21.219] [INFO] Goblin Zogfoot Hyrim moved from (4, 0) to (5, 0)
+[01:50:21.219] [INFO] Movement trail: [(2, 1), (2, 0), (4, 0), (5, 0)]
+[01:50:21.219] [INFO] Moving defensive blocker Splatchomper Gakk the Brutal with 2 movement points
+[01:50:21.219] [INFO] Defensive blocker chose move (6, 2) with score 644
+[01:50:21.219] [INFO] Goblin Splatchomper Gakk the Brutal moved from (6, 0) to (6, 2)
+[01:50:21.219] [INFO] Movement trail: [(4, 1), (5, 0), (6, 0), (6, 2)]
+[01:50:21.219] [INFO] Moving defensive blocker Gutbasher Blueaxe the Cunning with 1 movement points
+[01:50:21.219] [INFO] Defensive blocker Gutbasher Blueaxe the Cunning pursuing carrier Grakchewer
+[01:50:21.219] [INFO] Goblin Gutbasher Blueaxe the Cunning moved from (6, 3) to (5, 3)
+[01:50:21.219] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3), (5, 3)]
+[01:50:21.219] [INFO] Moving defensive blocker Zogsquisher with 2 movement points
+[01:50:21.219] [INFO] Defensive blocker chose move (4, 0) with score 671
+[01:50:21.219] [INFO] Goblin Zogsquisher moved from (5, 1) to (4, 0)
+[01:50:21.219] [INFO] Movement trail: [(8, 1), (6, 1), (5, 1), (4, 0)]
+[01:50:21.219] [INFO] Moving defensive blocker Krakchomper the Cunning with 3 movement points
+[01:50:21.219] [INFO] Defensive blocker chose move (6, 5) with score 904
+[01:50:37.658] [INFO] Moving carrier Grakchewer with 4 movement points
+[01:50:37.658] [INFO] Goblin Grakchewer moved from (5, 5) to (6, 5)
+[01:50:37.658] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 5), (6, 5)]
+[01:50:37.658] [INFO] Carrier Grakchewer moved to (6, 5)
+[01:50:37.658] [INFO] Moving offensive blocker Mugchomper the Quick with 1 movement points
+[01:50:37.658] [INFO] Offensive blocker chose move (3, 5) with score 733
+[01:50:37.658] [INFO] Goblin Mugchomper the Quick moved from (2, 5) to (3, 5)
+[01:50:37.658] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6), (2, 5), (3, 5)]
+[01:50:37.658] [INFO] Moving offensive blocker Wortslicer Korell with 1 movement points
+[01:50:37.658] [INFO] Offensive blocker chose move (6, 6) with score 951
+[01:50:37.658] [INFO] Goblin Wortslicer Korell moved from (5, 6) to (6, 6)
+[01:50:37.658] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6), (5, 6), (6, 6)]
+[01:50:37.658] [INFO] Moving offensive blocker Thrakfist Iarmod with 3 movement points
+[01:50:37.658] [INFO] Attempt block of Gutbasher Blueaxe the Cunning by Thrakfist Iarmod
+[01:50:37.658] [INFO] Offensive blocker chose move (6, 4) with score 2373
+[01:50:37.658] [INFO] Goblin Thrakfist Iarmod moved from (5, 4) to (6, 4)
+[01:50:37.658] [INFO] Movement trail: [(8, 8), (5, 8), (4, 6), (5, 4), (6, 4)]
+[01:50:37.658] [INFO] Moving offensive blocker Worttooth Mastache with 3 movement points
+[01:50:37.658] [INFO] Offensive blocker chose move (5, 4) with score 2244
+[01:50:37.658] [INFO] Goblin Worttooth Mastache moved from (4, 5) to (5, 4)
+[01:50:37.658] [INFO] Movement trail: [(9, 8), (7, 7), (5, 7), (4, 5), (5, 4)]
+[01:50:37.658] [INFO] Moving defensive blocker Zogfoot Hyrim with 2 movement points
+[01:50:37.659] [INFO] Defensive blocker chose move (6, 0) with score 672
+[01:50:37.659] [INFO] Goblin Zogfoot Hyrim moved from (5, 0) to (6, 0)
+[01:50:37.659] [INFO] Movement trail: [(2, 1), (2, 0), (4, 0), (5, 0), (6, 0)]
+[01:50:37.659] [INFO] Moving defensive blocker Splatchomper Gakk the Brutal with 2 movement points
+[01:50:37.659] [INFO] Defensive blocker Splatchomper Gakk the Brutal pursuing carrier Grakchewer
+[01:50:37.659] [INFO] Goblin Splatchomper Gakk the Brutal moved from (6, 2) to (6, 3)
+[01:50:37.659] [INFO] Movement trail: [(4, 1), (5, 0), (6, 0), (6, 2), (6, 3)]
+[01:50:37.659] [INFO] Moving defensive blocker Gutbasher Blueaxe the Cunning with 1 movement points
+[01:50:37.659] [INFO] Defensive blocker Gutbasher Blueaxe the Cunning pursuing carrier Grakchewer
+[01:50:37.659] [INFO] Goblin Gutbasher Blueaxe the Cunning moved from (5, 3) to (4, 3)
+[01:50:37.659] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3), (5, 3), (4, 3)]
+[01:50:37.659] [INFO] Moving defensive blocker Zogsquisher with 2 movement points
+[01:50:37.659] [INFO] Defensive blocker chose move (5, 1) with score 666
+[01:50:37.659] [INFO] Goblin Zogsquisher moved from (4, 0) to (5, 1)
+[01:50:37.659] [INFO] Movement trail: [(8, 1), (6, 1), (5, 1), (4, 0), (5, 1)]
+[01:50:37.659] [INFO] Moving defensive blocker Krakchomper the Cunning with 3 movement points
+[01:50:37.659] [INFO] Defensive blocker Krakchomper the Cunning pursuing carrier Grakchewer
+[01:50:37.659] [INFO] Goblin Krakchomper the Cunning moved from (8, 6) to (7, 5)
+[01:50:37.659] [INFO] Movement trail: [(9, 1), (9, 4), (8, 6), (7, 5)]
+[01:50:49.862] [INFO] Moving carrier Grakchewer with 4 movement points
+[01:50:49.862] [INFO] Goblin Grakchewer moved from (6, 5) to (7, 4)
+[01:50:49.862] [INFO] Movement trail: [(5, 7), (5, 6), (5, 5), (6, 5), (7, 4)]
+[01:50:49.862] [INFO] Carrier Grakchewer moved to (7, 4)
+[01:50:49.862] [INFO] Moving offensive blocker Mugchomper the Quick with 1 movement points
+[01:50:49.862] [INFO] Offensive blocker chose move (3, 4) with score 681
+[01:50:49.862] [INFO] Goblin Mugchomper the Quick moved from (3, 5) to (3, 4)
+[01:50:49.862] [INFO] Movement trail: [(2, 7), (2, 6), (2, 5), (3, 5), (3, 4)]
+[01:50:49.863] [INFO] Moving offensive blocker Wortslicer Korell with 1 movement points
+[01:50:49.863] [INFO] Offensive blocker chose move (6, 5) with score 837
+[01:50:49.863] [INFO] Goblin Wortslicer Korell moved from (6, 6) to (6, 5)
+[01:50:49.863] [INFO] Movement trail: [(6, 7), (6, 6), (5, 6), (6, 6), (6, 5)]
+[01:50:49.863] [INFO] Moving offensive blocker Thrakfist Iarmod with 3 movement points
+[01:50:49.863] [INFO] Attempt block of Krakchomper the Cunning by Thrakfist Iarmod
+[01:50:49.863] [INFO] Attempt block of Splatchomper Gakk the Brutal by Thrakfist Iarmod
+[01:50:49.863] [INFO] Moving offensive blocker Worttooth Mastache with 3 movement points
+[01:50:49.863] [INFO] Attempt block of Splatchomper Gakk the Brutal by Worttooth Mastache
+[01:50:49.863] [INFO] Offensive blocker chose move (5, 3) with score 791
+[01:50:49.863] [INFO] Goblin Worttooth Mastache moved from (5, 4) to (5, 3)
+[01:50:49.863] [INFO] Movement trail: [(7, 7), (5, 7), (4, 5), (5, 4), (5, 3)]
+[01:50:49.863] [INFO] Moving defensive blocker Zogfoot Hyrim with 2 movement points
+[01:50:49.863] [INFO] Defensive blocker chose move (7, 0) with score 662
+[01:50:49.863] [INFO] Goblin Zogfoot Hyrim moved from (6, 0) to (7, 0)
+[01:50:49.863] [INFO] Movement trail: [(2, 0), (4, 0), (5, 0), (6, 0), (7, 0)]
+[01:50:49.863] [INFO] Moving defensive blocker Splatchomper Gakk the Brutal with 2 movement points
+[01:50:49.863] [INFO] Defensive blocker Splatchomper Gakk the Brutal attempting to block carrier Grakchewer
+[01:50:49.863] [INFO] Block succeeded!
+[01:50:49.863] [INFO] Moving offensive blocker Gutbasher Blueaxe the Cunning with 1 movement points
+[01:50:49.863] [INFO] No carrier found for team Skullsmashers!
+[01:50:49.863] [INFO] Moving offensive blocker Zogsquisher with 2 movement points
+[01:50:49.863] [INFO] No carrier found for team Skullsmashers!
+[01:50:49.863] [INFO] Moving offensive blocker Krakchomper the Cunning with 3 movement points
+[01:50:49.863] [INFO] No carrier found for team Skullsmashers!

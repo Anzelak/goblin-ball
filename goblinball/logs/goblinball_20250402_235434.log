@@ -1,0 +1,71 @@
+2025-04-02 23:54:34,651 - goblinball - INFO - All required modules validated successfully
+2025-04-02 23:54:34,651 - goblinball - INFO - Starting Goblinball
+2025-04-02 23:54:34,651 - goblinball - INFO - Running from directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-02 23:54:34,672 - goblinball.controller - INFO - Selected carrier: Gutgulper Free from team Mudcrushers
+2025-04-02 23:54:34,672 - goblinball.controller - INFO - ===== Starting Play 1 =====
+2025-04-02 23:54:34,672 - goblinball.controller - INFO - Selected carrier: Krakstabber from team Mudcrushers
+2025-04-02 23:54:37,583 - goblinball.controller - INFO - ==== Processing Turn 1 ====
+2025-04-02 23:54:37,583 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-02 23:54:37,583 - goblinball.controller - INFO - Attempting to move carrier Krakstabber
+2025-04-02 23:54:37,584 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-02 23:54:37,587 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-02 23:54:41,903 - goblinball.controller - INFO - ==== Processing Turn 2 ====
+2025-04-02 23:54:41,903 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-02 23:54:41,903 - goblinball.controller - INFO - Attempting to move carrier Krakstabber
+2025-04-02 23:54:41,903 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-02 23:54:41,904 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-02 23:54:41,904 - goblinball - CRITICAL - Unhandled exception: 'NoneType' object has no attribute 'name'
+2025-04-02 23:54:41,909 - goblinball - CRITICAL - Traceback (most recent call last):
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\main.py", line 540, in main
+    renderer.run()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\renderer.py", line 385, in run
+    self.handle_click(event.pos)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\renderer.py", line 336, in handle_click
+    self.next_turn()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\renderer.py", line 308, in next_turn
+    self.game.next_turn()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\main.py", line 350, in next_turn
+    return self.process_turn()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\main.py", line 288, in process_turn
+    return self.controller.process_turn()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\game_controller.py", line 170, in process_turn
+    self.game.blocker_movement.move_blocker(goblin)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\blocker_movement.py", line 38, in move_blocker
+    return self.move_defensive_blocker(blocker)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\blocker_movement.py", line 311, in move_defensive_blocker
+    return self.movement_system.move_goblin(blocker, best_move)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\movement_system.py", line 79, in move_goblin
+    duke_result = self.perform_duke_check(goblin, blockers)
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\movement_system.py", line 199, in perform_duke_check
+    self.game.event_manager.create_and_dispatch("duke_check", {
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+        "goblin_id": goblin.id,
+        ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        "chance": success_chance
+        ^^^^^^^^^^^^^^^^^^^^^^^^
+    })
+    ^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\event.py", line 64, in create_and_dispatch
+    self.dispatch(event)
+    ~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\event.py", line 59, in dispatch
+    callback(event)
+    ~~~~~~~~^^^^^^^
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\renderer.py", line 127, in handle_game_event
+    text = self.format_event_message(event)
+  File "C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\renderer.py", line 289, in format_event_message
+    return f"DUKE check: {attacker.name} vs {defender.name} - {'Success' if result else 'Fail'}"
+                          ^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'name'
+
+2025-04-02 23:54:41,910 - goblinball - INFO - Goblinball ended

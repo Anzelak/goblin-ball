@@ -1,0 +1,83 @@
+[23:55:10.925] [INFO] === Goblinball Debug Log - 20250402_235510 ===
+[23:55:10.947] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[23:55:12.929] [INFO] Moving carrier Stabgob Juckson with 4 movement points
+[23:55:12.929] [INFO] Carrier Stabgob Juckson moved to (5, 7)
+[23:55:12.929] [INFO] Moving offensive blocker Stabskull Nachaloa with 2 movement points
+[23:55:12.929] [INFO] Offensive blocker chose move (3, 7) with score 843
+[23:55:12.929] [INFO] Moving offensive blocker Gnogslicer the Mighty with 1 movement points
+[23:55:12.929] [INFO] Offensive blocker chose move (6, 7) with score 921
+[23:55:12.932] [INFO] Moving offensive blocker Zoggulper the Sly with 3 movement points
+[23:55:12.932] [INFO] Offensive blocker chose move (5, 8) with score 934
+[23:55:12.932] [INFO] Moving offensive blocker Globstabber Lunabrooke with 2 movement points
+[23:55:12.932] [INFO] Offensive blocker chose move (8, 7) with score 746
+[23:55:12.932] [INFO] Moving defensive blocker Grubskull Amorine the Sneaky with 3 movement points
+[23:55:12.932] [INFO] Defensive blocker chose move (4, 0) with score 657
+[23:55:12.932] [INFO] Moving defensive blocker Globfist the Mighty with 4 movement points
+[23:55:12.932] [INFO] Defensive blocker chose move (4, 2) with score 670
+[23:55:12.932] [INFO] Moving defensive blocker Lugchewer with 2 movement points
+[23:55:12.932] [INFO] Defensive blocker chose move (6, 2) with score 675
+[23:55:12.932] [INFO] Moving defensive blocker Skrizgulper Shade the Sneaky with 1 movement points
+[23:55:12.932] [INFO] Defensive blocker chose move (8, 2) with score 370
+[23:55:12.932] [INFO] Moving defensive blocker Skabmangler Barkydle the Strong with 2 movement points
+[23:55:12.933] [INFO] Defensive blocker chose move (9, 2) with score 375
+[23:55:13.561] [INFO] Moving carrier Stabgob Juckson with 4 movement points
+[23:55:13.561] [INFO] Carrier Stabgob Juckson moved to (5, 6)
+[23:55:13.561] [INFO] Moving offensive blocker Stabskull Nachaloa with 2 movement points
+[23:55:13.562] [INFO] Offensive blocker chose move (4, 6) with score 949
+[23:55:13.562] [INFO] Moving offensive blocker Gnogslicer the Mighty with 1 movement points
+[23:55:13.562] [INFO] Offensive blocker chose move (6, 6) with score 943
+[23:55:13.562] [INFO] Moving offensive blocker Zoggulper the Sly with 3 movement points
+[23:55:13.562] [INFO] Offensive blocker chose move (5, 5) with score 939
+[23:55:13.562] [INFO] Moving offensive blocker Globstabber Lunabrooke with 2 movement points
+[23:55:13.562] [INFO] Offensive blocker chose move (7, 6) with score 819
+[23:55:13.562] [INFO] Moving defensive blocker Grubskull Amorine the Sneaky with 3 movement points
+[23:55:13.562] [INFO] Defensive blocker chose move (4, 3) with score 661
+[23:55:13.562] [INFO] Moving defensive blocker Globfist the Mighty with 4 movement points
+[23:55:13.562] [INFO] Defensive blocker chose move (4, 0) with score 675
+[23:55:13.562] [INFO] Moving defensive blocker Lugchewer with 2 movement points
+[23:55:13.562] [INFO] Defensive blocker chose move (5, 2) with score 669
+[23:55:13.562] [INFO] Moving defensive blocker Skrizgulper Shade the Sneaky with 1 movement points
+[23:55:13.562] [INFO] Defensive blocker chose move (8, 1) with score 370
+[23:55:13.562] [INFO] Moving defensive blocker Skabmangler Barkydle the Strong with 2 movement points
+[23:55:13.562] [INFO] Defensive blocker chose move (9, 0) with score 375
+[23:55:14.420] [INFO] Moving carrier Stabgob Juckson with 4 movement points
+[23:55:14.420] [INFO] Carrier Stabgob Juckson moved to (5, 4)
+[23:55:14.420] [INFO] Moving offensive blocker Stabskull Nachaloa with 2 movement points
+[23:55:14.420] [INFO] Offensive blocker chose move (4, 4) with score 980
+[23:55:14.420] [INFO] Moving offensive blocker Gnogslicer the Mighty with 1 movement points
+[23:55:14.421] [INFO] Offensive blocker chose move (6, 5) with score 865
+[23:55:14.421] [INFO] Moving offensive blocker Zoggulper the Sly with 3 movement points
+[23:55:14.421] [INFO] Offensive blocker chose move (5, 3) with score 2175
+[23:55:14.421] [INFO] Moving offensive blocker Globstabber Lunabrooke with 2 movement points
+[23:55:14.421] [INFO] Offensive blocker chose move (7, 4) with score 852
+[23:55:14.421] [INFO] Moving defensive blocker Grubskull Amorine the Sneaky with 3 movement points
+[23:55:14.421] [INFO] Defensive blocker Grubskull Amorine the Sneaky attempting to block carrier Stabgob Juckson
+[23:55:14.421] [INFO] Defensive blocker Grubskull Amorine the Sneaky pursuing carrier Stabgob Juckson
+[23:55:14.421] [INFO] Moving defensive blocker Globfist the Mighty with 4 movement points
+[23:55:14.421] [INFO] Defensive blocker chose move (5, 0) with score 666
+[23:55:14.421] [INFO] Moving defensive blocker Lugchewer with 2 movement points
+[23:55:14.421] [INFO] Defensive blocker Lugchewer pursuing carrier Stabgob Juckson
+[23:55:14.421] [INFO] Moving defensive blocker Skrizgulper Shade the Sneaky with 1 movement points
+[23:55:14.421] [INFO] Defensive blocker chose move (8, 0) with score 375
+[23:55:14.421] [INFO] Moving defensive blocker Skabmangler Barkydle the Strong with 2 movement points
+[23:55:14.421] [INFO] Defensive blocker chose move (8, 1) with score 373
+[23:55:16.007] [INFO] Moving carrier Stabgob Juckson with 4 movement points
+[23:55:16.007] [INFO] Carrier Stabgob Juckson moved to (5, 2)
+[23:55:16.007] [INFO] Moving offensive blocker Stabskull Nachaloa with 2 movement points
+[23:55:16.007] [INFO] Attempt block of Grubskull Amorine the Sneaky by Stabskull Nachaloa
+[23:55:16.007] [INFO] Block succeeded!
+[23:55:16.007] [INFO] Moving offensive blocker Gnogslicer the Mighty with 1 movement points
+[23:55:16.007] [INFO] Offensive blocker chose move (6, 4) with score 779
+[23:55:16.007] [INFO] Moving offensive blocker Zoggulper the Sly with 3 movement points
+[23:55:16.007] [INFO] Offensive blocker chose move (6, 3) with score 884
+[23:55:16.007] [INFO] Moving offensive blocker Globstabber Lunabrooke with 2 movement points
+[23:55:16.007] [INFO] Offensive blocker chose move (7, 2) with score 872
+[23:55:16.007] [INFO] Moving defensive blocker Globfist the Mighty with 4 movement points
+[23:55:16.007] [INFO] Defensive blocker Globfist the Mighty pursuing carrier Stabgob Juckson
+[23:55:16.008] [INFO] Moving defensive blocker Lugchewer with 2 movement points
+[23:55:16.008] [INFO] Defensive blocker Lugchewer attempting to block carrier Stabgob Juckson
+[23:55:16.008] [INFO] Block succeeded!
+[23:55:16.008] [INFO] Moving offensive blocker Skrizgulper Shade the Sneaky with 1 movement points
+[23:55:16.008] [INFO] No carrier found for team Skullsmashers!
+[23:55:16.008] [INFO] Moving offensive blocker Skabmangler Barkydle the Strong with 2 movement points
+[23:55:16.008] [INFO] No carrier found for team Skullsmashers!

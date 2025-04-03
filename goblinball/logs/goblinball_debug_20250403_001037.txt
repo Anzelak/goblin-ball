@@ -1,0 +1,530 @@
+[00:10:37.785] [INFO] === Goblinball Debug Log - 20250403_001037 ===
+[00:10:37.806] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[00:10:45.104] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:45.104] [INFO] Carrier Stabfist Sarmacid moved to (3, 8)
+[00:10:45.104] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:45.105] [INFO] Offensive blocker chose move (3, 7) with score 933
+[00:10:45.105] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:45.105] [INFO] Offensive blocker chose move (2, 8) with score 932
+[00:10:45.107] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:45.107] [INFO] Offensive blocker chose move (5, 8) with score 840
+[00:10:45.107] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:45.107] [INFO] Offensive blocker chose move (6, 8) with score 743
+[00:10:45.107] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:45.107] [INFO] Defensive blocker chose move (3, 2) with score 675
+[00:10:45.107] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:45.107] [INFO] Defensive blocker chose move (3, 1) with score 673
+[00:10:45.107] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:45.107] [INFO] Defensive blocker chose move (4, 0) with score 660
+[00:10:45.107] [INFO] Moving defensive blocker Globstabber Shaletta with 3 movement points
+[00:10:45.108] [INFO] Defensive blocker chose move (8, 3) with score 368
+[00:10:45.108] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:45.108] [INFO] Defensive blocker chose move (9, 0) with score 367
+[00:10:46.567] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:46.567] [INFO] Carrier Stabfist Sarmacid moved to fallback position (4, 8)
+[00:10:46.567] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:46.567] [INFO] Offensive blocker chose move (4, 7) with score 926
+[00:10:46.567] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:46.567] [INFO] Offensive blocker chose move (3, 8) with score 926
+[00:10:46.567] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:46.567] [INFO] Offensive blocker chose move (4, 6) with score 843
+[00:10:46.567] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:46.567] [INFO] Offensive blocker chose move (5, 8) with score 945
+[00:10:46.568] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:46.568] [INFO] Defensive blocker chose move (5, 1) with score 672
+[00:10:46.568] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:46.568] [INFO] Defensive blocker chose move (4, 1) with score 642
+[00:10:46.568] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:46.568] [INFO] Defensive blocker chose move (3, 1) with score 672
+[00:10:46.568] [INFO] Moving defensive blocker Globstabber Shaletta with 3 movement points
+[00:10:46.568] [INFO] Defensive blocker chose move (5, 3) with score 625
+[00:10:46.568] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:46.568] [INFO] Defensive blocker chose move (9, 1) with score 336
+[00:10:47.983] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:47.983] [INFO] Carrier Stabfist Sarmacid moved to fallback position (4, 9)
+[00:10:47.984] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:47.984] [INFO] Offensive blocker chose move (4, 8) with score 891
+[00:10:47.984] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:47.984] [INFO] Offensive blocker chose move (5, 9) with score 882
+[00:10:47.984] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:47.984] [INFO] Offensive blocker chose move (4, 7) with score 783
+[00:10:47.984] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:47.984] [INFO] Offensive blocker chose move (3, 9) with score 853
+[00:10:47.984] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:47.984] [INFO] Defensive blocker chose move (4, 0) with score 672
+[00:10:47.984] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:47.984] [INFO] Defensive blocker chose move (4, 2) with score 641
+[00:10:47.984] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:47.984] [INFO] Defensive blocker chose move (5, 0) with score 664
+[00:10:47.984] [INFO] Moving defensive blocker Globstabber Shaletta with 3 movement points
+[00:10:47.984] [INFO] Defensive blocker chose move (4, 4) with score 667
+[00:10:47.984] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:47.984] [INFO] Defensive blocker chose move (9, 0) with score 363
+[00:10:49.628] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:49.628] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:10:49.628] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:49.628] [INFO] Offensive blocker chose move (3, 8) with score 841
+[00:10:49.628] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:49.628] [INFO] Offensive blocker chose move (4, 8) with score 922
+[00:10:49.628] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:49.628] [INFO] Offensive blocker chose move (5, 9) with score 884
+[00:10:49.628] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:49.628] [INFO] Offensive blocker chose move (6, 9) with score 825
+[00:10:49.628] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:49.628] [INFO] Defensive blocker chose move (4, 1) with score 665
+[00:10:49.628] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:49.628] [INFO] Defensive blocker chose move (4, 3) with score 667
+[00:10:49.628] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:49.628] [INFO] Defensive blocker chose move (3, 1) with score 671
+[00:10:49.628] [INFO] Moving defensive blocker Globstabber Shaletta with 3 movement points
+[00:10:49.628] [INFO] Defensive blocker chose move (4, 7) with score 675
+[00:10:49.628] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:49.628] [INFO] Defensive blocker chose move (8, 0) with score 373
+[00:10:50.799] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:50.799] [INFO] Carrier Stabfist Sarmacid moved to (3, 9)
+[00:10:50.799] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:50.799] [INFO] Attempt block of Globstabber Shaletta by Snotslicer
+[00:10:50.799] [INFO] Offensive blocker chose move (5, 8) with score 899
+[00:10:50.799] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:50.799] [INFO] Attempt block of Globstabber Shaletta by Grubfinger Dyfar
+[00:10:50.799] [INFO] Block succeeded!
+[00:10:50.799] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:50.799] [INFO] Offensive blocker chose move (2, 9) with score 910
+[00:10:50.799] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:50.799] [INFO] Offensive blocker chose move (4, 9) with score 932
+[00:10:50.799] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:50.799] [INFO] Defensive blocker chose move (2, 0) with score 670
+[00:10:50.800] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:50.800] [INFO] Defensive blocker chose move (3, 3) with score 673
+[00:10:50.800] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:50.800] [INFO] Defensive blocker chose move (4, 1) with score 675
+[00:10:50.800] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:50.800] [INFO] Defensive blocker chose move (8, 1) with score 357
+[00:10:55.547] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:55.547] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:10:55.547] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:55.548] [INFO] Offensive blocker chose move (2, 8) with score 827
+[00:10:55.548] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:55.548] [INFO] Offensive blocker chose move (3, 8) with score 928
+[00:10:55.548] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:55.548] [INFO] Offensive blocker chose move (5, 9) with score 831
+[00:10:55.548] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:55.548] [INFO] Offensive blocker chose move (2, 9) with score 928
+[00:10:55.548] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:55.548] [INFO] Defensive blocker chose move (3, 2) with score 667
+[00:10:55.548] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:55.548] [INFO] Defensive blocker chose move (2, 3) with score 639
+[00:10:55.548] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:55.548] [INFO] Defensive blocker chose move (3, 0) with score 665
+[00:10:55.548] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:55.548] [INFO] Defensive blocker chose move (8, 2) with score 358
+[00:10:56.537] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:56.537] [INFO] Carrier Stabfist Sarmacid moved to fallback position (4, 9)
+[00:10:56.537] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:56.537] [INFO] Offensive blocker chose move (4, 8) with score 936
+[00:10:56.537] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:56.537] [INFO] Offensive blocker chose move (3, 9) with score 866
+[00:10:56.537] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:56.537] [INFO] Offensive blocker chose move (3, 8) with score 834
+[00:10:56.537] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:56.537] [INFO] Offensive blocker chose move (5, 9) with score 898
+[00:10:56.537] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:56.537] [INFO] Defensive blocker chose move (5, 3) with score 665
+[00:10:56.537] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:56.537] [INFO] Defensive blocker chose move (3, 3) with score 671
+[00:10:56.537] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:56.537] [INFO] Defensive blocker chose move (4, 1) with score 667
+[00:10:56.537] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:56.537] [INFO] Defensive blocker chose move (8, 3) with score 374
+[00:10:57.131] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:57.131] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:10:57.131] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:57.131] [INFO] Offensive blocker chose move (5, 8) with score 831
+[00:10:57.131] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:57.131] [INFO] Offensive blocker chose move (4, 8) with score 939
+[00:10:57.131] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:57.131] [INFO] Offensive blocker chose move (3, 9) with score 876
+[00:10:57.131] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:57.131] [INFO] Offensive blocker chose move (2, 9) with score 809
+[00:10:57.131] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:57.131] [INFO] Defensive blocker chose move (4, 2) with score 674
+[00:10:57.131] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:57.131] [INFO] Defensive blocker chose move (3, 4) with score 647
+[00:10:57.131] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:57.131] [INFO] Defensive blocker chose move (3, 3) with score 672
+[00:10:57.131] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:57.131] [INFO] Defensive blocker chose move (7, 3) with score 348
+[00:10:57.712] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:57.712] [INFO] Carrier Stabfist Sarmacid moved to (5, 9)
+[00:10:57.712] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:57.712] [INFO] Offensive blocker chose move (4, 9) with score 855
+[00:10:57.712] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:57.712] [INFO] Offensive blocker chose move (5, 8) with score 907
+[00:10:57.712] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:57.712] [INFO] Offensive blocker chose move (6, 9) with score 925
+[00:10:57.712] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:57.712] [INFO] Offensive blocker chose move (3, 9) with score 829
+[00:10:57.713] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:57.713] [INFO] Defensive blocker chose move (6, 1) with score 672
+[00:10:57.713] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:57.713] [INFO] Defensive blocker chose move (4, 4) with score 668
+[00:10:57.713] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:57.713] [INFO] Defensive blocker chose move (6, 3) with score 674
+[00:10:57.713] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:57.713] [INFO] Defensive blocker chose move (7, 4) with score 371
+[00:10:58.259] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:58.259] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:10:58.259] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:58.259] [INFO] Offensive blocker chose move (5, 7) with score 840
+[00:10:58.259] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:58.259] [INFO] Offensive blocker chose move (6, 8) with score 840
+[00:10:58.259] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:58.259] [INFO] Offensive blocker chose move (5, 8) with score 933
+[00:10:58.259] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:58.260] [INFO] Offensive blocker chose move (4, 9) with score 911
+[00:10:58.260] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:58.260] [INFO] Defensive blocker chose move (6, 0) with score 663
+[00:10:58.260] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:58.260] [INFO] Defensive blocker chose move (4, 3) with score 667
+[00:10:58.260] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:58.260] [INFO] Defensive blocker chose move (6, 2) with score 674
+[00:10:58.260] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:58.260] [INFO] Defensive blocker chose move (6, 4) with score 663
+[00:10:58.770] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:58.770] [INFO] Carrier Stabfist Sarmacid moved to (6, 9)
+[00:10:58.770] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:58.770] [INFO] Offensive blocker chose move (5, 9) with score 876
+[00:10:58.770] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:58.770] [INFO] Offensive blocker chose move (7, 9) with score 880
+[00:10:58.770] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:58.770] [INFO] Offensive blocker chose move (6, 8) with score 916
+[00:10:58.771] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:58.771] [INFO] Offensive blocker chose move (7, 8) with score 842
+[00:10:58.771] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:58.771] [INFO] Defensive blocker chose move (5, 1) with score 671
+[00:10:58.771] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:58.771] [INFO] Defensive blocker chose move (5, 3) with score 631
+[00:10:58.771] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:58.771] [INFO] Defensive blocker chose move (5, 0) with score 673
+[00:10:58.771] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:58.771] [INFO] Defensive blocker chose move (5, 4) with score 662
+[00:10:59.282] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:59.282] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:10:59.282] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:59.282] [INFO] Offensive blocker chose move (6, 7) with score 831
+[00:10:59.282] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:59.282] [INFO] Offensive blocker chose move (5, 9) with score 899
+[00:10:59.282] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:59.283] [INFO] Offensive blocker chose move (7, 9) with score 851
+[00:10:59.283] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:59.283] [INFO] Offensive blocker chose move (6, 8) with score 905
+[00:10:59.283] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:59.283] [INFO] Defensive blocker chose move (6, 0) with score 667
+[00:10:59.283] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:59.283] [INFO] Defensive blocker chose move (5, 2) with score 675
+[00:10:59.283] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:59.283] [INFO] Defensive blocker chose move (6, 2) with score 664
+[00:10:59.283] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:59.283] [INFO] Defensive blocker chose move (5, 3) with score 673
+[00:10:59.842] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:10:59.842] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:10:59.842] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:10:59.842] [INFO] Offensive blocker chose move (7, 8) with score 792
+[00:10:59.842] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:10:59.842] [INFO] Offensive blocker chose move (6, 7) with score 821
+[00:10:59.842] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:10:59.842] [INFO] Offensive blocker chose move (5, 9) with score 917
+[00:10:59.842] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:10:59.843] [INFO] Offensive blocker chose move (7, 9) with score 868
+[00:10:59.843] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:10:59.843] [INFO] Defensive blocker chose move (7, 1) with score 669
+[00:10:59.843] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:10:59.843] [INFO] Defensive blocker chose move (5, 1) with score 643
+[00:10:59.843] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:10:59.843] [INFO] Defensive blocker chose move (7, 0) with score 669
+[00:10:59.843] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:10:59.843] [INFO] Defensive blocker chose move (6, 3) with score 666
+[00:11:00.270] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:00.270] [INFO] Carrier Stabfist Sarmacid moved to (6, 8)
+[00:11:00.270] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:00.270] [INFO] Offensive blocker chose move (5, 8) with score 928
+[00:11:00.270] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:00.270] [INFO] Offensive blocker chose move (6, 9) with score 880
+[00:11:00.270] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:00.270] [INFO] Offensive blocker chose move (6, 7) with score 936
+[00:11:00.270] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:00.270] [INFO] Offensive blocker chose move (7, 8) with score 895
+[00:11:00.271] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:11:00.271] [INFO] Defensive blocker chose move (7, 3) with score 673
+[00:11:00.271] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:00.271] [INFO] Defensive blocker chose move (5, 0) with score 645
+[00:11:00.271] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:00.271] [INFO] Defensive blocker chose move (7, 1) with score 664
+[00:11:00.271] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:00.271] [INFO] Defensive blocker chose move (5, 3) with score 662
+[00:11:00.681] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:00.681] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:11:00.681] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:00.681] [INFO] Offensive blocker chose move (6, 6) with score 862
+[00:11:00.681] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:00.681] [INFO] Offensive blocker chose move (5, 8) with score 931
+[00:11:00.681] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:00.681] [INFO] Offensive blocker chose move (6, 9) with score 849
+[00:11:00.681] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:00.681] [INFO] Offensive blocker chose move (6, 7) with score 955
+[00:11:00.682] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:11:00.682] [INFO] Defensive blocker chose move (6, 5) with score 674
+[00:11:00.682] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:00.682] [INFO] Defensive blocker chose move (5, 1) with score 655
+[00:11:00.682] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:00.682] [INFO] Defensive blocker chose move (7, 4) with score 674
+[00:11:00.682] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:00.682] [INFO] Defensive blocker chose move (5, 4) with score 660
+[00:11:01.158] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:01.158] [INFO] Carrier Stabfist Sarmacid moved to (7, 8)
+[00:11:01.158] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:01.158] [INFO] Offensive blocker chose move (7, 7) with score 898
+[00:11:01.158] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:01.158] [INFO] Offensive blocker chose move (6, 8) with score 938
+[00:11:01.158] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:01.158] [INFO] Offensive blocker chose move (8, 8) with score 916
+[00:11:01.158] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:01.158] [INFO] Offensive blocker chose move (7, 9) with score 852
+[00:11:01.158] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:11:01.158] [INFO] Defensive blocker chose move (8, 4) with score 674
+[00:11:01.158] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:01.158] [INFO] Defensive blocker chose move (6, 1) with score 670
+[00:11:01.158] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:01.158] [INFO] Defensive blocker chose move (8, 3) with score 672
+[00:11:01.158] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:01.158] [INFO] Defensive blocker chose move (6, 4) with score 630
+[00:11:03.631] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:03.631] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:11:03.632] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:03.632] [INFO] Offensive blocker chose move (7, 6) with score 835
+[00:11:03.632] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:03.632] [INFO] Offensive blocker chose move (7, 7) with score 924
+[00:11:03.632] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:03.632] [INFO] Offensive blocker chose move (6, 8) with score 937
+[00:11:03.632] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:03.632] [INFO] Offensive blocker chose move (8, 8) with score 940
+[00:11:03.632] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:11:03.632] [INFO] Defensive blocker chose move (7, 3) with score 669
+[00:11:03.632] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:03.632] [INFO] Defensive blocker chose move (7, 1) with score 671
+[00:11:03.632] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:03.632] [INFO] Defensive blocker chose move (8, 2) with score 674
+[00:11:03.632] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:03.632] [INFO] Defensive blocker chose move (7, 4) with score 666
+[00:11:04.108] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:04.108] [INFO] Carrier Stabfist Sarmacid moved to fallback position (7, 9)
+[00:11:04.108] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:04.108] [INFO] Offensive blocker chose move (6, 9) with score 877
+[00:11:04.109] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:04.109] [INFO] Offensive blocker chose move (7, 8) with score 885
+[00:11:04.109] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:04.109] [INFO] Offensive blocker chose move (8, 9) with score 867
+[00:11:04.109] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:04.109] [INFO] Offensive blocker chose move (7, 7) with score 829
+[00:11:04.109] [INFO] Moving defensive blocker Grakbasher Elijah with 3 movement points
+[00:11:04.109] [INFO] Defensive blocker chose move (7, 6) with score 675
+[00:11:04.109] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:04.109] [INFO] Defensive blocker chose move (8, 1) with score 649
+[00:11:04.109] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:04.109] [INFO] Defensive blocker chose move (8, 5) with score 675
+[00:11:04.109] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:04.109] [INFO] Defensive blocker chose move (7, 5) with score 663
+[00:11:04.605] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:04.605] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:11:04.606] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:04.606] [INFO] Offensive blocker chose move (8, 8) with score 1027
+[00:11:04.606] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:04.606] [INFO] Offensive blocker chose move (6, 8) with score 1008
+[00:11:04.606] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:04.606] [INFO] Offensive blocker chose move (7, 8) with score 2096
+[00:11:04.606] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:04.606] [INFO] Attempt block of Grakbasher Elijah by Krakface Kalan
+[00:11:04.606] [INFO] Block succeeded!
+[00:11:04.606] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:04.606] [INFO] Defensive blocker chose move (7, 1) with score 669
+[00:11:04.606] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:04.606] [INFO] Defensive blocker chose move (8, 4) with score 666
+[00:11:04.606] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:04.606] [INFO] Defensive blocker chose move (8, 5) with score 667
+[00:11:05.081] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:05.081] [INFO] Carrier Stabfist Sarmacid moved to (8, 9)
+[00:11:05.082] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:05.082] [INFO] Offensive blocker chose move (8, 7) with score 854
+[00:11:05.082] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:05.082] [INFO] Offensive blocker chose move (8, 8) with score 939
+[00:11:05.082] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:05.082] [INFO] Offensive blocker chose move (7, 9) with score 846
+[00:11:05.082] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:05.082] [INFO] Offensive blocker chose move (9, 9) with score 869
+[00:11:05.083] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:05.083] [INFO] Defensive blocker chose move (8, 1) with score 662
+[00:11:05.083] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:05.083] [INFO] Defensive blocker chose move (7, 2) with score 670
+[00:11:05.083] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:05.083] [INFO] Defensive blocker chose move (9, 5) with score 662
+[00:11:05.841] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:05.841] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:11:05.841] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:05.841] [INFO] Offensive blocker chose move (6, 9) with score 774
+[00:11:05.841] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:05.841] [INFO] Offensive blocker chose move (9, 8) with score 837
+[00:11:05.841] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:05.842] [INFO] Offensive blocker chose move (8, 8) with score 936
+[00:11:05.842] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:05.842] [INFO] Offensive blocker chose move (7, 9) with score 909
+[00:11:05.842] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:05.842] [INFO] Defensive blocker chose move (7, 1) with score 658
+[00:11:05.842] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:05.842] [INFO] Defensive blocker chose move (8, 1) with score 666
+[00:11:05.842] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:05.842] [INFO] Defensive blocker chose move (9, 4) with score 657
+[00:11:06.485] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:06.485] [INFO] Carrier Stabfist Sarmacid moved to (9, 9)
+[00:11:06.485] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:06.485] [INFO] Offensive blocker chose move (8, 9) with score 928
+[00:11:06.485] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:06.485] [INFO] Offensive blocker chose move (9, 7) with score 850
+[00:11:06.485] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:06.485] [INFO] Offensive blocker chose move (9, 8) with score 913
+[00:11:06.485] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:06.486] [INFO] Offensive blocker chose move (8, 8) with score 795
+[00:11:06.486] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:06.488] [INFO] Defensive blocker chose move (7, 2) with score 369
+[00:11:06.488] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:06.488] [INFO] Defensive blocker chose move (8, 0) with score 674
+[00:11:06.488] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:06.488] [INFO] Defensive blocker chose move (9, 5) with score 667
+[00:11:06.904] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:06.904] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:11:06.904] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:06.904] [INFO] Offensive blocker chose move (7, 9) with score 820
+[00:11:06.904] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:06.904] [INFO] Offensive blocker chose move (8, 9) with score 880
+[00:11:06.904] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:06.904] [INFO] Offensive blocker chose move (9, 7) with score 850
+[00:11:06.904] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:06.904] [INFO] Offensive blocker chose move (9, 8) with score 925
+[00:11:06.904] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:06.904] [INFO] Defensive blocker chose move (8, 2) with score 647
+[00:11:06.904] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:06.904] [INFO] Defensive blocker chose move (9, 0) with score 674
+[00:11:06.904] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:06.904] [INFO] Defensive blocker chose move (9, 4) with score 672
+[00:11:07.201] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:07.201] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:11:07.201] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:07.201] [INFO] Offensive blocker chose move (8, 8) with score 804
+[00:11:07.201] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:07.201] [INFO] Offensive blocker chose move (7, 9) with score 794
+[00:11:07.201] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:07.201] [INFO] Offensive blocker chose move (8, 9) with score 873
+[00:11:07.201] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:07.201] [INFO] Offensive blocker chose move (9, 7) with score 835
+[00:11:07.201] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:07.201] [INFO] Defensive blocker chose move (9, 2) with score 672
+[00:11:07.201] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:07.201] [INFO] Defensive blocker chose move (8, 1) with score 674
+[00:11:07.201] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:07.201] [INFO] Defensive blocker chose move (8, 4) with score 671
+[00:11:07.449] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:07.449] [INFO] Carrier Stabfist Sarmacid moved to (9, 8)
+[00:11:07.450] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:07.450] [INFO] Offensive blocker chose move (9, 9) with score 856
+[00:11:07.450] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:07.450] [INFO] Offensive blocker chose move (8, 8) with score 927
+[00:11:07.450] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:07.450] [INFO] Offensive blocker chose move (8, 7) with score 844
+[00:11:07.450] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:07.450] [INFO] Offensive blocker chose move (9, 6) with score 836
+[00:11:07.450] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:07.450] [INFO] Defensive blocker chose move (9, 1) with score 668
+[00:11:07.450] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:07.450] [INFO] Defensive blocker chose move (8, 3) with score 668
+[00:11:07.450] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:07.450] [INFO] Defensive blocker chose move (9, 4) with score 645
+[00:11:07.693] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:07.693] [INFO] Carrier Stabfist Sarmacid moved to (9, 7)
+[00:11:07.693] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:07.693] [INFO] Offensive blocker chose move (9, 5) with score 1060
+[00:11:07.693] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:07.693] [INFO] Offensive blocker chose move (8, 6) with score 1064
+[00:11:07.693] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:07.693] [INFO] Offensive blocker chose move (8, 5) with score 934
+[00:11:07.693] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:07.693] [INFO] Offensive blocker chose move (9, 8) with score 891
+[00:11:07.694] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:07.694] [INFO] Defensive blocker chose move (8, 1) with score 674
+[00:11:07.694] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:07.694] [INFO] Defensive blocker chose move (8, 0) with score 664
+[00:11:07.694] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:07.694] [INFO] Defensive blocker Bludtooth pursuing carrier Stabfist Sarmacid
+[00:11:07.894] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:07.894] [INFO] Carrier Stabfist Sarmacid moved to (8, 7)
+[00:11:07.895] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:07.895] [INFO] Attempt block of Bludtooth by Snotslicer
+[00:11:07.895] [INFO] Block succeeded!
+[00:11:07.895] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:07.896] [INFO] Offensive blocker chose move (7, 7) with score 872
+[00:11:07.896] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:07.896] [INFO] Offensive blocker chose move (8, 6) with score 910
+[00:11:07.896] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:07.896] [INFO] Offensive blocker chose move (9, 7) with score 945
+[00:11:07.896] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:07.896] [INFO] Defensive blocker chose move (8, 2) with score 650
+[00:11:07.896] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:07.896] [INFO] Defensive blocker chose move (7, 0) with score 673
+[00:11:07.896] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:07.896] [INFO] Defensive blocker chose move (8, 3) with score 649
+[00:11:08.271] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:08.271] [INFO] Carrier Stabfist Sarmacid moved to fallback position (8, 8)
+[00:11:08.271] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:08.271] [INFO] Offensive blocker chose move (9, 8) with score 892
+[00:11:08.271] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:08.271] [INFO] Offensive blocker chose move (8, 7) with score 916
+[00:11:08.271] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:08.271] [INFO] Offensive blocker chose move (8, 9) with score 859
+[00:11:08.271] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:08.271] [INFO] Offensive blocker chose move (7, 8) with score 879
+[00:11:08.271] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:08.271] [INFO] Defensive blocker chose move (9, 2) with score 665
+[00:11:08.271] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:08.271] [INFO] Defensive blocker chose move (9, 1) with score 675
+[00:11:08.272] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:08.272] [INFO] Defensive blocker chose move (7, 3) with score 665
+[00:11:08.455] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:08.455] [INFO] Carrier Stabfist Sarmacid couldn't find valid move
+[00:11:08.455] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:08.456] [INFO] Offensive blocker chose move (6, 8) with score 833
+[00:11:08.456] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:08.456] [INFO] Offensive blocker chose move (9, 8) with score 861
+[00:11:08.456] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:08.456] [INFO] Offensive blocker chose move (8, 7) with score 922
+[00:11:08.456] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:08.456] [INFO] Offensive blocker chose move (8, 9) with score 866
+[00:11:08.456] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:08.456] [INFO] Defensive blocker chose move (9, 3) with score 653
+[00:11:08.456] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:08.456] [INFO] Defensive blocker chose move (8, 1) with score 670
+[00:11:08.456] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:08.456] [INFO] Defensive blocker chose move (8, 3) with score 661
+[00:11:08.653] [INFO] Moving carrier Stabfist Sarmacid with 1 movement points
+[00:11:08.653] [INFO] Carrier Stabfist Sarmacid moved to (7, 8)
+[00:11:08.653] [INFO] Moving offensive blocker Snotslicer with 4 movement points
+[00:11:08.653] [INFO] Offensive blocker chose move (7, 7) with score 938
+[00:11:08.653] [INFO] Moving offensive blocker Grubfinger Dyfar with 4 movement points
+[00:11:08.653] [INFO] Offensive blocker chose move (8, 8) with score 918
+[00:11:08.653] [INFO] Moving offensive blocker Grakstabber Doux with 3 movement points
+[00:11:08.653] [INFO] Offensive blocker chose move (6, 8) with score 856
+[00:11:08.653] [INFO] Moving offensive blocker Krakface Kalan with 4 movement points
+[00:11:08.653] [INFO] Offensive blocker chose move (7, 9) with score 905
+[00:11:08.653] [INFO] Moving defensive blocker Stabslicer Cat with 1 movement points
+[00:11:08.653] [INFO] Defensive blocker chose move (9, 2) with score 352
+[00:11:08.653] [INFO] Moving defensive blocker Graknose Kagran with 3 movement points
+[00:11:08.653] [INFO] Defensive blocker chose move (7, 3) with score 673
+[00:11:08.653] [INFO] Moving defensive blocker Bludtooth with 1 movement points
+[00:11:08.653] [INFO] Defensive blocker chose move (8, 2) with score 674

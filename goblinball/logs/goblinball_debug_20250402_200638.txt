@@ -1,0 +1,30 @@
+[20:06:38.944] [INFO] === Goblinball Debug Log - 20250402_200638 ===
+[20:06:38.963] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:06:38.963] [INFO] Positioned Stabfoot at (2, 8)
+[20:06:38.963] [INFO] Positioned Grimslicer at (4, 8)
+[20:06:38.963] [INFO] Positioned Zogsquisher at (6, 8)
+[20:06:38.963] [INFO] Positioned Grubmangler  at (8, 8)
+[20:06:38.963] [INFO] Positioned Snotmangler Saber at (9, 8)
+[20:06:38.963] [INFO] Positioned Zogbasher  at (2, 1)
+[20:06:38.963] [INFO] Positioned Skabcrusher the Tough at (4, 1)
+[20:06:38.963] [INFO] Positioned Skrizchomper at (6, 1)
+[20:06:38.963] [INFO] Positioned Gnogstomper the Sneaky at (8, 1)
+[20:06:38.963] [INFO] Positioned Grakbasher Winterdew at (9, 1)
+[20:06:38.963] [INFO] Selected carrier: Stabfoot from team Mudcrushers
+[20:06:38.963] [INFO] ===== Starting Play 1 =====
+[20:06:38.963] [INFO] Positioned Stabfoot at (2, 8)
+[20:06:38.963] [INFO] Positioned Grimslicer at (4, 8)
+[20:06:38.963] [INFO] Positioned Zogsquisher at (6, 8)
+[20:06:38.963] [INFO] Positioned Grubmangler  at (8, 8)
+[20:06:38.963] [INFO] Positioned Snotmangler Saber at (9, 8)
+[20:06:38.963] [INFO] Positioned Zogbasher  at (2, 1)
+[20:06:38.963] [INFO] Positioned Skabcrusher the Tough at (4, 1)
+[20:06:38.963] [INFO] Positioned Skrizchomper at (6, 1)
+[20:06:38.963] [INFO] Positioned Gnogstomper the Sneaky at (8, 1)
+[20:06:38.963] [INFO] Positioned Grakbasher Winterdew at (9, 1)
+[20:06:38.963] [INFO] Selected carrier: Grimslicer from team Mudcrushers
+[20:06:40.394] [INFO] ==== Processing Turn 1 ====
+[20:06:40.394] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:06:40.394] [INFO] Carrier Grimslicer at position (4, 8) with 3 movement points
+[20:06:40.394] [INFO] Torch status at carrier row 8: Not lit
+[20:06:40.394] [INFO] Attempting to move carrier Grimslicer

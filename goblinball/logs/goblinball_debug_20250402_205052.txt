@@ -1,0 +1,24 @@
+[20:50:52.452] [INFO] === Goblinball Debug Log - 20250402_205052 ===
+[20:50:52.472] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:50:54.228] [INFO] Moving carrier Zogsquisher Sharquita the Sneaky with 1 movement points
+[20:50:54.228] [INFO] Carrier chose move (4, 7) with score 158
+[20:50:54.228] [INFO] Blocker Grakstomper Auburn attempting to form forward screen
+[20:50:54.228] [INFO] Blocker moved to screen position (4, 6)
+[20:50:54.228] [INFO] Blocker Skrizfoot Tyjen attempting to form forward screen
+[20:50:54.228] [INFO] Blocker Skrizfoot Tyjen moving to protect carrier directly
+[20:50:54.231] [INFO] Blocker moved to protection position (5, 8)
+[20:50:54.231] [INFO] Blocker Mugcrusher Laured operating as lead blocker
+[20:50:54.231] [INFO] Lead blocker moved to (8, 5)
+[20:50:54.231] [INFO] Blocker Krunksquisher operating as lead blocker
+[20:50:54.231] [INFO] Lead blocker moved to (9, 5)
+[20:50:54.231] [INFO] Defensive blocker Lugbasher the Sly directly pursuing carrier
+[20:50:54.231] [INFO] Defensive blocker Splatsmasher directly pursuing carrier
+[20:50:54.232] [INFO] Defensive blocker Gutsmasher using interception strategy
+[20:50:54.232] [INFO] Blocker intercepting at (5, 1)
+[20:50:54.232] [INFO] Defensive blocker Skrizbasher Zilocke using interception strategy
+[20:50:54.232] [INFO] Blocker intercepting at (4, 6)
+[20:50:54.232] [INFO] Defensive blocker Grakchewer using interception strategy
+[20:50:54.232] [INFO] Blocker intercepting at (4, 6)
+[20:51:01.164] [INFO] Carrier Zogsquisher Sharquita the Sneaky cannot move
+[20:51:01.164] [INFO] Defensive blocker Skrizbasher Zilocke using interception strategy
+[20:51:01.164] [INFO] Blocker intercepting at (4, 6)

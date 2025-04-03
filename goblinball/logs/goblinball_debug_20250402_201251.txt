@@ -1,0 +1,1465 @@
+[20:12:51.864] [INFO] === Goblinball Debug Log - 20250402_201251 ===
+[20:12:51.885] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:12:51.885] [INFO] Positioned Kraknose at (2, 8)
+[20:12:51.885] [INFO] Positioned Lugsquisher at (4, 8)
+[20:12:51.885] [INFO] Positioned Fizzfist at (6, 8)
+[20:12:51.885] [INFO] Positioned Splatfist at (8, 8)
+[20:12:51.885] [INFO] Positioned Krakchewer at (9, 8)
+[20:12:51.885] [INFO] Positioned Globnose Dís the Fierce at (2, 1)
+[20:12:51.885] [INFO] Positioned Zogbiter Omoka at (4, 1)
+[20:12:51.885] [INFO] Positioned Stabskull the Mighty at (6, 1)
+[20:12:51.885] [INFO] Positioned Gutfoot at (8, 1)
+[20:12:51.885] [INFO] Positioned Grubchomper at (9, 1)
+[20:12:51.885] [INFO] Selected carrier: Kraknose from team Mudcrushers
+[20:12:51.885] [INFO] ===== Starting Play 1 =====
+[20:12:51.885] [INFO] Positioned Kraknose at (2, 8)
+[20:12:51.885] [INFO] Positioned Lugsquisher at (4, 8)
+[20:12:51.885] [INFO] Positioned Fizzfist at (6, 8)
+[20:12:51.885] [INFO] Positioned Splatfist at (8, 8)
+[20:12:51.885] [INFO] Positioned Krakchewer at (9, 8)
+[20:12:51.885] [INFO] Positioned Globnose Dís the Fierce at (2, 1)
+[20:12:51.885] [INFO] Positioned Zogbiter Omoka at (4, 1)
+[20:12:51.885] [INFO] Positioned Stabskull the Mighty at (6, 1)
+[20:12:51.885] [INFO] Positioned Gutfoot at (8, 1)
+[20:12:51.885] [INFO] Positioned Grubchomper at (9, 1)
+[20:12:51.885] [INFO] Selected carrier: Lugsquisher from team Mudcrushers
+[20:12:53.977] [INFO] ==== Processing Turn 1 ====
+[20:12:53.977] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:53.977] [INFO] Carrier Lugsquisher at position (4, 8) with 4 movement points
+[20:12:53.977] [INFO] Torch status at carrier row 8: Not lit
+[20:12:53.977] [INFO] Attempting to move carrier Lugsquisher
+[20:12:53.978] [INFO] Carrier chose move (4, 4) with score 400
+[20:12:53.978] [INFO] Carrier moved to (4, 4). Moved successfully: True
+[20:12:53.978] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:53.978] [INFO] Offensive blocker Kraknose at (2, 8) with 3 movement
+[20:12:53.978] [INFO] Blocker Kraknose operating as lead blocker
+[20:12:53.978] [INFO] Lead blocker moved to (2, 5)
+[20:12:53.978] [INFO] Blocker Kraknose moved: True, now at (2, 5)
+[20:12:53.978] [INFO] Offensive blocker Fizzfist at (6, 8) with 3 movement
+[20:12:53.978] [INFO] Blocker Fizzfist operating as lead blocker
+[20:12:53.978] [INFO] Lead blocker moved to (6, 5)
+[20:12:53.978] [INFO] Blocker Fizzfist moved: True, now at (6, 5)
+[20:12:53.978] [INFO] Offensive blocker Splatfist at (8, 8) with 1 movement
+[20:12:53.978] [INFO] Blocker Splatfist operating as lead blocker
+[20:12:53.978] [INFO] Lead blocker moved to (8, 7)
+[20:12:53.978] [INFO] Blocker Splatfist moved: True, now at (8, 7)
+[20:12:53.978] [INFO] Offensive blocker Krakchewer at (9, 8) with 4 movement
+[20:12:53.978] [INFO] Blocker Krakchewer operating as lead blocker
+[20:12:53.978] [INFO] Lead blocker moved to (9, 4)
+[20:12:53.978] [INFO] Blocker Krakchewer moved: True, now at (9, 4)
+[20:12:53.978] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:53.978] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:12:53.978] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:12:53.978] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (2, 1)
+[20:12:53.978] [INFO] Defensive blocker Zogbiter Omoka at (4, 1) with 4 movement
+[20:12:53.978] [INFO] Defensive blocker Zogbiter Omoka directly pursuing carrier
+[20:12:53.979] [INFO] Blocker Zogbiter Omoka moved: False, now at (4, 1)
+[20:12:53.979] [INFO] Defensive blocker Stabskull the Mighty at (6, 1) with 1 movement
+[20:12:53.979] [INFO] Defensive blocker Stabskull the Mighty using interception strategy
+[20:12:53.979] [INFO] Blocker intercepting at (5, 1)
+[20:12:53.979] [INFO] Blocker Stabskull the Mighty moved: True, now at (5, 1)
+[20:12:53.979] [INFO] Defensive blocker Gutfoot at (8, 1) with 4 movement
+[20:12:53.979] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:12:53.979] [INFO] Blocker intercepting at (5, 2)
+[20:12:53.979] [INFO] Blocker Gutfoot moved: True, now at (5, 2)
+[20:12:53.979] [INFO] Defensive blocker Grubchomper at (9, 1) with 3 movement
+[20:12:53.979] [INFO] Defensive blocker Grubchomper using interception strategy
+[20:12:53.979] [INFO] Defensive blocker Grubchomper directly pursuing carrier
+[20:12:53.979] [INFO] Blocker Grubchomper moved: True, now at (6, 1)
+[20:12:53.979] [INFO] === Grid State at end of turn ===
+[20:12:53.979] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:53.979] [INFO] Row 1: .. .. D .. D D D .. .. .. 
+[20:12:53.979] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:12:53.979] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:53.979] [INFO] Row 4: .. .. .. .. OC .. .. .. .. O 
+[20:12:53.979] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:12:53.979] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:12:53.979] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:12:53.979] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:53.979] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:58.294] [INFO] ==== Processing Turn 2 ====
+[20:12:58.294] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:58.294] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:12:58.294] [INFO] Torch status at carrier row 4: Not lit
+[20:12:58.294] [INFO] Attempting to move carrier Lugsquisher
+[20:12:58.294] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:12:58.294] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:58.294] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:12:58.294] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:12:58.294] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:12:58.294] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:12:58.294] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:12:58.294] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:12:58.294] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:12:58.294] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:12:58.294] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:58.294] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:12:58.294] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:12:58.294] [INFO] Blocker intercepting at (3, 1)
+[20:12:58.294] [INFO] Blocker Globnose Dís the Fierce moved: True, now at (3, 1)
+[20:12:58.294] [INFO] Defensive blocker Zogbiter Omoka at (4, 1) with 4 movement
+[20:12:58.294] [INFO] Defensive blocker Zogbiter Omoka directly pursuing carrier
+[20:12:58.294] [INFO] Blocker Zogbiter Omoka moved: True, now at (3, 4)
+[20:12:58.294] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:12:58.294] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:12:58.294] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:12:58.294] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:12:58.294] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:12:58.294] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:12:58.294] [INFO] === Grid State at end of turn ===
+[20:12:58.294] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:58.294] [INFO] Row 1: .. .. .. D .. D D .. .. .. 
+[20:12:58.294] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:12:58.294] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:58.294] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:12:58.294] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:12:58.294] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:12:58.294] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:12:58.294] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:58.294] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:59.631] [INFO] ==== Processing Turn 3 ====
+[20:12:59.631] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:59.631] [INFO] Lit torch at row 9
+[20:12:59.631] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:12:59.631] [INFO] Torch status at carrier row 4: Not lit
+[20:12:59.631] [INFO] Attempting to move carrier Lugsquisher
+[20:12:59.631] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:12:59.631] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:59.631] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:12:59.631] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:12:59.631] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:12:59.631] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:12:59.631] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:12:59.631] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:12:59.631] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:12:59.631] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:12:59.632] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:59.632] [INFO] Defensive blocker Globnose Dís the Fierce at (3, 1) with 3 movement
+[20:12:59.632] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:12:59.632] [INFO] Blocker intercepting at (3, 2)
+[20:12:59.632] [INFO] Blocker Globnose Dís the Fierce moved: True, now at (3, 2)
+[20:12:59.632] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:12:59.632] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:12:59.632] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:12:59.632] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:12:59.632] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:12:59.632] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:12:59.632] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:12:59.632] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:12:59.632] [INFO] === Grid State at end of turn ===
+[20:12:59.632] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:59.632] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:12:59.632] [INFO] Row 2: .. .. .. D .. D .. .. .. .. 
+[20:12:59.632] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:59.632] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:12:59.632] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:12:59.632] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:12:59.632] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:12:59.632] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:59.632] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:00.613] [INFO] ==== Processing Turn 4 ====
+[20:13:00.613] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:00.613] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:00.613] [INFO] Torch status at carrier row 4: Not lit
+[20:13:00.613] [INFO] Attempting to move carrier Lugsquisher
+[20:13:00.613] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:00.613] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:00.613] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:00.613] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:00.613] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:00.613] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:00.613] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:00.613] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:00.613] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:00.613] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:00.613] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:00.613] [INFO] Defensive blocker Globnose Dís the Fierce at (3, 2) with 2 movement
+[20:13:00.613] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:00.613] [INFO] Blocker Globnose Dís the Fierce moved: True, now at (4, 3)
+[20:13:00.613] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:00.613] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:00.613] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:00.613] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:00.613] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:00.613] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:00.613] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:00.613] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:00.613] [INFO] === Grid State at end of turn ===
+[20:13:00.613] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:00.613] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:00.613] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:00.613] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:00.613] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:00.613] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:00.613] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:00.613] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:00.613] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:00.613] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.195] [INFO] ==== Processing Turn 5 ====
+[20:13:01.195] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:01.195] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:01.195] [INFO] Torch status at carrier row 4: Not lit
+[20:13:01.195] [INFO] Attempting to move carrier Lugsquisher
+[20:13:01.195] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:01.195] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:01.195] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:01.195] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:01.195] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:01.195] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:01.195] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:01.195] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:01.195] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:01.195] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:01.195] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:01.195] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:01.195] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:01.195] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:01.195] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:01.195] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:01.195] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:01.195] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:01.195] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:01.195] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:01.195] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:01.195] [INFO] === Grid State at end of turn ===
+[20:13:01.195] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.195] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:01.195] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:01.195] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:01.195] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:01.195] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:01.195] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.195] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:01.195] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.195] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.763] [INFO] ==== Processing Turn 6 ====
+[20:13:01.763] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:01.763] [INFO] Lit torch at row 8
+[20:13:01.763] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:01.763] [INFO] Torch status at carrier row 4: Not lit
+[20:13:01.763] [INFO] Attempting to move carrier Lugsquisher
+[20:13:01.763] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:01.763] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:01.763] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:01.763] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:01.763] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:01.763] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:01.763] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:01.763] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:01.763] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:01.763] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:01.763] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:01.763] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:01.764] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:01.764] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:01.764] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:01.764] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:01.764] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:01.764] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:01.764] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:01.764] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:01.764] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:01.764] [INFO] === Grid State at end of turn ===
+[20:13:01.764] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.764] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:01.764] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:01.764] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:01.764] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:01.764] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:01.764] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.764] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:01.764] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:01.764] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:02.280] [INFO] ==== Processing Turn 7 ====
+[20:13:02.280] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:02.280] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:02.280] [INFO] Torch status at carrier row 4: Not lit
+[20:13:02.280] [INFO] Attempting to move carrier Lugsquisher
+[20:13:02.280] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:02.280] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:02.280] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:02.280] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:02.280] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:02.280] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:02.280] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:02.280] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:02.280] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:02.280] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:02.280] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:02.280] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:02.280] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:02.280] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:02.280] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:02.280] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:02.280] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:02.280] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:02.280] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:02.280] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:02.280] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:02.280] [INFO] === Grid State at end of turn ===
+[20:13:02.280] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:02.280] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:02.280] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:02.280] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:02.280] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:02.280] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:02.280] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:02.280] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:02.280] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:02.280] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.093] [INFO] ==== Processing Turn 8 ====
+[20:13:03.093] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:03.093] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:03.093] [INFO] Torch status at carrier row 4: Not lit
+[20:13:03.093] [INFO] Attempting to move carrier Lugsquisher
+[20:13:03.093] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:03.093] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:03.093] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:03.093] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:03.094] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:03.094] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:03.094] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:03.094] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:03.094] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:03.094] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:03.094] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:03.094] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:03.094] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:03.094] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:03.094] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:03.094] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:03.094] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:03.094] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:03.094] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:03.094] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:03.094] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:03.094] [INFO] === Grid State at end of turn ===
+[20:13:03.094] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.094] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:03.094] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:03.094] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:03.094] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:03.094] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:03.094] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.094] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:03.094] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.094] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.561] [INFO] ==== Processing Turn 9 ====
+[20:13:03.561] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:03.561] [INFO] Lit torch at row 7
+[20:13:03.561] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:03.561] [INFO] Torch status at carrier row 4: Not lit
+[20:13:03.561] [INFO] Attempting to move carrier Lugsquisher
+[20:13:03.561] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:03.561] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:03.561] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:03.561] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:03.561] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:03.561] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:03.561] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:03.561] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:03.561] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:03.561] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:03.561] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:03.561] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:03.561] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:03.561] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:03.561] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:03.561] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:03.561] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:03.561] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:03.561] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:03.561] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:03.561] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:03.561] [INFO] === Grid State at end of turn ===
+[20:13:03.561] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.561] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:03.561] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:03.561] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:03.561] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:03.561] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:03.561] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.561] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:03.561] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:03.561] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.537] [INFO] ==== Processing Turn 10 ====
+[20:13:05.537] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:05.537] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:05.537] [INFO] Torch status at carrier row 4: Not lit
+[20:13:05.537] [INFO] Attempting to move carrier Lugsquisher
+[20:13:05.537] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:05.537] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:05.537] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:05.537] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:05.537] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:05.537] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:05.537] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:05.537] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:05.537] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:05.537] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:05.537] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:05.537] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:05.537] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:05.537] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:05.537] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:05.537] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:05.537] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:05.537] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:05.537] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:05.537] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:05.537] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:05.537] [INFO] === Grid State at end of turn ===
+[20:13:05.537] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.537] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:05.537] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:05.537] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:05.537] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:05.537] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:05.537] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.537] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:05.537] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.537] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.935] [INFO] ==== Processing Turn 11 ====
+[20:13:05.935] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:05.935] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:05.935] [INFO] Torch status at carrier row 4: Not lit
+[20:13:05.935] [INFO] Attempting to move carrier Lugsquisher
+[20:13:05.935] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:05.935] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:05.935] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:05.935] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:05.935] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:05.935] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:05.935] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:05.935] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:05.935] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:05.935] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:05.935] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:05.935] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:05.935] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:05.935] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:05.935] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:05.935] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:05.935] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:05.935] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:05.935] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:05.935] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:05.935] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:05.935] [INFO] === Grid State at end of turn ===
+[20:13:05.935] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.935] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:05.935] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:05.935] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:05.935] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:05.935] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:05.935] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.935] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:05.935] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:05.935] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.366] [INFO] ==== Processing Turn 12 ====
+[20:13:06.366] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:06.366] [INFO] Lit torch at row 6
+[20:13:06.366] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:06.366] [INFO] Torch status at carrier row 4: Not lit
+[20:13:06.366] [INFO] Attempting to move carrier Lugsquisher
+[20:13:06.366] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:06.366] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:06.366] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:06.366] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:06.366] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:06.366] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:06.366] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:06.366] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:06.366] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:06.366] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:06.366] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:06.366] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:06.366] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:06.366] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:06.366] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:06.366] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:06.366] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:06.366] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:06.366] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:06.366] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:06.366] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:06.366] [INFO] === Grid State at end of turn ===
+[20:13:06.366] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.366] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:06.366] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:06.366] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:06.366] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:06.366] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:06.367] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.367] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:06.367] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.367] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.754] [INFO] ==== Processing Turn 13 ====
+[20:13:06.754] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:06.754] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:06.754] [INFO] Torch status at carrier row 4: Not lit
+[20:13:06.754] [INFO] Attempting to move carrier Lugsquisher
+[20:13:06.754] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:06.754] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:06.754] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:06.754] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:06.754] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:06.754] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:06.754] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:06.754] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:06.754] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:06.754] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:06.754] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:06.754] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:06.754] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:06.754] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:06.754] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:06.754] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:06.754] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:06.754] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:06.754] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:06.754] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:06.754] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:06.754] [INFO] === Grid State at end of turn ===
+[20:13:06.754] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.754] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:06.754] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:06.754] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:06.754] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:06.754] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:06.754] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.754] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:06.754] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:06.754] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.074] [INFO] ==== Processing Turn 14 ====
+[20:13:07.074] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:07.074] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:07.074] [INFO] Torch status at carrier row 4: Not lit
+[20:13:07.074] [INFO] Attempting to move carrier Lugsquisher
+[20:13:07.074] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:07.074] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:07.074] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:07.074] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:07.074] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:07.074] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:07.074] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:07.074] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:07.074] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:07.074] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:07.074] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:07.074] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:07.074] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:07.074] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:07.074] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:07.074] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:07.074] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:07.074] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:07.074] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:07.074] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:07.074] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:07.074] [INFO] === Grid State at end of turn ===
+[20:13:07.074] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.074] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:07.074] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:07.074] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:07.074] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:07.074] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:07.074] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.074] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:07.074] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.074] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.307] [INFO] ==== Processing Turn 15 ====
+[20:13:07.307] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:07.307] [INFO] Lit torch at row 5
+[20:13:07.307] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:07.307] [INFO] Torch status at carrier row 4: Not lit
+[20:13:07.307] [INFO] Attempting to move carrier Lugsquisher
+[20:13:07.307] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:07.307] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:07.307] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:07.307] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:07.307] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:07.307] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:07.307] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:07.307] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:07.307] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:07.307] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:07.307] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:07.307] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:07.307] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:07.307] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:07.307] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:07.307] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:07.307] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:07.307] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:07.307] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:07.307] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:07.307] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:07.307] [INFO] === Grid State at end of turn ===
+[20:13:07.307] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.307] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:07.307] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:07.307] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:07.307] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:07.307] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:07.307] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.307] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:07.307] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.307] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.540] [INFO] ==== Processing Turn 16 ====
+[20:13:07.540] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:07.540] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:07.540] [INFO] Torch status at carrier row 4: Not lit
+[20:13:07.540] [INFO] Attempting to move carrier Lugsquisher
+[20:13:07.540] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:07.540] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:07.540] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:07.540] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:07.540] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:07.540] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:07.540] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:07.540] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:07.540] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:07.540] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:07.540] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:07.540] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:07.540] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:07.540] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:07.540] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:07.540] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:07.540] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:07.540] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:07.540] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:07.540] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:07.540] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:07.540] [INFO] === Grid State at end of turn ===
+[20:13:07.540] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.540] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:07.540] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:07.540] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:07.540] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:07.540] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:07.540] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.540] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:07.540] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.540] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.824] [INFO] ==== Processing Turn 17 ====
+[20:13:07.824] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:07.824] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:07.824] [INFO] Torch status at carrier row 4: Not lit
+[20:13:07.824] [INFO] Attempting to move carrier Lugsquisher
+[20:13:07.824] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:07.824] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:07.824] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:07.824] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:07.824] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:07.824] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:07.824] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:07.824] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:07.824] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:07.824] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:07.824] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:07.824] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with 0 movement
+[20:13:07.824] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:07.824] [INFO] Defensive blocker Zogbiter Omoka at (3, 4) with -1 movement
+[20:13:07.824] [INFO] Blocker Zogbiter Omoka moved: False, now at (3, 4)
+[20:13:07.824] [INFO] Defensive blocker Stabskull the Mighty at (5, 1) with 0 movement
+[20:13:07.824] [INFO] Blocker Stabskull the Mighty moved: False, now at (5, 1)
+[20:13:07.824] [INFO] Defensive blocker Gutfoot at (5, 2) with 0 movement
+[20:13:07.824] [INFO] Blocker Gutfoot moved: False, now at (5, 2)
+[20:13:07.824] [INFO] Defensive blocker Grubchomper at (6, 1) with 0 movement
+[20:13:07.824] [INFO] Blocker Grubchomper moved: False, now at (6, 1)
+[20:13:07.824] [INFO] === Grid State at end of turn ===
+[20:13:07.824] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.824] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:07.824] [INFO] Row 2: .. .. .. .. .. D .. .. .. .. 
+[20:13:07.824] [INFO] Row 3: .. .. .. .. D .. .. .. .. .. 
+[20:13:07.824] [INFO] Row 4: .. .. .. D OC .. .. .. .. O 
+[20:13:07.824] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:07.824] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.824] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:07.824] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:07.824] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:08.090] [INFO] ==== Processing Turn 18 ====
+[20:13:08.090] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:08.090] [INFO] Lit torch at row 4
+[20:13:08.090] [INFO] Carrier Lugsquisher at position (4, 4) with 0 movement points
+[20:13:08.090] [INFO] Torch status at carrier row 4: LIT
+[20:13:08.090] [INFO] Attempting to move carrier Lugsquisher
+[20:13:08.090] [INFO] Carrier did not move. Remaining at (4, 4)
+[20:13:08.090] [INFO] PENALTY: Carrier Lugsquisher is on lit torch row 4
+[20:13:08.090] [INFO] ===== Ending Play 1 after 18 turns =====
+[20:13:08.090] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:13:08.090] [INFO] Carrier Lugsquisher was on a lit torch row! Taking penalty.
+[20:13:08.337] [INFO] ===== Starting Play 2 =====
+[20:13:08.337] [INFO] Positioned Kraknose at (2, 8)
+[20:13:08.337] [INFO] Positioned Lugsquisher at (4, 8)
+[20:13:08.337] [INFO] Positioned Fizzfist at (6, 8)
+[20:13:08.337] [INFO] Positioned Splatfist at (8, 8)
+[20:13:08.337] [INFO] Positioned Krakchewer at (9, 8)
+[20:13:08.337] [INFO] Positioned Globnose Dís the Fierce at (2, 1)
+[20:13:08.337] [INFO] Positioned Zogbiter Omoka at (4, 1)
+[20:13:08.337] [INFO] Positioned Stabskull the Mighty at (6, 1)
+[20:13:08.337] [INFO] Positioned Gutfoot at (8, 1)
+[20:13:08.337] [INFO] Positioned Grubchomper at (9, 1)
+[20:13:08.337] [INFO] Selected carrier: Fizzfist from team Mudcrushers
+[20:13:08.971] [INFO] ==== Processing Turn 1 ====
+[20:13:08.971] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:08.971] [INFO] Carrier Fizzfist at position (6, 8) with 3 movement points
+[20:13:08.971] [INFO] Torch status at carrier row 8: Not lit
+[20:13:08.971] [INFO] Attempting to move carrier Fizzfist
+[20:13:08.971] [INFO] Carrier chose move (6, 5) with score 315
+[20:13:08.971] [INFO] Carrier moved to (6, 5). Moved successfully: True
+[20:13:08.971] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:08.971] [INFO] Offensive blocker Kraknose at (2, 8) with 3 movement
+[20:13:08.971] [INFO] Blocker Kraknose operating as lead blocker
+[20:13:08.971] [INFO] Lead blocker moved to (2, 5)
+[20:13:08.971] [INFO] Blocker Kraknose moved: True, now at (2, 5)
+[20:13:08.971] [INFO] Offensive blocker Lugsquisher at (4, 8) with 4 movement
+[20:13:08.971] [INFO] Blocker Lugsquisher operating as lead blocker
+[20:13:08.971] [INFO] Lead blocker moved to (4, 4)
+[20:13:08.971] [INFO] Blocker Lugsquisher moved: True, now at (4, 4)
+[20:13:08.971] [INFO] Offensive blocker Splatfist at (8, 8) with 1 movement
+[20:13:08.971] [INFO] Blocker Splatfist operating as lead blocker
+[20:13:08.971] [INFO] Lead blocker moved to (8, 7)
+[20:13:08.971] [INFO] Blocker Splatfist moved: True, now at (8, 7)
+[20:13:08.971] [INFO] Offensive blocker Krakchewer at (9, 8) with 4 movement
+[20:13:08.971] [INFO] Blocker Krakchewer operating as lead blocker
+[20:13:08.971] [INFO] Lead blocker moved to (9, 4)
+[20:13:08.971] [INFO] Blocker Krakchewer moved: True, now at (9, 4)
+[20:13:08.971] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:08.971] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:08.971] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:13:08.971] [INFO] Blocker intercepting at (5, 1)
+[20:13:08.972] [INFO] Blocker Globnose Dís the Fierce moved: True, now at (5, 1)
+[20:13:08.972] [INFO] Defensive blocker Zogbiter Omoka at (4, 1) with 4 movement
+[20:13:08.972] [INFO] Defensive blocker Zogbiter Omoka using interception strategy
+[20:13:08.972] [INFO] Blocker intercepting at (5, 2)
+[20:13:08.972] [INFO] Blocker Zogbiter Omoka moved: True, now at (5, 2)
+[20:13:08.972] [INFO] Defensive blocker Stabskull the Mighty at (6, 1) with 1 movement
+[20:13:08.972] [INFO] Defensive blocker Stabskull the Mighty using interception strategy
+[20:13:08.972] [INFO] Blocker intercepting at (6, 2)
+[20:13:08.972] [INFO] Blocker Stabskull the Mighty moved: True, now at (6, 2)
+[20:13:08.972] [INFO] Defensive blocker Gutfoot at (8, 1) with 4 movement
+[20:13:08.972] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:08.972] [INFO] Blocker intercepting at (7, 1)
+[20:13:08.972] [INFO] Blocker Gutfoot moved: True, now at (7, 1)
+[20:13:08.972] [INFO] Defensive blocker Grubchomper at (9, 1) with 3 movement
+[20:13:08.972] [INFO] Defensive blocker Grubchomper using interception strategy
+[20:13:08.972] [INFO] Blocker intercepting at (7, 2)
+[20:13:08.972] [INFO] Blocker Grubchomper moved: True, now at (7, 2)
+[20:13:08.972] [INFO] === Grid State at end of turn ===
+[20:13:08.972] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:08.972] [INFO] Row 1: .. .. .. .. .. D .. D .. .. 
+[20:13:08.972] [INFO] Row 2: .. .. .. .. .. D D D .. .. 
+[20:13:08.972] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:13:08.972] [INFO] Row 4: .. .. .. .. O .. .. .. .. O 
+[20:13:08.972] [INFO] Row 5: .. .. O .. .. .. OC .. .. .. 
+[20:13:08.972] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:08.972] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:08.972] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:08.972] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.354] [INFO] ==== Processing Turn 2 ====
+[20:13:09.354] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:09.355] [INFO] Carrier Fizzfist at position (6, 5) with 0 movement points
+[20:13:09.355] [INFO] Torch status at carrier row 5: Not lit
+[20:13:09.355] [INFO] Attempting to move carrier Fizzfist
+[20:13:09.355] [INFO] Carrier did not move. Remaining at (6, 5)
+[20:13:09.355] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:09.355] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:09.355] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:09.355] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:09.355] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:09.355] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:09.355] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:09.355] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:09.355] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:09.355] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:09.355] [INFO] Defensive blocker Globnose Dís the Fierce at (5, 1) with 1 movement
+[20:13:09.355] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:13:09.355] [INFO] Blocker intercepting at (6, 1)
+[20:13:09.355] [INFO] Blocker Globnose Dís the Fierce moved: True, now at (6, 1)
+[20:13:09.355] [INFO] Defensive blocker Zogbiter Omoka at (5, 2) with 2 movement
+[20:13:09.355] [INFO] Defensive blocker Zogbiter Omoka using interception strategy
+[20:13:09.355] [INFO] Blocker intercepting at (5, 1)
+[20:13:09.355] [INFO] Blocker Zogbiter Omoka moved: True, now at (5, 1)
+[20:13:09.355] [INFO] Defensive blocker Stabskull the Mighty at (6, 2) with 0 movement
+[20:13:09.355] [INFO] Blocker Stabskull the Mighty moved: False, now at (6, 2)
+[20:13:09.355] [INFO] Defensive blocker Gutfoot at (7, 1) with 3 movement
+[20:13:09.355] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:09.355] [INFO] Blocker intercepting at (7, 0)
+[20:13:09.355] [INFO] Blocker Gutfoot moved: True, now at (7, 0)
+[20:13:09.355] [INFO] Defensive blocker Grubchomper at (7, 2) with 0 movement
+[20:13:09.355] [INFO] Blocker Grubchomper moved: False, now at (7, 2)
+[20:13:09.355] [INFO] === Grid State at end of turn ===
+[20:13:09.355] [INFO] Row 0: .. .. .. .. .. .. .. D .. .. 
+[20:13:09.355] [INFO] Row 1: .. .. .. .. .. D D .. .. .. 
+[20:13:09.355] [INFO] Row 2: .. .. .. .. .. .. D D .. .. 
+[20:13:09.355] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.355] [INFO] Row 4: .. .. .. .. O .. .. .. .. O 
+[20:13:09.355] [INFO] Row 5: .. .. O .. .. .. OC .. .. .. 
+[20:13:09.355] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.355] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:09.355] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.355] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.720] [INFO] ==== Processing Turn 3 ====
+[20:13:09.720] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:09.720] [INFO] Lit torch at row 9
+[20:13:09.720] [INFO] Carrier Fizzfist at position (6, 5) with 0 movement points
+[20:13:09.720] [INFO] Torch status at carrier row 5: Not lit
+[20:13:09.720] [INFO] Attempting to move carrier Fizzfist
+[20:13:09.720] [INFO] Carrier did not move. Remaining at (6, 5)
+[20:13:09.720] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:09.720] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:09.720] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:09.720] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:09.720] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:09.720] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:09.720] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:09.720] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:09.720] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:09.720] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:09.720] [INFO] Defensive blocker Globnose Dís the Fierce at (6, 1) with 0 movement
+[20:13:09.720] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (6, 1)
+[20:13:09.720] [INFO] Defensive blocker Zogbiter Omoka at (5, 1) with 1 movement
+[20:13:09.720] [INFO] Defensive blocker Zogbiter Omoka using interception strategy
+[20:13:09.720] [INFO] Blocker intercepting at (5, 2)
+[20:13:09.720] [INFO] Blocker Zogbiter Omoka moved: True, now at (5, 2)
+[20:13:09.720] [INFO] Defensive blocker Stabskull the Mighty at (6, 2) with 0 movement
+[20:13:09.720] [INFO] Blocker Stabskull the Mighty moved: False, now at (6, 2)
+[20:13:09.720] [INFO] Defensive blocker Gutfoot at (7, 0) with 2 movement
+[20:13:09.720] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:09.720] [INFO] Blocker intercepting at (7, 1)
+[20:13:09.720] [INFO] Blocker Gutfoot moved: True, now at (7, 1)
+[20:13:09.720] [INFO] Defensive blocker Grubchomper at (7, 2) with 0 movement
+[20:13:09.720] [INFO] Blocker Grubchomper moved: False, now at (7, 2)
+[20:13:09.720] [INFO] === Grid State at end of turn ===
+[20:13:09.720] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.720] [INFO] Row 1: .. .. .. .. .. .. D D .. .. 
+[20:13:09.720] [INFO] Row 2: .. .. .. .. .. D D D .. .. 
+[20:13:09.720] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.720] [INFO] Row 4: .. .. .. .. O .. .. .. .. O 
+[20:13:09.720] [INFO] Row 5: .. .. O .. .. .. OC .. .. .. 
+[20:13:09.720] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.720] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:09.720] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:09.720] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:10.086] [INFO] ==== Processing Turn 4 ====
+[20:13:10.086] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:10.086] [INFO] Carrier Fizzfist at position (6, 5) with 0 movement points
+[20:13:10.086] [INFO] Torch status at carrier row 5: Not lit
+[20:13:10.086] [INFO] Attempting to move carrier Fizzfist
+[20:13:10.086] [INFO] Carrier did not move. Remaining at (6, 5)
+[20:13:10.086] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:10.086] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:10.086] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:10.086] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:10.086] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:10.086] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:10.086] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:10.086] [INFO] Offensive blocker Krakchewer at (9, 4) with 0 movement
+[20:13:10.086] [INFO] Blocker Krakchewer moved: False, now at (9, 4)
+[20:13:10.086] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:10.086] [INFO] Defensive blocker Globnose Dís the Fierce at (6, 1) with 0 movement
+[20:13:10.086] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (6, 1)
+[20:13:10.086] [INFO] Defensive blocker Zogbiter Omoka at (5, 2) with 0 movement
+[20:13:10.086] [INFO] Blocker Zogbiter Omoka moved: False, now at (5, 2)
+[20:13:10.086] [INFO] Defensive blocker Stabskull the Mighty at (6, 2) with 0 movement
+[20:13:10.086] [INFO] Blocker Stabskull the Mighty moved: False, now at (6, 2)
+[20:13:10.086] [INFO] Defensive blocker Gutfoot at (7, 1) with 1 movement
+[20:13:10.086] [INFO] Defensive blocker Gutfoot directly pursuing carrier
+[20:13:10.086] [INFO] Blocker Gutfoot moved: True, now at (7, 0)
+[20:13:10.086] [INFO] Defensive blocker Grubchomper at (7, 2) with 0 movement
+[20:13:10.086] [INFO] Blocker Grubchomper moved: False, now at (7, 2)
+[20:13:10.086] [INFO] All goblins are done moving. Ending play.
+[20:13:10.086] [INFO] ===== Ending Play 2 after 4 turns =====
+[20:13:10.086] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:13:10.086] [INFO] === Grid State at end of turn ===
+[20:13:10.086] [INFO] Row 0: .. .. .. .. .. .. .. D .. .. 
+[20:13:10.086] [INFO] Row 1: .. .. .. .. .. .. D .. .. .. 
+[20:13:10.086] [INFO] Row 2: .. .. .. .. .. D D D .. .. 
+[20:13:10.086] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:13:10.086] [INFO] Row 4: .. .. .. .. O .. .. .. .. O 
+[20:13:10.086] [INFO] Row 5: .. .. O .. .. .. OC .. .. .. 
+[20:13:10.086] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:10.086] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:10.086] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:10.086] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:10.485] [INFO] ===== Starting Play 3 =====
+[20:13:10.485] [INFO] Positioned Kraknose at (2, 8)
+[20:13:10.485] [INFO] Positioned Lugsquisher at (4, 8)
+[20:13:10.485] [INFO] Positioned Fizzfist at (6, 8)
+[20:13:10.485] [INFO] Positioned Splatfist at (8, 8)
+[20:13:10.485] [INFO] Positioned Krakchewer at (9, 8)
+[20:13:10.485] [INFO] Positioned Globnose Dís the Fierce at (2, 1)
+[20:13:10.485] [INFO] Positioned Zogbiter Omoka at (4, 1)
+[20:13:10.485] [INFO] Positioned Stabskull the Mighty at (6, 1)
+[20:13:10.485] [INFO] Positioned Gutfoot at (8, 1)
+[20:13:10.485] [INFO] Positioned Grubchomper at (9, 1)
+[20:13:10.485] [INFO] Selected carrier: Splatfist from team Mudcrushers
+[20:13:11.385] [INFO] ==== Processing Turn 1 ====
+[20:13:11.385] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:11.385] [INFO] Carrier Splatfist at position (8, 8) with 1 movement points
+[20:13:11.385] [INFO] Torch status at carrier row 8: Not lit
+[20:13:11.385] [INFO] Attempting to move carrier Splatfist
+[20:13:11.385] [INFO] Carrier chose move (8, 7) with score 174
+[20:13:11.385] [INFO] Carrier moved to (8, 7). Moved successfully: True
+[20:13:11.385] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:11.385] [INFO] Offensive blocker Kraknose at (2, 8) with 3 movement
+[20:13:11.385] [INFO] Blocker Kraknose operating as lead blocker
+[20:13:11.385] [INFO] Lead blocker moved to (2, 5)
+[20:13:11.385] [INFO] Blocker Kraknose moved: True, now at (2, 5)
+[20:13:11.385] [INFO] Offensive blocker Lugsquisher at (4, 8) with 4 movement
+[20:13:11.385] [INFO] Blocker Lugsquisher operating as lead blocker
+[20:13:11.385] [INFO] Lead blocker moved to (4, 4)
+[20:13:11.385] [INFO] Blocker Lugsquisher moved: True, now at (4, 4)
+[20:13:11.385] [INFO] Offensive blocker Fizzfist at (6, 8) with 3 movement
+[20:13:11.385] [INFO] Blocker Fizzfist attempting to form forward screen
+[20:13:11.385] [INFO] Blocker moved to screen position (7, 6)
+[20:13:11.385] [INFO] Blocker Fizzfist moved: True, now at (7, 6)
+[20:13:11.385] [INFO] Offensive blocker Krakchewer at (9, 8) with 4 movement
+[20:13:11.385] [INFO] Blocker Krakchewer attempting to form forward screen
+[20:13:11.385] [INFO] Blocker moved to screen position (9, 6)
+[20:13:11.385] [INFO] Blocker Krakchewer moved: True, now at (9, 6)
+[20:13:11.385] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:11.385] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:11.385] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:13:11.385] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:11.385] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (2, 1)
+[20:13:11.385] [INFO] Defensive blocker Zogbiter Omoka at (4, 1) with 4 movement
+[20:13:11.385] [INFO] Defensive blocker Zogbiter Omoka directly pursuing carrier
+[20:13:11.386] [INFO] Blocker Zogbiter Omoka moved: True, now at (6, 3)
+[20:13:11.386] [INFO] Defensive blocker Stabskull the Mighty at (6, 1) with 1 movement
+[20:13:11.386] [INFO] Defensive blocker Stabskull the Mighty using interception strategy
+[20:13:11.386] [INFO] Blocker intercepting at (7, 1)
+[20:13:11.386] [INFO] Blocker Stabskull the Mighty moved: True, now at (7, 1)
+[20:13:11.386] [INFO] Defensive blocker Gutfoot at (8, 1) with 4 movement
+[20:13:11.386] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:11.386] [INFO] Blocker intercepting at (8, 2)
+[20:13:11.386] [INFO] Blocker Gutfoot moved: True, now at (8, 2)
+[20:13:11.386] [INFO] Defensive blocker Grubchomper at (9, 1) with 3 movement
+[20:13:11.386] [INFO] Defensive blocker Grubchomper directly pursuing carrier
+[20:13:11.386] [INFO] Blocker Grubchomper moved: True, now at (8, 3)
+[20:13:11.386] [INFO] === Grid State at end of turn ===
+[20:13:11.386] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:11.386] [INFO] Row 1: .. .. D .. .. .. .. D .. .. 
+[20:13:11.386] [INFO] Row 2: .. .. .. .. .. .. .. .. D .. 
+[20:13:11.386] [INFO] Row 3: .. .. .. .. .. .. D .. D .. 
+[20:13:11.386] [INFO] Row 4: .. .. .. .. O .. .. .. .. .. 
+[20:13:11.386] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:11.386] [INFO] Row 6: .. .. .. .. .. .. .. O .. O 
+[20:13:11.386] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:11.386] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:11.386] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:11.884] [INFO] ==== Processing Turn 2 ====
+[20:13:11.884] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:11.884] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:11.884] [INFO] Torch status at carrier row 7: Not lit
+[20:13:11.884] [INFO] Attempting to move carrier Splatfist
+[20:13:11.884] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:11.884] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:11.884] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:11.884] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:11.884] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:11.884] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:11.884] [INFO] Offensive blocker Fizzfist at (7, 6) with 0 movement
+[20:13:11.884] [INFO] Blocker Fizzfist moved: False, now at (7, 6)
+[20:13:11.884] [INFO] Offensive blocker Krakchewer at (9, 6) with 2 movement
+[20:13:11.884] [INFO] Blocker Krakchewer attempting to form forward screen
+[20:13:11.884] [INFO] Blocker moved to screen position (8, 6)
+[20:13:11.884] [INFO] Blocker Krakchewer moved: True, now at (8, 6)
+[20:13:11.884] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:11.884] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:11.884] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:11.884] [INFO] Blocker Globnose Dís the Fierce moved: True, now at (4, 3)
+[20:13:11.884] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:11.884] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:11.884] [INFO] Defensive blocker Stabskull the Mighty at (7, 1) with 0 movement
+[20:13:11.884] [INFO] Blocker Stabskull the Mighty moved: False, now at (7, 1)
+[20:13:11.884] [INFO] Defensive blocker Gutfoot at (8, 2) with 3 movement
+[20:13:11.884] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:11.884] [INFO] Blocker intercepting at (7, 2)
+[20:13:11.884] [INFO] Blocker Gutfoot moved: True, now at (7, 2)
+[20:13:11.884] [INFO] Defensive blocker Grubchomper at (8, 3) with 0 movement
+[20:13:11.884] [INFO] Blocker Grubchomper moved: False, now at (8, 3)
+[20:13:11.884] [INFO] === Grid State at end of turn ===
+[20:13:11.884] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:11.884] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:13:11.884] [INFO] Row 2: .. .. .. .. .. .. .. D .. .. 
+[20:13:11.884] [INFO] Row 3: .. .. .. .. D .. D .. D .. 
+[20:13:11.884] [INFO] Row 4: .. .. .. .. O .. .. .. .. .. 
+[20:13:11.884] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:11.884] [INFO] Row 6: .. .. .. .. .. .. .. O O .. 
+[20:13:11.885] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:11.885] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:11.885] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:12.382] [INFO] ==== Processing Turn 3 ====
+[20:13:12.382] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:12.382] [INFO] Lit torch at row 9
+[20:13:12.382] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:12.382] [INFO] Torch status at carrier row 7: Not lit
+[20:13:12.382] [INFO] Attempting to move carrier Splatfist
+[20:13:12.382] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:12.382] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:12.382] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:12.382] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:12.382] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:12.382] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:12.382] [INFO] Offensive blocker Fizzfist at (7, 6) with 0 movement
+[20:13:12.382] [INFO] Blocker Fizzfist moved: False, now at (7, 6)
+[20:13:12.382] [INFO] Offensive blocker Krakchewer at (8, 6) with 1 movement
+[20:13:12.382] [INFO] Blocker Krakchewer attempting to form forward screen
+[20:13:12.382] [INFO] Blocker moved to screen position (9, 6)
+[20:13:12.382] [INFO] Blocker Krakchewer moved: True, now at (9, 6)
+[20:13:12.382] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:12.382] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with -1 movement
+[20:13:12.382] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:12.382] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:12.382] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:12.382] [INFO] Defensive blocker Stabskull the Mighty at (7, 1) with 0 movement
+[20:13:12.382] [INFO] Blocker Stabskull the Mighty moved: False, now at (7, 1)
+[20:13:12.382] [INFO] Defensive blocker Gutfoot at (7, 2) with 2 movement
+[20:13:12.383] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:12.383] [INFO] Blocker intercepting at (7, 3)
+[20:13:12.383] [INFO] Blocker Gutfoot moved: True, now at (7, 3)
+[20:13:12.383] [INFO] Defensive blocker Grubchomper at (8, 3) with 0 movement
+[20:13:12.383] [INFO] Blocker Grubchomper moved: False, now at (8, 3)
+[20:13:12.383] [INFO] === Grid State at end of turn ===
+[20:13:12.383] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:12.383] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:13:12.383] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:13:12.383] [INFO] Row 3: .. .. .. .. D .. D D D .. 
+[20:13:12.383] [INFO] Row 4: .. .. .. .. O .. .. .. .. .. 
+[20:13:12.383] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:12.383] [INFO] Row 6: .. .. .. .. .. .. .. O .. O 
+[20:13:12.383] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:12.383] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:12.383] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.431] [INFO] ==== Processing Turn 4 ====
+[20:13:13.431] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:13.431] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:13.431] [INFO] Torch status at carrier row 7: Not lit
+[20:13:13.431] [INFO] Attempting to move carrier Splatfist
+[20:13:13.431] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:13.431] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:13.431] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:13.431] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:13.431] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:13.431] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:13.431] [INFO] Offensive blocker Fizzfist at (7, 6) with 0 movement
+[20:13:13.431] [INFO] Blocker Fizzfist moved: False, now at (7, 6)
+[20:13:13.431] [INFO] Offensive blocker Krakchewer at (9, 6) with 0 movement
+[20:13:13.431] [INFO] Blocker Krakchewer moved: False, now at (9, 6)
+[20:13:13.431] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:13.431] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with -1 movement
+[20:13:13.431] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:13.431] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:13.431] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:13.431] [INFO] Defensive blocker Stabskull the Mighty at (7, 1) with 0 movement
+[20:13:13.431] [INFO] Blocker Stabskull the Mighty moved: False, now at (7, 1)
+[20:13:13.431] [INFO] Defensive blocker Gutfoot at (7, 3) with 1 movement
+[20:13:13.431] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:13.431] [INFO] Blocker intercepting at (7, 4)
+[20:13:13.431] [INFO] Blocker Gutfoot moved: True, now at (7, 4)
+[20:13:13.431] [INFO] Defensive blocker Grubchomper at (8, 3) with 0 movement
+[20:13:13.431] [INFO] Blocker Grubchomper moved: False, now at (8, 3)
+[20:13:13.431] [INFO] === Grid State at end of turn ===
+[20:13:13.431] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.431] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:13:13.431] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.431] [INFO] Row 3: .. .. .. .. D .. D .. D .. 
+[20:13:13.431] [INFO] Row 4: .. .. .. .. O .. .. D .. .. 
+[20:13:13.431] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:13.431] [INFO] Row 6: .. .. .. .. .. .. .. O .. O 
+[20:13:13.431] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:13.431] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.431] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.948] [INFO] ==== Processing Turn 5 ====
+[20:13:13.948] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:13.948] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:13.948] [INFO] Torch status at carrier row 7: Not lit
+[20:13:13.948] [INFO] Attempting to move carrier Splatfist
+[20:13:13.948] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:13.948] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:13.948] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:13.948] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:13.948] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:13.948] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:13.948] [INFO] Offensive blocker Fizzfist at (7, 6) with 0 movement
+[20:13:13.948] [INFO] Blocker Fizzfist moved: False, now at (7, 6)
+[20:13:13.948] [INFO] Offensive blocker Krakchewer at (9, 6) with 0 movement
+[20:13:13.948] [INFO] Blocker Krakchewer moved: False, now at (9, 6)
+[20:13:13.948] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:13.948] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with -1 movement
+[20:13:13.948] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:13.948] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:13.948] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:13.948] [INFO] Defensive blocker Stabskull the Mighty at (7, 1) with 0 movement
+[20:13:13.948] [INFO] Blocker Stabskull the Mighty moved: False, now at (7, 1)
+[20:13:13.948] [INFO] Defensive blocker Gutfoot at (7, 4) with 0 movement
+[20:13:13.948] [INFO] Blocker Gutfoot moved: False, now at (7, 4)
+[20:13:13.948] [INFO] Defensive blocker Grubchomper at (8, 3) with 0 movement
+[20:13:13.948] [INFO] Blocker Grubchomper moved: False, now at (8, 3)
+[20:13:13.948] [INFO] === Grid State at end of turn ===
+[20:13:13.948] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.948] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:13:13.948] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.948] [INFO] Row 3: .. .. .. .. D .. D .. D .. 
+[20:13:13.948] [INFO] Row 4: .. .. .. .. O .. .. D .. .. 
+[20:13:13.948] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:13.948] [INFO] Row 6: .. .. .. .. .. .. .. O .. O 
+[20:13:13.948] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:13.948] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:13.948] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:14.485] [INFO] ==== Processing Turn 6 ====
+[20:13:14.485] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:14.485] [INFO] Lit torch at row 8
+[20:13:14.485] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:14.485] [INFO] Torch status at carrier row 7: Not lit
+[20:13:14.485] [INFO] Attempting to move carrier Splatfist
+[20:13:14.485] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:14.485] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:14.485] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:14.485] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:14.485] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:14.485] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:14.485] [INFO] Offensive blocker Fizzfist at (7, 6) with 0 movement
+[20:13:14.485] [INFO] Blocker Fizzfist moved: False, now at (7, 6)
+[20:13:14.485] [INFO] Offensive blocker Krakchewer at (9, 6) with 0 movement
+[20:13:14.485] [INFO] Blocker Krakchewer moved: False, now at (9, 6)
+[20:13:14.485] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:14.485] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with -1 movement
+[20:13:14.485] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:14.485] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:14.485] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:14.485] [INFO] Defensive blocker Stabskull the Mighty at (7, 1) with 0 movement
+[20:13:14.485] [INFO] Blocker Stabskull the Mighty moved: False, now at (7, 1)
+[20:13:14.485] [INFO] Defensive blocker Gutfoot at (7, 4) with 0 movement
+[20:13:14.485] [INFO] Blocker Gutfoot moved: False, now at (7, 4)
+[20:13:14.485] [INFO] Defensive blocker Grubchomper at (8, 3) with 0 movement
+[20:13:14.485] [INFO] Blocker Grubchomper moved: False, now at (8, 3)
+[20:13:14.485] [INFO] === Grid State at end of turn ===
+[20:13:14.485] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:14.485] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:13:14.485] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:13:14.485] [INFO] Row 3: .. .. .. .. D .. D .. D .. 
+[20:13:14.485] [INFO] Row 4: .. .. .. .. O .. .. D .. .. 
+[20:13:14.485] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:14.485] [INFO] Row 6: .. .. .. .. .. .. .. O .. O 
+[20:13:14.485] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:14.485] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:14.485] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:15.017] [INFO] ==== Processing Turn 7 ====
+[20:13:15.017] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:15.017] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:15.017] [INFO] Torch status at carrier row 7: Not lit
+[20:13:15.017] [INFO] Attempting to move carrier Splatfist
+[20:13:15.017] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:15.017] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:15.017] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:15.017] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:15.017] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:15.017] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:15.017] [INFO] Offensive blocker Fizzfist at (7, 6) with 0 movement
+[20:13:15.017] [INFO] Blocker Fizzfist moved: False, now at (7, 6)
+[20:13:15.017] [INFO] Offensive blocker Krakchewer at (9, 6) with 0 movement
+[20:13:15.017] [INFO] Blocker Krakchewer moved: False, now at (9, 6)
+[20:13:15.017] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:15.017] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with -1 movement
+[20:13:15.017] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:15.017] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:15.017] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:15.017] [INFO] Defensive blocker Stabskull the Mighty at (7, 1) with 0 movement
+[20:13:15.017] [INFO] Blocker Stabskull the Mighty moved: False, now at (7, 1)
+[20:13:15.017] [INFO] Defensive blocker Gutfoot at (7, 4) with 0 movement
+[20:13:15.017] [INFO] Blocker Gutfoot moved: False, now at (7, 4)
+[20:13:15.017] [INFO] Defensive blocker Grubchomper at (8, 3) with 0 movement
+[20:13:15.017] [INFO] Blocker Grubchomper moved: False, now at (8, 3)
+[20:13:15.017] [INFO] === Grid State at end of turn ===
+[20:13:15.017] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:15.017] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:13:15.017] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:13:15.017] [INFO] Row 3: .. .. .. .. D .. D .. D .. 
+[20:13:15.017] [INFO] Row 4: .. .. .. .. O .. .. D .. .. 
+[20:13:15.017] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:15.017] [INFO] Row 6: .. .. .. .. .. .. .. O .. O 
+[20:13:15.017] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:15.017] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:15.017] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:16.031] [INFO] ==== Processing Turn 8 ====
+[20:13:16.031] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:16.031] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:16.031] [INFO] Torch status at carrier row 7: Not lit
+[20:13:16.031] [INFO] Attempting to move carrier Splatfist
+[20:13:16.031] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:16.031] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:16.031] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:16.031] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:16.031] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:16.031] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:16.031] [INFO] Offensive blocker Fizzfist at (7, 6) with 0 movement
+[20:13:16.031] [INFO] Blocker Fizzfist moved: False, now at (7, 6)
+[20:13:16.031] [INFO] Offensive blocker Krakchewer at (9, 6) with 0 movement
+[20:13:16.031] [INFO] Blocker Krakchewer moved: False, now at (9, 6)
+[20:13:16.031] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:16.031] [INFO] Defensive blocker Globnose Dís the Fierce at (4, 3) with -1 movement
+[20:13:16.031] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (4, 3)
+[20:13:16.031] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:16.031] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:16.031] [INFO] Defensive blocker Stabskull the Mighty at (7, 1) with 0 movement
+[20:13:16.031] [INFO] Blocker Stabskull the Mighty moved: False, now at (7, 1)
+[20:13:16.031] [INFO] Defensive blocker Gutfoot at (7, 4) with 0 movement
+[20:13:16.031] [INFO] Blocker Gutfoot moved: False, now at (7, 4)
+[20:13:16.031] [INFO] Defensive blocker Grubchomper at (8, 3) with 0 movement
+[20:13:16.031] [INFO] Blocker Grubchomper moved: False, now at (8, 3)
+[20:13:16.031] [INFO] === Grid State at end of turn ===
+[20:13:16.031] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:16.031] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:13:16.031] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:13:16.031] [INFO] Row 3: .. .. .. .. D .. D .. D .. 
+[20:13:16.031] [INFO] Row 4: .. .. .. .. O .. .. D .. .. 
+[20:13:16.031] [INFO] Row 5: .. .. O .. .. .. .. .. .. .. 
+[20:13:16.031] [INFO] Row 6: .. .. .. .. .. .. .. O .. O 
+[20:13:16.031] [INFO] Row 7: .. .. .. .. .. .. .. .. OC .. 
+[20:13:16.031] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:16.031] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:16.463] [INFO] ==== Processing Turn 9 ====
+[20:13:16.463] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:16.463] [INFO] Lit torch at row 7
+[20:13:16.463] [INFO] Carrier Splatfist at position (8, 7) with 0 movement points
+[20:13:16.463] [INFO] Torch status at carrier row 7: LIT
+[20:13:16.463] [INFO] Attempting to move carrier Splatfist
+[20:13:16.463] [INFO] Carrier did not move. Remaining at (8, 7)
+[20:13:16.463] [INFO] PENALTY: Carrier Splatfist is on lit torch row 7
+[20:13:16.463] [INFO] ===== Ending Play 3 after 9 turns =====
+[20:13:16.463] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:13:16.463] [INFO] Carrier Splatfist was on a lit torch row! Taking penalty.
+[20:13:17.183] [INFO] ===== Starting Play 4 =====
+[20:13:17.183] [INFO] Positioned Kraknose at (2, 8)
+[20:13:17.183] [INFO] Positioned Lugsquisher at (4, 8)
+[20:13:17.183] [INFO] Positioned Fizzfist at (6, 8)
+[20:13:17.183] [INFO] Positioned Splatfist at (8, 8)
+[20:13:17.183] [INFO] Positioned Krakchewer at (9, 8)
+[20:13:17.183] [INFO] Positioned Globnose Dís the Fierce at (2, 1)
+[20:13:17.183] [INFO] Positioned Zogbiter Omoka at (4, 1)
+[20:13:17.183] [INFO] Positioned Stabskull the Mighty at (6, 1)
+[20:13:17.183] [INFO] Positioned Gutfoot at (8, 1)
+[20:13:17.183] [INFO] Positioned Grubchomper at (9, 1)
+[20:13:17.183] [INFO] Selected carrier: Krakchewer from team Mudcrushers
+[20:13:17.838] [INFO] ==== Processing Turn 1 ====
+[20:13:17.838] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:17.838] [INFO] Carrier Krakchewer at position (9, 8) with 4 movement points
+[20:13:17.838] [INFO] Torch status at carrier row 8: Not lit
+[20:13:17.838] [INFO] Attempting to move carrier Krakchewer
+[20:13:17.838] [INFO] Carrier chose move (9, 4) with score 379
+[20:13:17.838] [INFO] Carrier moved to (9, 4). Moved successfully: True
+[20:13:17.838] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:17.838] [INFO] Offensive blocker Kraknose at (2, 8) with 3 movement
+[20:13:17.838] [INFO] Blocker Kraknose operating as lead blocker
+[20:13:17.838] [INFO] Lead blocker moved to (2, 5)
+[20:13:17.838] [INFO] Blocker Kraknose moved: True, now at (2, 5)
+[20:13:17.838] [INFO] Offensive blocker Lugsquisher at (4, 8) with 4 movement
+[20:13:17.838] [INFO] Blocker Lugsquisher operating as lead blocker
+[20:13:17.839] [INFO] Lead blocker moved to (4, 4)
+[20:13:17.839] [INFO] Blocker Lugsquisher moved: True, now at (4, 4)
+[20:13:17.839] [INFO] Offensive blocker Fizzfist at (6, 8) with 3 movement
+[20:13:17.839] [INFO] Blocker Fizzfist operating as lead blocker
+[20:13:17.839] [INFO] Lead blocker moved to (6, 5)
+[20:13:17.839] [INFO] Blocker Fizzfist moved: True, now at (6, 5)
+[20:13:17.839] [INFO] Offensive blocker Splatfist at (8, 8) with 1 movement
+[20:13:17.839] [INFO] Blocker Splatfist operating as lead blocker
+[20:13:17.839] [INFO] Lead blocker moved to (8, 7)
+[20:13:17.839] [INFO] Blocker Splatfist moved: True, now at (8, 7)
+[20:13:17.839] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:17.839] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:17.839] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:13:17.839] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:17.839] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (2, 1)
+[20:13:17.839] [INFO] Defensive blocker Zogbiter Omoka at (4, 1) with 4 movement
+[20:13:17.839] [INFO] Defensive blocker Zogbiter Omoka using interception strategy
+[20:13:17.839] [INFO] Defensive blocker Zogbiter Omoka directly pursuing carrier
+[20:13:17.839] [INFO] Blocker Zogbiter Omoka moved: True, now at (6, 3)
+[20:13:17.839] [INFO] Defensive blocker Stabskull the Mighty at (6, 1) with 1 movement
+[20:13:17.840] [INFO] Defensive blocker Stabskull the Mighty directly pursuing carrier
+[20:13:17.840] [INFO] Blocker Stabskull the Mighty moved: True, now at (6, 2)
+[20:13:17.840] [INFO] Defensive blocker Gutfoot at (8, 1) with 4 movement
+[20:13:17.840] [INFO] Defensive blocker Gutfoot using interception strategy
+[20:13:17.840] [INFO] Blocker intercepting at (8, 2)
+[20:13:17.840] [INFO] Blocker Gutfoot moved: True, now at (8, 2)
+[20:13:17.840] [INFO] Defensive blocker Grubchomper at (9, 1) with 3 movement
+[20:13:17.840] [INFO] Defensive blocker Grubchomper directly pursuing carrier
+[20:13:17.840] [INFO] Blocker Grubchomper moved: True, now at (9, 3)
+[20:13:17.840] [INFO] === Grid State at end of turn ===
+[20:13:17.840] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:17.840] [INFO] Row 1: .. .. D .. .. .. .. .. .. .. 
+[20:13:17.840] [INFO] Row 2: .. .. .. .. .. .. D .. D .. 
+[20:13:17.840] [INFO] Row 3: .. .. .. .. .. .. D .. .. D 
+[20:13:17.840] [INFO] Row 4: .. .. .. .. O .. .. .. .. OC 
+[20:13:17.840] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:17.840] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:17.840] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:17.840] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:17.840] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.202] [INFO] ==== Processing Turn 2 ====
+[20:13:18.202] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:18.202] [INFO] Carrier Krakchewer at position (9, 4) with 0 movement points
+[20:13:18.202] [INFO] Torch status at carrier row 4: Not lit
+[20:13:18.202] [INFO] Attempting to move carrier Krakchewer
+[20:13:18.202] [INFO] Carrier did not move. Remaining at (9, 4)
+[20:13:18.202] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:18.202] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:18.202] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:18.202] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:18.202] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:18.202] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:18.202] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:18.202] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:18.202] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:18.202] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:18.202] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:18.202] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:13:18.202] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:18.202] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (2, 1)
+[20:13:18.202] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:18.202] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:18.202] [INFO] Defensive blocker Stabskull the Mighty at (6, 2) with 0 movement
+[20:13:18.202] [INFO] Blocker Stabskull the Mighty moved: False, now at (6, 2)
+[20:13:18.202] [INFO] Defensive blocker Gutfoot at (8, 2) with 3 movement
+[20:13:18.202] [INFO] Defensive blocker Gutfoot directly pursuing carrier
+[20:13:18.202] [INFO] Blocker Gutfoot moved: True, now at (8, 4)
+[20:13:18.202] [INFO] Defensive blocker Grubchomper at (9, 3) with 1 movement
+[20:13:18.202] [INFO] Defensive blocker Grubchomper adjacent to carrier! Attempting block
+[20:13:18.202] [INFO] Blocker Grubchomper moved: False, now at (9, 3)
+[20:13:18.202] [INFO] === Grid State at end of turn ===
+[20:13:18.202] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.202] [INFO] Row 1: .. .. D .. .. .. .. .. .. .. 
+[20:13:18.202] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:13:18.202] [INFO] Row 3: .. .. .. .. .. .. D .. .. D 
+[20:13:18.202] [INFO] Row 4: .. .. .. .. O .. .. .. D OC 
+[20:13:18.202] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:18.202] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.202] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:18.202] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.202] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.613] [INFO] ==== Processing Turn 3 ====
+[20:13:18.613] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:18.613] [INFO] Lit torch at row 9
+[20:13:18.613] [INFO] Carrier Krakchewer at position (9, 4) with 0 movement points
+[20:13:18.613] [INFO] Torch status at carrier row 4: Not lit
+[20:13:18.613] [INFO] Attempting to move carrier Krakchewer
+[20:13:18.613] [INFO] Carrier did not move. Remaining at (9, 4)
+[20:13:18.613] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:18.613] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:18.613] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:18.614] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:18.614] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:18.614] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:18.614] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:18.614] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:18.614] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:18.614] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:18.614] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:18.614] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:18.614] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (2, 1)
+[20:13:18.614] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:18.614] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:18.614] [INFO] Defensive blocker Stabskull the Mighty at (6, 2) with 0 movement
+[20:13:18.614] [INFO] Blocker Stabskull the Mighty moved: False, now at (6, 2)
+[20:13:18.614] [INFO] Defensive blocker Gutfoot at (8, 4) with 1 movement
+[20:13:18.614] [INFO] Defensive blocker Gutfoot adjacent to carrier! Attempting block
+[20:13:18.614] [INFO] Blocker Gutfoot moved: False, now at (8, 4)
+[20:13:18.614] [INFO] Defensive blocker Grubchomper at (9, 3) with 1 movement
+[20:13:18.614] [INFO] Defensive blocker Grubchomper adjacent to carrier! Attempting block
+[20:13:18.614] [INFO] Blocker Grubchomper moved: False, now at (9, 3)
+[20:13:18.614] [INFO] === Grid State at end of turn ===
+[20:13:18.614] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.614] [INFO] Row 1: .. .. D .. .. .. .. .. .. .. 
+[20:13:18.614] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:13:18.614] [INFO] Row 3: .. .. .. .. .. .. D .. .. D 
+[20:13:18.614] [INFO] Row 4: .. .. .. .. O .. .. .. D OC 
+[20:13:18.614] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:18.614] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.614] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:18.614] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.614] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.845] [INFO] ==== Processing Turn 4 ====
+[20:13:18.845] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:18.845] [INFO] Carrier Krakchewer at position (9, 4) with 0 movement points
+[20:13:18.845] [INFO] Torch status at carrier row 4: Not lit
+[20:13:18.845] [INFO] Attempting to move carrier Krakchewer
+[20:13:18.845] [INFO] Carrier did not move. Remaining at (9, 4)
+[20:13:18.845] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:18.845] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:18.845] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:18.845] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:18.845] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:18.845] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:18.845] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:18.845] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:18.845] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:18.845] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:18.845] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:18.845] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:18.845] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (2, 1)
+[20:13:18.845] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:18.845] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:18.845] [INFO] Defensive blocker Stabskull the Mighty at (6, 2) with 0 movement
+[20:13:18.845] [INFO] Blocker Stabskull the Mighty moved: False, now at (6, 2)
+[20:13:18.845] [INFO] Defensive blocker Gutfoot at (8, 4) with 1 movement
+[20:13:18.845] [INFO] Defensive blocker Gutfoot adjacent to carrier! Attempting block
+[20:13:18.845] [INFO] Blocker Gutfoot moved: False, now at (8, 4)
+[20:13:18.845] [INFO] Defensive blocker Grubchomper at (9, 3) with 1 movement
+[20:13:18.845] [INFO] Defensive blocker Grubchomper adjacent to carrier! Attempting block
+[20:13:18.845] [INFO] Blocker Grubchomper moved: False, now at (9, 3)
+[20:13:18.845] [INFO] === Grid State at end of turn ===
+[20:13:18.845] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.845] [INFO] Row 1: .. .. D .. .. .. .. .. .. .. 
+[20:13:18.845] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:13:18.845] [INFO] Row 3: .. .. .. .. .. .. D .. .. D 
+[20:13:18.845] [INFO] Row 4: .. .. .. .. O .. .. .. D OC 
+[20:13:18.845] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:18.845] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.845] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:18.845] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:18.845] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:13:19.043] [INFO] ==== Processing Turn 5 ====
+[20:13:19.043] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:13:19.043] [INFO] Carrier Krakchewer at position (9, 4) with 0 movement points
+[20:13:19.043] [INFO] Torch status at carrier row 4: Not lit
+[20:13:19.043] [INFO] Attempting to move carrier Krakchewer
+[20:13:19.043] [INFO] Carrier did not move. Remaining at (9, 4)
+[20:13:19.043] [INFO] Moving offensive blockers for team Mudcrushers
+[20:13:19.043] [INFO] Offensive blocker Kraknose at (2, 5) with 0 movement
+[20:13:19.043] [INFO] Blocker Kraknose moved: False, now at (2, 5)
+[20:13:19.043] [INFO] Offensive blocker Lugsquisher at (4, 4) with 0 movement
+[20:13:19.043] [INFO] Blocker Lugsquisher moved: False, now at (4, 4)
+[20:13:19.043] [INFO] Offensive blocker Fizzfist at (6, 5) with 0 movement
+[20:13:19.043] [INFO] Blocker Fizzfist moved: False, now at (6, 5)
+[20:13:19.043] [INFO] Offensive blocker Splatfist at (8, 7) with 0 movement
+[20:13:19.043] [INFO] Blocker Splatfist moved: False, now at (8, 7)
+[20:13:19.043] [INFO] Moving defensive blockers for team Skullsmashers
+[20:13:19.043] [INFO] Defensive blocker Globnose Dís the Fierce at (2, 1) with 4 movement
+[20:13:19.043] [INFO] Defensive blocker Globnose Dís the Fierce using interception strategy
+[20:13:19.043] [INFO] Defensive blocker Globnose Dís the Fierce directly pursuing carrier
+[20:13:19.043] [INFO] Blocker Globnose Dís the Fierce moved: False, now at (2, 1)
+[20:13:19.043] [INFO] Defensive blocker Zogbiter Omoka at (6, 3) with 0 movement
+[20:13:19.043] [INFO] Blocker Zogbiter Omoka moved: False, now at (6, 3)
+[20:13:19.043] [INFO] Defensive blocker Stabskull the Mighty at (6, 2) with 0 movement
+[20:13:19.043] [INFO] Blocker Stabskull the Mighty moved: False, now at (6, 2)
+[20:13:19.043] [INFO] Defensive blocker Gutfoot at (8, 4) with 1 movement
+[20:13:19.043] [INFO] Defensive blocker Gutfoot adjacent to carrier! Attempting block
+[20:13:19.043] [INFO] Blocker Gutfoot moved: False, now at (8, 4)
+[20:13:19.043] [INFO] Defensive blocker Grubchomper at (9, 3) with 1 movement
+[20:13:19.043] [INFO] Defensive blocker Grubchomper adjacent to carrier! Attempting block
+[20:13:19.043] [INFO] Blocker Grubchomper moved: False, now at (9, 3)
+[20:13:19.043] [INFO] === Grid State at end of turn ===
+[20:13:19.043] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:13:19.043] [INFO] Row 1: .. .. D .. .. .. .. .. .. .. 
+[20:13:19.043] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:13:19.043] [INFO] Row 3: .. .. .. .. .. .. D .. .. D 
+[20:13:19.043] [INFO] Row 4: .. .. .. .. O .. .. .. D OC 
+[20:13:19.043] [INFO] Row 5: .. .. O .. .. .. O .. .. .. 
+[20:13:19.043] [INFO] Row 6: .. .. .. .. .. .. .. .. .. .. 
+[20:13:19.043] [INFO] Row 7: .. .. .. .. .. .. .. .. O .. 
+[20:13:19.043] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:13:19.043] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 

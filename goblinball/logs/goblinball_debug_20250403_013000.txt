@@ -1,0 +1,344 @@
+[01:30:00.200] [INFO] === Goblinball Debug Log - 20250403_013000 ===
+[01:30:00.200] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_013000.txt
+[01:30:00.221] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[01:30:01.915] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:01.916] [INFO] Goblin Snotface moved from (4, 8) to (5, 7)
+[01:30:01.916] [INFO] Movement trail: [(4, 8), (5, 7)]
+[01:30:01.916] [INFO] Carrier Snotface moved to (5, 7)
+[01:30:01.916] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:01.916] [INFO] Offensive blocker chose move (5, 8) with score 917
+[01:30:01.917] [INFO] Goblin Krakchomper moved from (2, 8) to (5, 8)
+[01:30:01.917] [INFO] Movement trail: [(2, 8), (5, 8)]
+[01:30:01.917] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:01.917] [INFO] Offensive blocker chose move (6, 7) with score 951
+[01:30:01.917] [INFO] Goblin Skrizbasher moved from (6, 8) to (6, 7)
+[01:30:01.917] [INFO] Movement trail: [(6, 8), (6, 7)]
+[01:30:01.917] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:01.917] [INFO] Offensive blocker chose move (8, 7) with score 718
+[01:30:01.917] [INFO] Goblin Lugsquisher moved from (8, 8) to (8, 7)
+[01:30:01.917] [INFO] Movement trail: [(8, 8), (8, 7)]
+[01:30:01.917] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:01.917] [INFO] Offensive blocker chose move (8, 8) with score 643
+[01:30:01.917] [INFO] Goblin Gnogface the Mighty moved from (9, 8) to (8, 8)
+[01:30:01.917] [INFO] Movement trail: [(9, 8), (8, 8)]
+[01:30:01.917] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:01.917] [INFO] Defensive blocker chose move (4, 2) with score 662
+[01:30:01.917] [INFO] Goblin Grimstomper Hugo moved from (2, 1) to (4, 2)
+[01:30:01.917] [INFO] Movement trail: [(2, 1), (4, 2)]
+[01:30:01.917] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:01.917] [INFO] Defensive blocker chose move (5, 2) with score 675
+[01:30:01.917] [INFO] Goblin Gutfoot Asmar moved from (4, 1) to (5, 2)
+[01:30:01.917] [INFO] Movement trail: [(4, 1), (5, 2)]
+[01:30:01.917] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:01.917] [INFO] Defensive blocker chose move (5, 1) with score 675
+[01:30:01.917] [INFO] Goblin Bludbiter Abie moved from (6, 1) to (5, 1)
+[01:30:01.917] [INFO] Movement trail: [(6, 1), (5, 1)]
+[01:30:01.917] [INFO] Moving defensive blocker Lugstabber with 2 movement points
+[01:30:01.917] [INFO] Defensive blocker chose move (6, 1) with score 627
+[01:30:01.917] [INFO] Goblin Lugstabber moved from (8, 1) to (6, 1)
+[01:30:01.918] [INFO] Movement trail: [(8, 1), (6, 1)]
+[01:30:01.918] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:01.918] [INFO] Defensive blocker chose move (8, 2) with score 372
+[01:30:01.918] [INFO] Goblin Gnogfist Beeron moved from (9, 1) to (8, 2)
+[01:30:01.918] [INFO] Movement trail: [(9, 1), (8, 2)]
+[01:30:02.735] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:02.735] [INFO] Goblin Snotface moved from (5, 7) to (5, 6)
+[01:30:02.735] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[01:30:02.735] [INFO] Carrier Snotface moved to (5, 6)
+[01:30:02.736] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:02.736] [INFO] Offensive blocker chose move (5, 5) with score 972
+[01:30:02.736] [INFO] Goblin Krakchomper moved from (5, 8) to (5, 5)
+[01:30:02.736] [INFO] Movement trail: [(2, 8), (5, 8), (5, 5)]
+[01:30:02.736] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:02.736] [INFO] Offensive blocker chose move (5, 7) with score 940
+[01:30:02.736] [INFO] Goblin Skrizbasher moved from (6, 7) to (5, 7)
+[01:30:02.736] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7)]
+[01:30:02.736] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:02.736] [INFO] Offensive blocker chose move (8, 6) with score 735
+[01:30:02.736] [INFO] Goblin Lugsquisher moved from (8, 7) to (8, 6)
+[01:30:02.736] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6)]
+[01:30:02.736] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:02.736] [INFO] Offensive blocker chose move (8, 7) with score 641
+[01:30:02.736] [INFO] Goblin Gnogface the Mighty moved from (8, 8) to (8, 7)
+[01:30:02.736] [INFO] Movement trail: [(9, 8), (8, 8), (8, 7)]
+[01:30:02.736] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:02.736] [INFO] Defensive blocker chose move (4, 5) with score 673
+[01:30:02.736] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:02.736] [INFO] Defensive blocker chose move (4, 3) with score 675
+[01:30:02.736] [INFO] Goblin Gutfoot Asmar moved from (5, 2) to (4, 3)
+[01:30:02.736] [INFO] Movement trail: [(4, 1), (5, 2), (4, 3)]
+[01:30:02.736] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:02.736] [INFO] Defensive blocker chose move (4, 1) with score 663
+[01:30:02.736] [INFO] Goblin Bludbiter Abie moved from (5, 1) to (4, 1)
+[01:30:02.736] [INFO] Movement trail: [(6, 1), (5, 1), (4, 1)]
+[01:30:02.736] [INFO] Moving defensive blocker Lugstabber with 2 movement points
+[01:30:02.736] [INFO] Defensive blocker chose move (5, 1) with score 666
+[01:30:02.736] [INFO] Goblin Lugstabber moved from (6, 1) to (5, 1)
+[01:30:02.736] [INFO] Movement trail: [(8, 1), (6, 1), (5, 1)]
+[01:30:02.736] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:02.736] [INFO] Defensive blocker chose move (6, 2) with score 633
+[01:30:02.736] [INFO] Goblin Gnogfist Beeron moved from (8, 2) to (6, 2)
+[01:30:02.736] [INFO] Movement trail: [(9, 1), (8, 2), (6, 2)]
+[01:30:19.934] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:19.934] [INFO] Goblin Snotface moved from (5, 6) to (5, 4)
+[01:30:19.934] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 4)]
+[01:30:19.934] [INFO] Carrier Snotface moved to (5, 4)
+[01:30:19.934] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:19.934] [INFO] Offensive blocker chose move (5, 3) with score 2558
+[01:30:19.934] [INFO] Goblin Krakchomper moved from (5, 5) to (5, 3)
+[01:30:19.934] [INFO] Movement trail: [(2, 8), (5, 8), (5, 5), (5, 3)]
+[01:30:19.934] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:19.934] [INFO] Offensive blocker chose move (5, 6) with score 831
+[01:30:19.935] [INFO] Goblin Skrizbasher moved from (5, 7) to (5, 6)
+[01:30:19.935] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (5, 6)]
+[01:30:19.935] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:19.935] [INFO] Offensive blocker chose move (7, 6) with score 653
+[01:30:19.935] [INFO] Goblin Lugsquisher moved from (8, 6) to (7, 6)
+[01:30:19.935] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6), (7, 6)]
+[01:30:19.935] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:19.935] [INFO] Offensive blocker chose move (8, 6) with score 556
+[01:30:19.935] [INFO] Goblin Gnogface the Mighty moved from (8, 7) to (8, 6)
+[01:30:19.935] [INFO] Movement trail: [(9, 8), (8, 8), (8, 7), (8, 6)]
+[01:30:19.935] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:19.935] [INFO] Defensive blocker Grimstomper Hugo pursuing carrier Snotface
+[01:30:19.935] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:19.935] [INFO] Defensive blocker Gutfoot Asmar attempting to block carrier Snotface
+[01:30:19.935] [INFO] Defensive blocker Gutfoot Asmar pursuing carrier Snotface
+[01:30:19.935] [INFO] Goblin Gutfoot Asmar moved from (4, 3) to (4, 4)
+[01:30:19.935] [INFO] Movement trail: [(4, 1), (5, 2), (4, 3), (4, 4)]
+[01:30:19.935] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:19.935] [INFO] Defensive blocker chose move (4, 0) with score 633
+[01:30:19.935] [INFO] Goblin Bludbiter Abie moved from (4, 1) to (4, 0)
+[01:30:19.935] [INFO] Movement trail: [(6, 1), (5, 1), (4, 1), (4, 0)]
+[01:30:19.935] [INFO] Moving defensive blocker Lugstabber with 2 movement points
+[01:30:19.935] [INFO] Defensive blocker Lugstabber pursuing carrier Snotface
+[01:30:19.935] [INFO] Goblin Lugstabber moved from (5, 1) to (5, 2)
+[01:30:19.935] [INFO] Movement trail: [(8, 1), (6, 1), (5, 1), (5, 2)]
+[01:30:19.935] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:19.935] [INFO] Defensive blocker Gnogfist Beeron pursuing carrier Snotface
+[01:30:35.512] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:35.512] [INFO] Goblin Snotface moved from (5, 4) to (6, 4)
+[01:30:35.512] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 4), (6, 4)]
+[01:30:35.512] [INFO] Carrier Snotface moved to (6, 4)
+[01:30:35.512] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:35.512] [INFO] Attempt block of Gutfoot Asmar by Krakchomper
+[01:30:35.512] [INFO] Attempt block of Gnogfist Beeron by Krakchomper
+[01:30:35.512] [INFO] Attempt block of Lugstabber by Krakchomper
+[01:30:35.512] [INFO] Offensive blocker chose move (6, 3) with score 2365
+[01:30:35.512] [INFO] Goblin Krakchomper moved from (5, 3) to (6, 3)
+[01:30:35.512] [INFO] Movement trail: [(2, 8), (5, 8), (5, 5), (5, 3), (6, 3)]
+[01:30:35.512] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:35.513] [INFO] Offensive blocker chose move (6, 6) with score 848
+[01:30:35.513] [INFO] Goblin Skrizbasher moved from (5, 6) to (6, 6)
+[01:30:35.513] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (5, 6), (6, 6)]
+[01:30:35.513] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:35.513] [INFO] Offensive blocker chose move (7, 5) with score 826
+[01:30:35.513] [INFO] Goblin Lugsquisher moved from (7, 6) to (7, 5)
+[01:30:35.513] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6), (7, 6), (7, 5)]
+[01:30:35.513] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:35.513] [INFO] Offensive blocker chose move (8, 5) with score 772
+[01:30:35.513] [INFO] Goblin Gnogface the Mighty moved from (8, 6) to (8, 5)
+[01:30:35.513] [INFO] Movement trail: [(9, 8), (8, 8), (8, 7), (8, 6), (8, 5)]
+[01:30:35.513] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:35.513] [INFO] Defensive blocker chose move (5, 4) with score 912
+[01:30:35.513] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:35.513] [INFO] Defensive blocker Gutfoot Asmar pursuing carrier Snotface
+[01:30:35.513] [INFO] Goblin Gutfoot Asmar moved from (4, 4) to (5, 4)
+[01:30:35.513] [INFO] Movement trail: [(4, 1), (5, 2), (4, 3), (4, 4), (5, 4)]
+[01:30:35.513] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:35.513] [INFO] Defensive blocker chose move (5, 0) with score 660
+[01:30:35.513] [INFO] Goblin Bludbiter Abie moved from (4, 0) to (5, 0)
+[01:30:35.513] [INFO] Movement trail: [(6, 1), (5, 1), (4, 1), (4, 0), (5, 0)]
+[01:30:35.513] [INFO] Moving defensive blocker Lugstabber with 2 movement points
+[01:30:35.513] [INFO] Defensive blocker Lugstabber pursuing carrier Snotface
+[01:30:35.513] [INFO] Goblin Lugstabber moved from (5, 2) to (5, 3)
+[01:30:35.513] [INFO] Movement trail: [(8, 1), (6, 1), (5, 1), (5, 2), (5, 3)]
+[01:30:35.513] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:35.513] [INFO] Defensive blocker Gnogfist Beeron pursuing carrier Snotface
+[01:30:35.513] [INFO] Goblin Gnogfist Beeron moved from (6, 2) to (7, 3)
+[01:30:35.513] [INFO] Movement trail: [(9, 1), (8, 2), (6, 2), (7, 3)]
+[01:30:36.365] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:36.365] [INFO] Goblin Snotface moved from (6, 4) to (7, 4)
+[01:30:36.365] [INFO] Movement trail: [(5, 7), (5, 6), (5, 4), (6, 4), (7, 4)]
+[01:30:36.365] [INFO] Carrier Snotface moved to (7, 4)
+[01:30:36.365] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:36.365] [INFO] Attempt block of Gnogfist Beeron by Krakchomper
+[01:30:36.365] [INFO] Attempt block of Gutfoot Asmar by Krakchomper
+[01:30:36.365] [INFO] Attempt block of Lugstabber by Krakchomper
+[01:30:36.365] [INFO] Offensive blocker chose move (6, 4) with score 1911
+[01:30:36.365] [INFO] Goblin Krakchomper moved from (6, 3) to (6, 4)
+[01:30:36.365] [INFO] Movement trail: [(5, 8), (5, 5), (5, 3), (6, 3), (6, 4)]
+[01:30:36.365] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:36.365] [INFO] Offensive blocker chose move (7, 6) with score 851
+[01:30:36.365] [INFO] Goblin Skrizbasher moved from (6, 6) to (7, 6)
+[01:30:36.365] [INFO] Movement trail: [(6, 7), (5, 7), (5, 6), (6, 6), (7, 6)]
+[01:30:36.365] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:36.365] [INFO] Offensive blocker chose move (6, 5) with score 864
+[01:30:36.365] [INFO] Goblin Lugsquisher moved from (7, 5) to (6, 5)
+[01:30:36.365] [INFO] Movement trail: [(8, 7), (8, 6), (7, 6), (7, 5), (6, 5)]
+[01:30:36.365] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:36.365] [INFO] Offensive blocker chose move (8, 4) with score 980
+[01:30:36.365] [INFO] Goblin Gnogface the Mighty moved from (8, 5) to (8, 4)
+[01:30:36.365] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6), (8, 5), (8, 4)]
+[01:30:36.366] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:36.366] [INFO] Defensive blocker chose move (4, 4) with score 693
+[01:30:36.366] [INFO] Goblin Grimstomper Hugo moved from (4, 2) to (4, 4)
+[01:30:36.366] [INFO] Movement trail: [(2, 1), (4, 2), (4, 4)]
+[01:30:36.366] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:36.366] [INFO] Defensive blocker Gutfoot Asmar pursuing carrier Snotface
+[01:30:36.366] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:36.366] [INFO] Defensive blocker chose move (6, 0) with score 665
+[01:30:36.366] [INFO] Goblin Bludbiter Abie moved from (5, 0) to (6, 0)
+[01:30:36.366] [INFO] Movement trail: [(5, 1), (4, 1), (4, 0), (5, 0), (6, 0)]
+[01:30:36.366] [INFO] Moving defensive blocker Lugstabber with 2 movement points
+[01:30:36.366] [INFO] Defensive blocker Lugstabber pursuing carrier Snotface
+[01:30:36.366] [INFO] Goblin Lugstabber moved from (5, 3) to (6, 3)
+[01:30:36.366] [INFO] Movement trail: [(6, 1), (5, 1), (5, 2), (5, 3), (6, 3)]
+[01:30:36.366] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:36.366] [INFO] Defensive blocker Gnogfist Beeron attempting to block carrier Snotface
+[01:30:36.366] [INFO] Defensive blocker Gnogfist Beeron pursuing carrier Snotface
+[01:30:37.777] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:37.777] [INFO] Goblin Snotface moved from (7, 4) to (8, 3)
+[01:30:37.777] [INFO] Movement trail: [(5, 6), (5, 4), (6, 4), (7, 4), (8, 3)]
+[01:30:37.777] [INFO] Carrier Snotface moved to (8, 3)
+[01:30:37.777] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:37.777] [INFO] Attempt block of Gnogfist Beeron by Krakchomper
+[01:30:37.778] [INFO] Attempt block of Lugstabber by Krakchomper
+[01:30:37.778] [INFO] Offensive blocker chose move (7, 4) with score 866
+[01:30:37.778] [INFO] Goblin Krakchomper moved from (6, 4) to (7, 4)
+[01:30:37.778] [INFO] Movement trail: [(5, 5), (5, 3), (6, 3), (6, 4), (7, 4)]
+[01:30:37.778] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:37.778] [INFO] Offensive blocker chose move (7, 5) with score 745
+[01:30:37.778] [INFO] Goblin Skrizbasher moved from (7, 6) to (7, 5)
+[01:30:37.778] [INFO] Movement trail: [(5, 7), (5, 6), (6, 6), (7, 6), (7, 5)]
+[01:30:37.778] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:37.778] [INFO] Offensive blocker chose move (6, 4) with score 758
+[01:30:37.778] [INFO] Goblin Lugsquisher moved from (6, 5) to (6, 4)
+[01:30:37.778] [INFO] Movement trail: [(8, 6), (7, 6), (7, 5), (6, 5), (6, 4)]
+[01:30:37.778] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:37.778] [INFO] Offensive blocker chose move (9, 4) with score 846
+[01:30:37.778] [INFO] Goblin Gnogface the Mighty moved from (8, 4) to (9, 4)
+[01:30:37.778] [INFO] Movement trail: [(8, 7), (8, 6), (8, 5), (8, 4), (9, 4)]
+[01:30:37.778] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:37.778] [INFO] Defensive blocker chose move (5, 3) with score 705
+[01:30:37.778] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:37.778] [INFO] Defensive blocker chose move (8, 4) with score 899
+[01:30:37.778] [INFO] Goblin Gutfoot Asmar moved from (5, 4) to (8, 4)
+[01:30:37.778] [INFO] Movement trail: [(5, 2), (4, 3), (4, 4), (5, 4), (8, 4)]
+[01:30:37.778] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:37.778] [INFO] Defensive blocker chose move (7, 0) with score 673
+[01:30:37.778] [INFO] Goblin Bludbiter Abie moved from (6, 0) to (7, 0)
+[01:30:37.778] [INFO] Movement trail: [(4, 1), (4, 0), (5, 0), (6, 0), (7, 0)]
+[01:30:37.778] [INFO] Moving defensive blocker Lugstabber with 2 movement points
+[01:30:37.778] [INFO] Defensive blocker Lugstabber pursuing carrier Snotface
+[01:30:37.778] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:37.778] [INFO] Defensive blocker Gnogfist Beeron attempting to block carrier Snotface
+[01:30:37.778] [INFO] Block succeeded!
+[01:30:45.057] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:45.057] [INFO] Goblin Snotface moved from (9, 3) to (8, 2)
+[01:30:45.057] [INFO] Movement trail: [(6, 4), (7, 4), (8, 3), (9, 3), (8, 2)]
+[01:30:45.057] [INFO] Carrier Snotface moved to (8, 2)
+[01:30:45.057] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:45.057] [INFO] Attempt block of Gnogfist Beeron by Krakchomper
+[01:30:45.057] [INFO] Attempt block of Gutfoot Asmar by Krakchomper
+[01:30:45.057] [INFO] Attempt block of Lugstabber by Krakchomper
+[01:30:45.057] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:45.057] [INFO] Offensive blocker chose move (8, 5) with score 754
+[01:30:45.057] [INFO] Goblin Skrizbasher moved from (7, 5) to (8, 5)
+[01:30:45.057] [INFO] Movement trail: [(5, 6), (6, 6), (7, 6), (7, 5), (8, 5)]
+[01:30:45.057] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:45.057] [INFO] Offensive blocker chose move (5, 4) with score 571
+[01:30:45.058] [INFO] Goblin Lugsquisher moved from (6, 4) to (5, 4)
+[01:30:45.058] [INFO] Movement trail: [(7, 6), (7, 5), (6, 5), (6, 4), (5, 4)]
+[01:30:45.058] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:45.058] [INFO] Offensive blocker chose move (9, 3) with score 866
+[01:30:45.058] [INFO] Goblin Gnogface the Mighty moved from (9, 4) to (9, 3)
+[01:30:45.058] [INFO] Movement trail: [(8, 6), (8, 5), (8, 4), (9, 4), (9, 3)]
+[01:30:45.058] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:45.058] [INFO] Defensive blocker chose move (5, 2) with score 718
+[01:30:45.058] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:45.058] [INFO] Defensive blocker Gutfoot Asmar pursuing carrier Snotface
+[01:30:45.058] [INFO] Goblin Gutfoot Asmar moved from (8, 4) to (7, 2)
+[01:30:45.058] [INFO] Movement trail: [(4, 3), (4, 4), (5, 4), (8, 4), (7, 2)]
+[01:30:45.058] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:45.058] [INFO] Defensive blocker Bludbiter Abie pursuing carrier Snotface
+[01:30:45.058] [INFO] Goblin Bludbiter Abie moved from (7, 0) to (7, 1)
+[01:30:45.058] [INFO] Movement trail: [(4, 0), (5, 0), (6, 0), (7, 0), (7, 1)]
+[01:30:45.058] [INFO] Moving defensive blocker Lugstabber with 2 movement points
+[01:30:45.058] [INFO] Defensive blocker Lugstabber pursuing carrier Snotface
+[01:30:45.058] [INFO] Goblin Lugstabber moved from (6, 3) to (8, 3)
+[01:30:45.058] [INFO] Movement trail: [(5, 1), (5, 2), (5, 3), (6, 3), (8, 3)]
+[01:30:45.058] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:45.058] [INFO] Defensive blocker Gnogfist Beeron attempting to block carrier Snotface
+[01:30:45.058] [INFO] Defensive blocker Gnogfist Beeron pursuing carrier Snotface
+[01:30:45.534] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:45.534] [INFO] Goblin Snotface moved from (8, 2) to (9, 2)
+[01:30:45.534] [INFO] Movement trail: [(7, 4), (8, 3), (9, 3), (8, 2), (9, 2)]
+[01:30:45.534] [INFO] Carrier Snotface moved to (9, 2)
+[01:30:45.534] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:45.534] [INFO] Attempt block of Lugstabber by Krakchomper
+[01:30:45.534] [INFO] Block succeeded!
+[01:30:45.534] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:45.534] [INFO] Offensive blocker chose move (8, 4) with score 783
+[01:30:45.534] [INFO] Goblin Skrizbasher moved from (8, 5) to (8, 4)
+[01:30:45.534] [INFO] Movement trail: [(6, 6), (7, 6), (7, 5), (8, 5), (8, 4)]
+[01:30:45.534] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:45.534] [INFO] Offensive blocker chose move (5, 3) with score 580
+[01:30:45.534] [INFO] Goblin Lugsquisher moved from (5, 4) to (5, 3)
+[01:30:45.534] [INFO] Movement trail: [(7, 5), (6, 5), (6, 4), (5, 4), (5, 3)]
+[01:30:45.534] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:45.535] [INFO] Offensive blocker chose move (9, 4) with score 832
+[01:30:45.535] [INFO] Goblin Gnogface the Mighty moved from (9, 3) to (9, 4)
+[01:30:45.535] [INFO] Movement trail: [(8, 5), (8, 4), (9, 4), (9, 3), (9, 4)]
+[01:30:45.535] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:45.535] [INFO] Defensive blocker chose move (5, 2) with score 609
+[01:30:45.535] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:45.535] [INFO] Defensive blocker Gutfoot Asmar pursuing carrier Snotface
+[01:30:45.535] [INFO] Goblin Gutfoot Asmar moved from (7, 2) to (8, 2)
+[01:30:45.535] [INFO] Movement trail: [(4, 4), (5, 4), (8, 4), (7, 2), (8, 2)]
+[01:30:45.535] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:45.535] [INFO] Defensive blocker Bludbiter Abie pursuing carrier Snotface
+[01:30:45.535] [INFO] Goblin Bludbiter Abie moved from (7, 1) to (7, 2)
+[01:30:45.535] [INFO] Movement trail: [(5, 0), (6, 0), (7, 0), (7, 1), (7, 2)]
+[01:30:45.535] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:45.535] [INFO] Defensive blocker Gnogfist Beeron pursuing carrier Snotface
+[01:30:45.976] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:45.977] [INFO] Goblin Snotface moved from (9, 2) to (8, 1)
+[01:30:45.977] [INFO] Movement trail: [(8, 3), (9, 3), (8, 2), (9, 2), (8, 1)]
+[01:30:45.977] [INFO] Carrier Snotface moved to (8, 1)
+[01:30:45.977] [INFO] Moving offensive blocker Krakchomper with 3 movement points
+[01:30:45.977] [INFO] Attempt block of Gnogfist Beeron by Krakchomper
+[01:30:45.977] [INFO] Offensive blocker chose move (6, 4) with score 572
+[01:30:45.977] [INFO] Goblin Krakchomper moved from (7, 4) to (6, 4)
+[01:30:45.977] [INFO] Movement trail: [(5, 3), (6, 3), (6, 4), (7, 4), (6, 4)]
+[01:30:45.977] [INFO] Moving offensive blocker Skrizbasher with 1 movement points
+[01:30:45.977] [INFO] Offensive blocker chose move (7, 4) with score 635
+[01:30:45.977] [INFO] Goblin Skrizbasher moved from (8, 4) to (7, 4)
+[01:30:45.977] [INFO] Movement trail: [(7, 6), (7, 5), (8, 5), (8, 4), (7, 4)]
+[01:30:45.977] [INFO] Moving offensive blocker Lugsquisher with 1 movement points
+[01:30:45.977] [INFO] Offensive blocker chose move (5, 2) with score 695
+[01:30:45.977] [INFO] Goblin Lugsquisher moved from (5, 3) to (5, 2)
+[01:30:45.977] [INFO] Movement trail: [(6, 5), (6, 4), (5, 4), (5, 3), (5, 2)]
+[01:30:45.977] [INFO] Moving offensive blocker Gnogface the Mighty with 1 movement points
+[01:30:45.977] [INFO] Offensive blocker chose move (8, 4) with score 781
+[01:30:45.977] [INFO] Goblin Gnogface the Mighty moved from (9, 4) to (8, 4)
+[01:30:45.977] [INFO] Movement trail: [(8, 4), (9, 4), (9, 3), (9, 4), (8, 4)]
+[01:30:45.977] [INFO] Moving defensive blocker Grimstomper Hugo with 3 movement points
+[01:30:45.977] [INFO] Defensive blocker chose move (6, 3) with score 595
+[01:30:45.977] [INFO] Goblin Grimstomper Hugo moved from (4, 4) to (6, 3)
+[01:30:45.977] [INFO] Movement trail: [(2, 1), (4, 2), (4, 4), (6, 3)]
+[01:30:45.977] [INFO] Moving defensive blocker Gutfoot Asmar with 3 movement points
+[01:30:45.977] [INFO] Defensive blocker Gutfoot Asmar attempting to block carrier Snotface
+[01:30:45.977] [INFO] Defensive blocker Gutfoot Asmar pursuing carrier Snotface
+[01:30:45.977] [INFO] Goblin Gutfoot Asmar moved from (8, 2) to (9, 2)
+[01:30:45.977] [INFO] Movement trail: [(5, 4), (8, 4), (7, 2), (8, 2), (9, 2)]
+[01:30:45.977] [INFO] Moving defensive blocker Bludbiter Abie with 1 movement points
+[01:30:45.977] [INFO] Defensive blocker Bludbiter Abie pursuing carrier Snotface
+[01:30:45.977] [INFO] Goblin Bludbiter Abie moved from (7, 2) to (7, 1)
+[01:30:45.977] [INFO] Movement trail: [(6, 0), (7, 0), (7, 1), (7, 2), (7, 1)]
+[01:30:45.977] [INFO] Moving defensive blocker Gnogfist Beeron with 2 movement points
+[01:30:45.977] [INFO] Defensive blocker Gnogfist Beeron pursuing carrier Snotface
+[01:30:46.370] [INFO] Moving carrier Snotface with 4 movement points
+[01:30:46.370] [INFO] Goblin Snotface moved from (8, 1) to (7, 0)
+[01:30:46.370] [INFO] Movement trail: [(9, 3), (8, 2), (9, 2), (8, 1), (7, 0)]
+[01:30:46.371] [INFO] Carrier Snotface moved to (7, 0)

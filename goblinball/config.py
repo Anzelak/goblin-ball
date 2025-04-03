@@ -50,7 +50,9 @@ class Config:
             # Visuals
             "animation_speed": 1.0,
             "show_grid": True,
-            "show_debug_info": False
+            "show_debug_info": False,
+            "debug_logging": True,
+            "verbose_debug": False
         }
         
         # Load custom config if exists

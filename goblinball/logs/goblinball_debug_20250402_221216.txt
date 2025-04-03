@@ -1,0 +1,316 @@
+[22:12:16.332] [INFO] === Goblinball Debug Log - 20250402_221216 ===
+[22:12:16.354] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[22:12:17.821] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:17.821] [INFO] Carrier Krunkslicer moved to (3, 8)
+[22:12:17.821] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:17.822] [INFO] Offensive blocker chose move (4, 8) with score 935
+[22:12:17.822] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:17.822] [INFO] Offensive blocker chose move (2, 8) with score 931
+[22:12:17.824] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:17.825] [INFO] Offensive blocker chose move (5, 8) with score 832
+[22:12:17.825] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:17.825] [INFO] Offensive blocker chose move (8, 8) with score 541
+[22:12:17.825] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:17.825] [INFO] Defensive blocker chose move (3, 0) with score 667
+[22:12:17.825] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:17.825] [INFO] Defensive blocker chose move (3, 2) with score 666
+[22:12:17.825] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:17.825] [INFO] Defensive blocker chose move (4, 2) with score 672
+[22:12:17.825] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:17.825] [INFO] Defensive blocker chose move (4, 1) with score 637
+[22:12:17.825] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:17.825] [INFO] Defensive blocker chose move (9, 2) with score 375
+[22:12:18.232] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:18.232] [INFO] Carrier Krunkslicer moved to (3, 7)
+[22:12:18.232] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:18.232] [INFO] Offensive blocker chose move (3, 8) with score 936
+[22:12:18.232] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:18.232] [INFO] Offensive blocker chose move (3, 6) with score 963
+[22:12:18.232] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:18.232] [INFO] Offensive blocker chose move (4, 7) with score 928
+[22:12:18.232] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:18.232] [INFO] Offensive blocker chose move (8, 7) with score 537
+[22:12:18.232] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:18.232] [INFO] Defensive blocker chose move (2, 0) with score 670
+[22:12:18.232] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:18.232] [INFO] Defensive blocker chose move (3, 3) with score 675
+[22:12:18.232] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:18.232] [INFO] Defensive blocker chose move (2, 2) with score 674
+[22:12:18.232] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:18.232] [INFO] Defensive blocker chose move (4, 3) with score 675
+[22:12:18.232] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:18.232] [INFO] Defensive blocker chose move (5, 2) with score 371
+[22:12:18.592] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:18.592] [INFO] Carrier Krunkslicer moved to (2, 7)
+[22:12:18.592] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:18.592] [INFO] Offensive blocker chose move (3, 7) with score 953
+[22:12:18.592] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:18.592] [INFO] Offensive blocker chose move (2, 6) with score 938
+[22:12:18.592] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:18.592] [INFO] Offensive blocker chose move (1, 7) with score 953
+[22:12:18.592] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:18.592] [INFO] Offensive blocker chose move (7, 7) with score 528
+[22:12:18.592] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:18.592] [INFO] Defensive blocker chose move (2, 1) with score 662
+[22:12:18.592] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:18.592] [INFO] Defensive blocker chose move (2, 3) with score 674
+[22:12:18.592] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:18.592] [INFO] Defensive blocker chose move (3, 3) with score 674
+[22:12:18.592] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:18.592] [INFO] Defensive blocker chose move (4, 7) with score 804
+[22:12:18.592] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:18.592] [INFO] Defensive blocker chose move (2, 2) with score 668
+[22:12:18.938] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:18.938] [INFO] Carrier Krunkslicer moved to (2, 8)
+[22:12:18.938] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:18.938] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:18.938] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:18.938] [INFO] Offensive blocker chose move (2, 7) with score 1883
+[22:12:18.938] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:18.938] [INFO] Offensive blocker chose move (1, 8) with score 891
+[22:12:18.938] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:18.939] [INFO] Offensive blocker chose move (6, 7) with score 555
+[22:12:18.939] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:18.939] [INFO] Defensive blocker chose move (3, 1) with score 669
+[22:12:18.939] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:18.939] [INFO] Defensive blocker chose move (3, 2) with score 673
+[22:12:18.939] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:18.939] [INFO] Defensive blocker chose move (2, 1) with score 672
+[22:12:18.939] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:18.939] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:18.939] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:18.939] [INFO] Defensive blocker chose move (2, 4) with score 673
+[22:12:19.349] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:19.350] [INFO] Carrier Krunkslicer moved to (3, 8)
+[22:12:19.350] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:19.350] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:19.350] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:19.350] [INFO] Offensive blocker chose move (4, 8) with score 880
+[22:12:19.350] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:19.350] [INFO] Offensive blocker chose move (2, 8) with score 909
+[22:12:19.350] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:19.350] [INFO] Offensive blocker chose move (5, 7) with score 747
+[22:12:19.350] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:19.350] [INFO] Defensive blocker chose move (2, 2) with score 674
+[22:12:19.350] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:19.350] [INFO] Defensive blocker chose move (4, 2) with score 674
+[22:12:19.350] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:19.350] [INFO] Defensive blocker chose move (2, 3) with score 662
+[22:12:19.350] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:19.350] [INFO] Defensive blocker Grimsmasher  attempting to block carrier Krunkslicer
+[22:12:19.350] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:19.350] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:19.350] [INFO] Defensive blocker chose move (3, 2) with score 671
+[22:12:19.694] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:19.694] [INFO] Carrier Krunkslicer moved to (3, 9)
+[22:12:19.694] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:19.694] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:19.694] [INFO] Block succeeded!
+[22:12:19.694] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:19.694] [INFO] Attempt block of Grimsmasher  by Grimnose Dawyne
+[22:12:19.694] [INFO] Offensive blocker chose move (3, 8) with score 2106
+[22:12:19.694] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:19.694] [INFO] Offensive blocker chose move (4, 8) with score 1001
+[22:12:19.694] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:19.694] [INFO] Offensive blocker chose move (5, 8) with score 862
+[22:12:19.695] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:19.695] [INFO] Defensive blocker chose move (2, 1) with score 674
+[22:12:19.695] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:19.695] [INFO] Defensive blocker chose move (4, 0) with score 671
+[22:12:19.695] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:19.695] [INFO] Defensive blocker chose move (3, 1) with score 671
+[22:12:19.695] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:19.695] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:19.695] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:19.695] [INFO] Defensive blocker chose move (2, 5) with score 672
+[22:12:19.987] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:19.987] [INFO] Carrier Krunkslicer moved to (2, 9)
+[22:12:19.987] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:19.987] [INFO] Offensive blocker chose move (2, 8) with score 884
+[22:12:19.987] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:19.987] [INFO] Offensive blocker chose move (1, 9) with score 884
+[22:12:19.987] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:19.987] [INFO] Offensive blocker chose move (3, 9) with score 857
+[22:12:19.987] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:19.987] [INFO] Offensive blocker chose move (5, 9) with score 678
+[22:12:19.987] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:19.987] [INFO] Defensive blocker chose move (1, 0) with score 672
+[22:12:19.988] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:19.988] [INFO] Defensive blocker chose move (3, 0) with score 649
+[22:12:19.988] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:19.988] [INFO] Defensive blocker chose move (3, 2) with score 674
+[22:12:19.988] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:19.988] [INFO] Defensive blocker chose move (3, 9) with score 896
+[22:12:19.988] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:19.988] [INFO] Defensive blocker chose move (1, 5) with score 675
+[22:12:20.234] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:20.234] [INFO] Carrier Krunkslicer couldn't find valid move
+[22:12:20.234] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:20.234] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:20.234] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:20.234] [INFO] Offensive blocker chose move (3, 8) with score 842
+[22:12:20.234] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:20.234] [INFO] Attempt block of Grimsmasher  by Grimface Cereb
+[22:12:20.235] [INFO] Offensive blocker chose move (4, 9) with score 755
+[22:12:20.235] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:20.235] [INFO] Offensive blocker chose move (6, 9) with score 630
+[22:12:20.240] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:20.240] [INFO] Defensive blocker chose move (1, 2) with score 670
+[22:12:20.240] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:20.240] [INFO] Defensive blocker chose move (3, 1) with score 658
+[22:12:20.240] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:20.240] [INFO] Defensive blocker chose move (3, 0) with score 666
+[22:12:20.240] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:20.240] [INFO] Defensive blocker Grimsmasher  attempting to block carrier Krunkslicer
+[22:12:20.240] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:20.240] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:20.240] [INFO] Defensive blocker chose move (3, 4) with score 675
+[22:12:20.467] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:20.467] [INFO] Carrier Krunkslicer moved to (3, 9)
+[22:12:20.467] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:20.467] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:20.467] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:20.467] [INFO] Offensive blocker chose move (2, 9) with score 1835
+[22:12:20.467] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:20.467] [INFO] Offensive blocker chose move (3, 8) with score 919
+[22:12:20.467] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:20.468] [INFO] Offensive blocker chose move (5, 9) with score 833
+[22:12:20.468] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:20.468] [INFO] Defensive blocker chose move (3, 2) with score 656
+[22:12:20.468] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:20.468] [INFO] Defensive blocker chose move (2, 2) with score 671
+[22:12:20.468] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:20.468] [INFO] Defensive blocker chose move (3, 1) with score 669
+[22:12:20.468] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:20.468] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:20.468] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:20.468] [INFO] Defensive blocker chose move (2, 4) with score 671
+[22:12:20.697] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:20.698] [INFO] Carrier Krunkslicer moved to (4, 9)
+[22:12:20.698] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:20.698] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:20.698] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:20.698] [INFO] Attempt block of Grimsmasher  by Grimnose Dawyne
+[22:12:20.698] [INFO] Offensive blocker chose move (3, 9) with score 1910
+[22:12:20.698] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:20.698] [INFO] Offensive blocker chose move (4, 8) with score 917
+[22:12:20.698] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:20.698] [INFO] Offensive blocker chose move (5, 8) with score 821
+[22:12:20.698] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:20.698] [INFO] Defensive blocker chose move (4, 2) with score 664
+[22:12:20.698] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:20.698] [INFO] Defensive blocker chose move (3, 2) with score 667
+[22:12:20.698] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:20.698] [INFO] Defensive blocker chose move (4, 1) with score 670
+[22:12:20.698] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:20.698] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:20.698] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:20.698] [INFO] Defensive blocker chose move (3, 1) with score 675
+[22:12:20.910] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:20.911] [INFO] Carrier Krunkslicer moved to (5, 9)
+[22:12:20.911] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:20.911] [INFO] Offensive blocker chose move (3, 8) with score 720
+[22:12:20.911] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:20.911] [INFO] Offensive blocker chose move (4, 9) with score 905
+[22:12:20.911] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:20.911] [INFO] Offensive blocker chose move (5, 7) with score 851
+[22:12:20.911] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:20.911] [INFO] Offensive blocker chose move (4, 8) with score 810
+[22:12:20.911] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:20.911] [INFO] Defensive blocker chose move (5, 2) with score 673
+[22:12:20.911] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:20.911] [INFO] Defensive blocker chose move (4, 2) with score 654
+[22:12:20.911] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:20.911] [INFO] Defensive blocker chose move (4, 4) with score 675
+[22:12:20.911] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:20.911] [INFO] Defensive blocker chose move (3, 9) with score 812
+[22:12:20.911] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:20.911] [INFO] Defensive blocker chose move (4, 1) with score 673
+[22:12:21.125] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:21.125] [INFO] Carrier Krunkslicer moved to (5, 8)
+[22:12:21.125] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:21.125] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:21.125] [INFO] Block succeeded!
+[22:12:21.125] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:21.125] [INFO] Attempt block of Grimsmasher  by Grimnose Dawyne
+[22:12:21.125] [INFO] Offensive blocker chose move (5, 9) with score 892
+[22:12:21.125] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:21.125] [INFO] Offensive blocker chose move (6, 8) with score 862
+[22:12:21.125] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:21.125] [INFO] Offensive blocker chose move (4, 7) with score 851
+[22:12:21.125] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:21.125] [INFO] Defensive blocker chose move (5, 0) with score 672
+[22:12:21.125] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:21.125] [INFO] Defensive blocker chose move (5, 2) with score 675
+[22:12:21.125] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:21.125] [INFO] Defensive blocker chose move (4, 3) with score 675
+[22:12:21.125] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:21.125] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:21.125] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:21.125] [INFO] Defensive blocker chose move (5, 3) with score 671
+[22:12:21.304] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:21.304] [INFO] Carrier Krunkslicer moved to (5, 7)
+[22:12:21.304] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:21.305] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:21.305] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:21.305] [INFO] Attempt block of Grimsmasher  by Grimnose Dawyne
+[22:12:21.305] [INFO] Offensive blocker chose move (5, 8) with score 913
+[22:12:21.305] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:21.305] [INFO] Offensive blocker chose move (5, 6) with score 954
+[22:12:21.305] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:21.305] [INFO] Offensive blocker chose move (4, 6) with score 826
+[22:12:21.305] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:21.305] [INFO] Defensive blocker chose move (6, 1) with score 668
+[22:12:21.305] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:21.305] [INFO] Defensive blocker chose move (4, 1) with score 671
+[22:12:21.305] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:21.305] [INFO] Defensive blocker chose move (5, 2) with score 659
+[22:12:21.305] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:21.305] [INFO] Defensive blocker Grimsmasher  attempting to block carrier Krunkslicer
+[22:12:21.305] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:21.305] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:21.305] [INFO] Defensive blocker chose move (6, 2) with score 669
+[22:12:21.504] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:21.504] [INFO] Carrier Krunkslicer moved to (5, 6)
+[22:12:21.504] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:21.504] [INFO] Attempt block of Grimsmasher  by Splatnose
+[22:12:21.504] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:21.504] [INFO] Attempt block of Grimsmasher  by Grimnose Dawyne
+[22:12:21.504] [INFO] Offensive blocker chose move (5, 7) with score 921
+[22:12:21.504] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:21.504] [INFO] Offensive blocker chose move (6, 6) with score 960
+[22:12:21.504] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:21.504] [INFO] Offensive blocker chose move (4, 5) with score 866
+[22:12:21.504] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:21.505] [INFO] Defensive blocker chose move (5, 0) with score 658
+[22:12:21.505] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:21.505] [INFO] Defensive blocker chose move (4, 2) with score 671
+[22:12:21.505] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:21.505] [INFO] Defensive blocker chose move (6, 4) with score 673
+[22:12:21.505] [INFO] Moving defensive blocker Grimsmasher  with 4 movement points
+[22:12:21.505] [INFO] Defensive blocker Grimsmasher  attempting to block carrier Krunkslicer
+[22:12:21.505] [INFO] Defensive blocker Grimsmasher  pursuing carrier Krunkslicer
+[22:12:21.505] [INFO] Moving defensive blocker Stabfist Krent with 4 movement points
+[22:12:21.505] [INFO] Defensive blocker chose move (5, 2) with score 672
+[22:12:21.703] [INFO] Moving carrier Krunkslicer with 1 movement points
+[22:12:21.703] [INFO] Carrier Krunkslicer moved to (5, 5)
+[22:12:21.703] [INFO] Moving offensive blocker Splatnose with 2 movement points
+[22:12:21.703] [INFO] Offensive blocker chose move (4, 7) with score 751
+[22:12:21.703] [INFO] Moving offensive blocker Grimnose Dawyne with 4 movement points
+[22:12:21.703] [INFO] Attempt block of Grimsmasher  by Grimnose Dawyne
+[22:12:21.703] [INFO] Offensive blocker chose move (5, 6) with score 941
+[22:12:21.703] [INFO] Moving offensive blocker Grimface Cereb with 3 movement points
+[22:12:21.703] [INFO] Offensive blocker chose move (5, 4) with score 2170
+[22:12:21.703] [INFO] Moving offensive blocker Grakbasher  with 1 movement points
+[22:12:21.703] [INFO] Offensive blocker chose move (4, 4) with score 1042
+[22:12:21.703] [INFO] Moving defensive blocker Krakgob with 2 movement points
+[22:12:21.703] [INFO] Defensive blocker chose move (6, 0) with score 672
+[22:12:21.703] [INFO] Moving defensive blocker Fizzbiter Shasta with 2 movement points
+[22:12:21.703] [INFO] Defensive blocker chose move (5, 1) with score 673
+[22:12:21.703] [INFO] Moving defensive blocker Gutface with 3 movement points
+[22:12:21.703] [INFO] Defensive blocker Gutface attempting to block carrier Krunkslicer
+[22:12:21.703] [INFO] Block succeeded!
+[22:12:21.703] [INFO] Moving offensive blocker Grimsmasher  with 4 movement points
+[22:12:21.703] [INFO] No carrier found for team Skullsmashers!
+[22:12:21.703] [INFO] Moving offensive blocker Stabfist Krent with 4 movement points
+[22:12:21.703] [INFO] No carrier found for team Skullsmashers!

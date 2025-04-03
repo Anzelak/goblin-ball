@@ -1,0 +1,2 @@
+[22:24:35.085] [INFO] === Goblinball Debug Log - 20250402_222435 ===
+[22:24:35.107] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers

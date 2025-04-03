@@ -1,0 +1,1557 @@
+[20:12:01.031] [INFO] === Goblinball Debug Log - 20250402_201201 ===
+[20:12:01.054] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:12:01.054] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:01.054] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:01.054] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:01.054] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:01.054] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:01.054] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:01.054] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:01.055] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:01.055] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:01.055] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:01.055] [INFO] Selected carrier: Gutslicer Trahand from team Mudcrushers
+[20:12:01.055] [INFO] ===== Starting Play 1 =====
+[20:12:01.055] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:01.055] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:01.055] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:01.055] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:01.055] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:01.055] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:01.055] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:01.055] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:01.055] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:01.055] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:01.055] [INFO] Selected carrier: Thraktooth from team Mudcrushers
+[20:12:02.980] [INFO] ==== Processing Turn 1 ====
+[20:12:02.980] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:02.980] [INFO] Carrier Thraktooth at position (4, 8) with 1 movement points
+[20:12:02.980] [INFO] Torch status at carrier row 8: Not lit
+[20:12:02.980] [INFO] Attempting to move carrier Thraktooth
+[20:12:02.980] [INFO] Carrier chose move (4, 7) with score 162
+[20:12:02.980] [INFO] Carrier moved to (4, 7). Moved successfully: True
+[20:12:02.981] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:02.981] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:02.981] [INFO] Blocker Gutslicer Trahand attempting to form forward screen
+[20:12:02.981] [INFO] Blocker Gutslicer Trahand moving to protect carrier directly
+[20:12:02.981] [INFO] Blocker moved to protection position (3, 8)
+[20:12:02.981] [INFO] Blocker Gutslicer Trahand moved: True, now at (3, 8)
+[20:12:02.981] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:02.981] [INFO] Blocker Krakgob Ynnd'r attempting to form forward screen
+[20:12:02.981] [INFO] Blocker moved to screen position (6, 6)
+[20:12:02.981] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (6, 6)
+[20:12:02.981] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:02.981] [INFO] Blocker Grimskull Kodek operating as lead blocker
+[20:12:02.981] [INFO] Lead blocker moved to (8, 6)
+[20:12:02.981] [INFO] Blocker Grimskull Kodek moved: True, now at (8, 6)
+[20:12:02.981] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:02.981] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:02.981] [INFO] Lead blocker moved to (9, 5)
+[20:12:02.981] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:02.981] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:02.981] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:02.981] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:02.981] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:02.981] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:02.981] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:02.981] [INFO] Blocker intercepting at (4, 2)
+[20:12:02.981] [INFO] Blocker Kraksmasher moved: True, now at (4, 2)
+[20:12:02.981] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:02.981] [INFO] Defensive blocker Grimfoot the Fierce directly pursuing carrier
+[20:12:02.982] [INFO] Blocker Grimfoot the Fierce moved: True, now at (5, 1)
+[20:12:02.982] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:02.982] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:02.982] [INFO] Blocker Zogbasher moved: True, now at (4, 1)
+[20:12:02.982] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:02.982] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:02.982] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:02.982] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:02.982] [INFO] === Grid State at end of turn ===
+[20:12:02.982] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:02.982] [INFO] Row 1: .. .. .. .. D D .. .. D .. 
+[20:12:02.982] [INFO] Row 2: .. .. .. .. D .. .. .. .. .. 
+[20:12:02.982] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:02.982] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:02.982] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:02.982] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:02.982] [INFO] Row 7: .. .. .. .. OC .. .. .. .. .. 
+[20:12:02.982] [INFO] Row 8: .. .. .. O .. .. .. .. .. .. 
+[20:12:02.982] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:04.303] [INFO] ==== Processing Turn 2 ====
+[20:12:04.303] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:04.303] [INFO] Carrier Thraktooth at position (4, 7) with 0 movement points
+[20:12:04.303] [INFO] Torch status at carrier row 7: Not lit
+[20:12:04.303] [INFO] Attempting to move carrier Thraktooth
+[20:12:04.304] [INFO] Carrier did not move. Remaining at (4, 7)
+[20:12:04.304] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:04.304] [INFO] Offensive blocker Gutslicer Trahand at (3, 8) with 0 movement
+[20:12:04.304] [INFO] Blocker Gutslicer Trahand moved: False, now at (3, 8)
+[20:12:04.304] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 6) with 0 movement
+[20:12:04.304] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (6, 6)
+[20:12:04.304] [INFO] Offensive blocker Grimskull Kodek at (8, 6) with 0 movement
+[20:12:04.304] [INFO] Blocker Grimskull Kodek moved: False, now at (8, 6)
+[20:12:04.304] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:04.304] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:04.304] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:04.304] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:04.304] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:04.304] [INFO] Defensive blocker Kraksmasher at (4, 2) with 2 movement
+[20:12:04.304] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:04.304] [INFO] Blocker Kraksmasher moved: True, now at (4, 4)
+[20:12:04.304] [INFO] Defensive blocker Grimfoot the Fierce at (5, 1) with 0 movement
+[20:12:04.304] [INFO] Blocker Grimfoot the Fierce moved: False, now at (5, 1)
+[20:12:04.304] [INFO] Defensive blocker Zogbasher at (4, 1) with 0 movement
+[20:12:04.304] [INFO] Blocker Zogbasher moved: False, now at (4, 1)
+[20:12:04.304] [INFO] Defensive blocker Thraktooth at (8, 1) with 0 movement
+[20:12:04.304] [INFO] Blocker Thraktooth moved: False, now at (8, 1)
+[20:12:04.304] [INFO] All goblins are done moving. Ending play.
+[20:12:04.304] [INFO] ===== Ending Play 1 after 2 turns =====
+[20:12:04.304] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:04.304] [INFO] === Grid State at end of turn ===
+[20:12:04.304] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:04.304] [INFO] Row 1: .. .. .. .. D D .. .. D .. 
+[20:12:04.304] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:12:04.304] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:04.304] [INFO] Row 4: .. .. .. .. D .. .. .. .. .. 
+[20:12:04.304] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:04.304] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:04.304] [INFO] Row 7: .. .. .. .. OC .. .. .. .. .. 
+[20:12:04.304] [INFO] Row 8: .. .. .. O .. .. .. .. .. .. 
+[20:12:04.304] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:04.994] [INFO] ===== Starting Play 2 =====
+[20:12:04.994] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:04.994] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:04.994] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:04.994] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:04.994] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:04.994] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:04.994] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:04.994] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:04.994] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:04.994] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:04.994] [INFO] Selected carrier: Krakgob Ynnd'r from team Mudcrushers
+[20:12:06.175] [INFO] ==== Processing Turn 1 ====
+[20:12:06.175] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:06.175] [INFO] Carrier Krakgob Ynnd'r at position (6, 8) with 2 movement points
+[20:12:06.175] [INFO] Torch status at carrier row 8: Not lit
+[20:12:06.175] [INFO] Attempting to move carrier Krakgob Ynnd'r
+[20:12:06.175] [INFO] Carrier chose move (6, 6) with score 235
+[20:12:06.175] [INFO] Carrier moved to (6, 6). Moved successfully: True
+[20:12:06.175] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:06.175] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:06.175] [INFO] Blocker Gutslicer Trahand operating as lead blocker
+[20:12:06.175] [INFO] Lead blocker moved to (2, 7)
+[20:12:06.175] [INFO] Blocker Gutslicer Trahand moved: True, now at (2, 7)
+[20:12:06.175] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:06.175] [INFO] Blocker Thraktooth moving to protect carrier directly
+[20:12:06.175] [INFO] Blocker Thraktooth falling back to moving toward carrier
+[20:12:06.175] [INFO] Blocker Thraktooth moved: True, now at (4, 7)
+[20:12:06.175] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:06.175] [INFO] Blocker Grimskull Kodek moving to protect carrier directly
+[20:12:06.175] [INFO] Blocker moved to protection position (7, 7)
+[20:12:06.175] [INFO] Blocker Grimskull Kodek moved: True, now at (7, 7)
+[20:12:06.175] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:06.175] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:06.176] [INFO] Lead blocker moved to (9, 5)
+[20:12:06.176] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:06.176] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:06.176] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:06.176] [INFO] Defensive blocker Fizzsquisher Kaplan using interception strategy
+[20:12:06.176] [INFO] Blocker intercepting at (5, 1)
+[20:12:06.176] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (5, 1)
+[20:12:06.176] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:06.176] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:06.176] [INFO] Blocker intercepting at (5, 2)
+[20:12:06.176] [INFO] Blocker Kraksmasher moved: True, now at (5, 2)
+[20:12:06.176] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:06.176] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:06.176] [INFO] Blocker intercepting at (6, 2)
+[20:12:06.176] [INFO] Blocker Grimfoot the Fierce moved: True, now at (6, 2)
+[20:12:06.176] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:06.176] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:06.176] [INFO] Blocker Zogbasher moved: True, now at (6, 3)
+[20:12:06.176] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:06.176] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:06.176] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:06.176] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:06.176] [INFO] === Grid State at end of turn ===
+[20:12:06.176] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:06.176] [INFO] Row 1: .. .. .. .. .. D .. .. D .. 
+[20:12:06.176] [INFO] Row 2: .. .. .. .. .. D D .. .. .. 
+[20:12:06.176] [INFO] Row 3: .. .. .. .. .. .. D .. .. .. 
+[20:12:06.176] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:06.176] [INFO] Row 5: .. .. .. .. .. .. .. .. .. O 
+[20:12:06.176] [INFO] Row 6: .. .. .. .. .. .. OC .. .. .. 
+[20:12:06.176] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:06.176] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:06.176] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:07.785] [INFO] ==== Processing Turn 2 ====
+[20:12:07.785] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:07.785] [INFO] Carrier Krakgob Ynnd'r at position (6, 6) with 0 movement points
+[20:12:07.785] [INFO] Torch status at carrier row 6: Not lit
+[20:12:07.785] [INFO] Attempting to move carrier Krakgob Ynnd'r
+[20:12:07.785] [INFO] Carrier did not move. Remaining at (6, 6)
+[20:12:07.785] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:07.785] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:07.785] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:07.785] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:07.785] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:07.785] [INFO] Offensive blocker Grimskull Kodek at (7, 7) with 0 movement
+[20:12:07.785] [INFO] Blocker Grimskull Kodek moved: False, now at (7, 7)
+[20:12:07.785] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:07.785] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:07.785] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:07.785] [INFO] Defensive blocker Fizzsquisher Kaplan at (5, 1) with 1 movement
+[20:12:07.785] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:07.785] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (6, 1)
+[20:12:07.785] [INFO] Defensive blocker Kraksmasher at (5, 2) with 1 movement
+[20:12:07.785] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:07.785] [INFO] Blocker Kraksmasher moved: True, now at (5, 3)
+[20:12:07.785] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:07.785] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:07.785] [INFO] Defensive blocker Zogbasher at (6, 3) with 0 movement
+[20:12:07.785] [INFO] Blocker Zogbasher moved: False, now at (6, 3)
+[20:12:07.785] [INFO] Defensive blocker Thraktooth at (8, 1) with 0 movement
+[20:12:07.785] [INFO] Blocker Thraktooth moved: False, now at (8, 1)
+[20:12:07.785] [INFO] All goblins are done moving. Ending play.
+[20:12:07.785] [INFO] ===== Ending Play 2 after 2 turns =====
+[20:12:07.785] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:07.785] [INFO] === Grid State at end of turn ===
+[20:12:07.785] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:07.785] [INFO] Row 1: .. .. .. .. .. .. D .. D .. 
+[20:12:07.785] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:12:07.785] [INFO] Row 3: .. .. .. .. .. D D .. .. .. 
+[20:12:07.785] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:07.785] [INFO] Row 5: .. .. .. .. .. .. .. .. .. O 
+[20:12:07.785] [INFO] Row 6: .. .. .. .. .. .. OC .. .. .. 
+[20:12:07.785] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:07.785] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:07.785] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:08.263] [INFO] ===== Starting Play 3 =====
+[20:12:08.264] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:08.264] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:08.264] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:08.264] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:08.264] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:08.264] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:08.264] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:08.264] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:08.264] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:08.264] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:08.264] [INFO] Selected carrier: Grimskull Kodek from team Mudcrushers
+[20:12:09.540] [INFO] ==== Processing Turn 1 ====
+[20:12:09.540] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:09.540] [INFO] Carrier Grimskull Kodek at position (8, 8) with 2 movement points
+[20:12:09.540] [INFO] Torch status at carrier row 8: Not lit
+[20:12:09.540] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:09.540] [INFO] Carrier chose move (8, 6) with score 231
+[20:12:09.540] [INFO] Carrier moved to (8, 6). Moved successfully: True
+[20:12:09.540] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:09.540] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:09.540] [INFO] Blocker Gutslicer Trahand operating as lead blocker
+[20:12:09.540] [INFO] Lead blocker moved to (2, 7)
+[20:12:09.540] [INFO] Blocker Gutslicer Trahand moved: True, now at (2, 7)
+[20:12:09.540] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:09.540] [INFO] Blocker Thraktooth operating as lead blocker
+[20:12:09.540] [INFO] Lead blocker moved to (4, 7)
+[20:12:09.540] [INFO] Blocker Thraktooth moved: True, now at (4, 7)
+[20:12:09.540] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:09.540] [INFO] Blocker Krakgob Ynnd'r moving to protect carrier directly
+[20:12:09.541] [INFO] Blocker moved to protection position (7, 7)
+[20:12:09.541] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (7, 7)
+[20:12:09.541] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:09.541] [INFO] Blocker Stabmangler Tortha attempting to form forward screen
+[20:12:09.541] [INFO] Blocker moved to screen position (9, 5)
+[20:12:09.541] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:09.541] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:09.541] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:09.541] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:09.541] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:09.541] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:09.541] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:09.541] [INFO] Blocker intercepting at (7, 1)
+[20:12:09.541] [INFO] Blocker Kraksmasher moved: True, now at (7, 1)
+[20:12:09.541] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:09.541] [INFO] Defensive blocker Grimfoot the Fierce directly pursuing carrier
+[20:12:09.541] [INFO] Blocker Grimfoot the Fierce moved: True, now at (6, 2)
+[20:12:09.541] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:09.541] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:09.541] [INFO] Blocker Zogbasher moved: False, now at (8, 1)
+[20:12:09.541] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:09.541] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:09.542] [INFO] Blocker intercepting at (9, 2)
+[20:12:09.542] [INFO] Blocker Thraktooth moved: True, now at (9, 2)
+[20:12:09.542] [INFO] === Grid State at end of turn ===
+[20:12:09.542] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:09.542] [INFO] Row 1: .. .. .. .. .. .. .. D D .. 
+[20:12:09.542] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:09.542] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:09.542] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:09.542] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:09.542] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:09.542] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:09.542] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:09.542] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.048] [INFO] ==== Processing Turn 2 ====
+[20:12:10.048] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:10.048] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:10.048] [INFO] Torch status at carrier row 6: Not lit
+[20:12:10.048] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:10.048] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:10.048] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:10.048] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:10.048] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:10.048] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:10.048] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:10.048] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:10.048] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:10.048] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:10.048] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:10.048] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:10.048] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:10.048] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:10.048] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:10.048] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:10.048] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:10.048] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:10.048] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:10.048] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:10.048] [INFO] Blocker intercepting at (8, 2)
+[20:12:10.048] [INFO] Blocker Zogbasher moved: True, now at (8, 2)
+[20:12:10.048] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:10.048] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:10.048] [INFO] === Grid State at end of turn ===
+[20:12:10.048] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.048] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:10.048] [INFO] Row 2: .. .. .. .. .. .. D .. D D 
+[20:12:10.048] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.048] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.048] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:10.048] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:10.048] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:10.048] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.048] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.458] [INFO] ==== Processing Turn 3 ====
+[20:12:10.458] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:10.458] [INFO] Lit torch at row 9
+[20:12:10.458] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:10.458] [INFO] Torch status at carrier row 6: Not lit
+[20:12:10.458] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:10.458] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:10.458] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:10.458] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:10.458] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:10.458] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:10.458] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:10.458] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:10.458] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:10.458] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:10.458] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:10.458] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:10.458] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:10.458] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:10.458] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:10.458] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:10.458] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:10.458] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:10.458] [INFO] Defensive blocker Zogbasher at (8, 2) with 3 movement
+[20:12:10.458] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:10.458] [INFO] Blocker intercepting at (8, 3)
+[20:12:10.458] [INFO] Blocker Zogbasher moved: True, now at (8, 3)
+[20:12:10.458] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:10.458] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:10.458] [INFO] === Grid State at end of turn ===
+[20:12:10.458] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.458] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:10.458] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:10.458] [INFO] Row 3: .. .. .. .. .. .. .. .. D .. 
+[20:12:10.458] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.458] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:10.458] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:10.458] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:10.458] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:10.458] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:11.738] [INFO] ==== Processing Turn 4 ====
+[20:12:11.738] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:11.738] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:11.738] [INFO] Torch status at carrier row 6: Not lit
+[20:12:11.738] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:11.738] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:11.738] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:11.738] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:11.738] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:11.738] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:11.738] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:11.738] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:11.738] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:11.738] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:11.738] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:11.738] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:11.738] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:11.738] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:11.738] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:11.738] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:11.738] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:11.738] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:11.738] [INFO] Defensive blocker Zogbasher at (8, 3) with 2 movement
+[20:12:11.738] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:11.738] [INFO] Blocker intercepting at (7, 3)
+[20:12:11.738] [INFO] Blocker Zogbasher moved: True, now at (7, 3)
+[20:12:11.738] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:11.738] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:11.738] [INFO] === Grid State at end of turn ===
+[20:12:11.738] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:11.738] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:11.738] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:11.738] [INFO] Row 3: .. .. .. .. .. .. .. D .. .. 
+[20:12:11.738] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:11.738] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:11.738] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:11.738] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:11.738] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:11.738] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:12.447] [INFO] ==== Processing Turn 5 ====
+[20:12:12.447] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:12.447] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:12.447] [INFO] Torch status at carrier row 6: Not lit
+[20:12:12.447] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:12.447] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:12.447] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:12.447] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:12.447] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:12.447] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:12.447] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:12.447] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:12.447] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:12.447] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:12.447] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:12.447] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:12.447] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:12.447] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:12.447] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:12.447] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:12.447] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:12.447] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:12.447] [INFO] Defensive blocker Zogbasher at (7, 3) with 1 movement
+[20:12:12.447] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:12.448] [INFO] Blocker Zogbasher moved: True, now at (7, 4)
+[20:12:12.448] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:12.448] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:12.448] [INFO] All goblins are done moving. Ending play.
+[20:12:12.448] [INFO] ===== Ending Play 3 after 5 turns =====
+[20:12:12.448] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:12.448] [INFO] === Grid State at end of turn ===
+[20:12:12.448] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:12.448] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:12.448] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:12.448] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:12.448] [INFO] Row 4: .. .. .. .. .. .. .. D .. .. 
+[20:12:12.448] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:12.448] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:12.448] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:12.448] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:12.448] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:12.975] [INFO] ===== Starting Play 4 =====
+[20:12:12.975] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:12.975] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:12.975] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:12.975] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:12.975] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:12.975] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:12.975] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:12.975] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:12.975] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:12.975] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:12.975] [INFO] Selected carrier: Stabmangler Tortha from team Mudcrushers
+[20:12:13.466] [INFO] ==== Processing Turn 1 ====
+[20:12:13.466] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:13.466] [INFO] Carrier Stabmangler Tortha at position (9, 8) with 3 movement points
+[20:12:13.466] [INFO] Torch status at carrier row 8: Not lit
+[20:12:13.466] [INFO] Attempting to move carrier Stabmangler Tortha
+[20:12:13.466] [INFO] Carrier chose move (9, 5) with score 308
+[20:12:13.466] [INFO] Carrier moved to (9, 5). Moved successfully: True
+[20:12:13.466] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:13.466] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:13.466] [INFO] Blocker Gutslicer Trahand operating as lead blocker
+[20:12:13.467] [INFO] Lead blocker moved to (2, 7)
+[20:12:13.467] [INFO] Blocker Gutslicer Trahand moved: True, now at (2, 7)
+[20:12:13.467] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:13.467] [INFO] Blocker Thraktooth operating as lead blocker
+[20:12:13.467] [INFO] Lead blocker moved to (4, 7)
+[20:12:13.467] [INFO] Blocker Thraktooth moved: True, now at (4, 7)
+[20:12:13.467] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:13.467] [INFO] Blocker Krakgob Ynnd'r operating as lead blocker
+[20:12:13.467] [INFO] Lead blocker moved to (6, 6)
+[20:12:13.467] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (6, 6)
+[20:12:13.467] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:13.467] [INFO] Blocker Grimskull Kodek moving to protect carrier directly
+[20:12:13.467] [INFO] Blocker moved to protection position (8, 6)
+[20:12:13.467] [INFO] Blocker Grimskull Kodek moved: True, now at (8, 6)
+[20:12:13.467] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:13.467] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:13.467] [INFO] Defensive blocker Fizzsquisher Kaplan using interception strategy
+[20:12:13.467] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:13.467] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:13.467] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:13.467] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:13.467] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:13.467] [INFO] Blocker Kraksmasher moved: True, now at (4, 4)
+[20:12:13.467] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:13.467] [INFO] Defensive blocker Grimfoot the Fierce directly pursuing carrier
+[20:12:13.467] [INFO] Blocker Grimfoot the Fierce moved: True, now at (6, 2)
+[20:12:13.467] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:13.467] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:13.467] [INFO] Blocker intercepting at (8, 2)
+[20:12:13.467] [INFO] Blocker Zogbasher moved: True, now at (8, 2)
+[20:12:13.467] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:13.467] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:13.467] [INFO] Blocker Thraktooth moved: True, now at (9, 2)
+[20:12:13.467] [INFO] === Grid State at end of turn ===
+[20:12:13.467] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:13.467] [INFO] Row 1: .. .. .. .. .. .. .. .. .. .. 
+[20:12:13.467] [INFO] Row 2: .. .. .. .. .. .. D .. D D 
+[20:12:13.467] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:13.467] [INFO] Row 4: .. .. .. .. D .. .. .. .. .. 
+[20:12:13.467] [INFO] Row 5: .. .. D .. .. .. .. .. .. OC 
+[20:12:13.467] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:13.467] [INFO] Row 7: .. .. O .. O .. .. .. .. .. 
+[20:12:13.467] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:13.467] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:15.774] [INFO] ==== Processing Turn 2 ====
+[20:12:15.774] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:15.774] [INFO] Carrier Stabmangler Tortha at position (9, 5) with 0 movement points
+[20:12:15.774] [INFO] Torch status at carrier row 5: Not lit
+[20:12:15.774] [INFO] Attempting to move carrier Stabmangler Tortha
+[20:12:15.774] [INFO] Carrier did not move. Remaining at (9, 5)
+[20:12:15.774] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:15.774] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:15.774] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:15.774] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:15.774] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:15.774] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 6) with 0 movement
+[20:12:15.774] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (6, 6)
+[20:12:15.774] [INFO] Offensive blocker Grimskull Kodek at (8, 6) with 0 movement
+[20:12:15.774] [INFO] Blocker Grimskull Kodek moved: False, now at (8, 6)
+[20:12:15.774] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:15.774] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:15.774] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:15.774] [INFO] Defensive blocker Kraksmasher at (4, 4) with 0 movement
+[20:12:15.774] [INFO] Blocker Kraksmasher moved: False, now at (4, 4)
+[20:12:15.774] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:15.774] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:15.774] [INFO] Defensive blocker Zogbasher at (8, 2) with 3 movement
+[20:12:15.774] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:15.774] [INFO] Blocker intercepting at (8, 3)
+[20:12:15.774] [INFO] Blocker Zogbasher moved: True, now at (8, 3)
+[20:12:15.774] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:15.774] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:15.774] [INFO] === Grid State at end of turn ===
+[20:12:15.774] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:15.774] [INFO] Row 1: .. .. .. .. .. .. .. .. .. .. 
+[20:12:15.774] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:15.774] [INFO] Row 3: .. .. .. .. .. .. .. .. D .. 
+[20:12:15.774] [INFO] Row 4: .. .. .. .. D .. .. .. .. .. 
+[20:12:15.774] [INFO] Row 5: .. .. D .. .. .. .. .. .. OC 
+[20:12:15.774] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:15.774] [INFO] Row 7: .. .. O .. O .. .. .. .. .. 
+[20:12:15.774] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:15.774] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:16.134] [INFO] ==== Processing Turn 3 ====
+[20:12:16.134] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:16.134] [INFO] Lit torch at row 9
+[20:12:16.134] [INFO] Carrier Stabmangler Tortha at position (9, 5) with 0 movement points
+[20:12:16.134] [INFO] Torch status at carrier row 5: Not lit
+[20:12:16.134] [INFO] Attempting to move carrier Stabmangler Tortha
+[20:12:16.134] [INFO] Carrier did not move. Remaining at (9, 5)
+[20:12:16.134] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:16.134] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:16.134] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:16.134] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:16.134] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:16.134] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 6) with 0 movement
+[20:12:16.134] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (6, 6)
+[20:12:16.134] [INFO] Offensive blocker Grimskull Kodek at (8, 6) with 0 movement
+[20:12:16.134] [INFO] Blocker Grimskull Kodek moved: False, now at (8, 6)
+[20:12:16.134] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:16.134] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:16.135] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:16.135] [INFO] Defensive blocker Kraksmasher at (4, 4) with 0 movement
+[20:12:16.135] [INFO] Blocker Kraksmasher moved: False, now at (4, 4)
+[20:12:16.135] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:16.135] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:16.135] [INFO] Defensive blocker Zogbasher at (8, 3) with 2 movement
+[20:12:16.135] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:16.135] [INFO] Blocker Zogbasher moved: True, now at (9, 4)
+[20:12:16.135] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:16.135] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:16.135] [INFO] All goblins are done moving. Ending play.
+[20:12:16.135] [INFO] ===== Ending Play 4 after 3 turns =====
+[20:12:16.135] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:16.135] [INFO] === Grid State at end of turn ===
+[20:12:16.135] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:16.135] [INFO] Row 1: .. .. .. .. .. .. .. .. .. .. 
+[20:12:16.135] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:16.135] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:16.135] [INFO] Row 4: .. .. .. .. D .. .. .. .. D 
+[20:12:16.135] [INFO] Row 5: .. .. D .. .. .. .. .. .. OC 
+[20:12:16.135] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:16.135] [INFO] Row 7: .. .. O .. O .. .. .. .. .. 
+[20:12:16.135] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:16.135] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:16.626] [INFO] ===== Starting Play 5 =====
+[20:12:16.626] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:16.626] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:16.626] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:16.626] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:16.626] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:16.626] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:16.626] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:16.626] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:16.626] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:16.626] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:16.626] [INFO] Selected carrier: Gutslicer Trahand from team Mudcrushers
+[20:12:17.040] [INFO] ==== Processing Turn 1 ====
+[20:12:17.040] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:17.040] [INFO] Carrier Gutslicer Trahand at position (2, 8) with 1 movement points
+[20:12:17.040] [INFO] Torch status at carrier row 8: Not lit
+[20:12:17.040] [INFO] Attempting to move carrier Gutslicer Trahand
+[20:12:17.040] [INFO] Carrier chose move (2, 7) with score 155
+[20:12:17.040] [INFO] Carrier moved to (2, 7). Moved successfully: True
+[20:12:17.040] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:17.040] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:17.040] [INFO] Blocker Thraktooth attempting to form forward screen
+[20:12:17.040] [INFO] Blocker Thraktooth moving to protect carrier directly
+[20:12:17.040] [INFO] Blocker moved to protection position (3, 8)
+[20:12:17.040] [INFO] Blocker Thraktooth moved: True, now at (3, 8)
+[20:12:17.040] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:17.040] [INFO] Blocker Krakgob Ynnd'r operating as lead blocker
+[20:12:17.040] [INFO] Lead blocker moved to (5, 7)
+[20:12:17.040] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (5, 7)
+[20:12:17.040] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:17.040] [INFO] Blocker Grimskull Kodek operating as lead blocker
+[20:12:17.040] [INFO] Lead blocker moved to (8, 6)
+[20:12:17.040] [INFO] Blocker Grimskull Kodek moved: True, now at (8, 6)
+[20:12:17.040] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:17.040] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:17.041] [INFO] Lead blocker moved to (9, 5)
+[20:12:17.041] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:17.041] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:17.041] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:17.041] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:17.041] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:17.041] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:17.041] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:17.041] [INFO] Blocker intercepting at (3, 1)
+[20:12:17.041] [INFO] Blocker Kraksmasher moved: True, now at (3, 1)
+[20:12:17.041] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:17.041] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:17.041] [INFO] Defensive blocker Grimfoot the Fierce directly pursuing carrier
+[20:12:17.041] [INFO] Blocker Grimfoot the Fierce moved: True, now at (5, 1)
+[20:12:17.041] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:17.041] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:17.041] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:17.041] [INFO] Blocker Zogbasher moved: True, now at (4, 1)
+[20:12:17.041] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:17.041] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:17.041] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:17.042] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:17.042] [INFO] === Grid State at end of turn ===
+[20:12:17.042] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.042] [INFO] Row 1: .. .. .. D D D .. .. D .. 
+[20:12:17.042] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.042] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.042] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.042] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:17.042] [INFO] Row 6: .. .. .. .. .. .. .. .. O .. 
+[20:12:17.042] [INFO] Row 7: .. .. OC .. .. O .. .. .. .. 
+[20:12:17.042] [INFO] Row 8: .. .. .. O .. .. .. .. .. .. 
+[20:12:17.042] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.351] [INFO] ==== Processing Turn 2 ====
+[20:12:17.351] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:17.351] [INFO] Carrier Gutslicer Trahand at position (2, 7) with 0 movement points
+[20:12:17.351] [INFO] Torch status at carrier row 7: Not lit
+[20:12:17.351] [INFO] Attempting to move carrier Gutslicer Trahand
+[20:12:17.351] [INFO] Carrier did not move. Remaining at (2, 7)
+[20:12:17.351] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:17.351] [INFO] Offensive blocker Thraktooth at (3, 8) with 0 movement
+[20:12:17.351] [INFO] Blocker Thraktooth moved: False, now at (3, 8)
+[20:12:17.351] [INFO] Offensive blocker Krakgob Ynnd'r at (5, 7) with 0 movement
+[20:12:17.351] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (5, 7)
+[20:12:17.351] [INFO] Offensive blocker Grimskull Kodek at (8, 6) with 0 movement
+[20:12:17.351] [INFO] Blocker Grimskull Kodek moved: False, now at (8, 6)
+[20:12:17.351] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:17.351] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:17.351] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:17.351] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:17.351] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:17.351] [INFO] Defensive blocker Kraksmasher at (3, 1) with 2 movement
+[20:12:17.351] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:17.351] [INFO] Blocker Kraksmasher moved: True, now at (2, 2)
+[20:12:17.351] [INFO] Defensive blocker Grimfoot the Fierce at (5, 1) with 0 movement
+[20:12:17.351] [INFO] Blocker Grimfoot the Fierce moved: False, now at (5, 1)
+[20:12:17.351] [INFO] Defensive blocker Zogbasher at (4, 1) with 0 movement
+[20:12:17.351] [INFO] Blocker Zogbasher moved: False, now at (4, 1)
+[20:12:17.351] [INFO] Defensive blocker Thraktooth at (8, 1) with 0 movement
+[20:12:17.351] [INFO] Blocker Thraktooth moved: False, now at (8, 1)
+[20:12:17.351] [INFO] All goblins are done moving. Ending play.
+[20:12:17.351] [INFO] ===== Ending Play 5 after 2 turns =====
+[20:12:17.351] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:17.351] [INFO] === Grid State at end of turn ===
+[20:12:17.351] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.351] [INFO] Row 1: .. .. .. .. D D .. .. D .. 
+[20:12:17.351] [INFO] Row 2: .. .. D .. .. .. .. .. .. .. 
+[20:12:17.351] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.351] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.351] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:17.351] [INFO] Row 6: .. .. .. .. .. .. .. .. O .. 
+[20:12:17.351] [INFO] Row 7: .. .. OC .. .. O .. .. .. .. 
+[20:12:17.351] [INFO] Row 8: .. .. .. O .. .. .. .. .. .. 
+[20:12:17.351] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.716] [INFO] ===== Starting Play 6 =====
+[20:12:17.716] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:17.716] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:17.716] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:17.716] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:17.716] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:17.716] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:17.716] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:17.716] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:17.716] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:17.716] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:17.716] [INFO] Selected carrier: Thraktooth from team Mudcrushers
+[20:12:17.897] [INFO] ==== Processing Turn 1 ====
+[20:12:17.897] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:17.897] [INFO] Carrier Thraktooth at position (4, 8) with 1 movement points
+[20:12:17.897] [INFO] Torch status at carrier row 8: Not lit
+[20:12:17.897] [INFO] Attempting to move carrier Thraktooth
+[20:12:17.897] [INFO] Carrier chose move (4, 7) with score 156
+[20:12:17.897] [INFO] Carrier moved to (4, 7). Moved successfully: True
+[20:12:17.897] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:17.897] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:17.897] [INFO] Blocker Gutslicer Trahand attempting to form forward screen
+[20:12:17.897] [INFO] Blocker Gutslicer Trahand moving to protect carrier directly
+[20:12:17.897] [INFO] Blocker moved to protection position (3, 8)
+[20:12:17.897] [INFO] Blocker Gutslicer Trahand moved: True, now at (3, 8)
+[20:12:17.897] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:17.897] [INFO] Blocker Krakgob Ynnd'r attempting to form forward screen
+[20:12:17.897] [INFO] Blocker moved to screen position (6, 6)
+[20:12:17.897] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (6, 6)
+[20:12:17.897] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:17.897] [INFO] Blocker Grimskull Kodek operating as lead blocker
+[20:12:17.897] [INFO] Lead blocker moved to (7, 7)
+[20:12:17.897] [INFO] Blocker Grimskull Kodek moved: True, now at (7, 7)
+[20:12:17.897] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:17.897] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:17.897] [INFO] Lead blocker moved to (8, 6)
+[20:12:17.897] [INFO] Blocker Stabmangler Tortha moved: True, now at (8, 6)
+[20:12:17.897] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:17.897] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:17.897] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:17.897] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:17.897] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:17.897] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:17.897] [INFO] Blocker Kraksmasher moved: True, now at (4, 4)
+[20:12:17.897] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:17.897] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:17.897] [INFO] Blocker intercepting at (5, 1)
+[20:12:17.897] [INFO] Blocker Grimfoot the Fierce moved: True, now at (5, 1)
+[20:12:17.897] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:17.897] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:17.897] [INFO] Blocker Zogbasher moved: True, now at (4, 1)
+[20:12:17.897] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:17.897] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:17.897] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:17.897] [INFO] All goblins are done moving. Ending play.
+[20:12:17.897] [INFO] ===== Ending Play 6 after 1 turns =====
+[20:12:17.897] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:17.898] [INFO] === Grid State at end of turn ===
+[20:12:17.898] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.898] [INFO] Row 1: .. .. .. .. D D .. .. D .. 
+[20:12:17.898] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.898] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:17.898] [INFO] Row 4: .. .. .. .. D .. .. .. .. .. 
+[20:12:17.898] [INFO] Row 5: .. .. D .. .. .. .. .. .. .. 
+[20:12:17.898] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:17.898] [INFO] Row 7: .. .. .. .. OC .. .. O .. .. 
+[20:12:17.898] [INFO] Row 8: .. .. .. O .. .. .. .. .. .. 
+[20:12:17.898] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.095] [INFO] ===== Starting Play 7 =====
+[20:12:18.095] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:18.095] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:18.095] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:18.095] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:18.095] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:18.095] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:18.095] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:18.095] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:18.095] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:18.095] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:18.095] [INFO] Selected carrier: Krakgob Ynnd'r from team Mudcrushers
+[20:12:18.278] [INFO] ==== Processing Turn 1 ====
+[20:12:18.278] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:18.278] [INFO] Carrier Krakgob Ynnd'r at position (6, 8) with 2 movement points
+[20:12:18.278] [INFO] Torch status at carrier row 8: Not lit
+[20:12:18.278] [INFO] Attempting to move carrier Krakgob Ynnd'r
+[20:12:18.278] [INFO] Carrier chose move (6, 6) with score 245
+[20:12:18.278] [INFO] Carrier moved to (6, 6). Moved successfully: True
+[20:12:18.278] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:18.278] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:18.278] [INFO] Blocker Gutslicer Trahand operating as lead blocker
+[20:12:18.278] [INFO] Lead blocker moved to (2, 7)
+[20:12:18.278] [INFO] Blocker Gutslicer Trahand moved: True, now at (2, 7)
+[20:12:18.278] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:18.278] [INFO] Blocker Thraktooth moving to protect carrier directly
+[20:12:18.278] [INFO] Blocker Thraktooth falling back to moving toward carrier
+[20:12:18.278] [INFO] Blocker Thraktooth moved: True, now at (4, 7)
+[20:12:18.278] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:18.278] [INFO] Blocker Grimskull Kodek moving to protect carrier directly
+[20:12:18.278] [INFO] Blocker moved to protection position (7, 7)
+[20:12:18.278] [INFO] Blocker Grimskull Kodek moved: True, now at (7, 7)
+[20:12:18.278] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:18.278] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:18.278] [INFO] Lead blocker moved to (9, 5)
+[20:12:18.278] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:18.278] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:18.278] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:18.278] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:18.278] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:18.278] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:18.278] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:18.278] [INFO] Blocker intercepting at (5, 1)
+[20:12:18.278] [INFO] Blocker Kraksmasher moved: True, now at (5, 1)
+[20:12:18.278] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:18.278] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:18.278] [INFO] Blocker intercepting at (6, 2)
+[20:12:18.278] [INFO] Blocker Grimfoot the Fierce moved: True, now at (6, 2)
+[20:12:18.278] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:18.278] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:18.278] [INFO] Blocker intercepting at (7, 1)
+[20:12:18.278] [INFO] Blocker Zogbasher moved: True, now at (7, 1)
+[20:12:18.278] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:18.278] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:18.278] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:18.278] [INFO] === Grid State at end of turn ===
+[20:12:18.278] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.278] [INFO] Row 1: .. .. .. .. .. D .. D D .. 
+[20:12:18.279] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:12:18.279] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.279] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.279] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:18.279] [INFO] Row 6: .. .. .. .. .. .. OC .. .. .. 
+[20:12:18.279] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:18.279] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.279] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.460] [INFO] ==== Processing Turn 2 ====
+[20:12:18.460] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:18.460] [INFO] Carrier Krakgob Ynnd'r at position (6, 6) with 0 movement points
+[20:12:18.460] [INFO] Torch status at carrier row 6: Not lit
+[20:12:18.460] [INFO] Attempting to move carrier Krakgob Ynnd'r
+[20:12:18.460] [INFO] Carrier did not move. Remaining at (6, 6)
+[20:12:18.460] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:18.460] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:18.460] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:18.460] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:18.460] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:18.460] [INFO] Offensive blocker Grimskull Kodek at (7, 7) with 0 movement
+[20:12:18.460] [INFO] Blocker Grimskull Kodek moved: False, now at (7, 7)
+[20:12:18.460] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:18.460] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:18.460] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:18.460] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:18.460] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:18.460] [INFO] Defensive blocker Kraksmasher at (5, 1) with 2 movement
+[20:12:18.460] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:18.460] [INFO] Blocker intercepting at (5, 2)
+[20:12:18.460] [INFO] Blocker Kraksmasher moved: True, now at (5, 2)
+[20:12:18.460] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:18.460] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:18.460] [INFO] Defensive blocker Zogbasher at (7, 1) with 3 movement
+[20:12:18.460] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:18.460] [INFO] Blocker intercepting at (7, 2)
+[20:12:18.460] [INFO] Blocker Zogbasher moved: True, now at (7, 2)
+[20:12:18.460] [INFO] Defensive blocker Thraktooth at (8, 1) with 0 movement
+[20:12:18.460] [INFO] Blocker Thraktooth moved: False, now at (8, 1)
+[20:12:18.460] [INFO] === Grid State at end of turn ===
+[20:12:18.460] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.460] [INFO] Row 1: .. .. .. .. .. .. .. .. D .. 
+[20:12:18.460] [INFO] Row 2: .. .. .. .. .. D D D .. .. 
+[20:12:18.460] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.460] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.460] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:18.460] [INFO] Row 6: .. .. .. .. .. .. OC .. .. .. 
+[20:12:18.460] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:18.460] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.460] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.656] [INFO] ==== Processing Turn 3 ====
+[20:12:18.656] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:18.656] [INFO] Lit torch at row 9
+[20:12:18.656] [INFO] Carrier Krakgob Ynnd'r at position (6, 6) with 0 movement points
+[20:12:18.656] [INFO] Torch status at carrier row 6: Not lit
+[20:12:18.656] [INFO] Attempting to move carrier Krakgob Ynnd'r
+[20:12:18.656] [INFO] Carrier did not move. Remaining at (6, 6)
+[20:12:18.656] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:18.656] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:18.656] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:18.656] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:18.656] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:18.656] [INFO] Offensive blocker Grimskull Kodek at (7, 7) with 0 movement
+[20:12:18.656] [INFO] Blocker Grimskull Kodek moved: False, now at (7, 7)
+[20:12:18.656] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:18.656] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:18.656] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:18.656] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:18.656] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:18.656] [INFO] Defensive blocker Kraksmasher at (5, 2) with 1 movement
+[20:12:18.656] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:18.656] [INFO] Blocker intercepting at (5, 3)
+[20:12:18.656] [INFO] Blocker Kraksmasher moved: True, now at (5, 3)
+[20:12:18.656] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:18.656] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:18.656] [INFO] Defensive blocker Zogbasher at (7, 2) with 2 movement
+[20:12:18.656] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:18.656] [INFO] Blocker Zogbasher moved: True, now at (6, 3)
+[20:12:18.656] [INFO] Defensive blocker Thraktooth at (8, 1) with 0 movement
+[20:12:18.656] [INFO] Blocker Thraktooth moved: False, now at (8, 1)
+[20:12:18.656] [INFO] All goblins are done moving. Ending play.
+[20:12:18.656] [INFO] ===== Ending Play 7 after 3 turns =====
+[20:12:18.656] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:18.656] [INFO] === Grid State at end of turn ===
+[20:12:18.656] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.656] [INFO] Row 1: .. .. .. .. .. .. .. .. D .. 
+[20:12:18.656] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:12:18.656] [INFO] Row 3: .. .. .. .. .. D D .. .. .. 
+[20:12:18.656] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.656] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:18.656] [INFO] Row 6: .. .. .. .. .. .. OC .. .. .. 
+[20:12:18.656] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:18.656] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.656] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:18.837] [INFO] ===== Starting Play 8 =====
+[20:12:18.837] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:18.837] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:18.837] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:18.837] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:18.837] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:18.837] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:18.837] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:18.837] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:18.837] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:18.837] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:18.837] [INFO] Selected carrier: Grimskull Kodek from team Mudcrushers
+[20:12:19.015] [INFO] ==== Processing Turn 1 ====
+[20:12:19.015] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:19.015] [INFO] Carrier Grimskull Kodek at position (8, 8) with 2 movement points
+[20:12:19.015] [INFO] Torch status at carrier row 8: Not lit
+[20:12:19.015] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:19.015] [INFO] Carrier chose move (8, 6) with score 233
+[20:12:19.015] [INFO] Carrier moved to (8, 6). Moved successfully: True
+[20:12:19.015] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:19.015] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:19.015] [INFO] Blocker Gutslicer Trahand operating as lead blocker
+[20:12:19.015] [INFO] Lead blocker moved to (2, 7)
+[20:12:19.015] [INFO] Blocker Gutslicer Trahand moved: True, now at (2, 7)
+[20:12:19.015] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:19.015] [INFO] Blocker Thraktooth operating as lead blocker
+[20:12:19.015] [INFO] Lead blocker moved to (4, 7)
+[20:12:19.015] [INFO] Blocker Thraktooth moved: True, now at (4, 7)
+[20:12:19.015] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:19.015] [INFO] Blocker Krakgob Ynnd'r moving to protect carrier directly
+[20:12:19.015] [INFO] Blocker moved to protection position (7, 7)
+[20:12:19.015] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (7, 7)
+[20:12:19.015] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:19.015] [INFO] Blocker Stabmangler Tortha attempting to form forward screen
+[20:12:19.015] [INFO] Blocker moved to screen position (9, 5)
+[20:12:19.015] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:19.015] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:19.015] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:19.015] [INFO] Defensive blocker Fizzsquisher Kaplan using interception strategy
+[20:12:19.015] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:19.015] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:19.015] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:19.015] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:19.015] [INFO] Blocker intercepting at (7, 1)
+[20:12:19.015] [INFO] Blocker Kraksmasher moved: True, now at (7, 1)
+[20:12:19.015] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:19.015] [INFO] Defensive blocker Grimfoot the Fierce directly pursuing carrier
+[20:12:19.015] [INFO] Blocker Grimfoot the Fierce moved: True, now at (6, 2)
+[20:12:19.015] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:19.015] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:19.015] [INFO] Blocker intercepting at (8, 2)
+[20:12:19.015] [INFO] Blocker Zogbasher moved: True, now at (8, 2)
+[20:12:19.015] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:19.015] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:19.015] [INFO] Blocker intercepting at (9, 2)
+[20:12:19.015] [INFO] Blocker Thraktooth moved: True, now at (9, 2)
+[20:12:19.015] [INFO] === Grid State at end of turn ===
+[20:12:19.015] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.015] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:19.015] [INFO] Row 2: .. .. .. .. .. .. D .. D D 
+[20:12:19.015] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.015] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.015] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:19.015] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:19.015] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:19.015] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.015] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.227] [INFO] ==== Processing Turn 2 ====
+[20:12:19.227] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:19.227] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:19.227] [INFO] Torch status at carrier row 6: Not lit
+[20:12:19.227] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:19.228] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:19.228] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:19.228] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:19.228] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:19.228] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:19.228] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:19.228] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:19.228] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:19.228] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:19.228] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:19.228] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:19.228] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:19.228] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:19.228] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:19.228] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:19.228] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:19.228] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:19.228] [INFO] Defensive blocker Zogbasher at (8, 2) with 3 movement
+[20:12:19.228] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:19.228] [INFO] Blocker Zogbasher moved: False, now at (8, 2)
+[20:12:19.228] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:19.228] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:19.228] [INFO] === Grid State at end of turn ===
+[20:12:19.228] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.228] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:19.228] [INFO] Row 2: .. .. .. .. .. .. D .. D D 
+[20:12:19.228] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.228] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.228] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:19.228] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:19.228] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:19.228] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.228] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.412] [INFO] ==== Processing Turn 3 ====
+[20:12:19.412] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:19.412] [INFO] Lit torch at row 9
+[20:12:19.412] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:19.412] [INFO] Torch status at carrier row 6: Not lit
+[20:12:19.412] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:19.412] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:19.412] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:19.412] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:19.412] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:19.412] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:19.412] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:19.412] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:19.412] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:19.412] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:19.412] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:19.412] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:19.412] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:19.412] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:19.412] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:19.412] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:19.412] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:19.412] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:19.412] [INFO] Defensive blocker Zogbasher at (8, 2) with 3 movement
+[20:12:19.412] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:19.412] [INFO] Blocker intercepting at (8, 3)
+[20:12:19.412] [INFO] Blocker Zogbasher moved: True, now at (8, 3)
+[20:12:19.412] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:19.412] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:19.412] [INFO] === Grid State at end of turn ===
+[20:12:19.412] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.412] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:19.412] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:19.412] [INFO] Row 3: .. .. .. .. .. .. .. .. D .. 
+[20:12:19.412] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.412] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:19.412] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:19.412] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:19.412] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.412] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.595] [INFO] ==== Processing Turn 4 ====
+[20:12:19.595] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:19.595] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:19.595] [INFO] Torch status at carrier row 6: Not lit
+[20:12:19.595] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:19.595] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:19.595] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:19.595] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:19.595] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:19.595] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:19.595] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:19.595] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:19.595] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:19.595] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:19.595] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:19.595] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:19.595] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:19.595] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:19.595] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:19.595] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:19.595] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:19.595] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:19.595] [INFO] Defensive blocker Zogbasher at (8, 3) with 2 movement
+[20:12:19.595] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:19.595] [INFO] Blocker Zogbasher moved: False, now at (8, 3)
+[20:12:19.595] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:19.595] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:19.595] [INFO] === Grid State at end of turn ===
+[20:12:19.595] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.595] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:19.595] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:19.595] [INFO] Row 3: .. .. .. .. .. .. .. .. D .. 
+[20:12:19.595] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.595] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:19.595] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:19.595] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:19.595] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:19.595] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.035] [INFO] ==== Processing Turn 5 ====
+[20:12:23.035] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:23.035] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:23.035] [INFO] Torch status at carrier row 6: Not lit
+[20:12:23.035] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:23.035] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:23.035] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:23.035] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:23.035] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:23.035] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:23.035] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:23.035] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:23.035] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:23.035] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:23.035] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:23.035] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:23.035] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:23.035] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:23.035] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:23.035] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:23.035] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:23.035] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:23.035] [INFO] Defensive blocker Zogbasher at (8, 3) with 2 movement
+[20:12:23.035] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:23.035] [INFO] Blocker Zogbasher moved: False, now at (8, 3)
+[20:12:23.035] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:23.035] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:23.035] [INFO] === Grid State at end of turn ===
+[20:12:23.035] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.035] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:23.035] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:23.035] [INFO] Row 3: .. .. .. .. .. .. .. .. D .. 
+[20:12:23.035] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.035] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:23.035] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:23.035] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:23.035] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.035] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.493] [INFO] ==== Processing Turn 6 ====
+[20:12:23.493] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:23.493] [INFO] Lit torch at row 8
+[20:12:23.493] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:23.493] [INFO] Torch status at carrier row 6: Not lit
+[20:12:23.493] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:23.493] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:23.493] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:23.493] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:23.493] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:23.493] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:23.493] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:23.493] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:23.493] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:23.493] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:23.493] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:23.493] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:23.493] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:23.493] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:23.493] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:23.493] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:23.493] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:23.493] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:23.493] [INFO] Defensive blocker Zogbasher at (8, 3) with 2 movement
+[20:12:23.493] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:23.493] [INFO] Blocker intercepting at (7, 3)
+[20:12:23.493] [INFO] Blocker Zogbasher moved: True, now at (7, 3)
+[20:12:23.493] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:23.493] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:23.493] [INFO] === Grid State at end of turn ===
+[20:12:23.493] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.493] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:23.493] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:23.493] [INFO] Row 3: .. .. .. .. .. .. .. D .. .. 
+[20:12:23.493] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.493] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:23.493] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:23.493] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:23.493] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:23.493] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.261] [INFO] ==== Processing Turn 7 ====
+[20:12:24.261] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:24.261] [INFO] Carrier Grimskull Kodek at position (8, 6) with 0 movement points
+[20:12:24.261] [INFO] Torch status at carrier row 6: Not lit
+[20:12:24.261] [INFO] Attempting to move carrier Grimskull Kodek
+[20:12:24.261] [INFO] Carrier did not move. Remaining at (8, 6)
+[20:12:24.261] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:24.261] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:24.261] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:24.261] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:24.261] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:24.261] [INFO] Offensive blocker Krakgob Ynnd'r at (7, 7) with 0 movement
+[20:12:24.261] [INFO] Blocker Krakgob Ynnd'r moved: False, now at (7, 7)
+[20:12:24.261] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:24.261] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:24.261] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:24.261] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:24.261] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:24.261] [INFO] Defensive blocker Kraksmasher at (7, 1) with 0 movement
+[20:12:24.261] [INFO] Blocker Kraksmasher moved: False, now at (7, 1)
+[20:12:24.261] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:24.261] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:24.261] [INFO] Defensive blocker Zogbasher at (7, 3) with 1 movement
+[20:12:24.261] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:24.261] [INFO] Blocker intercepting at (7, 4)
+[20:12:24.261] [INFO] Blocker Zogbasher moved: True, now at (7, 4)
+[20:12:24.261] [INFO] Defensive blocker Thraktooth at (9, 2) with 0 movement
+[20:12:24.261] [INFO] Blocker Thraktooth moved: False, now at (9, 2)
+[20:12:24.261] [INFO] All goblins are done moving. Ending play.
+[20:12:24.261] [INFO] ===== Ending Play 8 after 7 turns =====
+[20:12:24.261] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:24.261] [INFO] === Grid State at end of turn ===
+[20:12:24.261] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.261] [INFO] Row 1: .. .. .. .. .. .. .. D .. .. 
+[20:12:24.261] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:24.261] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.261] [INFO] Row 4: .. .. .. .. .. .. .. D .. .. 
+[20:12:24.262] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:24.262] [INFO] Row 6: .. .. .. .. .. .. .. .. OC .. 
+[20:12:24.262] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:24.262] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.262] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.586] [INFO] ===== Starting Play 9 =====
+[20:12:24.586] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:24.586] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:24.586] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:24.586] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:24.586] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:24.586] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:24.586] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:24.586] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:24.586] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:24.586] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:24.586] [INFO] Selected carrier: Stabmangler Tortha from team Mudcrushers
+[20:12:24.882] [INFO] ==== Processing Turn 1 ====
+[20:12:24.882] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:24.882] [INFO] Carrier Stabmangler Tortha at position (9, 8) with 3 movement points
+[20:12:24.882] [INFO] Torch status at carrier row 8: Not lit
+[20:12:24.882] [INFO] Attempting to move carrier Stabmangler Tortha
+[20:12:24.882] [INFO] Carrier chose move (9, 5) with score 308
+[20:12:24.882] [INFO] Carrier moved to (9, 5). Moved successfully: True
+[20:12:24.882] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:24.882] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:24.882] [INFO] Blocker Gutslicer Trahand operating as lead blocker
+[20:12:24.883] [INFO] Lead blocker moved to (2, 7)
+[20:12:24.883] [INFO] Blocker Gutslicer Trahand moved: True, now at (2, 7)
+[20:12:24.883] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:24.883] [INFO] Blocker Thraktooth operating as lead blocker
+[20:12:24.883] [INFO] Lead blocker moved to (4, 7)
+[20:12:24.883] [INFO] Blocker Thraktooth moved: True, now at (4, 7)
+[20:12:24.883] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:24.883] [INFO] Blocker Krakgob Ynnd'r operating as lead blocker
+[20:12:24.883] [INFO] Lead blocker moved to (6, 6)
+[20:12:24.883] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (6, 6)
+[20:12:24.883] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:24.883] [INFO] Blocker Grimskull Kodek moving to protect carrier directly
+[20:12:24.883] [INFO] Blocker moved to protection position (8, 6)
+[20:12:24.883] [INFO] Blocker Grimskull Kodek moved: True, now at (8, 6)
+[20:12:24.883] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:24.883] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:24.883] [INFO] Defensive blocker Fizzsquisher Kaplan using interception strategy
+[20:12:24.883] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:24.883] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:24.883] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:24.883] [INFO] Defensive blocker Kraksmasher using interception strategy
+[20:12:24.883] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:24.883] [INFO] Blocker Kraksmasher moved: True, now at (4, 4)
+[20:12:24.883] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:24.883] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:24.883] [INFO] Defensive blocker Grimfoot the Fierce directly pursuing carrier
+[20:12:24.883] [INFO] Blocker Grimfoot the Fierce moved: True, now at (6, 2)
+[20:12:24.883] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:24.883] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:24.883] [INFO] Blocker Zogbasher moved: True, now at (9, 4)
+[20:12:24.883] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:24.883] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:24.883] [INFO] Blocker intercepting at (9, 2)
+[20:12:24.883] [INFO] Blocker Thraktooth moved: True, now at (9, 2)
+[20:12:24.883] [INFO] All goblins are done moving. Ending play.
+[20:12:24.883] [INFO] ===== Ending Play 9 after 1 turns =====
+[20:12:24.883] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:24.883] [INFO] === Grid State at end of turn ===
+[20:12:24.883] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.883] [INFO] Row 1: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.883] [INFO] Row 2: .. .. .. .. .. .. D .. .. D 
+[20:12:24.883] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.883] [INFO] Row 4: .. .. .. .. D .. .. .. .. D 
+[20:12:24.883] [INFO] Row 5: .. .. D .. .. .. .. .. .. OC 
+[20:12:24.883] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:24.883] [INFO] Row 7: .. .. O .. O .. .. .. .. .. 
+[20:12:24.883] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:24.883] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:25.174] [INFO] ===== Starting Play 10 =====
+[20:12:25.174] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:25.174] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:25.174] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:25.174] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:25.174] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:25.174] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:25.174] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:25.174] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:25.174] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:25.174] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:25.174] [INFO] Selected carrier: Gutslicer Trahand from team Mudcrushers
+[20:12:25.456] [INFO] ==== Processing Turn 1 ====
+[20:12:25.456] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:25.456] [INFO] Carrier Gutslicer Trahand at position (2, 8) with 1 movement points
+[20:12:25.456] [INFO] Torch status at carrier row 8: Not lit
+[20:12:25.456] [INFO] Attempting to move carrier Gutslicer Trahand
+[20:12:25.456] [INFO] Carrier chose move (2, 7) with score 153
+[20:12:25.456] [INFO] Carrier moved to (2, 7). Moved successfully: True
+[20:12:25.456] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:25.456] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:25.456] [INFO] Blocker Thraktooth attempting to form forward screen
+[20:12:25.456] [INFO] Blocker Thraktooth moving to protect carrier directly
+[20:12:25.456] [INFO] Blocker moved to protection position (3, 8)
+[20:12:25.456] [INFO] Blocker Thraktooth moved: True, now at (3, 8)
+[20:12:25.456] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:25.456] [INFO] Blocker Krakgob Ynnd'r operating as lead blocker
+[20:12:25.456] [INFO] Lead blocker moved to (6, 6)
+[20:12:25.456] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (6, 6)
+[20:12:25.456] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:25.456] [INFO] Blocker Grimskull Kodek operating as lead blocker
+[20:12:25.456] [INFO] Lead blocker moved to (8, 6)
+[20:12:25.456] [INFO] Blocker Grimskull Kodek moved: True, now at (8, 6)
+[20:12:25.456] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:25.456] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:25.456] [INFO] Lead blocker moved to (9, 5)
+[20:12:25.456] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:25.456] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:25.456] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:25.456] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:25.456] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:25.456] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:25.456] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:25.456] [INFO] Blocker Kraksmasher moved: True, now at (2, 2)
+[20:12:25.456] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:25.456] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:25.456] [INFO] Defensive blocker Grimfoot the Fierce directly pursuing carrier
+[20:12:25.457] [INFO] Blocker Grimfoot the Fierce moved: True, now at (5, 1)
+[20:12:25.457] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:25.457] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:25.457] [INFO] Blocker Zogbasher moved: True, now at (4, 1)
+[20:12:25.457] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:25.457] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:25.457] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:25.457] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:25.457] [INFO] All goblins are done moving. Ending play.
+[20:12:25.457] [INFO] ===== Ending Play 10 after 1 turns =====
+[20:12:25.457] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:25.457] [INFO] === Grid State at end of turn ===
+[20:12:25.457] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:25.457] [INFO] Row 1: .. .. .. .. D D .. .. D .. 
+[20:12:25.457] [INFO] Row 2: .. .. D .. .. .. .. .. .. .. 
+[20:12:25.457] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:25.457] [INFO] Row 4: .. .. .. .. .. .. .. .. .. .. 
+[20:12:25.457] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:25.457] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:25.457] [INFO] Row 7: .. .. OC .. .. .. .. .. .. .. 
+[20:12:25.457] [INFO] Row 8: .. .. .. O .. .. .. .. .. .. 
+[20:12:25.457] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:25.717] [INFO] ===== Starting Play 11 =====
+[20:12:25.717] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:25.717] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:25.717] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:25.717] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:25.717] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:25.717] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:25.717] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:25.717] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:25.717] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:25.717] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:25.717] [INFO] Selected carrier: Thraktooth from team Mudcrushers
+[20:12:26.190] [INFO] ==== Processing Turn 1 ====
+[20:12:26.190] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:26.190] [INFO] Carrier Thraktooth at position (4, 8) with 1 movement points
+[20:12:26.190] [INFO] Torch status at carrier row 8: Not lit
+[20:12:26.190] [INFO] Attempting to move carrier Thraktooth
+[20:12:26.190] [INFO] Carrier chose move (4, 7) with score 165
+[20:12:26.190] [INFO] Carrier moved to (4, 7). Moved successfully: True
+[20:12:26.190] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:26.190] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:26.190] [INFO] Blocker Gutslicer Trahand attempting to form forward screen
+[20:12:26.190] [INFO] Blocker Gutslicer Trahand moving to protect carrier directly
+[20:12:26.190] [INFO] Blocker moved to protection position (3, 8)
+[20:12:26.190] [INFO] Blocker Gutslicer Trahand moved: True, now at (3, 8)
+[20:12:26.190] [INFO] Offensive blocker Krakgob Ynnd'r at (6, 8) with 2 movement
+[20:12:26.190] [INFO] Blocker Krakgob Ynnd'r attempting to form forward screen
+[20:12:26.190] [INFO] Blocker moved to screen position (6, 6)
+[20:12:26.190] [INFO] Blocker Krakgob Ynnd'r moved: True, now at (6, 6)
+[20:12:26.190] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:26.190] [INFO] Blocker Grimskull Kodek operating as lead blocker
+[20:12:26.190] [INFO] Lead blocker moved to (8, 6)
+[20:12:26.190] [INFO] Blocker Grimskull Kodek moved: True, now at (8, 6)
+[20:12:26.190] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:26.190] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:26.190] [INFO] Lead blocker moved to (9, 5)
+[20:12:26.190] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:26.190] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:26.190] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:26.190] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:26.190] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:26.190] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:26.190] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:26.190] [INFO] Blocker Kraksmasher moved: True, now at (4, 4)
+[20:12:26.190] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:26.190] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:26.190] [INFO] Blocker intercepting at (5, 1)
+[20:12:26.190] [INFO] Blocker Grimfoot the Fierce moved: True, now at (5, 1)
+[20:12:26.190] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:26.190] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:26.190] [INFO] Blocker Zogbasher moved: True, now at (4, 1)
+[20:12:26.190] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:26.190] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:26.190] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:26.190] [INFO] All goblins are done moving. Ending play.
+[20:12:26.190] [INFO] ===== Ending Play 11 after 1 turns =====
+[20:12:26.190] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:26.190] [INFO] === Grid State at end of turn ===
+[20:12:26.190] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:26.190] [INFO] Row 1: .. .. .. .. D D .. .. D .. 
+[20:12:26.190] [INFO] Row 2: .. .. .. .. .. .. .. .. .. .. 
+[20:12:26.190] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:26.190] [INFO] Row 4: .. .. .. .. D .. .. .. .. .. 
+[20:12:26.190] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:26.190] [INFO] Row 6: .. .. .. .. .. .. O .. O .. 
+[20:12:26.190] [INFO] Row 7: .. .. .. .. OC .. .. .. .. .. 
+[20:12:26.190] [INFO] Row 8: .. .. .. O .. .. .. .. .. .. 
+[20:12:26.190] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:26.960] [INFO] ===== Starting Play 12 =====
+[20:12:26.960] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:26.960] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:26.960] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:26.960] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:26.960] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:26.960] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:26.960] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:26.960] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:26.960] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:26.960] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:26.960] [INFO] Selected carrier: Krakgob Ynnd'r from team Mudcrushers
+[20:12:27.751] [INFO] ==== Processing Turn 1 ====
+[20:12:27.751] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:27.751] [INFO] Carrier Krakgob Ynnd'r at position (6, 8) with 2 movement points
+[20:12:27.751] [INFO] Torch status at carrier row 8: Not lit
+[20:12:27.751] [INFO] Attempting to move carrier Krakgob Ynnd'r
+[20:12:27.751] [INFO] Carrier chose move (6, 6) with score 242
+[20:12:27.751] [INFO] Carrier moved to (6, 6). Moved successfully: True
+[20:12:27.751] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:27.751] [INFO] Offensive blocker Gutslicer Trahand at (2, 8) with 1 movement
+[20:12:27.751] [INFO] Blocker Gutslicer Trahand operating as lead blocker
+[20:12:27.751] [INFO] Lead blocker moved to (2, 7)
+[20:12:27.751] [INFO] Blocker Gutslicer Trahand moved: True, now at (2, 7)
+[20:12:27.751] [INFO] Offensive blocker Thraktooth at (4, 8) with 1 movement
+[20:12:27.751] [INFO] Blocker Thraktooth moving to protect carrier directly
+[20:12:27.751] [INFO] Blocker Thraktooth falling back to moving toward carrier
+[20:12:27.751] [INFO] Blocker Thraktooth moved: True, now at (4, 7)
+[20:12:27.751] [INFO] Offensive blocker Grimskull Kodek at (8, 8) with 2 movement
+[20:12:27.751] [INFO] Blocker Grimskull Kodek moving to protect carrier directly
+[20:12:27.751] [INFO] Blocker moved to protection position (7, 7)
+[20:12:27.751] [INFO] Blocker Grimskull Kodek moved: True, now at (7, 7)
+[20:12:27.751] [INFO] Offensive blocker Stabmangler Tortha at (9, 8) with 3 movement
+[20:12:27.751] [INFO] Blocker Stabmangler Tortha operating as lead blocker
+[20:12:27.751] [INFO] Lead blocker moved to (9, 5)
+[20:12:27.751] [INFO] Blocker Stabmangler Tortha moved: True, now at (9, 5)
+[20:12:27.751] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:27.751] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 1) with 4 movement
+[20:12:27.751] [INFO] Defensive blocker Fizzsquisher Kaplan directly pursuing carrier
+[20:12:27.751] [INFO] Blocker Fizzsquisher Kaplan moved: True, now at (2, 5)
+[20:12:27.751] [INFO] Defensive blocker Kraksmasher at (4, 1) with 3 movement
+[20:12:27.751] [INFO] Defensive blocker Kraksmasher directly pursuing carrier
+[20:12:27.751] [INFO] Blocker Kraksmasher moved: True, now at (4, 4)
+[20:12:27.751] [INFO] Defensive blocker Grimfoot the Fierce at (6, 1) with 1 movement
+[20:12:27.751] [INFO] Defensive blocker Grimfoot the Fierce using interception strategy
+[20:12:27.751] [INFO] Blocker intercepting at (6, 2)
+[20:12:27.751] [INFO] Blocker Grimfoot the Fierce moved: True, now at (6, 2)
+[20:12:27.751] [INFO] Defensive blocker Zogbasher at (8, 1) with 4 movement
+[20:12:27.751] [INFO] Defensive blocker Zogbasher using interception strategy
+[20:12:27.751] [INFO] Blocker intercepting at (7, 1)
+[20:12:27.751] [INFO] Blocker Zogbasher moved: True, now at (7, 1)
+[20:12:27.751] [INFO] Defensive blocker Thraktooth at (9, 1) with 1 movement
+[20:12:27.751] [INFO] Defensive blocker Thraktooth using interception strategy
+[20:12:27.751] [INFO] Defensive blocker Thraktooth directly pursuing carrier
+[20:12:27.751] [INFO] Blocker Thraktooth moved: True, now at (8, 1)
+[20:12:27.751] [INFO] === Grid State at end of turn ===
+[20:12:27.751] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:27.751] [INFO] Row 1: .. .. .. .. .. .. .. D D .. 
+[20:12:27.751] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:12:27.751] [INFO] Row 3: .. .. .. .. .. .. .. .. .. .. 
+[20:12:27.751] [INFO] Row 4: .. .. .. .. D .. .. .. .. .. 
+[20:12:27.751] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:27.751] [INFO] Row 6: .. .. .. .. .. .. OC .. .. .. 
+[20:12:27.751] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:27.751] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:27.751] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:28.540] [INFO] ==== Processing Turn 2 ====
+[20:12:28.540] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:12:28.540] [INFO] Carrier Krakgob Ynnd'r at position (6, 6) with 0 movement points
+[20:12:28.540] [INFO] Torch status at carrier row 6: Not lit
+[20:12:28.540] [INFO] Attempting to move carrier Krakgob Ynnd'r
+[20:12:28.540] [INFO] Carrier did not move. Remaining at (6, 6)
+[20:12:28.540] [INFO] Moving offensive blockers for team Mudcrushers
+[20:12:28.540] [INFO] Offensive blocker Gutslicer Trahand at (2, 7) with 0 movement
+[20:12:28.540] [INFO] Blocker Gutslicer Trahand moved: False, now at (2, 7)
+[20:12:28.540] [INFO] Offensive blocker Thraktooth at (4, 7) with 0 movement
+[20:12:28.540] [INFO] Blocker Thraktooth moved: False, now at (4, 7)
+[20:12:28.540] [INFO] Offensive blocker Grimskull Kodek at (7, 7) with 0 movement
+[20:12:28.540] [INFO] Blocker Grimskull Kodek moved: False, now at (7, 7)
+[20:12:28.540] [INFO] Offensive blocker Stabmangler Tortha at (9, 5) with 0 movement
+[20:12:28.540] [INFO] Blocker Stabmangler Tortha moved: False, now at (9, 5)
+[20:12:28.540] [INFO] Moving defensive blockers for team Skullsmashers
+[20:12:28.540] [INFO] Defensive blocker Fizzsquisher Kaplan at (2, 5) with 0 movement
+[20:12:28.540] [INFO] Blocker Fizzsquisher Kaplan moved: False, now at (2, 5)
+[20:12:28.540] [INFO] Defensive blocker Kraksmasher at (4, 4) with 0 movement
+[20:12:28.540] [INFO] Blocker Kraksmasher moved: False, now at (4, 4)
+[20:12:28.540] [INFO] Defensive blocker Grimfoot the Fierce at (6, 2) with 0 movement
+[20:12:28.540] [INFO] Blocker Grimfoot the Fierce moved: False, now at (6, 2)
+[20:12:28.540] [INFO] Defensive blocker Zogbasher at (7, 1) with 3 movement
+[20:12:28.540] [INFO] Defensive blocker Zogbasher directly pursuing carrier
+[20:12:28.540] [INFO] Blocker Zogbasher moved: True, now at (6, 3)
+[20:12:28.540] [INFO] Defensive blocker Thraktooth at (8, 1) with 0 movement
+[20:12:28.540] [INFO] Blocker Thraktooth moved: False, now at (8, 1)
+[20:12:28.540] [INFO] All goblins are done moving. Ending play.
+[20:12:28.540] [INFO] ===== Ending Play 12 after 2 turns =====
+[20:12:28.540] [INFO] Score: Mudcrushers 0 - 0 Skullsmashers
+[20:12:28.540] [INFO] === Grid State at end of turn ===
+[20:12:28.540] [INFO] Row 0: .. .. .. .. .. .. .. .. .. .. 
+[20:12:28.540] [INFO] Row 1: .. .. .. .. .. .. .. .. D .. 
+[20:12:28.540] [INFO] Row 2: .. .. .. .. .. .. D .. .. .. 
+[20:12:28.540] [INFO] Row 3: .. .. .. .. .. .. D .. .. .. 
+[20:12:28.540] [INFO] Row 4: .. .. .. .. D .. .. .. .. .. 
+[20:12:28.540] [INFO] Row 5: .. .. D .. .. .. .. .. .. O 
+[20:12:28.540] [INFO] Row 6: .. .. .. .. .. .. OC .. .. .. 
+[20:12:28.540] [INFO] Row 7: .. .. O .. O .. .. O .. .. 
+[20:12:28.540] [INFO] Row 8: .. .. .. .. .. .. .. .. .. .. 
+[20:12:28.540] [INFO] Row 9: .. .. .. .. .. .. .. .. .. .. 
+[20:12:29.080] [INFO] ===== Starting Play 13 =====
+[20:12:29.080] [INFO] Positioned Gutslicer Trahand at (2, 8)
+[20:12:29.080] [INFO] Positioned Thraktooth at (4, 8)
+[20:12:29.080] [INFO] Positioned Krakgob Ynnd'r at (6, 8)
+[20:12:29.080] [INFO] Positioned Grimskull Kodek at (8, 8)
+[20:12:29.080] [INFO] Positioned Stabmangler Tortha at (9, 8)
+[20:12:29.080] [INFO] Positioned Fizzsquisher Kaplan at (2, 1)
+[20:12:29.080] [INFO] Positioned Kraksmasher at (4, 1)
+[20:12:29.080] [INFO] Positioned Grimfoot the Fierce at (6, 1)
+[20:12:29.080] [INFO] Positioned Zogbasher at (8, 1)
+[20:12:29.080] [INFO] Positioned Thraktooth at (9, 1)
+[20:12:29.080] [INFO] Selected carrier: Grimskull Kodek from team Mudcrushers

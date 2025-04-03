@@ -1,0 +1,30 @@
+[20:31:51.559] [INFO] === Goblinball Debug Log - 20250402_203151 ===
+[20:31:51.583] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:31:51.583] [INFO] Positioned Skrizchomper Bertram at (2, 8)
+[20:31:51.583] [INFO] Positioned Lugtooth at (4, 8)
+[20:31:51.583] [INFO] Positioned Grakstomper at (6, 8)
+[20:31:51.583] [INFO] Positioned Snotsquisher at (8, 8)
+[20:31:51.583] [INFO] Positioned Grimstabber Mwinyi at (9, 8)
+[20:31:51.583] [INFO] Positioned Gutbiter Ailyn at (2, 1)
+[20:31:51.583] [INFO] Positioned Stabsmasher at (4, 1)
+[20:31:51.583] [INFO] Positioned Skrizcrusher the Sneaky at (6, 1)
+[20:31:51.583] [INFO] Positioned Skabsquisher Fuzzlewit at (8, 1)
+[20:31:51.583] [INFO] Positioned Snotbiter Ponile at (9, 1)
+[20:31:51.583] [INFO] Selected carrier: Skrizchomper Bertram from team Mudcrushers
+[20:31:51.583] [INFO] ===== Starting Play 1 =====
+[20:31:51.583] [INFO] Positioned Skrizchomper Bertram at (2, 8)
+[20:31:51.583] [INFO] Positioned Lugtooth at (4, 8)
+[20:31:51.583] [INFO] Positioned Grakstomper at (6, 8)
+[20:31:51.583] [INFO] Positioned Snotsquisher at (8, 8)
+[20:31:51.583] [INFO] Positioned Grimstabber Mwinyi at (9, 8)
+[20:31:51.583] [INFO] Positioned Gutbiter Ailyn at (2, 1)
+[20:31:51.583] [INFO] Positioned Stabsmasher at (4, 1)
+[20:31:51.583] [INFO] Positioned Skrizcrusher the Sneaky at (6, 1)
+[20:31:51.583] [INFO] Positioned Skabsquisher Fuzzlewit at (8, 1)
+[20:31:51.583] [INFO] Positioned Snotbiter Ponile at (9, 1)
+[20:31:51.583] [INFO] Selected carrier: Lugtooth from team Mudcrushers
+[20:31:55.597] [INFO] ==== Processing Turn 1 ====
+[20:31:55.597] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:31:55.597] [INFO] Carrier Lugtooth at position (4, 8) with 2 movement points
+[20:31:55.597] [INFO] Torch status at carrier row 8: Not lit
+[20:31:55.597] [INFO] Attempting to move carrier Lugtooth

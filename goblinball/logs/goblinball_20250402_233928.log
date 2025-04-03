@@ -1,0 +1,5 @@
+2025-04-02 23:39:28,374 - goblinball - CRITICAL - Could not import required modules: No module named 'animation_renderer'
+2025-04-02 23:39:28,375 - goblinball - CRITICAL - Make sure you're running the game from the correct directory.
+2025-04-02 23:39:28,375 - goblinball - CRITICAL - See README.md for instructions on how to run the game.
+2025-04-02 23:39:28,375 - goblinball - CRITICAL - Current directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-02 23:39:28,375 - goblinball - CRITICAL - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball\\goblinball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']

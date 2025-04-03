@@ -1,0 +1,30 @@
+[20:34:36.355] [INFO] === Goblinball Debug Log - 20250402_203436 ===
+[20:34:36.376] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:34:36.376] [INFO] Positioned Lugfist Waller at (2, 8)
+[20:34:36.376] [INFO] Positioned Gnogfoot at (4, 8)
+[20:34:36.376] [INFO] Positioned Globsmasher at (6, 8)
+[20:34:36.376] [INFO] Positioned Grimgob Wraythe at (8, 8)
+[20:34:36.376] [INFO] Positioned Grimfoot the Strong at (9, 8)
+[20:34:36.376] [INFO] Positioned Thrakskull at (2, 1)
+[20:34:36.376] [INFO] Positioned Splatgulper the Cunning at (4, 1)
+[20:34:36.376] [INFO] Positioned Grimstabber at (6, 1)
+[20:34:36.376] [INFO] Positioned Thraksquisher at (8, 1)
+[20:34:36.376] [INFO] Positioned Splatgulper Havarti at (9, 1)
+[20:34:36.376] [INFO] Selected carrier: Lugfist Waller from team Mudcrushers
+[20:34:36.376] [INFO] ===== Starting Play 1 =====
+[20:34:36.376] [INFO] Positioned Lugfist Waller at (2, 8)
+[20:34:36.376] [INFO] Positioned Gnogfoot at (4, 8)
+[20:34:36.376] [INFO] Positioned Globsmasher at (6, 8)
+[20:34:36.376] [INFO] Positioned Grimgob Wraythe at (8, 8)
+[20:34:36.376] [INFO] Positioned Grimfoot the Strong at (9, 8)
+[20:34:36.376] [INFO] Positioned Thrakskull at (2, 1)
+[20:34:36.376] [INFO] Positioned Splatgulper the Cunning at (4, 1)
+[20:34:36.376] [INFO] Positioned Grimstabber at (6, 1)
+[20:34:36.376] [INFO] Positioned Thraksquisher at (8, 1)
+[20:34:36.376] [INFO] Positioned Splatgulper Havarti at (9, 1)
+[20:34:36.376] [INFO] Selected carrier: Gnogfoot from team Mudcrushers
+[20:34:43.272] [INFO] ==== Processing Turn 1 ====
+[20:34:43.272] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:34:43.272] [INFO] Carrier Gnogfoot at position (4, 8) with 3 movement points
+[20:34:43.272] [INFO] Torch status at carrier row 8: Not lit
+[20:34:43.272] [INFO] Attempting to move carrier Gnogfoot

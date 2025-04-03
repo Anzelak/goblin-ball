@@ -9,9 +9,13 @@ class Animation:
         self.frame = 0  # Current frame
         self.complete = False
     
-    def update(self):
-        """Update the animation frame counter"""
-        self.frame += 1
+    def update(self, delta_time=1.0):
+        """Update the animation frame counter
+        
+        Args:
+            delta_time: Time delta multiplier (default: 1.0)
+        """
+        self.frame += delta_time
         if self.frame >= self.duration:
             self.complete = True
     
@@ -22,6 +26,11 @@ class Animation:
     def get_progress(self):
         """Get animation progress as a value between 0.0 and 1.0"""
         return min(1.0, self.frame / self.duration)
+
+    @property
+    def progress(self):
+        """Alias for get_progress for better readability"""
+        return self.get_progress()
         
 class AnimationManager:
     """Manages a queue of animations"""
@@ -39,12 +48,16 @@ class AnimationManager:
         if not self.active_animation:
             self.active_animation = self.animations.pop(0)
             
-    def update(self):
-        """Update animations"""
+    def update(self, delta_time=1.0):
+        """Update animations
+        
+        Args:
+            delta_time: Time delta multiplier (default: 1.0)
+        """
         if self.paused or not self.active_animation:
             return
             
-        self.active_animation.update()
+        self.active_animation.update(delta_time)
         
         if self.active_animation.is_complete():
             # Move to next animation

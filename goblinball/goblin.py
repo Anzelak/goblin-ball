@@ -2,6 +2,7 @@ import uuid
 import random
 import time
 from config import CONFIG
+from utils import weighted_choice, distance
 
 def generate_goblin_name(names_file="names.txt"):
     """Generate a unique goblin name with prefix, suffix, surname, and optional title"""
@@ -28,12 +29,15 @@ def generate_goblin_name(names_file="names.txt"):
     # Load a random surname from external file
     try:
         with open(names_file, 'r') as f:
-            surnames = f.read().splitlines()
-            # Filter out empty lines and strip whitespace
-            surnames = [name.strip() for name in surnames if name.strip()]
+            # Read all lines and split them into individual words
+            all_names = []
+            for line in f:
+                # Split the line by spaces or tabs and add each non-empty word
+                names_in_line = [name.strip() for name in line.split() if name.strip()]
+                all_names.extend(names_in_line)
             
-            if surnames:
-                surname = random.choice(surnames)
+            if all_names:
+                surname = random.choice(all_names)
             else:
                 surname = ""  # Fallback if file is empty
     except FileNotFoundError:
@@ -87,6 +91,11 @@ class Goblin:
         self.misses_plays = 0
         self.unavailable = False
         
+        # Phase 3: Combat Stats
+        self.block_skill = random.randint(0, 2)  # Bonus to blocking attempts
+        self.dodge_skill = random.randint(0, 2)  # Bonus to dodging blocks
+        self.injury_resistance = random.randint(0, 2)  # Bonus to injury rolls
+        
         # Statistics - preserved between games for season tracking
         self.stats = {
             "blocks_attempted": 0,
@@ -100,53 +109,61 @@ class Goblin:
             "successful_dukes": 0,
             "games_played": 0,
             "career_touchdowns": 0,
-            "career_blocks": 0
+            "career_blocks": 0,
+            "career_injuries_caused": 0,
+            "career_injuries_suffered": 0,
+            "times_blocked": 0,
+            "injuries_caused": 0,
+            "injuries_suffered": 0
         }
         
     def block(self, target):
-        """Perform a blocking action against another goblin"""
+        """Attempt to block another goblin
+        Returns a dictionary with the result of the block"""
+        # Update stats
         self.stats["blocks_attempted"] += 1
+        target.stats["times_blocked"] += 1
         
-        # Calculate block results
+        # Roll dice for both goblins
         blocker_roll = random.randint(1, 10)
         target_roll = random.randint(1, 10)
         
-        # Critical success/failure
-        if random.random() < CONFIG.get("critical_success_chance", 0.05):
-            blocker_total = self.strength + 20  # Automatic success
-        elif random.random() < CONFIG.get("critical_failure_chance", 0.05):
-            blocker_total = 0  # Automatic failure
-        else:
-            blocker_total = self.strength + blocker_roll
-            
-        # Apply carrier penalty if target has the ball
-        target_modifier = CONFIG.get("carrier_penalty", -3) if target.has_ball else 0
-        target_total = target.strength + target_roll + target_modifier
+        # Apply skill bonuses
+        blocker_total = blocker_roll + self.strength + self.block_skill
+        target_total = target_roll + target.toughness + target.dodge_skill
         
-        # Calculate margin
+        # Calculate margin of success/failure
         margin = blocker_total - target_total
         
         # Determine result
-        if margin <= 0:
-            result = "bounce"  # No effect, both goblins bounce off each other
-        elif margin < CONFIG.get("push_threshold", 3):
-            result = "no_effect"  # Not enough to push
-        elif margin < CONFIG.get("knockdown_threshold", 6):
-            result = "push"  # Push target back
-            # Update stats
+        result = "failure"  # Default result is failure
+        
+        if margin >= 5:
+            # Strong success - knockdown with injury check
+            result = "knockdown_with_injury"
+            target.knocked_down = True
+            self.stats["blocks_successful"] += 1
+            self.perform_injury_check(target)
+        elif margin > 0:
+            # Regular success - knockdown
+            result = "knockdown"
+            target.knocked_down = True
+            self.stats["blocks_successful"] += 1
+        elif margin >= -2:
+            # Partial success - push
+            result = "push"
             self.stats["blocks_successful"] += 1
         else:
-            result = "knockdown"  # Knock target down
-            target.knocked_down = True
-            # Update stats
-            self.stats["blocks_successful"] += 1
-            self.stats["knockdowns_caused"] += 1
-            target.stats["knocked_down_count"] += 1
+            # Failure
+            result = "failure"
+        
+        # If blocking the ball carrier and successful, ball is dropped
+        if target.has_ball and (result == "knockdown" or result == "knockdown_with_injury"):
+            # Ball is dropped and carrier loses ball
+            target.has_ball = False
             
-            # Roll for injury
-            self.check_injury(target)
-            
-        # Return the result for the game to process
+            # TODO: Handle ball scatter logic
+        
         return {
             "result": result,
             "margin": margin,
@@ -154,41 +171,73 @@ class Goblin:
             "target_roll": target_roll
         }
     
-    def check_injury(self, target):
-        """Check if a knocked down goblin is injured"""
+    def perform_injury_check(self, target):
+        """Perform an injury check on the target when a block is very successful
+        Returns the result of the injury check"""
+        # Roll for injury
         injury_roll = random.randint(1, 10)
-        toughness_check = injury_roll - target.toughness
         
-        if toughness_check >= 8:
-            # Serious injury
-            target.out_of_game = True
-            target.season_injury = True
-            target.unavailable = True
-            # Permanent stat reduction
-            penalty = CONFIG.get("serious_injury_permanent_penalty", 1)
-            target.strength = max(1, target.strength - penalty)
-            target.toughness = max(1, target.toughness - penalty)
-            result = "serious"
-            target.stats["injuries"]["serious"] += 1
-        elif toughness_check >= 6:
-            # Minor injury
-            target.out_of_game = True
-            target.next_game_penalty = True
-            target.unavailable = True
-            result = "minor"
-            target.stats["injuries"]["minor"] += 1
-        elif toughness_check >= 4:
-            # Dazed
-            target.misses_plays = CONFIG.get("dazed_plays_missed", 1)
-            target.unavailable = True
-            result = "dazed"
-            target.stats["injuries"]["dazed"] += 1
+        # Apply toughness and injury resistance
+        injury_threshold = 5 + target.toughness // 3 + target.injury_resistance
+        
+        # Determine result
+        if injury_roll >= injury_threshold:
+            # No injury
+            return "no_injury"
+        elif injury_roll >= 3:
+            # Minor injury - miss next play
+            target.misses_plays = 1
+            target.stats["injuries_suffered"] += 1
+            self.stats["injuries_caused"] += 1
+            return "minor_injury"
         else:
-            # No effect
-            result = "none"
-            target.stats["injuries"]["none"] += 1
+            # Major injury - miss multiple plays
+            target.misses_plays = random.randint(2, 3)
+            target.stats["injuries_suffered"] += 1
+            self.stats["injuries_caused"] += 1
             
-        return result
+            # Check for career-ending injury
+            if injury_roll == 1 and random.random() < 0.2:
+                target.out_of_game = True
+                return "career_ending_injury"
+            
+            return "major_injury"
+    
+    def stand_up(self):
+        """Stand up from being knocked down
+        Returns True if successful, False otherwise"""
+        if not self.knocked_down:
+            return True  # Already standing
+            
+        # Standing up costs 2 movement points
+        if self.movement >= 2:
+            self.knocked_down = False
+            self.movement -= 2
+            return True
+        
+        return False
+    
+    def add_game_stats_to_career(self):
+        """Move game stats to career stats at the end of a game"""
+        self.stats["career_touchdowns"] += self.stats["touchdowns"]
+        self.stats["career_blocks"] += self.stats["blocks_successful"]
+        self.stats["career_injuries_caused"] += self.stats["injuries_caused"]
+        self.stats["career_injuries_suffered"] += self.stats["injuries_suffered"]
+        self.stats["games_played"] += 1
+        
+        # Reset game stats
+        self.stats["blocks_attempted"] = 0
+        self.stats["blocks_successful"] = 0
+        self.stats["knockdowns_caused"] = 0
+        self.stats["touchdowns"] = 0
+        self.stats["field_goals"] = 0
+        self.stats["injuries"] = {"none": 0, "dazed": 0, "minor": 0, "serious": 0}
+        self.stats["knocked_down_count"] = 0
+        self.stats["moves_made"] = 0
+        self.stats["successful_dukes"] = 0
+        self.stats["times_blocked"] = 0
+        self.stats["injuries_caused"] = 0
+        self.stats["injuries_suffered"] = 0
         
     def to_dict(self):
         """Convert goblin to dictionary for saving/loading"""

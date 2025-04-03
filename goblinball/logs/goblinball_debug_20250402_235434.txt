@@ -1,0 +1,34 @@
+[23:54:34.647] [INFO] === Goblinball Debug Log - 20250402_235434 ===
+[23:54:34.672] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[23:54:37.583] [INFO] Moving carrier Krakstabber with 4 movement points
+[23:54:37.584] [INFO] Carrier Krakstabber moved to (5, 7)
+[23:54:37.584] [INFO] Moving offensive blocker Gutgulper Free with 3 movement points
+[23:54:37.584] [INFO] Offensive blocker chose move (5, 8) with score 919
+[23:54:37.584] [INFO] Moving offensive blocker Splatstomper Pasham the Tough with 1 movement points
+[23:54:37.584] [INFO] Offensive blocker chose move (6, 7) with score 915
+[23:54:37.587] [INFO] Moving offensive blocker Grimface with 1 movement points
+[23:54:37.587] [INFO] Offensive blocker chose move (7, 8) with score 742
+[23:54:37.587] [INFO] Moving offensive blocker Globnose Dzhigit with 4 movement points
+[23:54:37.587] [INFO] Offensive blocker chose move (7, 7) with score 833
+[23:54:37.587] [INFO] Moving defensive blocker Zogsquisher with 4 movement points
+[23:54:37.587] [INFO] Defensive blocker chose move (4, 3) with score 654
+[23:54:37.587] [INFO] Moving defensive blocker Gutmangler Hama with 3 movement points
+[23:54:37.587] [INFO] Defensive blocker chose move (5, 2) with score 667
+[23:54:37.587] [INFO] Moving defensive blocker Stabchewer Spickard  with 4 movement points
+[23:54:37.587] [INFO] Defensive blocker chose move (6, 3) with score 673
+[23:54:37.587] [INFO] Moving defensive blocker Fizzcrusher the Mighty with 4 movement points
+[23:54:37.587] [INFO] Defensive blocker chose move (6, 1) with score 675
+[23:54:37.587] [INFO] Moving defensive blocker Zoggob the Sly with 2 movement points
+[23:54:37.587] [INFO] Defensive blocker chose move (9, 3) with score 375
+[23:54:41.903] [INFO] Moving carrier Krakstabber with 4 movement points
+[23:54:41.903] [INFO] Carrier Krakstabber moved to (5, 6)
+[23:54:41.903] [INFO] Moving offensive blocker Gutgulper Free with 3 movement points
+[23:54:41.903] [INFO] Offensive blocker chose move (5, 7) with score 946
+[23:54:41.903] [INFO] Moving offensive blocker Splatstomper Pasham the Tough with 1 movement points
+[23:54:41.903] [INFO] Offensive blocker chose move (6, 6) with score 949
+[23:54:41.903] [INFO] Moving offensive blocker Grimface with 1 movement points
+[23:54:41.903] [INFO] Offensive blocker chose move (6, 8) with score 734
+[23:54:41.903] [INFO] Moving offensive blocker Globnose Dzhigit with 4 movement points
+[23:54:41.904] [INFO] Offensive blocker chose move (5, 5) with score 968
+[23:54:41.904] [INFO] Moving defensive blocker Zogsquisher with 4 movement points
+[23:54:41.904] [INFO] Defensive blocker chose move (4, 6) with score 884

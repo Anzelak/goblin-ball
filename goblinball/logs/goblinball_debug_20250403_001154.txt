@@ -1,0 +1,86 @@
+[00:11:54.964] [INFO] === Goblinball Debug Log - 20250403_001154 ===
+[00:11:54.985] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[00:11:56.996] [INFO] Moving carrier Thrakgulper the Strong with 4 movement points
+[00:11:56.996] [INFO] Carrier Thrakgulper the Strong moved to (5, 7)
+[00:11:56.996] [INFO] Moving offensive blocker Stabbasher Elfodd with 2 movement points
+[00:11:56.997] [INFO] Offensive blocker chose move (4, 8) with score 830
+[00:11:56.997] [INFO] Moving offensive blocker Krakcrusher with 4 movement points
+[00:11:56.997] [INFO] Offensive blocker chose move (5, 8) with score 934
+[00:11:56.997] [INFO] Moving offensive blocker Gutfoot  with 1 movement points
+[00:11:56.997] [INFO] Offensive blocker chose move (7, 8) with score 723
+[00:11:56.997] [INFO] Moving offensive blocker Grakskull Titus with 3 movement points
+[00:11:56.997] [INFO] Offensive blocker chose move (7, 7) with score 843
+[00:11:56.997] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[00:11:56.997] [INFO] Defensive blocker chose move (0, 1) with score 374
+[00:11:56.997] [INFO] Moving defensive blocker Krakchewer with 1 movement points
+[00:11:56.997] [INFO] Defensive blocker chose move (4, 2) with score 671
+[00:11:56.997] [INFO] Moving defensive blocker Lugtooth with 2 movement points
+[00:11:56.997] [INFO] Defensive blocker chose move (5, 2) with score 661
+[00:11:56.997] [INFO] Moving defensive blocker Lugfinger Mick with 2 movement points
+[00:11:56.997] [INFO] Defensive blocker chose move (6, 1) with score 644
+[00:11:56.997] [INFO] Moving defensive blocker Skrizfoot Arifa with 1 movement points
+[00:11:56.997] [INFO] Defensive blocker chose move (9, 0) with score 345
+[00:11:58.351] [INFO] Moving carrier Thrakgulper the Strong with 4 movement points
+[00:11:58.351] [INFO] Carrier Thrakgulper the Strong moved to (5, 6)
+[00:11:58.351] [INFO] Moving offensive blocker Stabbasher Elfodd with 2 movement points
+[00:11:58.351] [INFO] Offensive blocker chose move (4, 6) with score 915
+[00:11:58.351] [INFO] Moving offensive blocker Krakcrusher with 4 movement points
+[00:11:58.351] [INFO] Offensive blocker chose move (5, 5) with score 957
+[00:11:58.351] [INFO] Moving offensive blocker Gutfoot  with 1 movement points
+[00:11:58.351] [INFO] Offensive blocker chose move (6, 8) with score 736
+[00:11:58.351] [INFO] Moving offensive blocker Grakskull Titus with 3 movement points
+[00:11:58.351] [INFO] Offensive blocker chose move (6, 6) with score 962
+[00:11:58.351] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[00:11:58.352] [INFO] Defensive blocker chose move (1, 2) with score 372
+[00:11:58.352] [INFO] Moving defensive blocker Krakchewer with 1 movement points
+[00:11:58.352] [INFO] Defensive blocker chose move (4, 1) with score 672
+[00:11:58.352] [INFO] Moving defensive blocker Lugtooth with 2 movement points
+[00:11:58.352] [INFO] Defensive blocker chose move (4, 2) with score 664
+[00:11:58.352] [INFO] Moving defensive blocker Lugfinger Mick with 2 movement points
+[00:11:58.352] [INFO] Defensive blocker chose move (6, 2) with score 664
+[00:11:58.352] [INFO] Moving defensive blocker Skrizfoot Arifa with 1 movement points
+[00:11:58.352] [INFO] Defensive blocker chose move (9, 1) with score 375
+[00:11:59.606] [INFO] Moving carrier Thrakgulper the Strong with 4 movement points
+[00:11:59.607] [INFO] Carrier Thrakgulper the Strong moved to (5, 4)
+[00:11:59.607] [INFO] Moving offensive blocker Stabbasher Elfodd with 2 movement points
+[00:11:59.607] [INFO] Offensive blocker chose move (4, 4) with score 944
+[00:11:59.607] [INFO] Moving offensive blocker Krakcrusher with 4 movement points
+[00:11:59.607] [INFO] Offensive blocker chose move (5, 3) with score 2383
+[00:11:59.607] [INFO] Moving offensive blocker Gutfoot  with 1 movement points
+[00:11:59.607] [INFO] Offensive blocker chose move (5, 8) with score 641
+[00:11:59.607] [INFO] Moving offensive blocker Grakskull Titus with 3 movement points
+[00:11:59.607] [INFO] Offensive blocker chose move (6, 3) with score 1087
+[00:11:59.607] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[00:11:59.607] [INFO] Defensive blocker chose move (1, 4) with score 608
+[00:11:59.607] [INFO] Moving defensive blocker Krakchewer with 1 movement points
+[00:11:59.607] [INFO] Defensive blocker chose move (5, 1) with score 672
+[00:11:59.607] [INFO] Moving defensive blocker Lugtooth with 2 movement points
+[00:11:59.607] [INFO] Defensive blocker Lugtooth pursuing carrier Thrakgulper the Strong
+[00:11:59.607] [INFO] Moving defensive blocker Lugfinger Mick with 2 movement points
+[00:11:59.607] [INFO] Defensive blocker Lugfinger Mick pursuing carrier Thrakgulper the Strong
+[00:11:59.607] [INFO] Moving defensive blocker Skrizfoot Arifa with 1 movement points
+[00:11:59.607] [INFO] Defensive blocker chose move (9, 2) with score 372
+[00:12:01.158] [INFO] Moving carrier Thrakgulper the Strong with 4 movement points
+[00:12:01.158] [INFO] Carrier Thrakgulper the Strong moved to (5, 2)
+[00:12:01.158] [INFO] Moving offensive blocker Stabbasher Elfodd with 2 movement points
+[00:12:01.158] [INFO] Attempt block of Lugtooth by Stabbasher Elfodd
+[00:12:01.158] [INFO] Block succeeded!
+[00:12:01.158] [INFO] Moving offensive blocker Krakcrusher with 4 movement points
+[00:12:01.158] [INFO] Attempt block of Lugtooth by Krakcrusher
+[00:12:01.158] [INFO] Attempt block of Lugfinger Mick by Krakcrusher
+[00:12:01.158] [INFO] Moving offensive blocker Gutfoot  with 1 movement points
+[00:12:01.158] [INFO] Offensive blocker chose move (5, 7) with score 527
+[00:12:01.158] [INFO] Moving offensive blocker Grakskull Titus with 3 movement points
+[00:12:01.158] [INFO] Attempt block of Lugfinger Mick by Grakskull Titus
+[00:12:01.158] [INFO] Offensive blocker chose move (7, 3) with score 792
+[00:12:01.158] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[00:12:01.158] [INFO] Defensive blocker chose move (1, 2) with score 624
+[00:12:01.158] [INFO] Moving defensive blocker Krakchewer with 1 movement points
+[00:12:01.159] [INFO] Defensive blocker Krakchewer pursuing carrier Thrakgulper the Strong
+[00:12:01.159] [INFO] Moving defensive blocker Lugtooth with 2 movement points
+[00:12:01.159] [INFO] Defensive blocker Lugtooth attempting to block carrier Thrakgulper the Strong
+[00:12:01.159] [INFO] Block succeeded!
+[00:12:01.159] [INFO] Moving offensive blocker Lugfinger Mick with 2 movement points
+[00:12:01.160] [INFO] No carrier found for team Skullsmashers!
+[00:12:01.160] [INFO] Moving offensive blocker Skrizfoot Arifa with 1 movement points
+[00:12:01.160] [INFO] No carrier found for team Skullsmashers!

@@ -1,0 +1,209 @@
+[00:30:56.477] [INFO] === Goblinball Debug Log - 20250403_003056 ===
+[00:30:56.477] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_003056.txt
+[00:30:56.498] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[00:30:58.191] [INFO] Moving carrier Krakbasher  with 3 movement points
+[00:30:58.191] [INFO] Goblin Krakbasher  moved from (4, 8) to (5, 7)
+[00:30:58.191] [INFO] Movement trail: [(4, 8), (5, 7)]
+[00:30:58.192] [INFO] Carrier Krakbasher  moved to (5, 7)
+[00:30:58.192] [INFO] Moving offensive blocker Thraksquisher the Sneaky with 3 movement points
+[00:30:58.194] [INFO] Offensive blocker chose move (4, 7) with score 927
+[00:30:58.195] [INFO] Goblin Thraksquisher the Sneaky moved from (2, 8) to (4, 7)
+[00:30:58.195] [INFO] Movement trail: [(2, 8), (4, 7)]
+[00:30:58.195] [INFO] Moving offensive blocker Grakmangler with 1 movement points
+[00:30:58.195] [INFO] Offensive blocker chose move (6, 7) with score 930
+[00:30:58.195] [INFO] Goblin Grakmangler moved from (6, 8) to (6, 7)
+[00:30:58.195] [INFO] Movement trail: [(6, 8), (6, 7)]
+[00:30:58.195] [INFO] Moving offensive blocker Wortsquisher the Sly with 4 movement points
+[00:30:58.195] [INFO] Offensive blocker chose move (5, 8) with score 938
+[00:30:58.195] [INFO] Goblin Wortsquisher the Sly moved from (8, 8) to (5, 8)
+[00:30:58.195] [INFO] Movement trail: [(8, 8), (5, 8)]
+[00:30:58.195] [INFO] Moving offensive blocker Grubchewer Casenre with 3 movement points
+[00:30:58.195] [INFO] Offensive blocker chose move (6, 8) with score 813
+[00:30:58.195] [INFO] Goblin Grubchewer Casenre moved from (9, 8) to (6, 8)
+[00:30:58.195] [INFO] Movement trail: [(9, 8), (6, 8)]
+[00:30:58.195] [INFO] Moving defensive blocker Krakbasher Eogar the Brutal with 1 movement points
+[00:30:58.195] [INFO] Defensive blocker chose move (2, 0) with score 374
+[00:30:58.195] [INFO] Goblin Krakbasher Eogar the Brutal moved from (2, 1) to (2, 0)
+[00:30:58.195] [INFO] Movement trail: [(2, 1), (2, 0)]
+[00:30:58.195] [INFO] Moving defensive blocker Zogfinger Gravin with 4 movement points
+[00:30:58.195] [INFO] Defensive blocker chose move (4, 2) with score 675
+[00:30:58.195] [INFO] Goblin Zogfinger Gravin moved from (4, 1) to (4, 2)
+[00:30:58.195] [INFO] Movement trail: [(4, 1), (4, 2)]
+[00:30:58.195] [INFO] Moving defensive blocker Mugmangler Frikin with 1 movement points
+[00:30:58.195] [INFO] Defensive blocker chose move (5, 1) with score 668
+[00:30:58.196] [INFO] Goblin Mugmangler Frikin moved from (6, 1) to (5, 1)
+[00:30:58.196] [INFO] Movement trail: [(6, 1), (5, 1)]
+[00:30:58.196] [INFO] Moving defensive blocker Snotface Gorak with 1 movement points
+[00:30:58.196] [INFO] Defensive blocker chose move (8, 0) with score 356
+[00:30:58.196] [INFO] Goblin Snotface Gorak moved from (8, 1) to (8, 0)
+[00:30:58.196] [INFO] Movement trail: [(8, 1), (8, 0)]
+[00:30:58.196] [INFO] Moving defensive blocker Graktooth Amol  with 3 movement points
+[00:30:58.196] [INFO] Defensive blocker chose move (6, 1) with score 666
+[00:30:58.196] [INFO] Goblin Graktooth Amol  moved from (9, 1) to (6, 1)
+[00:30:58.196] [INFO] Movement trail: [(9, 1), (6, 1)]
+[00:31:01.139] [INFO] Moving carrier Krakbasher  with 3 movement points
+[00:31:01.139] [INFO] Goblin Krakbasher  moved from (5, 7) to (5, 6)
+[00:31:01.139] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[00:31:01.139] [INFO] Carrier Krakbasher  moved to (5, 6)
+[00:31:01.139] [INFO] Moving offensive blocker Thraksquisher the Sneaky with 3 movement points
+[00:31:01.139] [INFO] Offensive blocker chose move (5, 5) with score 950
+[00:31:01.139] [INFO] Goblin Thraksquisher the Sneaky moved from (4, 7) to (5, 5)
+[00:31:01.139] [INFO] Movement trail: [(2, 8), (4, 7), (5, 5)]
+[00:31:01.139] [INFO] Moving offensive blocker Grakmangler with 1 movement points
+[00:31:01.139] [INFO] Offensive blocker chose move (5, 7) with score 938
+[00:31:01.139] [INFO] Goblin Grakmangler moved from (6, 7) to (5, 7)
+[00:31:01.139] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7)]
+[00:31:01.139] [INFO] Moving offensive blocker Wortsquisher the Sly with 4 movement points
+[00:31:01.139] [INFO] Offensive blocker chose move (4, 6) with score 950
+[00:31:01.139] [INFO] Goblin Wortsquisher the Sly moved from (5, 8) to (4, 6)
+[00:31:01.139] [INFO] Movement trail: [(8, 8), (5, 8), (4, 6)]
+[00:31:01.139] [INFO] Moving offensive blocker Grubchewer Casenre with 3 movement points
+[00:31:01.139] [INFO] Offensive blocker chose move (6, 6) with score 958
+[00:31:01.140] [INFO] Goblin Grubchewer Casenre moved from (6, 8) to (6, 6)
+[00:31:01.140] [INFO] Movement trail: [(9, 8), (6, 8), (6, 6)]
+[00:31:01.140] [INFO] Moving defensive blocker Krakbasher Eogar the Brutal with 1 movement points
+[00:31:01.140] [INFO] Defensive blocker chose move (1, 0) with score 361
+[00:31:01.140] [INFO] Goblin Krakbasher Eogar the Brutal moved from (2, 0) to (1, 0)
+[00:31:01.140] [INFO] Movement trail: [(2, 1), (2, 0), (1, 0)]
+[00:31:01.140] [INFO] Moving defensive blocker Zogfinger Gravin with 4 movement points
+[00:31:01.140] [INFO] Defensive blocker chose move (6, 4) with score 667
+[00:31:01.140] [INFO] Goblin Zogfinger Gravin moved from (4, 2) to (6, 4)
+[00:31:01.140] [INFO] Movement trail: [(4, 1), (4, 2), (6, 4)]
+[00:31:01.140] [INFO] Moving defensive blocker Mugmangler Frikin with 1 movement points
+[00:31:01.140] [INFO] Defensive blocker chose move (4, 1) with score 651
+[00:31:01.140] [INFO] Goblin Mugmangler Frikin moved from (5, 1) to (4, 1)
+[00:31:01.140] [INFO] Movement trail: [(6, 1), (5, 1), (4, 1)]
+[00:31:01.140] [INFO] Moving defensive blocker Snotface Gorak with 1 movement points
+[00:31:01.140] [INFO] Defensive blocker chose move (9, 0) with score 368
+[00:31:01.140] [INFO] Goblin Snotface Gorak moved from (8, 0) to (9, 0)
+[00:31:01.140] [INFO] Movement trail: [(8, 1), (8, 0), (9, 0)]
+[00:31:01.140] [INFO] Moving defensive blocker Graktooth Amol  with 3 movement points
+[00:31:01.140] [INFO] Defensive blocker chose move (6, 0) with score 674
+[00:31:01.140] [INFO] Goblin Graktooth Amol  moved from (6, 1) to (6, 0)
+[00:31:01.140] [INFO] Movement trail: [(9, 1), (6, 1), (6, 0)]
+[00:31:03.525] [INFO] Moving carrier Krakbasher  with 3 movement points
+[00:31:03.525] [INFO] Goblin Krakbasher  moved from (5, 6) to (5, 3)
+[00:31:03.525] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 3)]
+[00:31:03.525] [INFO] Carrier Krakbasher  moved to (5, 3)
+[00:31:03.525] [INFO] Moving offensive blocker Thraksquisher the Sneaky with 3 movement points
+[00:31:03.525] [INFO] Attempt block of Zogfinger Gravin by Thraksquisher the Sneaky
+[00:31:03.525] [INFO] Offensive blocker chose move (5, 4) with score 970
+[00:31:03.525] [INFO] Goblin Thraksquisher the Sneaky moved from (5, 5) to (5, 4)
+[00:31:03.525] [INFO] Movement trail: [(2, 8), (4, 7), (5, 5), (5, 4)]
+[00:31:03.525] [INFO] Moving offensive blocker Grakmangler with 1 movement points
+[00:31:03.525] [INFO] Offensive blocker chose move (5, 6) with score 731
+[00:31:03.525] [INFO] Goblin Grakmangler moved from (5, 7) to (5, 6)
+[00:31:03.525] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (5, 6)]
+[00:31:03.525] [INFO] Moving offensive blocker Wortsquisher the Sly with 4 movement points
+[00:31:03.525] [INFO] Offensive blocker chose move (4, 2) with score 2062
+[00:31:03.525] [INFO] Goblin Wortsquisher the Sly moved from (4, 6) to (4, 2)
+[00:31:03.525] [INFO] Movement trail: [(8, 8), (5, 8), (4, 6), (4, 2)]
+[00:31:03.525] [INFO] Moving offensive blocker Grubchewer Casenre with 3 movement points
+[00:31:03.525] [INFO] Offensive blocker chose move (6, 3) with score 952
+[00:31:03.525] [INFO] Goblin Grubchewer Casenre moved from (6, 6) to (6, 3)
+[00:31:03.525] [INFO] Movement trail: [(9, 8), (6, 8), (6, 6), (6, 3)]
+[00:31:03.525] [INFO] Moving defensive blocker Krakbasher Eogar the Brutal with 1 movement points
+[00:31:03.525] [INFO] Defensive blocker chose move (1, 1) with score 375
+[00:31:03.525] [INFO] Goblin Krakbasher Eogar the Brutal moved from (1, 0) to (1, 1)
+[00:31:03.525] [INFO] Movement trail: [(2, 1), (2, 0), (1, 0), (1, 1)]
+[00:31:03.525] [INFO] Moving defensive blocker Zogfinger Gravin with 4 movement points
+[00:31:03.526] [INFO] Defensive blocker Zogfinger Gravin attempting to block carrier Krakbasher 
+[00:31:03.526] [INFO] Defensive blocker Zogfinger Gravin pursuing carrier Krakbasher 
+[00:31:03.526] [INFO] Goblin Zogfinger Gravin moved from (6, 4) to (4, 4)
+[00:31:03.526] [INFO] Movement trail: [(4, 1), (4, 2), (6, 4), (4, 4)]
+[00:31:03.526] [INFO] Moving defensive blocker Mugmangler Frikin with 1 movement points
+[00:31:03.526] [INFO] Defensive blocker Mugmangler Frikin pursuing carrier Krakbasher 
+[00:31:03.526] [INFO] Goblin Mugmangler Frikin moved from (4, 1) to (5, 1)
+[00:31:03.526] [INFO] Movement trail: [(6, 1), (5, 1), (4, 1), (5, 1)]
+[00:31:03.526] [INFO] Moving defensive blocker Snotface Gorak with 1 movement points
+[00:31:03.526] [INFO] Defensive blocker chose move (8, 0) with score 359
+[00:31:03.526] [INFO] Goblin Snotface Gorak moved from (9, 0) to (8, 0)
+[00:31:03.526] [INFO] Movement trail: [(8, 1), (8, 0), (9, 0), (8, 0)]
+[00:31:03.526] [INFO] Moving defensive blocker Graktooth Amol  with 3 movement points
+[00:31:03.526] [INFO] Defensive blocker chose move (6, 1) with score 673
+[00:31:03.526] [INFO] Goblin Graktooth Amol  moved from (6, 0) to (6, 1)
+[00:31:03.526] [INFO] Movement trail: [(9, 1), (6, 1), (6, 0), (6, 1)]
+[00:31:08.244] [INFO] Moving carrier Krakbasher  with 3 movement points
+[00:31:08.244] [INFO] Goblin Krakbasher  moved from (5, 3) to (5, 2)
+[00:31:08.244] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 3), (5, 2)]
+[00:31:08.244] [INFO] Carrier Krakbasher  moved to (5, 2)
+[00:31:08.244] [INFO] Moving offensive blocker Thraksquisher the Sneaky with 3 movement points
+[00:31:08.244] [INFO] Attempt block of Zogfinger Gravin by Thraksquisher the Sneaky
+[00:31:08.244] [INFO] Offensive blocker chose move (5, 3) with score 993
+[00:31:08.244] [INFO] Goblin Thraksquisher the Sneaky moved from (5, 4) to (5, 3)
+[00:31:08.244] [INFO] Movement trail: [(2, 8), (4, 7), (5, 5), (5, 4), (5, 3)]
+[00:31:08.244] [INFO] Moving offensive blocker Grakmangler with 1 movement points
+[00:31:08.244] [INFO] Offensive blocker chose move (5, 5) with score 741
+[00:31:08.244] [INFO] Goblin Grakmangler moved from (5, 6) to (5, 5)
+[00:31:08.244] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (5, 6), (5, 5)]
+[00:31:08.244] [INFO] Moving offensive blocker Wortsquisher the Sly with 4 movement points
+[00:31:08.244] [INFO] Attempt block of Mugmangler Frikin by Wortsquisher the Sly
+[00:31:08.244] [INFO] Offensive blocker chose move (6, 2) with score 968
+[00:31:08.244] [INFO] Goblin Wortsquisher the Sly moved from (4, 2) to (6, 2)
+[00:31:08.244] [INFO] Movement trail: [(8, 8), (5, 8), (4, 6), (4, 2), (6, 2)]
+[00:31:08.244] [INFO] Moving offensive blocker Grubchewer Casenre with 3 movement points
+[00:31:08.244] [INFO] Offensive blocker chose move (4, 2) with score 1983
+[00:31:08.245] [INFO] Moving defensive blocker Krakbasher Eogar the Brutal with 1 movement points
+[00:31:08.245] [INFO] Defensive blocker chose move (1, 2) with score 622
+[00:31:08.245] [INFO] Goblin Krakbasher Eogar the Brutal moved from (1, 1) to (1, 2)
+[00:31:08.245] [INFO] Movement trail: [(2, 1), (2, 0), (1, 0), (1, 1), (1, 2)]
+[00:31:08.245] [INFO] Moving defensive blocker Zogfinger Gravin with 4 movement points
+[00:31:08.245] [INFO] Defensive blocker Zogfinger Gravin pursuing carrier Krakbasher 
+[00:31:08.245] [INFO] Moving defensive blocker Mugmangler Frikin with 1 movement points
+[00:31:08.245] [INFO] Defensive blocker Mugmangler Frikin pursuing carrier Krakbasher 
+[00:31:08.245] [INFO] Goblin Mugmangler Frikin moved from (5, 1) to (4, 1)
+[00:31:08.245] [INFO] Movement trail: [(6, 1), (5, 1), (4, 1), (5, 1), (4, 1)]
+[00:31:08.245] [INFO] Moving defensive blocker Snotface Gorak with 1 movement points
+[00:31:08.245] [INFO] Defensive blocker chose move (7, 0) with score 345
+[00:31:08.245] [INFO] Goblin Snotface Gorak moved from (8, 0) to (7, 0)
+[00:31:08.245] [INFO] Movement trail: [(8, 1), (8, 0), (9, 0), (8, 0), (7, 0)]
+[00:31:08.245] [INFO] Moving defensive blocker Graktooth Amol  with 3 movement points
+[00:31:08.245] [INFO] Defensive blocker Graktooth Amol  attempting to block carrier Krakbasher 
+[00:31:08.245] [INFO] Defensive blocker Graktooth Amol  pursuing carrier Krakbasher 
+[00:31:08.245] [INFO] Goblin Graktooth Amol  moved from (6, 1) to (5, 1)
+[00:31:08.245] [INFO] Movement trail: [(9, 1), (6, 1), (6, 0), (6, 1), (5, 1)]
+[00:31:13.759] [INFO] Moving carrier Krakbasher  with 3 movement points
+[00:31:13.759] [INFO] Goblin Krakbasher  moved from (5, 2) to (4, 2)
+[00:31:13.759] [INFO] Movement trail: [(5, 7), (5, 6), (5, 3), (5, 2), (4, 2)]
+[00:31:13.759] [INFO] Carrier Krakbasher  moved to (4, 2)
+[00:31:13.760] [INFO] Moving offensive blocker Thraksquisher the Sneaky with 3 movement points
+[00:31:13.760] [INFO] Attempt block of Zogfinger Gravin by Thraksquisher the Sneaky
+[00:31:13.760] [INFO] Block succeeded!
+[00:31:13.760] [INFO] Moving offensive blocker Grakmangler with 1 movement points
+[00:31:13.760] [INFO] Offensive blocker chose move (5, 4) with score 736
+[00:31:13.760] [INFO] Goblin Grakmangler moved from (5, 5) to (5, 4)
+[00:31:13.760] [INFO] Movement trail: [(6, 7), (5, 7), (5, 6), (5, 5), (5, 4)]
+[00:31:13.760] [INFO] Moving offensive blocker Wortsquisher the Sly with 4 movement points
+[00:31:13.760] [INFO] Attempt block of Graktooth Amol  by Wortsquisher the Sly
+[00:31:13.760] [INFO] Offensive blocker chose move (5, 2) with score 994
+[00:31:13.760] [INFO] Goblin Wortsquisher the Sly moved from (6, 2) to (5, 2)
+[00:31:13.760] [INFO] Movement trail: [(5, 8), (4, 6), (4, 2), (6, 2), (5, 2)]
+[00:31:13.760] [INFO] Moving offensive blocker Grubchewer Casenre with 3 movement points
+[00:31:13.760] [INFO] Offensive blocker chose move (4, 3) with score 956
+[00:31:13.760] [INFO] Goblin Grubchewer Casenre moved from (6, 3) to (4, 3)
+[00:31:13.760] [INFO] Movement trail: [(9, 8), (6, 8), (6, 6), (6, 3), (4, 3)]
+[00:31:13.760] [INFO] Moving defensive blocker Krakbasher Eogar the Brutal with 1 movement points
+[00:31:13.760] [INFO] Defensive blocker Krakbasher Eogar the Brutal pursuing carrier Krakbasher 
+[00:31:13.760] [INFO] Goblin Krakbasher Eogar the Brutal moved from (1, 2) to (2, 2)
+[00:31:13.760] [INFO] Movement trail: [(2, 0), (1, 0), (1, 1), (1, 2), (2, 2)]
+[00:31:13.760] [INFO] Moving defensive blocker Zogfinger Gravin with 4 movement points
+[00:31:13.760] [INFO] Defensive blocker chose move (3, 2) with score 894
+[00:31:13.760] [INFO] Goblin Zogfinger Gravin moved from (3, 5) to (3, 2)
+[00:31:13.760] [INFO] Movement trail: [(4, 2), (6, 4), (4, 4), (3, 5), (3, 2)]
+[00:31:13.760] [INFO] Moving defensive blocker Mugmangler Frikin with 1 movement points
+[00:31:13.760] [INFO] Defensive blocker Mugmangler Frikin pursuing carrier Krakbasher 
+[00:31:13.760] [INFO] Goblin Mugmangler Frikin moved from (4, 1) to (3, 1)
+[00:31:13.760] [INFO] Movement trail: [(5, 1), (4, 1), (5, 1), (4, 1), (3, 1)]
+[00:31:13.760] [INFO] Moving defensive blocker Snotface Gorak with 1 movement points
+[00:31:13.760] [INFO] Defensive blocker chose move (8, 0) with score 372
+[00:31:13.760] [INFO] Goblin Snotface Gorak moved from (7, 0) to (8, 0)
+[00:31:13.760] [INFO] Movement trail: [(8, 0), (9, 0), (8, 0), (7, 0), (8, 0)]
+[00:31:13.760] [INFO] Moving defensive blocker Graktooth Amol  with 3 movement points
+[00:31:13.760] [INFO] Defensive blocker Graktooth Amol  attempting to block carrier Krakbasher 
+[00:31:13.760] [INFO] Defensive blocker Graktooth Amol  pursuing carrier Krakbasher 
+[00:31:13.760] [INFO] Goblin Graktooth Amol  moved from (5, 1) to (4, 1)
+[00:31:13.760] [INFO] Movement trail: [(6, 1), (6, 0), (6, 1), (5, 1), (4, 1)]
+[00:31:34.361] [INFO] Moving carrier Krakbasher  with 3 movement points
+[00:31:34.361] [INFO] Goblin Krakbasher  moved from (4, 2) to (4, 0)
+[00:31:34.361] [INFO] Movement trail: [(5, 6), (5, 3), (5, 2), (4, 2), (4, 0)]
+[00:31:34.361] [INFO] Carrier Krakbasher  moved to (4, 0)

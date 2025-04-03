@@ -1,0 +1,30 @@
+[20:06:55.078] [INFO] === Goblinball Debug Log - 20250402_200655 ===
+[20:06:55.097] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:06:55.097] [INFO] Positioned Wortchomper Marek at (2, 8)
+[20:06:55.097] [INFO] Positioned Grakfist Paloadrin at (4, 8)
+[20:06:55.097] [INFO] Positioned Grimfinger at (6, 8)
+[20:06:55.097] [INFO] Positioned Luggob  at (8, 8)
+[20:06:55.097] [INFO] Positioned Grakmangler Jelly at (9, 8)
+[20:06:55.097] [INFO] Positioned Bludgob Greyfinger at (2, 1)
+[20:06:55.097] [INFO] Positioned Fizzbiter at (4, 1)
+[20:06:55.097] [INFO] Positioned Grakchomper at (6, 1)
+[20:06:55.097] [INFO] Positioned Gnogbasher Cary the Sneaky at (8, 1)
+[20:06:55.097] [INFO] Positioned Mugskull  at (9, 1)
+[20:06:55.097] [INFO] Selected carrier: Wortchomper Marek from team Mudcrushers
+[20:06:55.097] [INFO] ===== Starting Play 1 =====
+[20:06:55.097] [INFO] Positioned Wortchomper Marek at (2, 8)
+[20:06:55.097] [INFO] Positioned Grakfist Paloadrin at (4, 8)
+[20:06:55.097] [INFO] Positioned Grimfinger at (6, 8)
+[20:06:55.097] [INFO] Positioned Luggob  at (8, 8)
+[20:06:55.097] [INFO] Positioned Grakmangler Jelly at (9, 8)
+[20:06:55.097] [INFO] Positioned Bludgob Greyfinger at (2, 1)
+[20:06:55.098] [INFO] Positioned Fizzbiter at (4, 1)
+[20:06:55.098] [INFO] Positioned Grakchomper at (6, 1)
+[20:06:55.098] [INFO] Positioned Gnogbasher Cary the Sneaky at (8, 1)
+[20:06:55.098] [INFO] Positioned Mugskull  at (9, 1)
+[20:06:55.098] [INFO] Selected carrier: Grakfist Paloadrin from team Mudcrushers
+[20:07:02.677] [INFO] ==== Processing Turn 1 ====
+[20:07:02.677] [INFO] Offense Team: Mudcrushers, Defense Team: Skullsmashers
+[20:07:02.677] [INFO] Carrier Grakfist Paloadrin at position (4, 8) with 2 movement points
+[20:07:02.677] [INFO] Torch status at carrier row 8: Not lit
+[20:07:02.677] [INFO] Attempting to move carrier Grakfist Paloadrin

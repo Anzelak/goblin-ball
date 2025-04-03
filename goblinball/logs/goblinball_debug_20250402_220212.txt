@@ -1,0 +1,67 @@
+[22:02:12.632] [INFO] === Goblinball Debug Log - 20250402_220212 ===
+[22:02:12.658] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[22:02:18.489] [INFO] Moving carrier Gutsquisher  with 3 movement points
+[22:02:18.490] [INFO] Carrier Gutsquisher  moved to (5, 7)
+[22:02:18.490] [INFO] Moving offensive blocker Globfist with 2 movement points
+[22:02:18.490] [INFO] Offensive blocker chose move (3, 7) with score 818
+[22:02:18.490] [INFO] Moving offensive blocker Skrizslicer Greg with 2 movement points
+[22:02:18.490] [INFO] Offensive blocker chose move (6, 7) with score 948
+[22:02:18.493] [INFO] Moving offensive blocker Zogsmasher the Sly with 2 movement points
+[22:02:18.493] [INFO] Offensive blocker chose move (7, 7) with score 847
+[22:02:18.493] [INFO] Moving offensive blocker Skrizmangler with 3 movement points
+[22:02:18.493] [INFO] Offensive blocker chose move (6, 8) with score 843
+[22:02:18.493] [INFO] Moving defensive blocker Fizzgulper with 3 movement points
+[22:02:18.493] [INFO] Defensive blocker chose move (5, 1) with score 669
+[22:02:18.493] [INFO] Moving defensive blocker Mugface Zuts the Cunning with 2 movement points
+[22:02:18.493] [INFO] Defensive blocker chose move (5, 0) with score 672
+[22:02:18.493] [INFO] Moving defensive blocker Lugmangler Fiacus the Sly with 1 movement points
+[22:02:18.493] [INFO] Defensive blocker chose move (6, 2) with score 659
+[22:02:18.493] [INFO] Moving defensive blocker Fizznose with 3 movement points
+[22:02:18.493] [INFO] Defensive blocker chose move (6, 1) with score 673
+[22:02:18.493] [INFO] Moving defensive blocker Thrakgulper Davis with 1 movement points
+[22:02:18.493] [INFO] Defensive blocker chose move (9, 2) with score 353
+[22:02:19.841] [INFO] Moving carrier Gutsquisher  with 3 movement points
+[22:02:19.841] [INFO] Carrier Gutsquisher  moved to (5, 6)
+[22:02:19.841] [INFO] Moving offensive blocker Globfist with 2 movement points
+[22:02:19.841] [INFO] Offensive blocker chose move (4, 6) with score 964
+[22:02:19.841] [INFO] Moving offensive blocker Skrizslicer Greg with 2 movement points
+[22:02:19.841] [INFO] Offensive blocker chose move (5, 7) with score 925
+[22:02:19.841] [INFO] Moving offensive blocker Zogsmasher the Sly with 2 movement points
+[22:02:19.841] [INFO] Offensive blocker chose move (6, 6) with score 963
+[22:02:19.841] [INFO] Moving offensive blocker Skrizmangler with 3 movement points
+[22:02:19.841] [INFO] Offensive blocker chose move (6, 5) with score 856
+[22:02:19.841] [INFO] Moving defensive blocker Fizzgulper with 3 movement points
+[22:02:19.841] [INFO] Defensive blocker chose move (4, 0) with score 669
+[22:02:19.841] [INFO] Moving defensive blocker Mugface Zuts the Cunning with 2 movement points
+[22:02:19.841] [INFO] Defensive blocker chose move (5, 2) with score 674
+[22:02:19.841] [INFO] Moving defensive blocker Lugmangler Fiacus the Sly with 1 movement points
+[22:02:19.841] [INFO] Defensive blocker chose move (6, 3) with score 656
+[22:02:19.841] [INFO] Moving defensive blocker Fizznose with 3 movement points
+[22:02:19.841] [INFO] Defensive blocker chose move (6, 0) with score 668
+[22:02:19.841] [INFO] Moving defensive blocker Thrakgulper Davis with 1 movement points
+[22:02:19.841] [INFO] Defensive blocker chose move (9, 3) with score 371
+[22:02:21.394] [INFO] Moving carrier Gutsquisher  with 3 movement points
+[22:02:21.394] [INFO] Carrier Gutsquisher  moved to (5, 5)
+[22:02:21.394] [INFO] Moving offensive blocker Globfist with 2 movement points
+[22:02:21.394] [INFO] Offensive blocker chose move (4, 4) with score 1048
+[22:02:21.394] [INFO] Moving offensive blocker Skrizslicer Greg with 2 movement points
+[22:02:21.394] [INFO] Offensive blocker chose move (5, 6) with score 932
+[22:02:21.394] [INFO] Moving offensive blocker Zogsmasher the Sly with 2 movement points
+[22:02:21.394] [INFO] Offensive blocker chose move (6, 4) with score 1254
+[22:02:21.394] [INFO] Moving offensive blocker Skrizmangler with 3 movement points
+[22:02:21.394] [INFO] Offensive blocker chose move (5, 4) with score 2364
+[22:02:21.394] [INFO] Moving defensive blocker Fizzgulper with 3 movement points
+[22:02:21.394] [INFO] Defensive blocker chose move (4, 1) with score 656
+[22:02:21.394] [INFO] Moving defensive blocker Mugface Zuts the Cunning with 2 movement points
+[22:02:21.394] [INFO] Defensive blocker Mugface Zuts the Cunning pursuing carrier Gutsquisher 
+[22:02:21.394] [INFO] Moving defensive blocker Lugmangler Fiacus the Sly with 1 movement points
+[22:02:21.394] [INFO] Defensive blocker Lugmangler Fiacus the Sly pursuing carrier Gutsquisher 
+[22:02:21.394] [INFO] Moving defensive blocker Fizznose with 3 movement points
+[22:02:21.394] [INFO] Defensive blocker chose move (6, 1) with score 674
+[22:02:21.394] [INFO] Moving defensive blocker Thrakgulper Davis with 1 movement points
+[22:02:21.394] [INFO] Defensive blocker chose move (9, 2) with score 360
+[22:02:23.254] [INFO] Moving carrier Gutsquisher  with 3 movement points
+[22:02:23.254] [INFO] Carrier Gutsquisher  moved to (5, 2)
+[22:02:23.254] [INFO] Moving offensive blocker Globfist with 2 movement points
+[22:02:23.254] [INFO] Attempt block of Mugface Zuts the Cunning by Globfist
+[22:02:23.254] [INFO] Globfist blocks Mugface Zuts the Cunning with result: push

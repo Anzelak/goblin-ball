@@ -1,0 +1,104 @@
+[00:15:07.303] [INFO] === Goblinball Debug Log - 20250403_001507 ===
+[00:15:07.324] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[00:15:08.970] [INFO] Moving carrier Bludcrusher with 1 movement points
+[00:15:08.970] [INFO] Carrier Bludcrusher moved to (3, 8)
+[00:15:08.970] [INFO] Moving offensive blocker Skabchomper the Fierce with 3 movement points
+[00:15:08.970] [INFO] Offensive blocker chose move (4, 8) with score 933
+[00:15:08.970] [INFO] Moving offensive blocker Gnogsmasher Marsh with 4 movement points
+[00:15:08.970] [INFO] Offensive blocker chose move (2, 8) with score 940
+[00:15:08.973] [INFO] Moving offensive blocker Krunksmasher with 1 movement points
+[00:15:08.973] [INFO] Offensive blocker chose move (7, 8) with score 642
+[00:15:08.973] [INFO] Moving offensive blocker Bludbasher with 3 movement points
+[00:15:08.973] [INFO] Offensive blocker chose move (6, 8) with score 712
+[00:15:08.973] [INFO] Moving defensive blocker Krunkgob  with 2 movement points
+[00:15:08.973] [INFO] Defensive blocker chose move (3, 0) with score 661
+[00:15:08.973] [INFO] Moving defensive blocker Fizzmangler with 4 movement points
+[00:15:08.973] [INFO] Defensive blocker chose move (4, 2) with score 674
+[00:15:08.973] [INFO] Moving defensive blocker Skrizstomper with 4 movement points
+[00:15:08.973] [INFO] Defensive blocker chose move (3, 1) with score 675
+[00:15:08.973] [INFO] Moving defensive blocker Krakgob with 1 movement points
+[00:15:08.973] [INFO] Defensive blocker chose move (8, 0) with score 373
+[00:15:08.973] [INFO] Moving defensive blocker Mugchewer Jather with 4 movement points
+[00:15:08.973] [INFO] Defensive blocker chose move (7, 2) with score 375
+[00:15:09.526] [INFO] Moving carrier Bludcrusher with 1 movement points
+[00:15:09.526] [INFO] Carrier Bludcrusher moved to (3, 7)
+[00:15:09.526] [INFO] Moving offensive blocker Skabchomper the Fierce with 3 movement points
+[00:15:09.526] [INFO] Offensive blocker chose move (3, 6) with score 955
+[00:15:09.526] [INFO] Moving offensive blocker Gnogsmasher Marsh with 4 movement points
+[00:15:09.526] [INFO] Offensive blocker chose move (3, 8) with score 932
+[00:15:09.526] [INFO] Moving offensive blocker Krunksmasher with 1 movement points
+[00:15:09.526] [INFO] Offensive blocker chose move (7, 7) with score 609
+[00:15:09.526] [INFO] Moving offensive blocker Bludbasher with 3 movement points
+[00:15:09.526] [INFO] Offensive blocker chose move (4, 7) with score 952
+[00:15:09.527] [INFO] Moving defensive blocker Krunkgob  with 2 movement points
+[00:15:09.527] [INFO] Defensive blocker chose move (2, 0) with score 653
+[00:15:09.527] [INFO] Moving defensive blocker Fizzmangler with 4 movement points
+[00:15:09.527] [INFO] Defensive blocker chose move (3, 3) with score 675
+[00:15:09.527] [INFO] Moving defensive blocker Skrizstomper with 4 movement points
+[00:15:09.527] [INFO] Defensive blocker chose move (2, 2) with score 673
+[00:15:09.527] [INFO] Moving defensive blocker Krakgob with 1 movement points
+[00:15:09.527] [INFO] Defensive blocker chose move (8, 1) with score 355
+[00:15:09.527] [INFO] Moving defensive blocker Mugchewer Jather with 4 movement points
+[00:15:09.527] [INFO] Defensive blocker chose move (3, 2) with score 662
+[00:15:10.433] [INFO] Moving carrier Bludcrusher with 1 movement points
+[00:15:10.433] [INFO] Carrier Bludcrusher moved to (2, 7)
+[00:15:10.433] [INFO] Moving offensive blocker Skabchomper the Fierce with 3 movement points
+[00:15:10.433] [INFO] Offensive blocker chose move (2, 6) with score 959
+[00:15:10.433] [INFO] Moving offensive blocker Gnogsmasher Marsh with 4 movement points
+[00:15:10.433] [INFO] Offensive blocker chose move (1, 7) with score 932
+[00:15:10.433] [INFO] Moving offensive blocker Krunksmasher with 1 movement points
+[00:15:10.433] [INFO] Offensive blocker chose move (6, 7) with score 630
+[00:15:10.433] [INFO] Moving offensive blocker Bludbasher with 3 movement points
+[00:15:10.433] [INFO] Offensive blocker chose move (3, 7) with score 910
+[00:15:10.433] [INFO] Moving defensive blocker Krunkgob  with 2 movement points
+[00:15:10.434] [INFO] Defensive blocker chose move (3, 0) with score 670
+[00:15:10.434] [INFO] Moving defensive blocker Fizzmangler with 4 movement points
+[00:15:10.434] [INFO] Defensive blocker chose move (3, 5) with score 670
+[00:15:10.434] [INFO] Moving defensive blocker Skrizstomper with 4 movement points
+[00:15:10.434] [INFO] Defensive blocker chose move (2, 1) with score 675
+[00:15:10.434] [INFO] Moving defensive blocker Krakgob with 1 movement points
+[00:15:10.434] [INFO] Defensive blocker chose move (9, 1) with score 373
+[00:15:10.434] [INFO] Moving defensive blocker Mugchewer Jather with 4 movement points
+[00:15:10.434] [INFO] Defensive blocker chose move (1, 0) with score 669
+[00:15:11.122] [INFO] Moving carrier Bludcrusher with 1 movement points
+[00:15:11.122] [INFO] Carrier Bludcrusher moved to fallback position (2, 8)
+[00:15:11.122] [INFO] Moving offensive blocker Skabchomper the Fierce with 3 movement points
+[00:15:11.122] [INFO] Offensive blocker chose move (3, 8) with score 892
+[00:15:11.122] [INFO] Moving offensive blocker Gnogsmasher Marsh with 4 movement points
+[00:15:11.122] [INFO] Offensive blocker chose move (2, 7) with score 940
+[00:15:11.122] [INFO] Moving offensive blocker Krunksmasher with 1 movement points
+[00:15:11.122] [INFO] Offensive blocker chose move (5, 7) with score 620
+[00:15:11.122] [INFO] Moving offensive blocker Bludbasher with 3 movement points
+[00:15:11.122] [INFO] Offensive blocker chose move (2, 9) with score 853
+[00:15:11.122] [INFO] Moving defensive blocker Krunkgob  with 2 movement points
+[00:15:11.122] [INFO] Defensive blocker chose move (2, 0) with score 659
+[00:15:11.122] [INFO] Moving defensive blocker Fizzmangler with 4 movement points
+[00:15:11.122] [INFO] Defensive blocker chose move (3, 9) with score 810
+[00:15:11.122] [INFO] Moving defensive blocker Skrizstomper with 4 movement points
+[00:15:11.122] [INFO] Defensive blocker chose move (1, 4) with score 675
+[00:15:11.123] [INFO] Moving defensive blocker Krakgob with 1 movement points
+[00:15:11.123] [INFO] Defensive blocker chose move (8, 1) with score 368
+[00:15:11.123] [INFO] Moving defensive blocker Mugchewer Jather with 4 movement points
+[00:15:11.123] [INFO] Defensive blocker chose move (1, 2) with score 675
+[00:15:12.290] [INFO] Moving carrier Bludcrusher with 1 movement points
+[00:15:12.290] [INFO] Carrier Bludcrusher moved to (1, 8)
+[00:15:12.290] [INFO] Moving offensive blocker Skabchomper the Fierce with 3 movement points
+[00:15:12.291] [INFO] Attempt block of Fizzmangler by Skabchomper the Fierce
+[00:15:12.291] [INFO] Offensive blocker chose move (2, 8) with score 912
+[00:15:12.291] [INFO] Moving offensive blocker Gnogsmasher Marsh with 4 movement points
+[00:15:12.291] [INFO] Offensive blocker chose move (1, 7) with score 938
+[00:15:12.291] [INFO] Moving offensive blocker Krunksmasher with 1 movement points
+[00:15:12.291] [INFO] Offensive blocker chose move (4, 7) with score 624
+[00:15:12.291] [INFO] Moving offensive blocker Bludbasher with 3 movement points
+[00:15:12.291] [INFO] Attempt block of Fizzmangler by Bludbasher
+[00:15:12.291] [INFO] Offensive blocker chose move (1, 9) with score 923
+[00:15:12.291] [INFO] Moving defensive blocker Krunkgob  with 2 movement points
+[00:15:12.291] [INFO] Defensive blocker chose move (1, 0) with score 673
+[00:15:12.291] [INFO] Moving defensive blocker Fizzmangler with 4 movement points
+[00:15:12.291] [INFO] Defensive blocker Fizzmangler pursuing carrier Bludcrusher
+[00:15:12.291] [INFO] Moving defensive blocker Skrizstomper with 4 movement points
+[00:15:12.291] [INFO] Defensive blocker chose move (0, 4) with score 672
+[00:15:12.291] [INFO] Moving defensive blocker Krakgob with 1 movement points
+[00:15:12.291] [INFO] Defensive blocker chose move (8, 0) with score 375
+[00:15:12.291] [INFO] Moving defensive blocker Mugchewer Jather with 4 movement points
+[00:15:12.291] [INFO] Defensive blocker chose move (0, 0) with score 674

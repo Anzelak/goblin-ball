@@ -1,0 +1,25 @@
+[20:07:24.254] [INFO] === Goblinball Debug Log - 20250402_200724 ===
+[20:07:24.274] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[20:07:24.274] [INFO] Positioned Krunkfinger at (2, 8)
+[20:07:24.274] [INFO] Positioned Gutbasher at (4, 8)
+[20:07:24.274] [INFO] Positioned Grimbasher the Fierce at (6, 8)
+[20:07:24.274] [INFO] Positioned Skabfist at (8, 8)
+[20:07:24.274] [INFO] Positioned Fizzslicer Ayushi at (9, 8)
+[20:07:24.274] [INFO] Positioned Krunknose La at (2, 1)
+[20:07:24.274] [INFO] Positioned Globface Solomon at (4, 1)
+[20:07:24.274] [INFO] Positioned Gutbiter Phoenix at (6, 1)
+[20:07:24.274] [INFO] Positioned Skrizgulper Talley at (8, 1)
+[20:07:24.274] [INFO] Positioned Globchewer Nerthus at (9, 1)
+[20:07:24.274] [INFO] Selected carrier: Krunkfinger from team Mudcrushers
+[20:07:24.274] [INFO] ===== Starting Play 1 =====
+[20:07:24.274] [INFO] Positioned Krunkfinger at (2, 8)
+[20:07:24.274] [INFO] Positioned Gutbasher at (4, 8)
+[20:07:24.274] [INFO] Positioned Grimbasher the Fierce at (6, 8)
+[20:07:24.274] [INFO] Positioned Skabfist at (8, 8)
+[20:07:24.274] [INFO] Positioned Fizzslicer Ayushi at (9, 8)
+[20:07:24.274] [INFO] Positioned Krunknose La at (2, 1)
+[20:07:24.274] [INFO] Positioned Globface Solomon at (4, 1)
+[20:07:24.274] [INFO] Positioned Gutbiter Phoenix at (6, 1)
+[20:07:24.274] [INFO] Positioned Skrizgulper Talley at (8, 1)
+[20:07:24.274] [INFO] Positioned Globchewer Nerthus at (9, 1)
+[20:07:24.274] [INFO] Selected carrier: Gutbasher from team Mudcrushers
