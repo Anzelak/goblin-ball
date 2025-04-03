@@ -1,0 +1,103 @@
+[11:34:56.521] [INFO] === Goblinball Debug Log - 20250403_113456 ===
+[11:34:56.521] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113456.txt
+[11:34:56.541] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:34:57.762] [INFO] Moving carrier Lugfinger Bloodtrampler the Strong with 4 movement points
+[11:34:57.762] [INFO] Goblin Lugfinger Bloodtrampler the Strong moved from (4, 8) to (5, 7)
+[11:34:57.762] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:34:57.762] [INFO] Carrier Lugfinger Bloodtrampler the Strong moved to (5, 7)
+[11:34:57.763] [INFO] Moving offensive blocker Zogbiter with 2 movement points
+[11:34:57.763] [INFO] Offensive blocker chose move (4, 8) with score 649
+[11:34:57.763] [INFO] Goblin Zogbiter moved from (2, 8) to (4, 8)
+[11:34:57.763] [INFO] Movement trail: [(2, 8), (4, 8)]
+[11:34:57.763] [INFO] Moving offensive blocker Skrizfist with 2 movement points
+[11:34:57.763] [INFO] Offensive blocker chose move (6, 7) with score 739
+[11:34:57.763] [INFO] Goblin Skrizfist moved from (6, 8) to (6, 7)
+[11:34:57.763] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:34:57.763] [INFO] Moving offensive blocker Skrizchomper with 3 movement points
+[11:34:57.764] [INFO] Offensive blocker chose move (5, 8) with score 746
+[11:34:57.764] [INFO] Goblin Skrizchomper moved from (8, 8) to (5, 8)
+[11:34:57.764] [INFO] Movement trail: [(8, 8), (5, 8)]
+[11:34:57.764] [INFO] Moving offensive blocker Splatmangler  with 2 movement points
+[11:34:57.764] [INFO] Offensive blocker chose move (7, 8) with score 580
+[11:34:57.764] [INFO] Goblin Splatmangler  moved from (9, 8) to (7, 8)
+[11:34:57.764] [INFO] Movement trail: [(9, 8), (7, 8)]
+[11:34:57.764] [INFO] Moving defensive blocker Gutslicer Lucas the Fierce with 3 movement points
+[11:34:57.764] [INFO] Defensive blocker chose move (5, 1) with score 1134
+[11:34:57.764] [INFO] Goblin Gutslicer Lucas the Fierce moved from (2, 1) to (5, 1)
+[11:34:57.764] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:34:57.764] [INFO] Moving defensive blocker Splatstabber Xannas with 1 movement points
+[11:34:57.764] [INFO] Defensive blocker chose move (4, 2) with score 1148
+[11:34:57.764] [INFO] Goblin Splatstabber Xannas moved from (4, 1) to (4, 2)
+[11:34:57.764] [INFO] Movement trail: [(4, 1), (4, 2)]
+[11:34:57.764] [INFO] Moving defensive blocker Snotchewer with 1 movement points
+[11:34:57.764] [INFO] Defensive blocker chose move (6, 2) with score 1129
+[11:34:57.764] [INFO] Goblin Snotchewer moved from (6, 1) to (6, 2)
+[11:34:57.764] [INFO] Movement trail: [(6, 1), (6, 2)]
+[11:34:57.764] [INFO] Moving defensive blocker Lugbiter Garth with 2 movement points
+[11:34:57.764] [INFO] Defensive blocker chose move (6, 1) with score 1086
+[11:34:57.764] [INFO] Goblin Lugbiter Garth moved from (8, 1) to (6, 1)
+[11:34:57.764] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:34:57.764] [INFO] Moving defensive blocker Krunkgulper Terrel the Tough with 3 movement points
+[11:34:57.764] [INFO] Defensive blocker chose move (9, 4) with score 899
+[11:34:57.764] [INFO] Goblin Krunkgulper Terrel the Tough moved from (9, 1) to (9, 4)
+[11:34:57.764] [INFO] Movement trail: [(9, 1), (9, 4)]
+[11:34:58.242] [INFO] Moving carrier Lugfinger Bloodtrampler the Strong with 4 movement points
+[11:34:58.242] [INFO] Goblin Lugfinger Bloodtrampler the Strong moved from (5, 7) to (5, 6)
+[11:34:58.242] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[11:34:58.242] [INFO] Carrier Lugfinger Bloodtrampler the Strong moved to (5, 6)
+[11:34:58.242] [INFO] Moving offensive blocker Zogbiter with 2 movement points
+[11:34:58.242] [INFO] Offensive blocker chose move (4, 6) with score 732
+[11:34:58.242] [INFO] Goblin Zogbiter moved from (4, 8) to (4, 6)
+[11:34:58.242] [INFO] Movement trail: [(2, 8), (4, 8), (4, 6)]
+[11:34:58.242] [INFO] Moving offensive blocker Skrizfist with 2 movement points
+[11:34:58.242] [INFO] Offensive blocker chose move (5, 7) with score 741
+[11:34:58.242] [INFO] Goblin Skrizfist moved from (6, 7) to (5, 7)
+[11:34:58.242] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7)]
+[11:34:58.242] [INFO] Moving offensive blocker Skrizchomper with 3 movement points
+[11:34:58.242] [INFO] Offensive blocker chose move (5, 5) with score 749
+[11:34:58.242] [INFO] Goblin Skrizchomper moved from (5, 8) to (5, 5)
+[11:34:58.242] [INFO] Movement trail: [(8, 8), (5, 8), (5, 5)]
+[11:34:58.242] [INFO] Moving offensive blocker Splatmangler  with 2 movement points
+[11:34:58.242] [INFO] Offensive blocker chose move (5, 8) with score 660
+[11:34:58.242] [INFO] Goblin Splatmangler  moved from (7, 8) to (5, 8)
+[11:34:58.242] [INFO] Movement trail: [(9, 8), (7, 8), (5, 8)]
+[11:34:58.242] [INFO] Moving defensive blocker Gutslicer Lucas the Fierce with 3 movement points
+[11:34:58.243] [INFO] Defensive blocker chose move (5, 4) with score 1347
+[11:34:58.243] [INFO] Goblin Gutslicer Lucas the Fierce moved from (5, 1) to (5, 4)
+[11:34:58.243] [INFO] Movement trail: [(2, 1), (5, 1), (5, 4)]
+[11:34:58.243] [INFO] Moving defensive blocker Splatstabber Xannas with 1 movement points
+[11:34:58.243] [INFO] Defensive blocker chose move (4, 3) with score 1254
+[11:34:58.243] [INFO] Goblin Splatstabber Xannas moved from (4, 2) to (4, 3)
+[11:34:58.243] [INFO] Movement trail: [(4, 1), (4, 2), (4, 3)]
+[11:34:58.243] [INFO] Moving defensive blocker Snotchewer with 1 movement points
+[11:34:58.243] [INFO] Defensive blocker chose move (6, 3) with score 1269
+[11:34:58.243] [INFO] Goblin Snotchewer moved from (6, 2) to (6, 3)
+[11:34:58.243] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3)]
+[11:34:58.243] [INFO] Moving defensive blocker Lugbiter Garth with 2 movement points
+[11:34:58.243] [INFO] Defensive blocker chose move (5, 2) with score 1233
+[11:34:58.243] [INFO] Goblin Lugbiter Garth moved from (6, 1) to (5, 2)
+[11:34:58.243] [INFO] Movement trail: [(8, 1), (6, 1), (5, 2)]
+[11:34:58.243] [INFO] Moving defensive blocker Krunkgulper Terrel the Tough with 3 movement points
+[11:34:58.243] [INFO] Defensive blocker chose move (6, 4) with score 1299
+[11:34:58.243] [INFO] Goblin Krunkgulper Terrel the Tough moved from (9, 4) to (6, 4)
+[11:34:58.243] [INFO] Movement trail: [(9, 1), (9, 4), (6, 4)]
+[11:34:58.815] [INFO] Moving carrier Lugfinger Bloodtrampler the Strong with 4 movement points
+[11:34:58.815] [INFO] Carrier Lugfinger Bloodtrampler the Strong couldn't find valid move
+[11:34:58.815] [INFO] Moving offensive blocker Gutslicer Lucas the Fierce with 3 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving offensive blocker Splatstabber Xannas with 1 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving offensive blocker Snotchewer with 1 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving offensive blocker Lugbiter Garth with 2 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving offensive blocker Krunkgulper Terrel the Tough with 3 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving defensive blocker Zogbiter with 2 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving defensive blocker Skrizfist with 2 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving defensive blocker Skrizchomper with 3 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!
+[11:34:58.815] [INFO] Moving defensive blocker Splatmangler  with 2 movement points
+[11:34:58.815] [INFO] No carrier found for team Skullsmashers!

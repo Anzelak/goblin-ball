@@ -85,45 +85,12 @@ class BlockerMovement:
                         DEBUG.log(f"Block succeeded!")
                         return True
         
-        # Calculate priorities and possible moves
+        # Get possible moves
         possible_moves = self.movement_system.get_possible_moves(blocker)
-        
-        # Define offensive blocker goals based on situation:
-        # 1. Position between carrier and closest enemies
-        # 2. Move to block advancing enemies
         
         # Get direction to end zone
         target_y = 0 if carrier.team == self.game.team1 else self.game.grid.height - 1
         forward_dir = -1 if carrier.team == self.game.team1 else 1
-        
-        # Calculate optimal screening positions
-        screening_positions = []
-        
-        # If enemies near carrier, try to screen them
-        if enemies_near_carrier:
-            # For each enemy, calculate a position between them and the carrier
-            for enemy, dist in enemies_near_carrier:
-                enemy_x, enemy_y = enemy.position
-                
-                # Calculate vector from carrier to enemy
-                dx = enemy_x - carrier_x
-                dy = enemy_y - carrier_y
-                
-                # Normalize and scale to get a position adjacent to the carrier
-                length = max(1, abs(dx) + abs(dy))
-                ndx = dx / length
-                ndy = dy / length
-                
-                # Calculate position 1 step from carrier toward enemy
-                screen_x = int(carrier_x + ndx)
-                screen_y = int(carrier_y + ndy)
-                
-                # Ensure within grid bounds
-                screen_x = max(0, min(screen_x, self.game.grid.width - 1))
-                screen_y = max(0, min(screen_y, self.game.grid.height - 1))
-                
-                # Add to potential positions
-                screening_positions.append((screen_x, screen_y))
         
         # Score each possible move
         move_scores = {}
@@ -134,50 +101,85 @@ class BlockerMovement:
             # Initialize score
             score = 0
             
-            # Priority 1: Screening positions get highest priority
-            if move in screening_positions:
-                score += 1000
+            # HIGHEST PRIORITY: Getting adjacent to a threatening enemy to block them
+            for enemy, dist in enemies_near_carrier:
+                enemy_x, enemy_y = enemy.position
                 
-            # Priority 2: Stay close to carrier
+                # Check if this move would put us adjacent to a threatening enemy
+                would_be_adjacent_to_enemy = manhattan_distance(move, enemy.position) == 1
+                
+                if would_be_adjacent_to_enemy:
+                    # Higher score for enemies closer to carrier (more threatening)
+                    threat_score = 10 - min(10, dist) 
+                    score += 1500 + (threat_score * 50)
+                    
+                    # If blocker has enough movement to block after moving, even better
+                    if blocker.movement - manhattan_distance(blocker.position, move) >= self.game.config.get("blocking_cost", 2):
+                        score += 500
+            
+            # SECOND PRIORITY: Blocking path between carrier and enemies
+            for enemy, dist in enemies_near_carrier:
+                enemy_x, enemy_y = enemy.position
+                
+                # Calculate vector from carrier to enemy
+                dx = enemy_x - carrier_x
+                dy = enemy_y - carrier_y
+                
+                # Check if this move would put us between carrier and enemy
+                is_between = False
+                
+                # Simple check: if we're on a line between carrier and enemy
+                # For simplicity, we'll check if move is on a grid line between them
+                if (min(carrier_x, enemy_x) <= move_x <= max(carrier_x, enemy_x) and
+                    min(carrier_y, enemy_y) <= move_y <= max(carrier_y, enemy_y)):
+                    
+                    # Calculate position on the line from carrier to enemy
+                    on_line = False
+                    
+                    # Horizontal line
+                    if carrier_y == enemy_y and move_y == carrier_y:
+                        on_line = True
+                    # Vertical line
+                    elif carrier_x == enemy_x and move_x == carrier_x:
+                        on_line = True
+                    # Diagonal line
+                    elif abs(carrier_x - enemy_x) == abs(carrier_y - enemy_y):
+                        # Check if on the same diagonal
+                        dx1 = move_x - carrier_x
+                        dy1 = move_y - carrier_y
+                        if abs(dx1) == abs(dy1) and dx1 * dx >= 0 and dy1 * dy >= 0:
+                            on_line = True
+                    
+                    if on_line:
+                        is_between = True
+                
+                if is_between:
+                    # Score is higher for more threatening enemies (closer to carrier)
+                    score += 1000 - (dist * 100)
+            
+            # THIRD PRIORITY: Stay close to carrier
             dist_to_carrier = manhattan_distance(move, carrier.position)
             carrier_proximity = 10 - min(10, dist_to_carrier)  # Higher for closer positions
-            score += carrier_proximity * 100
+            score += carrier_proximity * 80
             
-            # Priority 3: Forward position (relative to direction of carrier movement)
+            # FOURTH PRIORITY: Forward position (relative to direction of carrier movement)
+            # Less important now compared to blocking and protection
             if forward_dir == -1:  # Moving upward
                 forward_score = 10 - min(10, move_y)  # Higher for smaller y (closer to top)
             else:  # Moving downward
                 forward_score = min(10, move_y)  # Higher for larger y (closer to bottom)
                 
-            score += forward_score * 10
+            score += forward_score * 5
             
-            # Priority 4: Position to block enemies
-            for enemy, _ in enemies_near_carrier:
-                enemy_x, enemy_y = enemy.position
-                
-                # Calculate position of blocker relative to carrier and enemy
-                is_between = False
-                
-                # Check if blocker would be between carrier and enemy
-                if forward_dir == -1:  # Moving upward
-                    if move_y < carrier_y and move_y > enemy_y and abs(move_x - enemy_x) <= 1:
-                        is_between = True
-                else:  # Moving downward
-                    if move_y > carrier_y and move_y < enemy_y and abs(move_x - enemy_x) <= 1:
-                        is_between = True
-                        
-                if is_between:
-                    score += 200
-                    
             # Slight penalty for moving backward
             current_dist_to_goal = abs(blocker_y - target_y)
             new_dist_to_goal = abs(move_y - target_y)
             
             if new_dist_to_goal > current_dist_to_goal:
-                score -= 50
+                score -= 25
                 
             # Add some randomness
-            score += random.randint(-25, 25)
+            score += random.randint(-20, 20)
             
             # Store the score
             move_scores[move] = score
@@ -186,7 +188,19 @@ class BlockerMovement:
         if move_scores:
             best_move = max(move_scores.items(), key=lambda x: x[1])[0]
             DEBUG.log(f"Offensive blocker chose move {best_move} with score {move_scores[best_move]}")
-            return self.movement_system.move_goblin(blocker, best_move)
+            
+            # If this move puts us adjacent to an enemy, try to block after moving
+            move_successful = self.movement_system.move_goblin(blocker, best_move)
+            
+            if move_successful:
+                # Check if we can block an enemy after moving
+                if blocker.movement >= self.game.config.get("blocking_cost", 2):
+                    for enemy, _ in enemies_near_carrier:
+                        if self.is_adjacent(blocker, enemy):
+                            DEBUG.log(f"Offensive blocker {blocker.name} attempting to block {enemy.name} after moving")
+                            self.movement_system.attempt_block(blocker, enemy)
+                            return True
+                return True
             
         return False
         
@@ -215,43 +229,20 @@ class BlockerMovement:
         blocker_x, blocker_y = blocker.position
         carrier_x, carrier_y = carrier.position
         
-        # 1. If adjacent to carrier, try to block
+        # 1. If adjacent to carrier, ALWAYS try to block
         if self.is_adjacent(blocker, carrier) and blocker.movement >= self.game.config.get("blocking_cost", 2):
             DEBUG.log(f"Defensive blocker {blocker.name} attempting to block carrier {carrier.name}")
             if self.movement_system.attempt_block(blocker, carrier):
                 DEBUG.log(f"Block succeeded!")
                 return True
                 
-        # 2. If not adjacent to carrier but close enough, move toward carrier
+        # 2. If not adjacent to carrier but close enough, prioritize getting adjacent over intercepting
         distance_to_carrier = manhattan_distance(blocker.position, carrier.position)
-        
-        if distance_to_carrier <= 3:
-            DEBUG.log(f"Defensive blocker {blocker.name} pursuing carrier {carrier.name}")
-            
-            # Get possible moves
-            possible_moves = self.movement_system.get_possible_moves(blocker)
-            
-            # Find the best move toward carrier
-            best_move = None
-            best_distance = float('inf')
-            
-            for move in possible_moves:
-                distance = manhattan_distance(move, carrier.position)
-                if distance < best_distance:
-                    best_distance = distance
-                    best_move = move
-                    
-            if best_move:
-                return self.movement_system.move_goblin(blocker, best_move)
-                
-        # 3. If far from carrier, try to intercept
-        # Calculate where carrier is likely heading (based on team, moving toward end zone)
-        target_y = 0 if carrier.team == self.game.team1 else self.game.grid.height - 1
         
         # Get possible moves
         possible_moves = self.movement_system.get_possible_moves(blocker)
         
-        # Score each move
+        # Score each move with a high emphasis on getting adjacent to carrier
         move_scores = {}
         
         for move in possible_moves:
@@ -260,43 +251,53 @@ class BlockerMovement:
             # Initialize score
             score = 0
             
-            # Factor 1: Intercept path - position between carrier and their goal
-            # If carrier is team1 (moving up), blocker wants to be above carrier
-            # If carrier is team2 (moving down), blocker wants to be below carrier
-            is_intercepting = False
+            # Check if this move would put us adjacent to the carrier
+            would_be_adjacent = manhattan_distance(move, carrier.position) == 1
             
+            # HIGHEST PRIORITY: Get adjacent to carrier for blocking
+            if would_be_adjacent:
+                # Much higher score for positions that enable blocking
+                score += 2000
+                
+                # If blocker has enough movement to block after moving, even better
+                if blocker.movement - manhattan_distance(blocker.position, move) >= self.game.config.get("blocking_cost", 2):
+                    score += 1000
+            
+            # SECOND PRIORITY: Get as close as possible to carrier
+            distance = manhattan_distance(move, carrier.position)
+            proximity_score = 20 - min(20, distance)  # Higher for closer positions
+            score += proximity_score * 50
+                
+            # THIRD PRIORITY: Intercept path to end zone
+            target_y = 0 if carrier.team == self.game.team1 else self.game.grid.height - 1
+            
+            # Check if position is between carrier and their goal
+            is_intercepting = False
             if carrier.team == self.game.team1:
                 # Carrier moving up, blocker should be above (lower y)
                 if move_y < carrier_y:
                     is_intercepting = True
                     # Bonus for being in the same column or adjacent
                     if abs(move_x - carrier_x) <= 1:
-                        score += 300
+                        score += 200
             else:
                 # Carrier moving down, blocker should be below (higher y)
                 if move_y > carrier_y:
                     is_intercepting = True
                     # Bonus for being in the same column or adjacent
                     if abs(move_x - carrier_x) <= 1:
-                        score += 300
+                        score += 200
                         
             if is_intercepting:
-                score += 200
+                score += 150
                 
-            # Factor 2: Distance to carrier - closer is better, but not if we're already intercepting
-            if not is_intercepting:
-                dist_to_carrier = manhattan_distance(move, carrier.position)
-                proximity_score = 10 - min(10, dist_to_carrier)  # Higher for closer positions
-                score += proximity_score * 100
-                
-            # Factor 3: Position relative to end zone
-            # Defense should focus on positions between carrier and end zone
+            # Position relative to end zone
             dist_to_target = abs(move_y - target_y)
             dist_carrier_to_target = abs(carrier_y - target_y)
             
             if dist_to_target < dist_carrier_to_target:
                 # Position is between carrier and their goal
-                score += 150
+                score += 100
                 
             # Add some randomness
             score += random.randint(-25, 25)
@@ -308,7 +309,20 @@ class BlockerMovement:
         if move_scores:
             best_move = max(move_scores.items(), key=lambda x: x[1])[0]
             DEBUG.log(f"Defensive blocker chose move {best_move} with score {move_scores[best_move]}")
-            return self.movement_system.move_goblin(blocker, best_move)
+            
+            # If this move puts us adjacent to carrier, try to block after moving
+            if manhattan_distance(best_move, carrier.position) == 1:
+                # First move to the position
+                if self.movement_system.move_goblin(blocker, best_move):
+                    # Then check if we can still block
+                    if blocker.movement >= self.game.config.get("blocking_cost", 2) and self.is_adjacent(blocker, carrier):
+                        DEBUG.log(f"Defensive blocker {blocker.name} attempting to block carrier {carrier.name} after moving")
+                        self.movement_system.attempt_block(blocker, carrier)
+                        return True
+                    return True
+            else:
+                # Just move normally
+                return self.movement_system.move_goblin(blocker, best_move)
             
         return False
         

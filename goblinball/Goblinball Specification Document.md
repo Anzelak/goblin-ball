@@ -1,22 +1,5 @@
 # Goblinball Specification Document
 
-## Table of Contents
-
-1. [Game Overview](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#1-game-overview)
-2. [Technology Stack](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#2-technology-stack)
-3. [Core Game Systems](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#3-core-game-systems)
-4. [Data Structures](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#4-data-structures)
-5. [Game Flow](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#5-game-flow)
-6. [AI Systems](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#6-ai-systems)
-7. [UI Components](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#7-ui-components)
-8. [Project Structure](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#8-project-structure)
-9. [Running the Game](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#9-running-the-game)
-10. [Modular Design Approach](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#10-modular-design-approach)
-11. [Configuration Reference](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#11-configuration-reference)
-12. [Implementation Plan](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#12-implementation-plan)
-13. [Defensive Coding Guidelines](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#13-defensive-coding-guidelines)
-14. [Potential Issues and Challenges](https://claude.ai/chat/8b735f4e-0c7b-4504-a827-b28573e5a0ed#14-potential-issues-and-challenges)
-
 ## 1. Game Overview
 
 Goblinball is a turn-based sports simulation played on a 10x10 grid. Two teams of five goblins compete to score points by moving the ball to the opponent's end zone or kicking/throwing it through a central hoop. The game features blocking, dodging, injuries, and team tactics, and is designed to be entertaining to watch as an automated simulation.
@@ -56,35 +39,45 @@ Goblinball is a turn-based sports simulation played on a 10x10 grid. Two teams o
 ### 3.2 Goblin Attributes
 
 - **Name**: Generated unique name for each goblin
-- **Strength**: Used in blocking contests (1-10)
+- **Strength**: Used in blocking contests and determining block success (1-10)
 - **Toughness**: Used to resist injury (1-10)
+- **Agility**: Used in DUKE checks and to avoid blocks (1-10)
 - **Movement**: Squares a goblin can move per turn (1-4)
 - **Position**: Carrier (has ball) or Blocker (has cudgel)
 - **Momentum**: Builds up during successful actions (0-5)
-- **Block Skill**: Bonus to blocking attempts (0-2)
-- **Dodge Skill**: Bonus to dodging blocks (0-2)
 - **Injury Resistance**: Bonus to injury rolls (0-2)
 
 ### 3.3 Movement System
 
 - **Basic Movement**: Goblins can move up to their movement value in squares **per turn**
 - **Movement Points**: Goblins receive their full movement points at the beginning of **each turn**
-- **Zone of Control**: Blockers control adjacent squares
-- **Duke Check**: Required to move through controlled squares (Dodge+3 vs Strength)
+- **Zone of Control**: Blockers control adjacent squares (orthogonal and diagonal)
+- **DUKE Check**: Required to move through or leave controlled squares (using Agility)
+- **Failed DUKE Check**: Results in knockdown and potential injury
 - **Movement Styles**:
     - **Direct**: Straight path to target
     - **Flanking**: Approaches from the side
     - **Cautious**: Prioritizes safety over progress
     - **Aggressive**: Takes risks for big gains
     - **Deceptive**: Uses misdirection and unpredictable movement
+- **Carrier Movement Logic**:
+    - Evaluates multiple potential paths (direct, flanking, safe)
+    - Prioritizes paths based on progress toward end zone
+    - Checks for clear paths to the end zone
+    - Evaluates blocker screening for protection
+    - Avoids moving adjacent to defenders without sufficient protection
+- **Blocker Screening**:
+    - Blockers positioned between carrier and defenders create protection
+    - AI evaluates screening effectiveness for move selection
+    - Screens don't require action points (passive protection)
 
 ### 3.4 Blocking System
 
 - **Adjacent Requirement**: Blocker must be adjacent to target
 - **Movement Cost**: 2 movement points to initiate a block
 - **Resolution**:
-    - Blocker: Strength + d10 + Block Skill
-    - Defender: Strength + d10 + Dodge Skill (-3 if carrying ball)
+    - Blocker: Strength + d10
+    - Defender: Agility + d10 (-3 if carrying ball)
     - Results:
         - Tie: Bounce (no movement)
         - Win by 1-2: No effect
@@ -251,8 +244,6 @@ class Goblin:
         self.unavailable = False
         
         # Phase 3: Combat Stats
-        self.block_skill = random.randint(0, 2)  # Bonus to blocking attempts
-        self.dodge_skill = random.randint(0, 2)  # Bonus to dodging blocks
         self.injury_resistance = random.randint(0, 2)  # Bonus to injury rolls
         
         # Statistics - preserved between games for season tracking
@@ -546,8 +537,14 @@ Each play proceeds as follows:
     
     - Reset goblin movement points
     - Move carrier first
+        - Check for DUKE if leaving a zone of control
+        - Check for DUKE when moving through zones of control
     - Move offensive blockers
+        - Check for DUKE if leaving a zone of control
+        - Check for DUKE when moving through zones of control
     - Move defensive blockers
+        - Check for DUKE if leaving a zone of control
+        - Check for DUKE when moving through zones of control
     - Process blocks and dukes
     - Check for scoring
     - Check if play is complete
@@ -589,6 +586,9 @@ def move_carrier(self, carrier):
     while remaining_moves > 0 and targets:
         # Sort targets by priority
         targets = self.prioritize_targets(carrier, targets, goal)
+        
+        # Evaluate safety of each target using blocker positions as screens
+        targets = self.evaluate_move_safety(carrier, targets)
         
         # Try to move to the best target
         if self.move_toward_target(carrier, targets[0], remaining_moves):
@@ -671,16 +671,25 @@ def set_goblin_goal(self, goblin):
         target_y = 0 if goblin.team == self.team2 else self.grid_size - 1
         distance = abs(goblin.position[1] - target_y)
         
+        # Check for clear path to end zone
+        path_defender_count = self.count_defenders_in_path(goblin, target_y)
+        
+        # First check if very close to end zone, always prioritize scoring when close
         if distance <= 3:
             return "score_touchdown"
-        elif self.in_field_goal_range(goblin):
+        # Next check if in field goal range but path to end zone is blocked
+        elif self.in_field_goal_range(goblin) and path_defender_count >= 2:
             return "attempt_field_goal"
+        # Next check for clear path to end zone - be more aggressive
+        elif path_defender_count == 0:
+            # Clear path to end zone, prioritize direct scoring run
+            return "score_touchdown"
+        # Only evade if multiple defenders are nearby and active
+        elif self.count_nearby_opponents(goblin.position, goblin.team) >= 2:
+            return "evade_defenders"
+        # Default goal is to advance
         else:
-            defender_count = self.count_nearby_opponents(goblin.position, goblin.team)
-            if defender_count >= 2:
-                return "evade_defenders"
-            else:
-                return "advance_downfield"
+            return "advance_downfield"
     
     elif goblin.team == self.offense_team:
         # Offensive blocker goals
@@ -1532,3 +1541,645 @@ When adding new features to Goblinball:
     - Problem: Growing codebase might become unwieldy
     - Solution: Strict adherence to modular design principles
     - Mitigation: Regular refactoring sessions to maintain clean code
+
+## 15. Current Implementation Status
+
+### 15.1 Core Functionality
+
+The current implementation of Goblinball has achieved the following milestones:
+
+- **Complete Game Logic**: The core game systems are implemented and functional
+- **UI Visualization**: The game is visually playable with all key components displayed
+- **AI Behavior**: Basic AI decision-making is implemented for goblin actions
+- **Movement System**: Movement, blocking, and DUKE mechanisms are fully functional
+- **Event System**: Events are tracked and displayed in the game log
+
+Recent improvements include:
+
+- **Enhanced UI**: Improved visual feedback with symbols for DUKE, blocks, and knockdowns
+- **Better Visualization**: Arrows showing block attempts and results
+- **Hover Information**: Detailed information appears when hovering over goblins
+- **Improved Layout**: The game UI has been refactored for better readability with the event log positioned on the left side
+- **Bug Fixes**: Fixed carrier movement restrictions and movement trail visualization
+- **Logging**: Enhanced logging for debugging and game analysis
+
+### 15.2 Known Issues
+
+Several aspects of the implementation require attention:
+
+1. **DUKE Mechanic**: The DUKE mechanic implementation may not be working as intended (see detailed analysis in section 16.1)
+2. **Animation Speed**: Animations may be too fast for some game events
+3. **AI Decision-Making**: The AI sometimes makes suboptimal decisions, especially with blockers
+4. **UI Clarity**: Some game events could be more clearly visualized
+5. **Movement Trail**: The movement trail visualization could be improved
+
+## 16. Detailed Mechanic Analysis
+
+### 16.1 DUKE Mechanic Analysis
+
+The DUKE (Dodge Under Killer Enemies) mechanic is implemented in the `movement_system.py` file. Here's a detailed analysis of its implementation:
+
+#### How DUKE is Triggered
+
+DUKE checks are triggered in two scenarios:
+
+1. When a goblin attempts to **leave** a square that is within an opponent's zone of control
+2. When a goblin attempts to **move through** a square that is within an opponent's zone of control
+
+When a move is attempted, the system:
+
+1. First checks if the goblin is currently in any opponent's zone of control
+2. If so, a DUKE check is performed to see if the goblin can leave
+3. Then calculates a path from the current position to the target
+4. For each square along the path, checks if it's within any opponent's zone of control
+5. If so, additional DUKE checks are performed for each of these squares
+
+#### DUKE Check Calculation
+
+```python
+def perform_duke_check(self, goblin, blockers):
+    # Base success chance
+    success_chance = 0.5
+    
+    # Adjust for number of blockers (-10% per additional blocker)
+    success_chance -= (len(blockers) - 1) * 0.1
+    
+    # Adjust for goblin's agility (+10% per point)
+    success_chance += goblin.agility * 0.1
+    
+    # Ball carrier penalty (-20%)
+    if goblin.has_ball:
+        success_chance -= 0.2
+    
+    # Ensure chance is between 0.1 and 0.9
+    success_chance = max(0.1, min(0.9, success_chance))
+    
+    # Roll for success
+    success = random.random() < success_chance
+```
+
+#### Failed DUKE Consequences
+
+If a DUKE check fails:
+1. The goblin is knocked down
+2. If the goblin was carrying the ball, the ball is dropped and the play ends
+3. A knockdown event is created and dispatched
+4. The movement attempt fails, and the goblin stays in its current position
+
+#### AI Considerations
+
+The AI takes DUKE checks into account when determining possible moves:
+1. It calculates the success chance for each potential move
+2. Moves with a very low success chance (below 30%) are filtered out
+3. If a goblin is surrounded by opponents, the AI may choose to stay in place and block instead of attempting a risky move
+
+## 17. Future Improvements
+
+Based on the analysis of the current implementation and the user's feedback, here are detailed answers to the "What Could Be Better" questions:
+
+### 17.1 AI Nuance & Target Prioritization
+
+#### When a goblin has multiple potential targets, AI should prioritize as follows:
+
+1. **For Ball Carriers**:
+   - Prioritize targets based on clear path to end zone (fewest opponents in the way)
+   - When blocked, evaluate diagonal movement to find flanking opportunities
+   - Consider field position, weighting moves closer to the end zone higher
+   - Base risk-taking on score differential (more aggressive when behind)
+
+2. **For Offensive Blockers**:
+   - Prioritize targets that threaten the current ball carrier's path
+   - Target opponents with high strength who could easily knock down the carrier
+   - Position to form protective formations around the carrier
+   - Block defenders who are in ideal intercept positions
+
+3. **For Defensive Blockers**:
+   - Prioritize direct interception of the ball carrier
+   - Target the squares the carrier must move through to reach the end zone
+   - Prioritize blocking support blockers before targeting the carrier directly
+   - Position to maintain a defense in depth, especially near the end zone
+
+#### Conflicting Goal Resolution:
+
+The AI should use a weighted decision system where:
+1. **Primary goal weight**: 0.7 (e.g., protect_carrier)
+2. **Opportunity goal weight**: 0.3 (e.g., block_defender)
+3. **Contextual modifiers**:
+   - +0.2 to opportunity weight if success chance > 70%
+   - +0.1 to primary goal if carrier is within 3 squares of end zone
+   - Shift weights based on score differential (more aggressive when behind)
+
+#### Movement Style Factors:
+
+1. **Game State Factors**:
+   - Score differential: More aggressive when behind, more cautious when ahead
+   - Turn number: More aggressive in later turns
+   - Field position: More aggressive near opposing end zone, more cautious near own end zone
+
+2. **Team Situation**:
+   - Number of knocked down teammates: More cautious with many casualties
+   - Ball carrier strength: More aggressive with stronger carrier
+   - Opponent positioning: More deceptive when multiple opponents nearby
+
+3. **Specific Modifiers**:
+   - When score is tied with few turns left: +0.3 to aggressive style
+   - When protecting a lead in final turns: +0.3 to cautious style
+   - When path to end zone is clear: +0.2 to direct style
+
+#### Pathfinding When Blocked:
+
+1. **First Attempt**: Try to find a path around the blockage using A* pathfinding
+2. **If No Path**: Evaluate if blocking the blocker is viable
+3. **If Blocked Completely**: 
+   - Carrier: Change goal to "evade_defenders" and move laterally
+   - Blockers: Change goal to "create_opening" and target the blocking opponent
+4. **Timeout Prevention**: After three failed movement attempts, switch to a completely different approach or pass to another goblin
+
+### 17.2 Formation Implementation
+
+#### Specific Starting Positions:
+
+1. **Standard Formation**:
+   - Carrier: (5, 9) for Team 1 or (5, 0) for Team 2
+   - Blockers: (3, 8), (7, 8), (4, 7), (6, 7) for Team 1
+   - Blockers: (3, 1), (7, 1), (4, 2), (6, 2) for Team 2
+
+2. **Wedge Formation**:
+   - Carrier: (5, 9) for Team 1 or (5, 0) for Team 2
+   - Blockers: (4, 8), (6, 8), (3, 7), (7, 7) for Team 1
+   - Blockers: (4, 1), (6, 1), (3, 2), (7, 2) for Team 2
+
+3. **Spread Formation**:
+   - Carrier: (5, 9) for Team 1 or (5, 0) for Team 2
+   - Blockers: (2, 8), (8, 8), (3, 7), (7, 7) for Team 1
+   - Blockers: (2, 1), (8, 1), (3, 2), (7, 2) for Team 2
+
+4. **Bunker Formation**:
+   - Carrier: (5, 9) for Team 1 or (5, 0) for Team 2
+   - Blockers: (4, 8), (6, 8), (3, 8), (7, 8) for Team 1
+   - Blockers: (4, 1), (6, 1), (3, 1), (7, 1) for Team 2
+
+5. **Blitz Formation**:
+   - Carrier: (5, 8) for Team 1 or (5, 1) for Team 2
+   - Blockers: (3, 7), (7, 7), (4, 6), (6, 6) for Team 1
+   - Blockers: (3, 2), (7, 2), (4, 3), (6, 3) for Team 2
+
+#### Formation Influence on AI:
+
+Formations should influence AI behavior beyond starting positions:
+
+1. **Standard**: Balanced approach with even weighting of styles
+2. **Wedge**: 
+   - Blockers prioritize maintaining the V-shape
+   - Middle blockers focus on clearing direct path
+   - Wing blockers protect against flanking attempts
+   - All blockers get +0.2 to "direct" movement style
+
+3. **Spread**:
+   - Blockers maintain wider spacing (avoid clustering)
+   - Each blocker is responsible for a zone of the field
+   - +0.2 to "flanking" movement style
+   - Emphasis on controlling space rather than direct blocking
+
+4. **Bunker**:
+   - Blockers prioritize staying between carrier and opponents
+   - Strong defensive emphasis with +0.3 to "cautious" style
+   - Blocking attempts are more selective
+   - Focus on protecting carrier rather than advancing
+
+5. **Blitz**:
+   - All goblins get +0.3 to "aggressive" style
+   - Higher priority for blocks, even at risk
+   - Faster advancement with less concern for protection
+   - Prioritize knocking down opponents over position
+
+### 17.3 Field Goal Specifics
+
+#### Field Goal Mechanics:
+
+1. **Initiation**:
+   - Field goal attempts should cost 2 movement points
+   - The carrier must have line of sight to the goal
+   - Attempting ends the carrier's turn
+   - The action should be automated when the carrier is within range and has no clear path to touchdown
+
+2. **Success Factors**:
+   - Base success chance of 50% at maximum range (3 squares)
+   - +10% per square closer to the goal
+   - -5% per adjacent enemy goblin (representing defensive pressure)
+   - +5% per point of the carrier's strength (representing throwing power)
+   - -10% if the carrier was moved this turn (representing being rushed)
+
+3. **Visual Representation**:
+   - Throw arc animation from carrier to goal
+   - Ball spinning in flight
+   - Flash effect for success or "thunk" effect for failure
+   - Camera focus shift to the goal area during attempt
+
+### 17.4 Momentum Impact
+
+#### Momentum Generation:
+
+1. **Gaining Momentum**:
+   - +1 for successful block
+   - +1 for successful DUKE
+   - +2 for causing knockdown
+   - +3 for scoring touchdown
+   - +1 for field goal
+   - +1 for moving 3+ squares in a single turn
+
+2. **Effects**:
+   - Each point provides +5% to block success
+   - Each point provides +5% to DUKE success
+   - Each point reduces injury chance by 5%
+   - At 3+ momentum, unlock special moves (extra block, longer move)
+   - At 5 momentum, all actions get +10% success chance
+
+3. **Loss Conditions**:
+   - Reset to 0 when knocked down
+   - -1 when blocked unsuccessfully
+   - -2 when failing a DUKE check
+   - All momentum reset at end of play
+   - -1 per turn if no action taken
+
+### 17.5 UI/Animation Detail
+
+#### Visual Cues for States:
+
+1. **Dazed**:
+   - Small stars circling the goblin's head
+   - Slightly wobbling animation
+   - 50% opacity "Dazed" text above the goblin
+   - Yellow outline pulsing slowly
+
+2. **Minor Injury**:
+   - Bandage overlay on the goblin
+   - Limping animation when moving
+   - Red cross icon above goblin
+   - Reduced movement speed in animations
+
+3. **Knocked Down**:
+   - Goblin lying flat on the ground
+   - Small "X" eyes
+   - Dust cloud animation on knockdown
+   - Team-colored ring around the goblin (not just red for all teams)
+
+#### Block Animation Distinctions:
+
+1. **Push**:
+   - Orange arrow showing push direction
+   - "Push" text appearing briefly
+   - Short sliding animation for pushed goblin
+   - Sound effect of scuffling/shoving
+
+2. **Knockdown**:
+   - Red impact star at point of contact
+   - "Knockdown" text with "!" suffix
+   - Falling animation with spin
+   - Louder impact sound effect
+
+3. **Successful DUKE**:
+   - Green trail showing the evasion path
+   - Brief speed lines around the moving goblin
+   - "Duke!" text appearing with glow effect
+   - Quick sidestep animation
+
+4. **Field Goal**:
+   - Ball arc following a parabolic path
+   - Camera panning to follow the ball
+   - Goal flashing when scored
+   - Cheering sound effect for success
+
+#### Essential UI Elements:
+
+1. **Always Visible**:
+   - Score for both teams
+   - Current play/turn counter
+   - Offense team indicator
+   - Time remaining/turns remaining
+   - Ball carrier highlight
+   - Team formation names
+
+2. **Context Sensitive**:
+   - Current goblin's action points
+   - Success chances for blocks/DUKEs
+   - Field goal range indicator
+   - Zone of control visualization on hover
+   - Recent event summary
+
+## 18. Troubleshooting and Implementation Notes
+
+### 18.1 Common Issues and Resolutions
+
+#### Movement Issues
+
+- **Carrier Not Advancing**: If the carrier seems overly cautious or trapped:
+  - Check for proper blocker positioning (blockers should be positioned to screen defenders)
+  - Verify that `count_defenders_in_path` is correctly assessing the path to the end zone
+  - Ensure the `evaluate_move_safety` method isn't being too restrictive with safety requirements
+
+- **Defender AI Problems**: If defenders aren't effectively tackling the carrier:
+  - Check the DUKE mechanics implementation in `movement_system.py`
+  - Verify that blocking costs are appropriate in the config (currently set to 1)
+  - Ensure defenders are using appropriate movement styles for their goals
+
+#### Blocking Issues
+
+- **Ineffective Blocking**: If blockers aren't protecting the carrier effectively:
+  - Verify blocker goal assignment in `set_goblin_goal` is prioritizing protection
+  - Check that offensive blockers are positioning themselves between defenders and carrier
+  - Ensure the `evaluate_move_safety` method is correctly identifying screening blockers
+
+- **Excessive Blocking**: If blockers are too focused on hitting defenders instead of screening:
+  - Adjust the `ai_blocking_preference` in the config
+  - Modify goal weighting in the `AIGoalSystem`
+  - Consider reducing the reward for successful blocks
+
+### 18.2 Key Implementation Details
+
+#### Critical AI Functions
+
+The AI system revolves around these key components:
+
+1. **Goal Setting (`set_goblin_goal` in `ai_goals.py`)**
+   - Determines what each goblin is trying to accomplish
+   - Uses field position, defender count, and team role
+   - Critical for coordinating team behavior
+
+2. **Movement Style Selection (`choose_movement_style` in `ai_goals.py`)**
+   - Influences how goblins move toward their goals
+   - Balances directness, caution, and aggression
+   - Adjusts based on goal and game situation
+
+3. **Path Generation (`get_direct_path`, `get_flanking_paths`, `get_safe_paths` in `carrier_movement.py`)**
+   - Creates potential movement paths based on style
+   - Critical for finding routes through defenders
+   - Adapts to defensive formations
+
+4. **Move Safety Evaluation (`evaluate_move_safety` in `carrier_movement.py`)**
+   - Assesses how well protected each potential move is
+   - Identifies where blockers are creating screens
+   - Balances progress with protection
+
+### 18.3 Interdependencies
+
+Important codebase interdependencies to be aware of:
+
+1. **Movement and Blocking**
+   - The `movement_system.py` handles both movement and blocking
+   - DUKE checks occur within movement but impact blocking strategy
+   - Blocking costs affect both offensive and defensive strategy
+
+2. **Goal System and Movement**
+   - Goals set in `ai_goals.py` directly influence movement in `carrier_movement.py` and `blocker_movement.py`
+   - Changes to goal priority impact entire game flow
+   - Movement styles are determined by goals
+
+3. **Config Parameters**
+   - Key config values that affect gameplay:
+     - `blocking_cost`: Cost to attempt a block (reduced from 2 to 1)
+     - `push_threshold`: Threshold for pushing back an opponent
+     - `knockdown_threshold`: Threshold for knocking down an opponent
+     - `carrier_penalty`: Penalty applied to carrier in DUKE/block contests
+     - `movement_style_weights`: Base weights for different movement styles
+
+## 19. Recent Enhancements
+
+The following key enhancements have been made to the Goblinball codebase to improve gameplay dynamics and AI behavior:
+
+### 19.1 Carrier Movement Improvements
+
+#### Clear Path Detection
+- Added logic to detect when a clear path to the end zone exists
+- Carrier now prioritizes direct movement toward the end zone when path is clear
+- Implemented in `move_carrier` method of `CarrierMovement` class
+
+```python
+# Check if there's a clear path to the end zone
+has_clear_path = True
+path_to_end = []
+
+# Calculate path to end zone
+# [path calculation logic...]
+
+# Check if each square in path is empty or has a knocked down opponent
+for pos in path_to_end:
+    entity = self.game.grid.get_entity_at_position(pos)
+    if entity and (not hasattr(entity, 'team') or entity.team == carrier.team or not entity.knocked_down):
+        has_clear_path = False
+        break
+
+# If clear path exists, prioritize direct movement
+if has_clear_path and carrier.movement > 0:
+    # Find the farthest point we can reach
+    reachable_path = [pos for pos in path_to_end if manhattan_distance(carrier.position, pos) <= carrier.movement]
+    if reachable_path:
+        target_pos = reachable_path[-1]
+        # [safety check and movement logic...]
+```
+
+#### Blocker Screening System
+- Implemented safety evaluation for all potential moves
+- Carrier now identifies and prioritizes positions screened by friendly blockers
+- Added in `evaluate_move_safety` method of `CarrierMovement` class
+
+#### Adaptive Path Selection
+- Path selection now adapts based on number of active defenders
+- More direct/aggressive paths when few defenders are active
+- More cautious paths when many defenders are present
+
+### 19.2 AI Decision Making Enhancements
+
+#### Goal System Improvements
+- Enhanced goal selection logic in `AIGoalSystem`
+- Added `count_defenders_in_path` to assess path clarity to end zone
+- Goal prioritization now considers clear paths to end zone
+
+```python
+# Carrier goal selection logic
+path_defender_count = self.count_defenders_in_path(goblin, target_y)
+
+if distance <= 3:
+    return "score_touchdown"
+elif self.in_field_goal_range(goblin) and path_defender_count >= 2:
+    return "attempt_field_goal"
+elif path_defender_count == 0:
+    # Clear path, prioritize scoring
+    return "score_touchdown"
+```
+
+#### Move Scoring System
+- Implemented comprehensive move scoring based on multiple factors:
+  - Base priority score (3 for direct path, 2 for flanking, 1 for safe)
+  - Safety score from blocker screening
+  - Progress toward end zone
+  - Distance from current position
+
+```python
+# Move scoring logic
+base_score = priority * 10.0
+safety_score = self.evaluate_move_safety(carrier, move)
+progress_score = 10.0 - abs(move[1] - target_y) / self.game.grid.height * 10.0
+distance_score = (carrier.movement - distance) * 0.2
+total_score = base_score + safety_score + progress_score + distance_score
+```
+
+### 19.3 Game Balance Adjustments
+
+#### Configuration Changes
+- Reduced `blocking_cost` from 2 to 1 movement points
+- This change allows more frequent blocking attempts
+- Makes defense more effective against carriers
+
+#### Lateral Movement Improvements
+- Enhanced fallback logic for when direct movement isn't possible
+- Carrier now evaluates lateral moves based on safety
+- Prevents carriers from becoming trapped when blocked
+
+### 19.4 Safety Checking Logic
+
+#### Defender Proximity Checks
+- Added safety validation before movement:
+```python
+# Count defenders near the target position
+defenders_near_target = 0
+for dx in range(-1, 2):
+    for dy in range(-1, 2):
+        check_pos = (target_pos[0] + dx, target_pos[1] + dy)
+        if 0 <= check_pos[0] < self.game.grid.width and 0 <= check_pos[1] < self.game.grid.height:
+            entity = self.game.grid.get_entity_at_position(check_pos)
+            if entity and hasattr(entity, 'team') and entity.team != carrier.team and not entity.knocked_down:
+                defenders_near_target += 1
+
+# Only take clear path if safe
+if defenders_near_target == 0:
+    # [movement logic...]
+```
+
+#### Screen Effectiveness Calculation
+- Implemented detailed logic to determine if a blocker is effectively screening a defender:
+```python
+# Check if blocker is screening a defender
+dx = defender.position[0] - move_pos[0]
+dy = defender.position[1] - move_pos[1]
+
+# Calculate expected screening position
+if dx != 0:
+    expected_x = move_pos[0] + (1 if dx > 0 else -1)
+else:
+    expected_x = move_pos[0]
+    
+if dy != 0:
+    expected_y = move_pos[1] + (1 if dy > 0 else -1)
+else:
+    expected_y = move_pos[1]
+
+# Check if blocker is at or near expected position
+blocker_screens = (abs(blocker_x - expected_x) <= 1 and abs(blocker_y - expected_y) <= 1)
+```
+
+These enhancements collectively improve the strategic depth and realism of the game, ensuring carriers make intelligent use of blockers while creating exciting gameplay moments when defenders are knocked down, opening paths to the end zone.
+
+## 10. Game Mechanics
+
+### 10.1 Blocker Screening
+
+Blockers can perform two forms of blocking:
+
+1. **Active Blocking:** A goblin action that costs movement points and requires a skill check to knock down an opponent.
+2. **Passive Screening:** Blockers positioned between the carrier and defenders act as screens, providing protection without requiring a skill check.
+
+The carrier AI evaluates potential moves not just by distance to the end zone, but also by how well screened those positions are. When choosing moves, the carrier will:
+
+1. Identify potential threat vectors from nearby defenders
+2. Calculate positions where friendly blockers provide screening protection
+3. Prioritize paths where blockers form a protective screen
+4. Avoid moving adjacent to defenders unless sufficiently screened by friendly blockers
+
+This creates a more realistic and strategic gameplay experience where the offense coordinates carrier movement with blocker positioning, similar to blocking and screening concepts in physical sports.
+
+### 10.2 Path Evaluation Logic
+
+The carrier's movement AI uses several factors to evaluate potential moves:
+
+1. **Progress Value:** Positions closer to the end zone receive higher scores
+2. **Safety Score:** Positions with better blocker screening receive higher scores
+3. **Defender Proximity:** Positions adjacent to active defenders are penalized
+4. **Clear Path Detection:** When no defenders are in a direct path to the end zone, the carrier will prioritize direct movement
+
+The carrier will adapt its strategy based on the game situation:
+- With few defenders on the field, the carrier will move more directly toward the end zone
+- With many active defenders, the carrier will seek protective screens from blockers
+- In scoring range with a clear path, the carrier will sprint toward the end zone
+
+These mechanics encourage strategic team formations and proper use of blockers as protection for the ball carrier.
+
+### 10.3 Carrier Movement Evaluation
+
+The carrier's movement evaluation process follows these steps:
+
+1. **Goal Setting**: Determine the carrier's goal based on field position and game state
+2. **Style Selection**: Choose a movement style based on goal and defender positions
+3. **Path Generation**: Generate potential paths (direct, flanking, safe)
+4. **Safety Evaluation**: For each potential position:
+   - Count nearby defenders
+   - Check if friendly blockers are screening those defenders
+   - Calculate a safety score based on screening effectiveness
+5. **Final Scoring**: Combine safety score with progress toward end zone
+6. **Move Selection**: Choose the position with the highest combined score
+7. **Clear Path Check**: Override with direct movement if a clear path to the end zone exists
+
+The `evaluate_move_safety` method performs a detailed analysis of each potential move:
+
+```python
+def evaluate_move_safety(self, carrier, move_pos):
+    safety_score = 0.0
+    
+    # Get all defenders and friendly blockers
+    defenders = [entity for entity in all_entities if entity.team != carrier.team]
+    blockers = [entity for entity in all_entities if entity.team == carrier.team and entity != carrier]
+    
+    # For each defender, check if screened by a blocker
+    for defender in defenders:
+        def_distance = manhattan_distance(defender.position, move_pos)
+        
+        if def_distance <= 3:  # Only consider nearby defenders
+            # Check if screened by a blocker
+            is_screened = any(
+                manhattan_distance(blocker.position, expected_screening_position) <= 1
+                for blocker in blockers
+            )
+            
+            # Adjust safety score
+            if is_screened:
+                safety_score += 2.0  # Bonus for being screened
+            else:
+                safety_score -= 1.0  # Penalty for being exposed
+                
+    return safety_score
+```
+
+This evaluation ensures carriers make intelligent use of blockers for protection.
+
+### 10.4 Defender Count and Path Adaptation
+
+The carrier's path selection adapts based on the number of active defenders:
+
+```python
+def get_direct_path(self, carrier, target_pos):
+    # Count active defenders on the field
+    active_defenders = sum(
+        1 for entity in all_entities 
+        if entity.team != carrier.team and not entity.knocked_down
+    )
+    
+    # Generate more direct paths if few defenders are active
+    if active_defenders <= 1:
+        # More aggressive, direct path calculation
+        # [implementation details]
+    else:
+        # More cautious path calculation
+        # [implementation details]
+```
+
+This adaptive behavior creates dynamic gameplay where the carrier becomes more aggressive when defenders are knocked down, leading to exciting late-game situations.

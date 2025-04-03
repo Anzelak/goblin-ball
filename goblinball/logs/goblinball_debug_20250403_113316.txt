@@ -1,0 +1,78 @@
+[11:33:16.355] [INFO] === Goblinball Debug Log - 20250403_113316 ===
+[11:33:16.355] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113316.txt
+[11:33:16.376] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:33:18.063] [INFO] Moving carrier Globcrusher with 3 movement points
+[11:33:18.063] [INFO] Goblin Globcrusher moved from (4, 8) to (5, 7)
+[11:33:18.063] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:33:18.063] [INFO] Carrier Globcrusher moved to (5, 7)
+[11:33:18.063] [INFO] Moving offensive blocker Splatnose Skullcut with 2 movement points
+[11:33:18.066] [INFO] Offensive blocker chose move (3, 7) with score 669
+[11:33:18.066] [INFO] Goblin Splatnose Skullcut moved from (2, 8) to (3, 7)
+[11:33:18.066] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:33:18.066] [INFO] Moving offensive blocker Skabface the Brutal with 1 movement points
+[11:33:18.066] [INFO] Offensive blocker chose move (6, 7) with score 747
+[11:33:18.066] [INFO] Goblin Skabface the Brutal moved from (6, 8) to (6, 7)
+[11:33:18.066] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:33:18.066] [INFO] Moving offensive blocker Grakstabber Hartie with 1 movement points
+[11:33:18.066] [INFO] Offensive blocker chose move (7, 8) with score 574
+[11:33:18.066] [INFO] Goblin Grakstabber Hartie moved from (8, 8) to (7, 8)
+[11:33:18.066] [INFO] Movement trail: [(8, 8), (7, 8)]
+[11:33:18.066] [INFO] Moving offensive blocker Grakbiter T’Variuness with 1 movement points
+[11:33:18.067] [INFO] Offensive blocker chose move (8, 8) with score 487
+[11:33:18.067] [INFO] Goblin Grakbiter T’Variuness moved from (9, 8) to (8, 8)
+[11:33:18.067] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:33:18.067] [INFO] Moving defensive blocker Krakstomper with 3 movement points
+[11:33:18.067] [INFO] Defensive blocker chose move (4, 2) with score 1143
+[11:33:18.067] [INFO] Goblin Krakstomper moved from (2, 1) to (4, 2)
+[11:33:18.067] [INFO] Movement trail: [(2, 1), (4, 2)]
+[11:33:18.067] [INFO] Moving defensive blocker Gutslicer Kzat the Mighty with 3 movement points
+[11:33:18.067] [INFO] Defensive blocker chose move (5, 3) with score 1268
+[11:33:18.067] [INFO] Goblin Gutslicer Kzat the Mighty moved from (4, 1) to (5, 3)
+[11:33:18.067] [INFO] Movement trail: [(4, 1), (5, 3)]
+[11:33:18.067] [INFO] Moving defensive blocker Fizzskull with 3 movement points
+[11:33:18.068] [INFO] Defensive blocker chose move (6, 4) with score 1235
+[11:33:18.068] [INFO] Goblin Fizzskull moved from (6, 1) to (6, 4)
+[11:33:18.068] [INFO] Movement trail: [(6, 1), (6, 4)]
+[11:33:18.068] [INFO] Moving defensive blocker Fizzchewer the Brutal with 2 movement points
+[11:33:18.068] [INFO] Defensive blocker chose move (6, 1) with score 1122
+[11:33:18.068] [INFO] Goblin Fizzchewer the Brutal moved from (8, 1) to (6, 1)
+[11:33:18.068] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:33:18.068] [INFO] Moving defensive blocker Grubgulper Busma the Sly with 1 movement points
+[11:33:18.068] [INFO] Defensive blocker chose move (9, 2) with score 819
+[11:33:18.068] [INFO] Goblin Grubgulper Busma the Sly moved from (9, 1) to (9, 2)
+[11:33:18.068] [INFO] Movement trail: [(9, 1), (9, 2)]
+[11:33:18.673] [INFO] Moving carrier Globcrusher with 3 movement points
+[11:33:18.673] [INFO] Goblin Globcrusher moved from (5, 7) to (5, 6)
+[11:33:18.673] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[11:33:18.673] [INFO] Carrier Globcrusher moved to (5, 6)
+[11:33:18.673] [INFO] Moving offensive blocker Splatnose Skullcut with 2 movement points
+[11:33:18.673] [INFO] Offensive blocker chose move (4, 6) with score 747
+[11:33:18.673] [INFO] Goblin Splatnose Skullcut moved from (3, 7) to (4, 6)
+[11:33:18.673] [INFO] Movement trail: [(2, 8), (3, 7), (4, 6)]
+[11:33:18.673] [INFO] Moving offensive blocker Skabface the Brutal with 1 movement points
+[11:33:18.673] [INFO] Offensive blocker chose move (6, 6) with score 742
+[11:33:18.673] [INFO] Goblin Skabface the Brutal moved from (6, 7) to (6, 6)
+[11:33:18.673] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6)]
+[11:33:18.673] [INFO] Moving offensive blocker Grakstabber Hartie with 1 movement points
+[11:33:18.673] [INFO] Offensive blocker chose move (7, 7) with score 581
+[11:33:18.673] [INFO] Goblin Grakstabber Hartie moved from (7, 8) to (7, 7)
+[11:33:18.673] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7)]
+[11:33:18.673] [INFO] Moving offensive blocker Grakbiter T’Variuness with 1 movement points
+[11:33:18.673] [INFO] Offensive blocker chose move (8, 7) with score 482
+[11:33:18.673] [INFO] Goblin Grakbiter T’Variuness moved from (8, 8) to (8, 7)
+[11:33:18.673] [INFO] Movement trail: [(9, 8), (8, 8), (8, 7)]
+[11:33:18.673] [INFO] Moving defensive blocker Krakstomper with 3 movement points
+[11:33:18.674] [INFO] Defensive blocker chose move (4, 5) with score 1357
+[11:33:18.674] [INFO] Goblin Krakstomper moved from (4, 2) to (4, 5)
+[11:33:18.674] [INFO] Movement trail: [(2, 1), (4, 2), (4, 5)]
+[11:33:18.674] [INFO] Moving defensive blocker Gutslicer Kzat the Mighty with 3 movement points
+[11:33:18.674] [INFO] Defensive blocker chose move (5, 5) with score 4411
+[11:33:18.674] [INFO] Goblin Gutslicer Kzat the Mighty moved from (5, 3) to (5, 5)
+[11:33:18.674] [INFO] Movement trail: [(4, 1), (5, 3), (5, 5)]
+[11:33:18.674] [INFO] Defensive blocker Gutslicer Kzat the Mighty attempting to block carrier Globcrusher after moving
+[11:33:18.674] [INFO] Moving offensive blocker Fizzskull with 3 movement points
+[11:33:18.674] [INFO] No carrier found for team Skullsmashers!
+[11:33:18.674] [INFO] Moving offensive blocker Fizzchewer the Brutal with 2 movement points
+[11:33:18.674] [INFO] No carrier found for team Skullsmashers!
+[11:33:18.674] [INFO] Moving offensive blocker Grubgulper Busma the Sly with 1 movement points
+[11:33:18.674] [INFO] No carrier found for team Skullsmashers!

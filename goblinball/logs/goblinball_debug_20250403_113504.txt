@@ -1,0 +1,718 @@
+[11:35:04.569] [INFO] === Goblinball Debug Log - 20250403_113504 ===
+[11:35:04.569] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113504.txt
+[11:35:04.590] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:35:05.896] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:05.896] [INFO] Goblin Skabfoot moved from (4, 8) to (3, 8)
+[11:35:05.896] [INFO] Movement trail: [(4, 8), (3, 8)]
+[11:35:05.896] [INFO] Carrier Skabfoot moved to (3, 8)
+[11:35:05.897] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:05.897] [INFO] Offensive blocker chose move (3, 7) with score 748
+[11:35:05.897] [INFO] Goblin Lugfist moved from (2, 8) to (3, 7)
+[11:35:05.897] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:35:05.897] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:05.898] [INFO] Offensive blocker chose move (2, 8) with score 715
+[11:35:05.898] [INFO] Goblin Stabstabber moved from (6, 8) to (2, 8)
+[11:35:05.898] [INFO] Movement trail: [(6, 8), (2, 8)]
+[11:35:05.898] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:05.898] [INFO] Offensive blocker chose move (6, 8) with score 550
+[11:35:05.898] [INFO] Goblin Skabslicer Yang the Mighty moved from (8, 8) to (6, 8)
+[11:35:05.898] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:35:05.898] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:05.898] [INFO] Offensive blocker chose move (7, 8) with score 476
+[11:35:05.898] [INFO] Goblin Skabgulper moved from (9, 8) to (7, 8)
+[11:35:05.898] [INFO] Movement trail: [(9, 8), (7, 8)]
+[11:35:05.898] [INFO] Moving defensive blocker Snotbiter Strolan with 2 movement points
+[11:35:05.898] [INFO] Defensive blocker chose move (3, 2) with score 1156
+[11:35:05.899] [INFO] Goblin Snotbiter Strolan moved from (2, 1) to (3, 2)
+[11:35:05.899] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:35:05.899] [INFO] Moving defensive blocker Skrizbiter Glenn with 2 movement points
+[11:35:05.899] [INFO] Defensive blocker chose move (4, 3) with score 1163
+[11:35:05.899] [INFO] Goblin Skrizbiter Glenn moved from (4, 1) to (4, 3)
+[11:35:05.899] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:35:05.899] [INFO] Moving defensive blocker Krunkface the Brutal with 3 movement points
+[11:35:05.899] [INFO] Defensive blocker chose move (4, 2) with score 1102
+[11:35:05.899] [INFO] Goblin Krunkface the Brutal moved from (6, 1) to (4, 2)
+[11:35:05.899] [INFO] Movement trail: [(6, 1), (4, 2)]
+[11:35:05.899] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:05.899] [INFO] Defensive blocker chose move (7, 1) with score 722
+[11:35:05.899] [INFO] Goblin Fizznose moved from (8, 1) to (7, 1)
+[11:35:05.899] [INFO] Movement trail: [(8, 1), (7, 1)]
+[11:35:05.899] [INFO] Moving defensive blocker Thrakmangler with 3 movement points
+[11:35:05.899] [INFO] Defensive blocker chose move (6, 1) with score 770
+[11:35:05.899] [INFO] Goblin Thrakmangler moved from (9, 1) to (6, 1)
+[11:35:05.899] [INFO] Movement trail: [(9, 1), (6, 1)]
+[11:35:06.324] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:06.324] [INFO] Goblin Skabfoot moved from (3, 8) to (4, 8)
+[11:35:06.324] [INFO] Movement trail: [(4, 8), (3, 8), (4, 8)]
+[11:35:06.324] [INFO] Carrier Skabfoot moved to lateral position (4, 8)
+[11:35:06.324] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:06.324] [INFO] Offensive blocker chose move (4, 7) with score 729
+[11:35:06.324] [INFO] Goblin Lugfist moved from (3, 7) to (4, 7)
+[11:35:06.324] [INFO] Movement trail: [(2, 8), (3, 7), (4, 7)]
+[11:35:06.324] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:06.324] [INFO] Offensive blocker chose move (5, 8) with score 745
+[11:35:06.324] [INFO] Goblin Stabstabber moved from (2, 8) to (5, 8)
+[11:35:06.324] [INFO] Movement trail: [(6, 8), (2, 8), (5, 8)]
+[11:35:06.324] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:06.324] [INFO] Offensive blocker chose move (5, 7) with score 645
+[11:35:06.324] [INFO] Goblin Skabslicer Yang the Mighty moved from (6, 8) to (5, 7)
+[11:35:06.324] [INFO] Movement trail: [(8, 8), (6, 8), (5, 7)]
+[11:35:06.324] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:06.324] [INFO] Offensive blocker chose move (6, 8) with score 658
+[11:35:06.324] [INFO] Goblin Skabgulper moved from (7, 8) to (6, 8)
+[11:35:06.325] [INFO] Movement trail: [(9, 8), (7, 8), (6, 8)]
+[11:35:06.325] [INFO] Moving defensive blocker Snotbiter Strolan with 2 movement points
+[11:35:06.325] [INFO] Defensive blocker chose move (3, 4) with score 1180
+[11:35:06.325] [INFO] Goblin Snotbiter Strolan moved from (3, 2) to (3, 4)
+[11:35:06.325] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4)]
+[11:35:06.325] [INFO] Moving defensive blocker Skrizbiter Glenn with 2 movement points
+[11:35:06.325] [INFO] Defensive blocker chose move (4, 5) with score 1299
+[11:35:06.325] [INFO] Goblin Skrizbiter Glenn moved from (4, 3) to (4, 5)
+[11:35:06.325] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5)]
+[11:35:06.325] [INFO] Moving defensive blocker Krunkface the Brutal with 3 movement points
+[11:35:06.325] [INFO] Defensive blocker chose move (4, 4) with score 1275
+[11:35:06.325] [INFO] Goblin Krunkface the Brutal moved from (4, 2) to (4, 4)
+[11:35:06.325] [INFO] Movement trail: [(6, 1), (4, 2), (4, 4)]
+[11:35:06.325] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:06.325] [INFO] Defensive blocker chose move (7, 2) with score 793
+[11:35:06.325] [INFO] Goblin Fizznose moved from (7, 1) to (7, 2)
+[11:35:06.325] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2)]
+[11:35:06.325] [INFO] Moving defensive blocker Thrakmangler with 3 movement points
+[11:35:06.325] [INFO] Defensive blocker chose move (5, 3) with score 1157
+[11:35:06.325] [INFO] Goblin Thrakmangler moved from (6, 1) to (5, 3)
+[11:35:06.325] [INFO] Movement trail: [(9, 1), (6, 1), (5, 3)]
+[11:35:06.782] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:06.782] [INFO] Goblin Skabfoot moved from (4, 8) to (3, 8)
+[11:35:06.782] [INFO] Movement trail: [(4, 8), (3, 8), (4, 8), (3, 8)]
+[11:35:06.782] [INFO] Carrier Skabfoot moved to lateral position (3, 8)
+[11:35:06.782] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:06.782] [INFO] Offensive blocker chose move (3, 7) with score 733
+[11:35:06.782] [INFO] Goblin Lugfist moved from (4, 7) to (3, 7)
+[11:35:06.782] [INFO] Movement trail: [(2, 8), (3, 7), (4, 7), (3, 7)]
+[11:35:06.782] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:06.782] [INFO] Offensive blocker chose move (4, 8) with score 749
+[11:35:06.782] [INFO] Goblin Stabstabber moved from (5, 8) to (4, 8)
+[11:35:06.782] [INFO] Movement trail: [(6, 8), (2, 8), (5, 8), (4, 8)]
+[11:35:06.782] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:06.782] [INFO] Offensive blocker chose move (4, 7) with score 649
+[11:35:06.782] [INFO] Goblin Skabslicer Yang the Mighty moved from (5, 7) to (4, 7)
+[11:35:06.782] [INFO] Movement trail: [(8, 8), (6, 8), (5, 7), (4, 7)]
+[11:35:06.782] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:06.782] [INFO] Offensive blocker chose move (5, 8) with score 642
+[11:35:06.782] [INFO] Goblin Skabgulper moved from (6, 8) to (5, 8)
+[11:35:06.782] [INFO] Movement trail: [(9, 8), (7, 8), (6, 8), (5, 8)]
+[11:35:06.782] [INFO] Moving defensive blocker Snotbiter Strolan with 2 movement points
+[11:35:06.783] [INFO] Defensive blocker chose move (3, 6) with score 1361
+[11:35:06.783] [INFO] Goblin Snotbiter Strolan moved from (3, 4) to (3, 6)
+[11:35:06.783] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4), (3, 6)]
+[11:35:06.783] [INFO] Moving defensive blocker Skrizbiter Glenn with 2 movement points
+[11:35:06.783] [INFO] Defensive blocker chose move (3, 5) with score 1318
+[11:35:06.783] [INFO] Goblin Skrizbiter Glenn moved from (4, 5) to (3, 5)
+[11:35:06.783] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5), (3, 5)]
+[11:35:06.783] [INFO] Moving defensive blocker Krunkface the Brutal with 3 movement points
+[11:35:06.783] [INFO] Defensive blocker chose move (4, 6) with score 1309
+[11:35:06.783] [INFO] Goblin Krunkface the Brutal moved from (4, 4) to (4, 6)
+[11:35:06.783] [INFO] Movement trail: [(6, 1), (4, 2), (4, 4), (4, 6)]
+[11:35:06.783] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:06.783] [INFO] Defensive blocker chose move (7, 3) with score 785
+[11:35:06.783] [INFO] Goblin Fizznose moved from (7, 2) to (7, 3)
+[11:35:06.783] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2), (7, 3)]
+[11:35:06.783] [INFO] Moving defensive blocker Thrakmangler with 3 movement points
+[11:35:06.783] [INFO] Defensive blocker chose move (4, 5) with score 1268
+[11:35:06.783] [INFO] Goblin Thrakmangler moved from (5, 3) to (4, 5)
+[11:35:06.783] [INFO] Movement trail: [(9, 1), (6, 1), (5, 3), (4, 5)]
+[11:35:07.303] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:07.303] [INFO] Goblin Skabfoot moved from (3, 8) to (2, 8)
+[11:35:07.303] [INFO] Movement trail: [(4, 8), (3, 8), (4, 8), (3, 8), (2, 8)]
+[11:35:07.303] [INFO] Carrier Skabfoot moved to (2, 8)
+[11:35:07.303] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:07.303] [INFO] Attempt block of Snotbiter Strolan by Lugfist
+[11:35:07.303] [INFO] Offensive blocker chose move (3, 7) with score 3017
+[11:35:07.303] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:07.303] [INFO] Offensive blocker chose move (2, 6) with score 2530
+[11:35:07.303] [INFO] Goblin Stabstabber moved from (4, 8) to (2, 6)
+[11:35:07.303] [INFO] Movement trail: [(6, 8), (2, 8), (5, 8), (4, 8), (2, 6)]
+[11:35:07.303] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:07.304] [INFO] Attempt block of Snotbiter Strolan by Skabslicer Yang the Mighty
+[11:35:07.304] [INFO] Offensive blocker chose move (4, 8) with score 623
+[11:35:07.304] [INFO] Goblin Skabslicer Yang the Mighty moved from (4, 7) to (4, 8)
+[11:35:07.304] [INFO] Movement trail: [(8, 8), (6, 8), (5, 7), (4, 7), (4, 8)]
+[11:35:07.304] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:07.304] [INFO] Offensive blocker chose move (3, 8) with score 744
+[11:35:07.304] [INFO] Goblin Skabgulper moved from (5, 8) to (3, 8)
+[11:35:07.304] [INFO] Movement trail: [(9, 8), (7, 8), (6, 8), (5, 8), (3, 8)]
+[11:35:07.304] [INFO] Moving defensive blocker Snotbiter Strolan with 2 movement points
+[11:35:07.304] [INFO] Defensive blocker chose move (2, 7) with score 3419
+[11:35:07.304] [INFO] Goblin Snotbiter Strolan moved from (3, 6) to (2, 7)
+[11:35:07.304] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4), (3, 6), (2, 7)]
+[11:35:07.304] [INFO] Moving defensive blocker Skrizbiter Glenn with 2 movement points
+[11:35:07.304] [INFO] Defensive blocker chose move (2, 5) with score 1319
+[11:35:07.304] [INFO] Goblin Skrizbiter Glenn moved from (3, 5) to (2, 5)
+[11:35:07.304] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5), (3, 5), (2, 5)]
+[11:35:07.304] [INFO] Moving defensive blocker Krunkface the Brutal with 3 movement points
+[11:35:07.304] [INFO] Defensive blocker chose move (3, 6) with score 1296
+[11:35:07.304] [INFO] Goblin Krunkface the Brutal moved from (4, 6) to (3, 6)
+[11:35:07.304] [INFO] Movement trail: [(6, 1), (4, 2), (4, 4), (4, 6), (3, 6)]
+[11:35:07.304] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:07.304] [INFO] Defensive blocker chose move (7, 4) with score 790
+[11:35:07.304] [INFO] Goblin Fizznose moved from (7, 3) to (7, 4)
+[11:35:07.304] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2), (7, 3), (7, 4)]
+[11:35:07.304] [INFO] Moving defensive blocker Thrakmangler with 3 movement points
+[11:35:07.304] [INFO] Defensive blocker chose move (3, 5) with score 1273
+[11:35:07.304] [INFO] Goblin Thrakmangler moved from (4, 5) to (3, 5)
+[11:35:07.304] [INFO] Movement trail: [(9, 1), (6, 1), (5, 3), (4, 5), (3, 5)]
+[11:35:07.970] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:07.970] [INFO] Goblin Skabfoot moved from (2, 8) to (1, 8)
+[11:35:07.970] [INFO] Movement trail: [(3, 8), (4, 8), (3, 8), (2, 8), (1, 8)]
+[11:35:07.970] [INFO] Carrier Skabfoot moved to (1, 8)
+[11:35:07.971] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:07.971] [INFO] Attempt block of Snotbiter Strolan by Lugfist
+[11:35:07.971] [INFO] Offensive blocker chose move (3, 7) with score 2979
+[11:35:07.971] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:07.971] [INFO] Attempt block of Snotbiter Strolan by Stabstabber
+[11:35:07.971] [INFO] Block succeeded!
+[11:35:07.971] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:07.972] [INFO] Offensive blocker chose move (2, 8) with score 735
+[11:35:07.972] [INFO] Goblin Skabslicer Yang the Mighty moved from (4, 8) to (2, 8)
+[11:35:07.972] [INFO] Movement trail: [(6, 8), (5, 7), (4, 7), (4, 8), (2, 8)]
+[11:35:07.972] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:07.972] [INFO] Offensive blocker chose move (1, 7) with score 755
+[11:35:07.972] [INFO] Goblin Skabgulper moved from (3, 8) to (1, 7)
+[11:35:07.972] [INFO] Movement trail: [(7, 8), (6, 8), (5, 8), (3, 8), (1, 7)]
+[11:35:07.973] [INFO] Moving defensive blocker Skrizbiter Glenn with 2 movement points
+[11:35:07.973] [INFO] Defensive blocker chose move (1, 6) with score 1372
+[11:35:07.974] [INFO] Goblin Skrizbiter Glenn moved from (2, 5) to (1, 6)
+[11:35:07.974] [INFO] Movement trail: [(4, 3), (4, 5), (3, 5), (2, 5), (1, 6)]
+[11:35:07.974] [INFO] Moving defensive blocker Krunkface the Brutal with 3 movement points
+[11:35:07.974] [INFO] Defensive blocker chose move (1, 5) with score 1318
+[11:35:07.974] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:07.974] [INFO] Defensive blocker chose move (7, 5) with score 824
+[11:35:07.974] [INFO] Goblin Fizznose moved from (7, 4) to (7, 5)
+[11:35:07.974] [INFO] Movement trail: [(7, 1), (7, 2), (7, 3), (7, 4), (7, 5)]
+[11:35:07.974] [INFO] Moving defensive blocker Thrakmangler with 3 movement points
+[11:35:07.974] [INFO] Defensive blocker chose move (1, 5) with score 1285
+[11:35:08.512] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:08.512] [INFO] Goblin Skabfoot moved from (1, 8) to (0, 8)
+[11:35:08.512] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8), (0, 8)]
+[11:35:08.512] [INFO] Carrier Skabfoot moved to (0, 8)
+[11:35:08.512] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:08.512] [INFO] Offensive blocker chose move (3, 8) with score 530
+[11:35:08.512] [INFO] Goblin Lugfist moved from (3, 7) to (3, 8)
+[11:35:08.512] [INFO] Movement trail: [(2, 8), (3, 7), (4, 7), (3, 7), (3, 8)]
+[11:35:08.512] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:08.512] [INFO] Attempt block of Skrizbiter Glenn by Stabstabber
+[11:35:08.512] [INFO] Offensive blocker chose move (0, 6) with score 2994
+[11:35:08.512] [INFO] Goblin Stabstabber moved from (2, 6) to (0, 6)
+[11:35:08.512] [INFO] Movement trail: [(2, 8), (5, 8), (4, 8), (2, 6), (0, 6)]
+[11:35:08.512] [INFO] Offensive blocker Stabstabber attempting to block Skrizbiter Glenn after moving
+[11:35:08.512] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:08.512] [INFO] Offensive blocker chose move (1, 8) with score 730
+[11:35:08.512] [INFO] Goblin Skabslicer Yang the Mighty moved from (2, 8) to (1, 8)
+[11:35:08.512] [INFO] Movement trail: [(5, 7), (4, 7), (4, 8), (2, 8), (1, 8)]
+[11:35:08.512] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:08.512] [INFO] Offensive blocker chose move (0, 7) with score 738
+[11:35:08.512] [INFO] Goblin Skabgulper moved from (1, 7) to (0, 7)
+[11:35:08.512] [INFO] Movement trail: [(6, 8), (5, 8), (3, 8), (1, 7), (0, 7)]
+[11:35:08.512] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:08.512] [INFO] Defensive blocker chose move (6, 5) with score 793
+[11:35:08.513] [INFO] Goblin Fizznose moved from (7, 5) to (6, 5)
+[11:35:08.513] [INFO] Movement trail: [(7, 2), (7, 3), (7, 4), (7, 5), (6, 5)]
+[11:35:09.050] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:09.050] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:09.050] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:09.050] [INFO] Offensive blocker chose move (2, 8) with score 661
+[11:35:09.050] [INFO] Goblin Lugfist moved from (3, 8) to (2, 8)
+[11:35:09.050] [INFO] Movement trail: [(3, 7), (4, 7), (3, 7), (3, 8), (2, 8)]
+[11:35:09.050] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:09.050] [INFO] Offensive blocker chose move (0, 9) with score 699
+[11:35:09.050] [INFO] Goblin Stabstabber moved from (0, 6) to (0, 9)
+[11:35:09.050] [INFO] Movement trail: [(5, 8), (4, 8), (2, 6), (0, 6), (0, 9)]
+[11:35:09.050] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:09.050] [INFO] Offensive blocker chose move (1, 7) with score 653
+[11:35:09.050] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 8) to (1, 7)
+[11:35:09.050] [INFO] Movement trail: [(4, 7), (4, 8), (2, 8), (1, 8), (1, 7)]
+[11:35:09.050] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:09.050] [INFO] Offensive blocker chose move (1, 8) with score 690
+[11:35:09.051] [INFO] Goblin Skabgulper moved from (0, 7) to (1, 8)
+[11:35:09.051] [INFO] Movement trail: [(5, 8), (3, 8), (1, 7), (0, 7), (1, 8)]
+[11:35:09.051] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:09.051] [INFO] Defensive blocker chose move (6, 6) with score 870
+[11:35:09.051] [INFO] Goblin Fizznose moved from (6, 5) to (6, 6)
+[11:35:09.051] [INFO] Movement trail: [(7, 3), (7, 4), (7, 5), (6, 5), (6, 6)]
+[11:35:10.038] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:10.038] [INFO] Goblin Skabfoot moved from (0, 8) to (0, 7)
+[11:35:10.038] [INFO] Movement trail: [(3, 8), (2, 8), (1, 8), (0, 8), (0, 7)]
+[11:35:10.038] [INFO] Carrier Skabfoot moved to (0, 7)
+[11:35:10.038] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:10.038] [INFO] Offensive blocker chose move (0, 8) with score 717
+[11:35:10.038] [INFO] Goblin Lugfist moved from (2, 8) to (0, 8)
+[11:35:10.038] [INFO] Movement trail: [(4, 7), (3, 7), (3, 8), (2, 8), (0, 8)]
+[11:35:10.038] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:10.038] [INFO] Offensive blocker chose move (0, 6) with score 726
+[11:35:10.038] [INFO] Goblin Stabstabber moved from (0, 9) to (0, 6)
+[11:35:10.038] [INFO] Movement trail: [(4, 8), (2, 6), (0, 6), (0, 9), (0, 6)]
+[11:35:10.038] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:10.038] [INFO] Offensive blocker chose move (1, 5) with score 601
+[11:35:10.038] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 7) to (1, 5)
+[11:35:10.038] [INFO] Movement trail: [(4, 8), (2, 8), (1, 8), (1, 7), (1, 5)]
+[11:35:10.038] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:10.038] [INFO] Offensive blocker chose move (1, 7) with score 721
+[11:35:10.038] [INFO] Goblin Skabgulper moved from (1, 8) to (1, 7)
+[11:35:10.038] [INFO] Movement trail: [(3, 8), (1, 7), (0, 7), (1, 8), (1, 7)]
+[11:35:10.038] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:10.038] [INFO] Defensive blocker chose move (5, 6) with score 968
+[11:35:10.038] [INFO] Goblin Fizznose moved from (6, 6) to (5, 6)
+[11:35:10.038] [INFO] Movement trail: [(7, 4), (7, 5), (6, 5), (6, 6), (5, 6)]
+[11:35:10.596] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:10.596] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:10.596] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:10.596] [INFO] Offensive blocker chose move (1, 8) with score 658
+[11:35:10.596] [INFO] Goblin Lugfist moved from (0, 8) to (1, 8)
+[11:35:10.596] [INFO] Movement trail: [(3, 7), (3, 8), (2, 8), (0, 8), (1, 8)]
+[11:35:10.596] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:10.596] [INFO] Offensive blocker chose move (0, 8) with score 691
+[11:35:10.596] [INFO] Goblin Stabstabber moved from (0, 6) to (0, 8)
+[11:35:10.596] [INFO] Movement trail: [(2, 6), (0, 6), (0, 9), (0, 6), (0, 8)]
+[11:35:10.596] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:10.597] [INFO] Offensive blocker chose move (0, 6) with score 717
+[11:35:10.597] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 5) to (0, 6)
+[11:35:10.597] [INFO] Movement trail: [(2, 8), (1, 8), (1, 7), (1, 5), (0, 6)]
+[11:35:10.597] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:10.597] [INFO] Offensive blocker chose move (0, 5) with score 683
+[11:35:10.597] [INFO] Goblin Skabgulper moved from (1, 7) to (0, 5)
+[11:35:10.597] [INFO] Movement trail: [(1, 7), (0, 7), (1, 8), (1, 7), (0, 5)]
+[11:35:10.597] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:10.597] [INFO] Defensive blocker chose move (4, 6) with score 976
+[11:35:10.597] [INFO] Goblin Fizznose moved from (5, 6) to (4, 6)
+[11:35:10.597] [INFO] Movement trail: [(7, 5), (6, 5), (6, 6), (5, 6), (4, 6)]
+[11:35:11.221] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:11.221] [INFO] Goblin Skabfoot moved from (0, 7) to (1, 7)
+[11:35:11.221] [INFO] Movement trail: [(2, 8), (1, 8), (0, 8), (0, 7), (1, 7)]
+[11:35:11.221] [INFO] Carrier Skabfoot moved to (1, 7)
+[11:35:11.221] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:11.221] [INFO] Offensive blocker chose move (0, 7) with score 736
+[11:35:11.221] [INFO] Goblin Lugfist moved from (1, 8) to (0, 7)
+[11:35:11.221] [INFO] Movement trail: [(3, 8), (2, 8), (0, 8), (1, 8), (0, 7)]
+[11:35:11.221] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:11.221] [INFO] Offensive blocker chose move (1, 8) with score 725
+[11:35:11.221] [INFO] Goblin Stabstabber moved from (0, 8) to (1, 8)
+[11:35:11.221] [INFO] Movement trail: [(0, 6), (0, 9), (0, 6), (0, 8), (1, 8)]
+[11:35:11.221] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:11.221] [INFO] Offensive blocker chose move (2, 6) with score 654
+[11:35:11.221] [INFO] Goblin Skabslicer Yang the Mighty moved from (0, 6) to (2, 6)
+[11:35:11.221] [INFO] Movement trail: [(1, 8), (1, 7), (1, 5), (0, 6), (2, 6)]
+[11:35:11.221] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:11.221] [INFO] Offensive blocker chose move (1, 5) with score 677
+[11:35:11.221] [INFO] Goblin Skabgulper moved from (0, 5) to (1, 5)
+[11:35:11.221] [INFO] Movement trail: [(0, 7), (1, 8), (1, 7), (0, 5), (1, 5)]
+[11:35:11.222] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:11.222] [INFO] Defensive blocker chose move (4, 5) with score 1016
+[11:35:11.222] [INFO] Goblin Fizznose moved from (4, 6) to (4, 5)
+[11:35:11.222] [INFO] Movement trail: [(6, 5), (6, 6), (5, 6), (4, 6), (4, 5)]
+[11:35:11.792] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:11.792] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:11.792] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:11.792] [INFO] Offensive blocker chose move (0, 6) with score 645
+[11:35:11.792] [INFO] Goblin Lugfist moved from (0, 7) to (0, 6)
+[11:35:11.792] [INFO] Movement trail: [(2, 8), (0, 8), (1, 8), (0, 7), (0, 6)]
+[11:35:11.792] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:11.792] [INFO] Offensive blocker chose move (0, 7) with score 743
+[11:35:11.792] [INFO] Goblin Stabstabber moved from (1, 8) to (0, 7)
+[11:35:11.792] [INFO] Movement trail: [(0, 9), (0, 6), (0, 8), (1, 8), (0, 7)]
+[11:35:11.792] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:11.792] [INFO] Offensive blocker chose move (3, 7) with score 645
+[11:35:11.792] [INFO] Goblin Skabslicer Yang the Mighty moved from (2, 6) to (3, 7)
+[11:35:11.792] [INFO] Movement trail: [(1, 7), (1, 5), (0, 6), (2, 6), (3, 7)]
+[11:35:11.792] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:11.792] [INFO] Offensive blocker chose move (1, 8) with score 692
+[11:35:11.792] [INFO] Goblin Skabgulper moved from (1, 5) to (1, 8)
+[11:35:11.792] [INFO] Movement trail: [(1, 8), (1, 7), (0, 5), (1, 5), (1, 8)]
+[11:35:11.792] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:11.792] [INFO] Defensive blocker chose move (4, 6) with score 1060
+[11:35:11.792] [INFO] Goblin Fizznose moved from (4, 5) to (4, 6)
+[11:35:11.792] [INFO] Movement trail: [(6, 6), (5, 6), (4, 6), (4, 5), (4, 6)]
+[11:35:12.362] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:12.363] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:12.363] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:12.363] [INFO] Offensive blocker chose move (1, 5) with score 677
+[11:35:12.363] [INFO] Goblin Lugfist moved from (0, 6) to (1, 5)
+[11:35:12.363] [INFO] Movement trail: [(0, 8), (1, 8), (0, 7), (0, 6), (1, 5)]
+[11:35:12.363] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:12.363] [INFO] Offensive blocker chose move (2, 6) with score 659
+[11:35:12.363] [INFO] Goblin Stabstabber moved from (0, 7) to (2, 6)
+[11:35:12.363] [INFO] Movement trail: [(0, 6), (0, 8), (1, 8), (0, 7), (2, 6)]
+[11:35:12.363] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:12.363] [INFO] Offensive blocker chose move (3, 7) with score 669
+[11:35:12.363] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:12.363] [INFO] Offensive blocker chose move (0, 7) with score 740
+[11:35:12.363] [INFO] Goblin Skabgulper moved from (1, 8) to (0, 7)
+[11:35:12.363] [INFO] Movement trail: [(1, 7), (0, 5), (1, 5), (1, 8), (0, 7)]
+[11:35:12.363] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:12.363] [INFO] Defensive blocker chose move (4, 6) with score 1042
+[11:35:12.969] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:12.969] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:12.969] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:12.969] [INFO] Offensive blocker chose move (0, 6) with score 648
+[11:35:12.969] [INFO] Goblin Lugfist moved from (1, 5) to (0, 6)
+[11:35:12.969] [INFO] Movement trail: [(1, 8), (0, 7), (0, 6), (1, 5), (0, 6)]
+[11:35:12.969] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:12.969] [INFO] Offensive blocker chose move (1, 8) with score 714
+[11:35:12.969] [INFO] Goblin Stabstabber moved from (2, 6) to (1, 8)
+[11:35:12.969] [INFO] Movement trail: [(0, 8), (1, 8), (0, 7), (2, 6), (1, 8)]
+[11:35:12.969] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:12.969] [INFO] Offensive blocker chose move (3, 7) with score 663
+[11:35:12.969] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:12.969] [INFO] Offensive blocker chose move (1, 5) with score 680
+[11:35:12.969] [INFO] Goblin Skabgulper moved from (0, 7) to (1, 5)
+[11:35:12.969] [INFO] Movement trail: [(0, 5), (1, 5), (1, 8), (0, 7), (1, 5)]
+[11:35:12.970] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:12.970] [INFO] Defensive blocker chose move (4, 6) with score 1065
+[11:35:13.693] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:13.693] [INFO] Goblin Skabfoot moved from (1, 7) to (0, 7)
+[11:35:13.693] [INFO] Movement trail: [(1, 8), (0, 8), (0, 7), (1, 7), (0, 7)]
+[11:35:13.693] [INFO] Carrier Skabfoot moved to lateral position (0, 7)
+[11:35:13.693] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:13.693] [INFO] Offensive blocker chose move (1, 7) with score 704
+[11:35:13.693] [INFO] Goblin Lugfist moved from (0, 6) to (1, 7)
+[11:35:13.693] [INFO] Movement trail: [(0, 7), (0, 6), (1, 5), (0, 6), (1, 7)]
+[11:35:13.693] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:13.693] [INFO] Offensive blocker chose move (0, 6) with score 734
+[11:35:13.693] [INFO] Goblin Stabstabber moved from (1, 8) to (0, 6)
+[11:35:13.693] [INFO] Movement trail: [(1, 8), (0, 7), (2, 6), (1, 8), (0, 6)]
+[11:35:13.693] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:13.693] [INFO] Offensive blocker chose move (3, 7) with score 588
+[11:35:13.693] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:13.693] [INFO] Offensive blocker chose move (0, 5) with score 666
+[11:35:13.693] [INFO] Goblin Skabgulper moved from (1, 5) to (0, 5)
+[11:35:13.693] [INFO] Movement trail: [(1, 5), (1, 8), (0, 7), (1, 5), (0, 5)]
+[11:35:13.693] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:13.693] [INFO] Defensive blocker chose move (4, 6) with score 1008
+[11:35:14.201] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:14.201] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:14.201] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:14.201] [INFO] Offensive blocker chose move (0, 8) with score 722
+[11:35:14.201] [INFO] Goblin Lugfist moved from (1, 7) to (0, 8)
+[11:35:14.201] [INFO] Movement trail: [(0, 6), (1, 5), (0, 6), (1, 7), (0, 8)]
+[11:35:14.201] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:14.201] [INFO] Offensive blocker chose move (1, 7) with score 705
+[11:35:14.201] [INFO] Goblin Stabstabber moved from (0, 6) to (1, 7)
+[11:35:14.201] [INFO] Movement trail: [(0, 7), (2, 6), (1, 8), (0, 6), (1, 7)]
+[11:35:14.201] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:14.201] [INFO] Offensive blocker chose move (2, 6) with score 584
+[11:35:14.201] [INFO] Goblin Skabslicer Yang the Mighty moved from (3, 7) to (2, 6)
+[11:35:14.201] [INFO] Movement trail: [(1, 5), (0, 6), (2, 6), (3, 7), (2, 6)]
+[11:35:14.201] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:14.201] [INFO] Offensive blocker chose move (0, 6) with score 730
+[11:35:14.201] [INFO] Goblin Skabgulper moved from (0, 5) to (0, 6)
+[11:35:14.201] [INFO] Movement trail: [(1, 8), (0, 7), (1, 5), (0, 5), (0, 6)]
+[11:35:14.201] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:14.201] [INFO] Defensive blocker chose move (5, 6) with score 972
+[11:35:14.202] [INFO] Goblin Fizznose moved from (4, 6) to (5, 6)
+[11:35:14.202] [INFO] Movement trail: [(5, 6), (4, 6), (4, 5), (4, 6), (5, 6)]
+[11:35:14.729] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:14.729] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:14.729] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:14.729] [INFO] Offensive blocker chose move (1, 8) with score 634
+[11:35:14.729] [INFO] Goblin Lugfist moved from (0, 8) to (1, 8)
+[11:35:14.729] [INFO] Movement trail: [(1, 5), (0, 6), (1, 7), (0, 8), (1, 8)]
+[11:35:14.729] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:14.729] [INFO] Offensive blocker chose move (0, 8) with score 697
+[11:35:14.729] [INFO] Goblin Stabstabber moved from (1, 7) to (0, 8)
+[11:35:14.729] [INFO] Movement trail: [(2, 6), (1, 8), (0, 6), (1, 7), (0, 8)]
+[11:35:14.729] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:14.729] [INFO] Offensive blocker chose move (1, 7) with score 693
+[11:35:14.729] [INFO] Goblin Skabslicer Yang the Mighty moved from (2, 6) to (1, 7)
+[11:35:14.729] [INFO] Movement trail: [(0, 6), (2, 6), (3, 7), (2, 6), (1, 7)]
+[11:35:14.729] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:14.729] [INFO] Offensive blocker chose move (0, 5) with score 678
+[11:35:14.729] [INFO] Goblin Skabgulper moved from (0, 6) to (0, 5)
+[11:35:14.729] [INFO] Movement trail: [(0, 7), (1, 5), (0, 5), (0, 6), (0, 5)]
+[11:35:14.729] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:14.729] [INFO] Defensive blocker chose move (4, 6) with score 978
+[11:35:14.729] [INFO] Goblin Fizznose moved from (5, 6) to (4, 6)
+[11:35:14.729] [INFO] Movement trail: [(4, 6), (4, 5), (4, 6), (5, 6), (4, 6)]
+[11:35:15.350] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:15.350] [INFO] Goblin Skabfoot moved from (0, 7) to (0, 6)
+[11:35:15.350] [INFO] Movement trail: [(0, 8), (0, 7), (1, 7), (0, 7), (0, 6)]
+[11:35:15.350] [INFO] Carrier Skabfoot moved to (0, 6)
+[11:35:15.350] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:15.350] [INFO] Offensive blocker chose move (0, 7) with score 739
+[11:35:15.350] [INFO] Goblin Lugfist moved from (1, 8) to (0, 7)
+[11:35:15.350] [INFO] Movement trail: [(0, 6), (1, 7), (0, 8), (1, 8), (0, 7)]
+[11:35:15.350] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:15.351] [INFO] Offensive blocker chose move (1, 5) with score 677
+[11:35:15.351] [INFO] Goblin Stabstabber moved from (0, 8) to (1, 5)
+[11:35:15.351] [INFO] Movement trail: [(1, 8), (0, 6), (1, 7), (0, 8), (1, 5)]
+[11:35:15.351] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:15.351] [INFO] Offensive blocker chose move (2, 6) with score 660
+[11:35:15.351] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 7) to (2, 6)
+[11:35:15.351] [INFO] Movement trail: [(2, 6), (3, 7), (2, 6), (1, 7), (2, 6)]
+[11:35:15.351] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:15.351] [INFO] Offensive blocker chose move (0, 4) with score 672
+[11:35:15.351] [INFO] Goblin Skabgulper moved from (0, 5) to (0, 4)
+[11:35:15.351] [INFO] Movement trail: [(1, 5), (0, 5), (0, 6), (0, 5), (0, 4)]
+[11:35:15.351] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:15.351] [INFO] Defensive blocker chose move (4, 5) with score 1009
+[11:35:15.351] [INFO] Goblin Fizznose moved from (4, 6) to (4, 5)
+[11:35:15.351] [INFO] Movement trail: [(4, 5), (4, 6), (5, 6), (4, 6), (4, 5)]
+[11:35:15.855] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:15.855] [INFO] Goblin Skabfoot moved from (0, 6) to (0, 5)
+[11:35:15.855] [INFO] Movement trail: [(0, 7), (1, 7), (0, 7), (0, 6), (0, 5)]
+[11:35:15.855] [INFO] Carrier Skabfoot moved to (0, 5)
+[11:35:15.855] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:15.855] [INFO] Offensive blocker chose move (0, 6) with score 731
+[11:35:15.855] [INFO] Goblin Lugfist moved from (0, 7) to (0, 6)
+[11:35:15.855] [INFO] Movement trail: [(1, 7), (0, 8), (1, 8), (0, 7), (0, 6)]
+[11:35:15.855] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:15.855] [INFO] Offensive blocker chose move (0, 3) with score 671
+[11:35:15.855] [INFO] Goblin Stabstabber moved from (1, 5) to (0, 3)
+[11:35:15.855] [INFO] Movement trail: [(0, 6), (1, 7), (0, 8), (1, 5), (0, 3)]
+[11:35:15.855] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:15.855] [INFO] Offensive blocker chose move (1, 5) with score 725
+[11:35:15.855] [INFO] Goblin Skabslicer Yang the Mighty moved from (2, 6) to (1, 5)
+[11:35:15.855] [INFO] Movement trail: [(3, 7), (2, 6), (1, 7), (2, 6), (1, 5)]
+[11:35:15.855] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:15.855] [INFO] Offensive blocker chose move (1, 4) with score 668
+[11:35:15.855] [INFO] Goblin Skabgulper moved from (0, 4) to (1, 4)
+[11:35:15.855] [INFO] Movement trail: [(0, 5), (0, 6), (0, 5), (0, 4), (1, 4)]
+[11:35:15.855] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:15.856] [INFO] Defensive blocker chose move (4, 4) with score 1014
+[11:35:15.856] [INFO] Goblin Fizznose moved from (4, 5) to (4, 4)
+[11:35:15.856] [INFO] Movement trail: [(4, 6), (5, 6), (4, 6), (4, 5), (4, 4)]
+[11:35:16.398] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:16.398] [INFO] Goblin Skabfoot moved from (0, 5) to (0, 4)
+[11:35:16.398] [INFO] Movement trail: [(1, 7), (0, 7), (0, 6), (0, 5), (0, 4)]
+[11:35:16.398] [INFO] Carrier Skabfoot moved to (0, 4)
+[11:35:16.398] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:16.398] [INFO] Offensive blocker chose move (0, 5) with score 729
+[11:35:16.398] [INFO] Goblin Lugfist moved from (0, 6) to (0, 5)
+[11:35:16.398] [INFO] Movement trail: [(0, 8), (1, 8), (0, 7), (0, 6), (0, 5)]
+[11:35:16.398] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:16.398] [INFO] Offensive blocker chose move (1, 3) with score 682
+[11:35:16.398] [INFO] Goblin Stabstabber moved from (0, 3) to (1, 3)
+[11:35:16.398] [INFO] Movement trail: [(1, 7), (0, 8), (1, 5), (0, 3), (1, 3)]
+[11:35:16.398] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:16.398] [INFO] Offensive blocker chose move (2, 4) with score 653
+[11:35:16.398] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 5) to (2, 4)
+[11:35:16.398] [INFO] Movement trail: [(2, 6), (1, 7), (2, 6), (1, 5), (2, 4)]
+[11:35:16.398] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:16.398] [INFO] Offensive blocker chose move (0, 3) with score 766
+[11:35:16.398] [INFO] Goblin Skabgulper moved from (1, 4) to (0, 3)
+[11:35:16.398] [INFO] Movement trail: [(0, 6), (0, 5), (0, 4), (1, 4), (0, 3)]
+[11:35:16.398] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:16.398] [INFO] Defensive blocker chose move (4, 3) with score 1018
+[11:35:16.398] [INFO] Goblin Fizznose moved from (4, 4) to (4, 3)
+[11:35:16.398] [INFO] Movement trail: [(5, 6), (4, 6), (4, 5), (4, 4), (4, 3)]
+[11:35:17.148] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:17.148] [INFO] Goblin Skabfoot moved from (0, 4) to (1, 4)
+[11:35:17.148] [INFO] Movement trail: [(0, 7), (0, 6), (0, 5), (0, 4), (1, 4)]
+[11:35:17.148] [INFO] Carrier Skabfoot moved to (1, 4)
+[11:35:17.148] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:17.148] [INFO] Offensive blocker chose move (0, 4) with score 764
+[11:35:17.148] [INFO] Goblin Lugfist moved from (0, 5) to (0, 4)
+[11:35:17.148] [INFO] Movement trail: [(1, 8), (0, 7), (0, 6), (0, 5), (0, 4)]
+[11:35:17.148] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:17.148] [INFO] Offensive blocker chose move (1, 5) with score 737
+[11:35:17.148] [INFO] Goblin Stabstabber moved from (1, 3) to (1, 5)
+[11:35:17.149] [INFO] Movement trail: [(0, 8), (1, 5), (0, 3), (1, 3), (1, 5)]
+[11:35:17.149] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:17.149] [INFO] Offensive blocker chose move (1, 3) with score 738
+[11:35:17.149] [INFO] Goblin Skabslicer Yang the Mighty moved from (2, 4) to (1, 3)
+[11:35:17.149] [INFO] Movement trail: [(1, 7), (2, 6), (1, 5), (2, 4), (1, 3)]
+[11:35:17.149] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:17.149] [INFO] Offensive blocker chose move (2, 4) with score 724
+[11:35:17.149] [INFO] Goblin Skabgulper moved from (0, 3) to (2, 4)
+[11:35:17.149] [INFO] Movement trail: [(0, 5), (0, 4), (1, 4), (0, 3), (2, 4)]
+[11:35:17.149] [INFO] Moving defensive blocker Fizznose with 1 movement points
+[11:35:17.149] [INFO] Defensive blocker chose move (3, 3) with score 1089
+[11:35:17.149] [INFO] Goblin Fizznose moved from (4, 3) to (3, 3)
+[11:35:17.149] [INFO] Movement trail: [(4, 6), (4, 5), (4, 4), (4, 3), (3, 3)]
+[11:35:17.676] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:17.676] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:17.676] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:17.676] [INFO] Offensive blocker chose move (0, 3) with score 676
+[11:35:17.676] [INFO] Goblin Lugfist moved from (0, 4) to (0, 3)
+[11:35:17.676] [INFO] Movement trail: [(0, 7), (0, 6), (0, 5), (0, 4), (0, 3)]
+[11:35:17.676] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:17.676] [INFO] Offensive blocker chose move (2, 3) with score 3045
+[11:35:17.676] [INFO] Goblin Stabstabber moved from (1, 5) to (2, 3)
+[11:35:17.676] [INFO] Movement trail: [(1, 5), (0, 3), (1, 3), (1, 5), (2, 3)]
+[11:35:17.676] [INFO] Offensive blocker Stabstabber attempting to block Fizznose after moving
+[11:35:17.676] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:17.676] [INFO] Offensive blocker chose move (0, 4) with score 725
+[11:35:17.676] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 3) to (0, 4)
+[11:35:17.676] [INFO] Movement trail: [(2, 6), (1, 5), (2, 4), (1, 3), (0, 4)]
+[11:35:17.676] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:17.677] [INFO] Offensive blocker chose move (1, 3) with score 740
+[11:35:17.677] [INFO] Goblin Skabgulper moved from (2, 4) to (1, 3)
+[11:35:17.677] [INFO] Movement trail: [(0, 4), (1, 4), (0, 3), (2, 4), (1, 3)]
+[11:35:18.152] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:18.152] [INFO] Goblin Skabfoot moved from (1, 4) to (2, 4)
+[11:35:18.152] [INFO] Movement trail: [(0, 6), (0, 5), (0, 4), (1, 4), (2, 4)]
+[11:35:18.152] [INFO] Carrier Skabfoot moved to (2, 4)
+[11:35:18.152] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:18.152] [INFO] Offensive blocker chose move (1, 4) with score 710
+[11:35:18.152] [INFO] Goblin Lugfist moved from (0, 3) to (1, 4)
+[11:35:18.152] [INFO] Movement trail: [(0, 6), (0, 5), (0, 4), (0, 3), (1, 4)]
+[11:35:18.152] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:18.152] [INFO] Offensive blocker chose move (2, 5) with score 725
+[11:35:18.152] [INFO] Goblin Stabstabber moved from (2, 3) to (2, 5)
+[11:35:18.152] [INFO] Movement trail: [(0, 3), (1, 3), (1, 5), (2, 3), (2, 5)]
+[11:35:18.152] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:18.152] [INFO] Offensive blocker chose move (1, 5) with score 633
+[11:35:18.152] [INFO] Goblin Skabslicer Yang the Mighty moved from (0, 4) to (1, 5)
+[11:35:18.152] [INFO] Movement trail: [(1, 5), (2, 4), (1, 3), (0, 4), (1, 5)]
+[11:35:18.152] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:18.153] [INFO] Offensive blocker chose move (2, 3) with score 737
+[11:35:18.153] [INFO] Goblin Skabgulper moved from (1, 3) to (2, 3)
+[11:35:18.153] [INFO] Movement trail: [(1, 4), (0, 3), (2, 4), (1, 3), (2, 3)]
+[11:35:18.644] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:18.644] [INFO] Goblin Skabfoot moved from (2, 4) to (3, 4)
+[11:35:18.644] [INFO] Movement trail: [(0, 5), (0, 4), (1, 4), (2, 4), (3, 4)]
+[11:35:18.644] [INFO] Carrier Skabfoot moved to (3, 4)
+[11:35:18.644] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:18.644] [INFO] Offensive blocker chose move (2, 4) with score 738
+[11:35:18.644] [INFO] Goblin Lugfist moved from (1, 4) to (2, 4)
+[11:35:18.644] [INFO] Movement trail: [(0, 5), (0, 4), (0, 3), (1, 4), (2, 4)]
+[11:35:18.644] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:18.645] [INFO] Offensive blocker chose move (4, 4) with score 749
+[11:35:18.645] [INFO] Goblin Stabstabber moved from (2, 5) to (4, 4)
+[11:35:18.645] [INFO] Movement trail: [(1, 3), (1, 5), (2, 3), (2, 5), (4, 4)]
+[11:35:18.645] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:18.645] [INFO] Offensive blocker chose move (1, 4) with score 685
+[11:35:18.645] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 5) to (1, 4)
+[11:35:18.645] [INFO] Movement trail: [(2, 4), (1, 3), (0, 4), (1, 5), (1, 4)]
+[11:35:18.645] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:18.645] [INFO] Offensive blocker chose move (3, 2) with score 663
+[11:35:18.645] [INFO] Goblin Skabgulper moved from (2, 3) to (3, 2)
+[11:35:18.645] [INFO] Movement trail: [(0, 3), (2, 4), (1, 3), (2, 3), (3, 2)]
+[11:35:19.187] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:19.187] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:19.187] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:19.187] [INFO] Offensive blocker chose move (2, 3) with score 659
+[11:35:19.187] [INFO] Goblin Lugfist moved from (2, 4) to (2, 3)
+[11:35:19.187] [INFO] Movement trail: [(0, 4), (0, 3), (1, 4), (2, 4), (2, 3)]
+[11:35:19.187] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:19.187] [INFO] Offensive blocker chose move (2, 4) with score 762
+[11:35:19.187] [INFO] Goblin Stabstabber moved from (4, 4) to (2, 4)
+[11:35:19.187] [INFO] Movement trail: [(1, 5), (2, 3), (2, 5), (4, 4), (2, 4)]
+[11:35:19.187] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:19.187] [INFO] Offensive blocker chose move (2, 5) with score 654
+[11:35:19.187] [INFO] Goblin Skabslicer Yang the Mighty moved from (1, 4) to (2, 5)
+[11:35:19.187] [INFO] Movement trail: [(1, 3), (0, 4), (1, 5), (1, 4), (2, 5)]
+[11:35:19.187] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:19.187] [INFO] Offensive blocker chose move (4, 4) with score 724
+[11:35:19.187] [INFO] Goblin Skabgulper moved from (3, 2) to (4, 4)
+[11:35:19.187] [INFO] Movement trail: [(2, 4), (1, 3), (2, 3), (3, 2), (4, 4)]
+[11:35:19.681] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:19.681] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:19.681] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:19.682] [INFO] Offensive blocker chose move (4, 3) with score 693
+[11:35:19.682] [INFO] Goblin Lugfist moved from (2, 3) to (4, 3)
+[11:35:19.682] [INFO] Movement trail: [(0, 3), (1, 4), (2, 4), (2, 3), (4, 3)]
+[11:35:19.682] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:19.682] [INFO] Offensive blocker chose move (1, 4) with score 674
+[11:35:19.682] [INFO] Goblin Stabstabber moved from (2, 4) to (1, 4)
+[11:35:19.682] [INFO] Movement trail: [(2, 3), (2, 5), (4, 4), (2, 4), (1, 4)]
+[11:35:19.682] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:19.682] [INFO] Offensive blocker chose move (2, 4) with score 746
+[11:35:19.682] [INFO] Goblin Skabslicer Yang the Mighty moved from (2, 5) to (2, 4)
+[11:35:19.682] [INFO] Movement trail: [(0, 4), (1, 5), (1, 4), (2, 5), (2, 4)]
+[11:35:19.682] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:19.682] [INFO] Offensive blocker chose move (3, 2) with score 694
+[11:35:19.682] [INFO] Goblin Skabgulper moved from (4, 4) to (3, 2)
+[11:35:19.682] [INFO] Movement trail: [(1, 3), (2, 3), (3, 2), (4, 4), (3, 2)]
+[11:35:20.108] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:20.108] [INFO] Goblin Skabfoot moved from (3, 4) to (4, 4)
+[11:35:20.108] [INFO] Movement trail: [(0, 4), (1, 4), (2, 4), (3, 4), (4, 4)]
+[11:35:20.108] [INFO] Carrier Skabfoot moved to (4, 4)
+[11:35:20.108] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:20.108] [INFO] Offensive blocker chose move (5, 4) with score 744
+[11:35:20.108] [INFO] Goblin Lugfist moved from (4, 3) to (5, 4)
+[11:35:20.108] [INFO] Movement trail: [(1, 4), (2, 4), (2, 3), (4, 3), (5, 4)]
+[11:35:20.108] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:20.109] [INFO] Offensive blocker chose move (4, 3) with score 768
+[11:35:20.109] [INFO] Goblin Stabstabber moved from (1, 4) to (4, 3)
+[11:35:20.109] [INFO] Movement trail: [(2, 5), (4, 4), (2, 4), (1, 4), (4, 3)]
+[11:35:20.109] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:20.109] [INFO] Offensive blocker chose move (3, 4) with score 746
+[11:35:20.109] [INFO] Goblin Skabslicer Yang the Mighty moved from (2, 4) to (3, 4)
+[11:35:20.109] [INFO] Movement trail: [(1, 5), (1, 4), (2, 5), (2, 4), (3, 4)]
+[11:35:20.109] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:20.109] [INFO] Offensive blocker chose move (4, 2) with score 698
+[11:35:20.109] [INFO] Goblin Skabgulper moved from (3, 2) to (4, 2)
+[11:35:20.109] [INFO] Movement trail: [(2, 3), (3, 2), (4, 4), (3, 2), (4, 2)]
+[11:35:20.483] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:20.483] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:20.483] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:20.484] [INFO] Offensive blocker chose move (4, 5) with score 711
+[11:35:20.484] [INFO] Goblin Lugfist moved from (5, 4) to (4, 5)
+[11:35:20.484] [INFO] Movement trail: [(2, 4), (2, 3), (4, 3), (5, 4), (4, 5)]
+[11:35:20.484] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:20.484] [INFO] Offensive blocker chose move (5, 4) with score 729
+[11:35:20.484] [INFO] Goblin Stabstabber moved from (4, 3) to (5, 4)
+[11:35:20.484] [INFO] Movement trail: [(4, 4), (2, 4), (1, 4), (4, 3), (5, 4)]
+[11:35:20.484] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:20.484] [INFO] Offensive blocker chose move (4, 3) with score 771
+[11:35:20.484] [INFO] Goblin Skabslicer Yang the Mighty moved from (3, 4) to (4, 3)
+[11:35:20.484] [INFO] Movement trail: [(1, 4), (2, 5), (2, 4), (3, 4), (4, 3)]
+[11:35:20.484] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:20.484] [INFO] Offensive blocker chose move (3, 4) with score 733
+[11:35:20.484] [INFO] Goblin Skabgulper moved from (4, 2) to (3, 4)
+[11:35:20.484] [INFO] Movement trail: [(3, 2), (4, 4), (3, 2), (4, 2), (3, 4)]
+[11:35:20.842] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:20.842] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:20.842] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:20.842] [INFO] Offensive blocker chose move (5, 5) with score 648
+[11:35:20.842] [INFO] Goblin Lugfist moved from (4, 5) to (5, 5)
+[11:35:20.842] [INFO] Movement trail: [(2, 3), (4, 3), (5, 4), (4, 5), (5, 5)]
+[11:35:20.842] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:20.842] [INFO] Offensive blocker chose move (4, 5) with score 731
+[11:35:20.842] [INFO] Goblin Stabstabber moved from (5, 4) to (4, 5)
+[11:35:20.842] [INFO] Movement trail: [(2, 4), (1, 4), (4, 3), (5, 4), (4, 5)]
+[11:35:20.842] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:20.842] [INFO] Offensive blocker chose move (5, 4) with score 734
+[11:35:20.842] [INFO] Goblin Skabslicer Yang the Mighty moved from (4, 3) to (5, 4)
+[11:35:20.842] [INFO] Movement trail: [(2, 5), (2, 4), (3, 4), (4, 3), (5, 4)]
+[11:35:20.842] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:20.842] [INFO] Offensive blocker chose move (4, 3) with score 737
+[11:35:20.842] [INFO] Goblin Skabgulper moved from (3, 4) to (4, 3)
+[11:35:20.842] [INFO] Movement trail: [(4, 4), (3, 2), (4, 2), (3, 4), (4, 3)]
+[11:35:21.120] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:21.120] [INFO] Goblin Skabfoot moved from (4, 4) to (3, 4)
+[11:35:21.120] [INFO] Movement trail: [(1, 4), (2, 4), (3, 4), (4, 4), (3, 4)]
+[11:35:21.120] [INFO] Carrier Skabfoot moved to lateral position (3, 4)
+[11:35:21.120] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:21.120] [INFO] Offensive blocker chose move (4, 4) with score 736
+[11:35:21.120] [INFO] Goblin Lugfist moved from (5, 5) to (4, 4)
+[11:35:21.120] [INFO] Movement trail: [(4, 3), (5, 4), (4, 5), (5, 5), (4, 4)]
+[11:35:21.120] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:21.121] [INFO] Offensive blocker chose move (2, 4) with score 732
+[11:35:21.121] [INFO] Goblin Stabstabber moved from (4, 5) to (2, 4)
+[11:35:21.121] [INFO] Movement trail: [(1, 4), (4, 3), (5, 4), (4, 5), (2, 4)]
+[11:35:21.121] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:21.121] [INFO] Offensive blocker chose move (4, 5) with score 652
+[11:35:21.121] [INFO] Goblin Skabslicer Yang the Mighty moved from (5, 4) to (4, 5)
+[11:35:21.121] [INFO] Movement trail: [(2, 4), (3, 4), (4, 3), (5, 4), (4, 5)]
+[11:35:21.121] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:21.121] [INFO] Offensive blocker chose move (2, 3) with score 690
+[11:35:21.121] [INFO] Goblin Skabgulper moved from (4, 3) to (2, 3)
+[11:35:21.121] [INFO] Movement trail: [(3, 2), (4, 2), (3, 4), (4, 3), (2, 3)]
+[11:35:21.418] [INFO] Moving carrier Skabfoot with 1 movement points
+[11:35:21.418] [INFO] Carrier Skabfoot couldn't find valid move
+[11:35:21.418] [INFO] Moving offensive blocker Lugfist with 2 movement points
+[11:35:21.418] [INFO] Offensive blocker chose move (5, 4) with score 676
+[11:35:21.418] [INFO] Goblin Lugfist moved from (4, 4) to (5, 4)
+[11:35:21.418] [INFO] Movement trail: [(5, 4), (4, 5), (5, 5), (4, 4), (5, 4)]
+[11:35:21.418] [INFO] Moving offensive blocker Stabstabber with 4 movement points
+[11:35:21.419] [INFO] Offensive blocker chose move (4, 4) with score 743
+[11:35:21.419] [INFO] Goblin Stabstabber moved from (2, 4) to (4, 4)
+[11:35:21.419] [INFO] Movement trail: [(4, 3), (5, 4), (4, 5), (2, 4), (4, 4)]
+[11:35:21.419] [INFO] Moving offensive blocker Skabslicer Yang the Mighty with 2 movement points
+[11:35:21.419] [INFO] Offensive blocker chose move (2, 5) with score 678
+[11:35:21.419] [INFO] Goblin Skabslicer Yang the Mighty moved from (4, 5) to (2, 5)
+[11:35:21.419] [INFO] Movement trail: [(3, 4), (4, 3), (5, 4), (4, 5), (2, 5)]
+[11:35:21.419] [INFO] Moving offensive blocker Skabgulper with 3 movement points
+[11:35:21.419] [INFO] Offensive blocker chose move (2, 4) with score 742
+[11:35:21.419] [INFO] Goblin Skabgulper moved from (2, 3) to (2, 4)
+[11:35:21.419] [INFO] Movement trail: [(4, 2), (3, 4), (4, 3), (2, 3), (2, 4)]

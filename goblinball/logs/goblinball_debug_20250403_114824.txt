@@ -1,0 +1,117 @@
+[11:48:24.523] [INFO] === Goblinball Debug Log - 20250403_114824 ===
+[11:48:24.523] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114824.txt
+[11:48:24.544] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:48:25.552] [INFO] Moving carrier Gnogsquisher Jacqeline with 1 movement points
+[11:48:25.552] [INFO] Goblin Gnogsquisher Jacqeline moved from (4, 8) to (3, 8)
+[11:48:25.552] [INFO] Movement trail: [(4, 8), (3, 8)]
+[11:48:25.552] [INFO] Carrier Gnogsquisher Jacqeline moved to (3, 8)
+[11:48:25.555] [INFO] Moving offensive blocker Snotbasher  with 2 movement points
+[11:48:25.555] [INFO] Offensive blocker chose move (3, 7) with score 751
+[11:48:25.555] [INFO] Goblin Snotbasher  moved from (2, 8) to (3, 7)
+[11:48:25.555] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:48:25.555] [INFO] Moving offensive blocker Grakgob with 4 movement points
+[11:48:25.555] [INFO] Offensive blocker chose move (4, 8) with score 741
+[11:48:25.556] [INFO] Goblin Grakgob moved from (6, 8) to (4, 8)
+[11:48:25.556] [INFO] Movement trail: [(6, 8), (4, 8)]
+[11:48:25.556] [INFO] Moving offensive blocker Krakbiter Liban with 4 movement points
+[11:48:25.556] [INFO] Offensive blocker chose move (5, 8) with score 670
+[11:48:25.556] [INFO] Goblin Krakbiter Liban moved from (8, 8) to (5, 8)
+[11:48:25.556] [INFO] Movement trail: [(8, 8), (5, 8)]
+[11:48:25.556] [INFO] Moving offensive blocker Krunkskull with 1 movement points
+[11:48:25.556] [INFO] Offensive blocker chose move (8, 8) with score 398
+[11:48:25.556] [INFO] Goblin Krunkskull moved from (9, 8) to (8, 8)
+[11:48:25.556] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:48:25.556] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:48:25.556] [INFO] Defensive blocker chose move (2, 4) with score 1222
+[11:48:25.556] [INFO] Goblin Gnogskull moved from (2, 1) to (2, 4)
+[11:48:25.556] [INFO] Movement trail: [(2, 1), (2, 4)]
+[11:48:25.556] [INFO] Moving defensive blocker Grubbiter Mojag  with 3 movement points
+[11:48:25.556] [INFO] Defensive blocker chose move (4, 4) with score 1225
+[11:48:25.556] [INFO] Goblin Grubbiter Mojag  moved from (4, 1) to (4, 4)
+[11:48:25.556] [INFO] Movement trail: [(4, 1), (4, 4)]
+[11:48:25.556] [INFO] Moving defensive blocker Fizzchomper Pigly the Cunning with 4 movement points
+[11:48:25.557] [INFO] Defensive blocker chose move (3, 2) with score 1135
+[11:48:25.557] [INFO] Goblin Fizzchomper Pigly the Cunning moved from (6, 1) to (3, 2)
+[11:48:25.557] [INFO] Movement trail: [(6, 1), (3, 2)]
+[11:48:25.557] [INFO] Moving defensive blocker Fizznose Beaux with 2 movement points
+[11:48:25.557] [INFO] Defensive blocker chose move (8, 3) with score 765
+[11:48:25.557] [INFO] Goblin Fizznose Beaux moved from (8, 1) to (8, 3)
+[11:48:25.557] [INFO] Movement trail: [(8, 1), (8, 3)]
+[11:48:25.557] [INFO] Moving defensive blocker Grimchomper with 2 movement points
+[11:48:25.557] [INFO] Defensive blocker chose move (9, 3) with score 716
+[11:48:25.557] [INFO] Goblin Grimchomper moved from (9, 1) to (9, 3)
+[11:48:25.557] [INFO] Movement trail: [(9, 1), (9, 3)]
+[11:48:26.140] [INFO] Moving carrier Gnogsquisher Jacqeline with 1 movement points
+[11:48:26.140] [INFO] Goblin Gnogsquisher Jacqeline moved from (3, 8) to (2, 8)
+[11:48:26.140] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8)]
+[11:48:26.141] [INFO] Carrier Gnogsquisher Jacqeline moved to (2, 8)
+[11:48:26.141] [INFO] Moving offensive blocker Snotbasher  with 2 movement points
+[11:48:26.141] [INFO] Offensive blocker chose move (2, 7) with score 733
+[11:48:26.141] [INFO] Goblin Snotbasher  moved from (3, 7) to (2, 7)
+[11:48:26.141] [INFO] Movement trail: [(2, 8), (3, 7), (2, 7)]
+[11:48:26.141] [INFO] Moving offensive blocker Grakgob with 4 movement points
+[11:48:26.141] [INFO] Offensive blocker chose move (3, 8) with score 740
+[11:48:26.141] [INFO] Goblin Grakgob moved from (4, 8) to (3, 8)
+[11:48:26.141] [INFO] Movement trail: [(6, 8), (4, 8), (3, 8)]
+[11:48:26.141] [INFO] Moving offensive blocker Krakbiter Liban with 4 movement points
+[11:48:26.141] [INFO] Offensive blocker chose move (1, 8) with score 716
+[11:48:26.141] [INFO] Goblin Krakbiter Liban moved from (5, 8) to (1, 8)
+[11:48:26.141] [INFO] Movement trail: [(8, 8), (5, 8), (1, 8)]
+[11:48:26.141] [INFO] Moving offensive blocker Krunkskull with 1 movement points
+[11:48:26.141] [INFO] Offensive blocker chose move (7, 8) with score 415
+[11:48:26.141] [INFO] Goblin Krunkskull moved from (8, 8) to (7, 8)
+[11:48:26.141] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8)]
+[11:48:26.141] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:48:26.142] [INFO] Defensive blocker chose move (2, 6) with score 1369
+[11:48:26.142] [INFO] Goblin Gnogskull moved from (2, 4) to (2, 6)
+[11:48:26.142] [INFO] Movement trail: [(2, 1), (2, 4), (2, 6)]
+[11:48:26.142] [INFO] Moving defensive blocker Grubbiter Mojag  with 3 movement points
+[11:48:26.142] [INFO] Defensive blocker chose move (3, 6) with score 1302
+[11:48:26.142] [INFO] Goblin Grubbiter Mojag  moved from (4, 4) to (3, 6)
+[11:48:26.142] [INFO] Movement trail: [(4, 1), (4, 4), (3, 6)]
+[11:48:26.142] [INFO] Moving defensive blocker Fizzchomper Pigly the Cunning with 4 movement points
+[11:48:26.142] [INFO] Defensive blocker chose move (2, 5) with score 1299
+[11:48:26.142] [INFO] Goblin Fizzchomper Pigly the Cunning moved from (3, 2) to (2, 5)
+[11:48:26.142] [INFO] Movement trail: [(6, 1), (3, 2), (2, 5)]
+[11:48:26.142] [INFO] Moving defensive blocker Fizznose Beaux with 2 movement points
+[11:48:26.142] [INFO] Defensive blocker chose move (6, 3) with score 809
+[11:48:26.142] [INFO] Goblin Fizznose Beaux moved from (8, 3) to (6, 3)
+[11:48:26.142] [INFO] Movement trail: [(8, 1), (8, 3), (6, 3)]
+[11:48:26.142] [INFO] Moving defensive blocker Grimchomper with 2 movement points
+[11:48:26.142] [INFO] Defensive blocker chose move (7, 3) with score 768
+[11:48:26.142] [INFO] Goblin Grimchomper moved from (9, 3) to (7, 3)
+[11:48:26.142] [INFO] Movement trail: [(9, 1), (9, 3), (7, 3)]
+[11:48:26.600] [INFO] Moving carrier Gnogsquisher Jacqeline with 1 movement points
+[11:48:26.601] [INFO] Carrier Gnogsquisher Jacqeline couldn't find valid move
+[11:48:26.601] [INFO] Moving offensive blocker Snotbasher  with 2 movement points
+[11:48:26.601] [INFO] Attempt block of Gnogskull by Snotbasher 
+[11:48:26.601] [INFO] Attempt block of Grubbiter Mojag  by Snotbasher 
+[11:48:26.601] [INFO] Moving offensive blocker Grakgob with 4 movement points
+[11:48:26.601] [INFO] Offensive blocker chose move (3, 5) with score 5220
+[11:48:26.601] [INFO] Goblin Grakgob moved from (3, 8) to (3, 5)
+[11:48:26.601] [INFO] Movement trail: [(6, 8), (4, 8), (3, 8), (3, 5)]
+[11:48:26.601] [INFO] Offensive blocker Grakgob attempting to block Gnogskull after moving
+[11:48:26.601] [INFO] Moving offensive blocker Krakbiter Liban with 4 movement points
+[11:48:26.601] [INFO] Offensive blocker chose move (3, 7) with score 2987
+[11:48:26.601] [INFO] Goblin Krakbiter Liban moved from (1, 8) to (3, 7)
+[11:48:26.601] [INFO] Movement trail: [(8, 8), (5, 8), (1, 8), (3, 7)]
+[11:48:26.601] [INFO] Offensive blocker Krakbiter Liban attempting to block Gnogskull after moving
+[11:48:26.601] [INFO] Moving offensive blocker Krunkskull with 1 movement points
+[11:48:26.601] [INFO] Offensive blocker chose move (6, 8) with score 476
+[11:48:26.601] [INFO] Goblin Krunkskull moved from (7, 8) to (6, 8)
+[11:48:26.601] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8), (6, 8)]
+[11:48:26.601] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:48:26.602] [INFO] Defensive blocker chose move (1, 8) with score 2972
+[11:48:26.602] [INFO] Goblin Gnogskull moved from (2, 6) to (1, 8)
+[11:48:26.602] [INFO] Movement trail: [(2, 1), (2, 4), (2, 6), (1, 8)]
+[11:48:26.602] [INFO] Moving defensive blocker Grubbiter Mojag  with 3 movement points
+[11:48:26.602] [INFO] Defensive blocker chose move (3, 8) with score 3946
+[11:48:26.602] [INFO] Goblin Grubbiter Mojag  moved from (3, 6) to (3, 8)
+[11:48:26.602] [INFO] Movement trail: [(4, 1), (4, 4), (3, 6), (3, 8)]
+[11:48:26.602] [INFO] Defensive blocker Grubbiter Mojag  attempting to block carrier Gnogsquisher Jacqeline after moving
+[11:48:26.602] [INFO] Moving offensive blocker Fizzchomper Pigly the Cunning with 4 movement points
+[11:48:26.602] [INFO] No carrier found for team Skullsmashers!
+[11:48:26.602] [INFO] Moving offensive blocker Fizznose Beaux with 2 movement points
+[11:48:26.602] [INFO] No carrier found for team Skullsmashers!
+[11:48:26.602] [INFO] Moving offensive blocker Grimchomper with 2 movement points
+[11:48:26.602] [INFO] No carrier found for team Skullsmashers!

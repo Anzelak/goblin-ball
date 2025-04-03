@@ -1,0 +1,76 @@
+[11:55:13.998] [INFO] === Goblinball Debug Log - 20250403_115513 ===
+[11:55:13.998] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115513.txt
+[11:55:14.019] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:55:15.040] [INFO] Moving carrier Stabfinger Jelisa  with 4 movement points
+[11:55:15.041] [INFO] Goblin Stabfinger Jelisa  moved from (4, 8) to (5, 5)
+[11:55:15.041] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:55:15.041] [INFO] Carrier Stabfinger Jelisa  moved along clear path to (5, 5)
+[11:55:15.041] [INFO] Moving offensive blocker Mugfoot Chani with 1 movement points
+[11:55:15.041] [INFO] Offensive blocker chose move (3, 8) with score 425
+[11:55:15.041] [INFO] Goblin Mugfoot Chani moved from (2, 8) to (3, 8)
+[11:55:15.041] [INFO] Movement trail: [(2, 8), (3, 8)]
+[11:55:15.041] [INFO] Moving offensive blocker Graksquisher with 3 movement points
+[11:55:15.042] [INFO] Offensive blocker chose move (5, 6) with score 747
+[11:55:15.042] [INFO] Goblin Graksquisher moved from (6, 8) to (5, 6)
+[11:55:15.042] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:55:15.042] [INFO] Moving offensive blocker Lugchewer the Sneaky with 1 movement points
+[11:55:15.042] [INFO] Offensive blocker chose move (8, 7) with score 401
+[11:55:15.042] [INFO] Goblin Lugchewer the Sneaky moved from (8, 8) to (8, 7)
+[11:55:15.042] [INFO] Movement trail: [(8, 8), (8, 7)]
+[11:55:15.042] [INFO] Moving offensive blocker Kraknose with 3 movement points
+[11:55:15.042] [INFO] Offensive blocker chose move (8, 6) with score 517
+[11:55:15.042] [INFO] Goblin Kraknose moved from (9, 8) to (8, 6)
+[11:55:15.042] [INFO] Movement trail: [(9, 8), (8, 6)]
+[11:55:15.042] [INFO] Moving defensive blocker Bludmangler with 3 movement points
+[11:55:15.042] [INFO] Defensive blocker chose move (5, 1) with score 1249
+[11:55:15.042] [INFO] Goblin Bludmangler moved from (2, 1) to (5, 1)
+[11:55:15.042] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:55:15.042] [INFO] Moving defensive blocker Stabfist with 1 movement points
+[11:55:15.042] [INFO] Defensive blocker chose move (4, 2) with score 1233
+[11:55:15.042] [INFO] Goblin Stabfist moved from (4, 1) to (4, 2)
+[11:55:15.042] [INFO] Movement trail: [(4, 1), (4, 2)]
+[11:55:15.042] [INFO] Moving defensive blocker Grimfinger the Tough with 3 movement points
+[11:55:15.042] [INFO] Defensive blocker chose move (6, 4) with score 1351
+[11:55:15.042] [INFO] Goblin Grimfinger the Tough moved from (6, 1) to (6, 4)
+[11:55:15.042] [INFO] Movement trail: [(6, 1), (6, 4)]
+[11:55:15.042] [INFO] Moving defensive blocker Zogfoot with 4 movement points
+[11:55:15.042] [INFO] Defensive blocker chose move (5, 2) with score 1284
+[11:55:15.042] [INFO] Goblin Zogfoot moved from (8, 1) to (5, 2)
+[11:55:15.042] [INFO] Movement trail: [(8, 1), (5, 2)]
+[11:55:15.042] [INFO] Moving defensive blocker Grimfoot with 4 movement points
+[11:55:15.042] [INFO] Defensive blocker chose move (6, 2) with score 1267
+[11:55:15.042] [INFO] Goblin Grimfoot moved from (9, 1) to (6, 2)
+[11:55:15.042] [INFO] Movement trail: [(9, 1), (6, 2)]
+[11:55:15.483] [INFO] Moving carrier Stabfinger Jelisa  with 4 movement points
+[11:55:15.483] [INFO] Goblin Stabfinger Jelisa  moved from (5, 5) to (5, 3)
+[11:55:15.483] [INFO] Movement trail: [(4, 8), (5, 5), (5, 3)]
+[11:55:15.483] [INFO] Carrier Stabfinger Jelisa  moved to (5, 3) (score: 32.4)
+[11:55:15.484] [INFO] Moving offensive blocker Mugfoot Chani with 1 movement points
+[11:55:15.484] [INFO] Offensive blocker chose move (4, 8) with score 331
+[11:55:15.484] [INFO] Goblin Mugfoot Chani moved from (3, 8) to (4, 8)
+[11:55:15.484] [INFO] Movement trail: [(2, 8), (3, 8), (4, 8)]
+[11:55:15.484] [INFO] Moving offensive blocker Graksquisher with 3 movement points
+[11:55:15.484] [INFO] Offensive blocker chose move (5, 4) with score 3163
+[11:55:15.484] [INFO] Goblin Graksquisher moved from (5, 6) to (5, 4)
+[11:55:15.484] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4)]
+[11:55:15.484] [INFO] Offensive blocker Graksquisher attempting to block Grimfinger the Tough after moving
+[11:55:15.484] [INFO] Moving offensive blocker Lugchewer the Sneaky with 1 movement points
+[11:55:15.484] [INFO] Offensive blocker chose move (7, 7) with score 346
+[11:55:15.484] [INFO] Goblin Lugchewer the Sneaky moved from (8, 7) to (7, 7)
+[11:55:15.484] [INFO] Movement trail: [(8, 8), (8, 7), (7, 7)]
+[11:55:15.484] [INFO] Moving offensive blocker Kraknose with 3 movement points
+[11:55:15.484] [INFO] Offensive blocker chose move (8, 4) with score 2879
+[11:55:15.484] [INFO] Goblin Kraknose moved from (8, 6) to (8, 4)
+[11:55:15.484] [INFO] Movement trail: [(9, 8), (8, 6), (8, 4)]
+[11:55:15.484] [INFO] Offensive blocker Kraknose attempting to block Grimfinger the Tough after moving
+[11:55:15.484] [INFO] Moving defensive blocker Bludmangler with 3 movement points
+[11:55:15.484] [INFO] Defensive blocker chose move (4, 3) with score 2974
+[11:55:15.484] [INFO] Moving defensive blocker Stabfist with 1 movement points
+[11:55:15.484] [INFO] Defensive blocker Stabfist attempting to block carrier Stabfinger Jelisa 
+[11:55:15.485] [INFO] Block succeeded!
+[11:55:15.485] [INFO] Moving offensive blocker Grimfinger the Tough with 3 movement points
+[11:55:15.485] [INFO] No carrier found for team Skullsmashers!
+[11:55:15.485] [INFO] Moving offensive blocker Zogfoot with 4 movement points
+[11:55:15.485] [INFO] No carrier found for team Skullsmashers!
+[11:55:15.485] [INFO] Moving offensive blocker Grimfoot with 4 movement points
+[11:55:15.485] [INFO] No carrier found for team Skullsmashers!

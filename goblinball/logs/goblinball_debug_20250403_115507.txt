@@ -1,0 +1,85 @@
+[11:55:07.288] [INFO] === Goblinball Debug Log - 20250403_115507 ===
+[11:55:07.288] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115507.txt
+[11:55:07.309] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:55:08.235] [INFO] Moving carrier Kraksmasher Peanut the Fierce with 4 movement points
+[11:55:08.236] [INFO] Goblin Kraksmasher Peanut the Fierce moved from (4, 8) to (5, 5)
+[11:55:08.236] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:55:08.236] [INFO] Carrier Kraksmasher Peanut the Fierce moved along clear path to (5, 5)
+[11:55:08.238] [INFO] Moving offensive blocker Zogmangler Verfsnot with 4 movement points
+[11:55:08.239] [INFO] Offensive blocker chose move (3, 5) with score 664
+[11:55:08.239] [INFO] Goblin Zogmangler Verfsnot moved from (2, 8) to (3, 5)
+[11:55:08.239] [INFO] Movement trail: [(2, 8), (3, 5)]
+[11:55:08.239] [INFO] Moving offensive blocker Gnogmangler Tipplewhisk  with 3 movement points
+[11:55:08.239] [INFO] Offensive blocker chose move (5, 6) with score 755
+[11:55:08.239] [INFO] Goblin Gnogmangler Tipplewhisk  moved from (6, 8) to (5, 6)
+[11:55:08.239] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:55:08.239] [INFO] Moving offensive blocker Snotfist June with 1 movement points
+[11:55:08.239] [INFO] Offensive blocker chose move (8, 7) with score 425
+[11:55:08.239] [INFO] Goblin Snotfist June moved from (8, 8) to (8, 7)
+[11:55:08.239] [INFO] Movement trail: [(8, 8), (8, 7)]
+[11:55:08.239] [INFO] Moving offensive blocker Bludbiter Serpentriver with 4 movement points
+[11:55:08.240] [INFO] Offensive blocker chose move (7, 6) with score 584
+[11:55:08.240] [INFO] Goblin Bludbiter Serpentriver moved from (9, 8) to (7, 6)
+[11:55:08.240] [INFO] Movement trail: [(9, 8), (7, 6)]
+[11:55:08.240] [INFO] Moving defensive blocker Skabnose Zacarías with 1 movement points
+[11:55:08.240] [INFO] Defensive blocker chose move (2, 2) with score 953
+[11:55:08.240] [INFO] Goblin Skabnose Zacarías moved from (2, 1) to (2, 2)
+[11:55:08.240] [INFO] Movement trail: [(2, 1), (2, 2)]
+[11:55:08.240] [INFO] Moving defensive blocker Wortsmasher with 3 movement points
+[11:55:08.240] [INFO] Defensive blocker chose move (5, 3) with score 1361
+[11:55:08.240] [INFO] Goblin Wortsmasher moved from (4, 1) to (5, 3)
+[11:55:08.240] [INFO] Movement trail: [(4, 1), (5, 3)]
+[11:55:08.240] [INFO] Moving defensive blocker Skrizstabber Nattfrosk with 2 movement points
+[11:55:08.240] [INFO] Defensive blocker chose move (5, 2) with score 1320
+[11:55:08.240] [INFO] Goblin Skrizstabber Nattfrosk moved from (6, 1) to (5, 2)
+[11:55:08.240] [INFO] Movement trail: [(6, 1), (5, 2)]
+[11:55:08.240] [INFO] Moving defensive blocker Krakgulper  with 2 movement points
+[11:55:08.241] [INFO] Defensive blocker chose move (6, 1) with score 1190
+[11:55:08.241] [INFO] Goblin Krakgulper  moved from (8, 1) to (6, 1)
+[11:55:08.241] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:55:08.241] [INFO] Moving defensive blocker Krakgulper with 2 movement points
+[11:55:08.241] [INFO] Defensive blocker chose move (9, 3) with score 957
+[11:55:08.241] [INFO] Goblin Krakgulper moved from (9, 1) to (9, 3)
+[11:55:08.241] [INFO] Movement trail: [(9, 1), (9, 3)]
+[11:55:08.726] [INFO] Moving carrier Kraksmasher Peanut the Fierce with 4 movement points
+[11:55:08.727] [INFO] Goblin Kraksmasher Peanut the Fierce moved from (5, 5) to (5, 1)
+[11:55:08.727] [INFO] Movement trail: [(4, 8), (5, 5), (5, 1)]
+[11:55:08.727] [INFO] Carrier Kraksmasher Peanut the Fierce moved to (5, 1) (score: 36.0)
+[11:55:08.727] [INFO] Moving offensive blocker Zogmangler Verfsnot with 4 movement points
+[11:55:08.728] [INFO] Offensive blocker chose move (4, 3) with score 3004
+[11:55:08.728] [INFO] Goblin Zogmangler Verfsnot moved from (3, 5) to (4, 3)
+[11:55:08.728] [INFO] Movement trail: [(2, 8), (3, 5), (4, 3)]
+[11:55:08.728] [INFO] Offensive blocker Zogmangler Verfsnot attempting to block Skrizstabber Nattfrosk after moving
+[11:55:08.728] [INFO] Moving offensive blocker Gnogmangler Tipplewhisk  with 3 movement points
+[11:55:08.728] [INFO] Offensive blocker chose move (5, 4) with score 2997
+[11:55:08.728] [INFO] Goblin Gnogmangler Tipplewhisk  moved from (5, 6) to (5, 4)
+[11:55:08.728] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4)]
+[11:55:08.728] [INFO] Offensive blocker Gnogmangler Tipplewhisk  attempting to block Wortsmasher after moving
+[11:55:08.728] [INFO] Moving offensive blocker Snotfist June with 1 movement points
+[11:55:08.728] [INFO] Offensive blocker chose move (8, 6) with score 196
+[11:55:08.728] [INFO] Goblin Snotfist June moved from (8, 7) to (8, 6)
+[11:55:08.728] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6)]
+[11:55:08.728] [INFO] Moving offensive blocker Bludbiter Serpentriver with 4 movement points
+[11:55:08.728] [INFO] Offensive blocker chose move (7, 2) with score 610
+[11:55:08.728] [INFO] Goblin Bludbiter Serpentriver moved from (7, 6) to (7, 2)
+[11:55:08.728] [INFO] Movement trail: [(9, 8), (7, 6), (7, 2)]
+[11:55:08.728] [INFO] Moving defensive blocker Skabnose Zacarías with 1 movement points
+[11:55:08.728] [INFO] Defensive blocker chose move (3, 2) with score 852
+[11:55:08.728] [INFO] Goblin Skabnose Zacarías moved from (2, 2) to (3, 2)
+[11:55:08.728] [INFO] Movement trail: [(2, 1), (2, 2), (3, 2)]
+[11:55:08.728] [INFO] Moving defensive blocker Skrizstabber Nattfrosk with 2 movement points
+[11:55:08.728] [INFO] Defensive blocker Skrizstabber Nattfrosk attempting to block carrier Kraksmasher Peanut the Fierce
+[11:55:08.728] [INFO] Block succeeded!
+[11:55:08.728] [INFO] Moving defensive blocker Krakgulper  with 2 movement points
+[11:55:08.728] [INFO] Defensive blocker Krakgulper  attempting to block carrier Kraksmasher Peanut the Fierce
+[11:55:08.728] [INFO] Defensive blocker chose move (6, 0) with score 2944
+[11:55:08.728] [INFO] Goblin Krakgulper  moved from (6, 1) to (6, 0)
+[11:55:08.728] [INFO] Movement trail: [(8, 1), (6, 1), (6, 0)]
+[11:55:08.728] [INFO] Moving defensive blocker Krakgulper with 2 movement points
+[11:55:08.729] [INFO] Defensive blocker chose move (7, 3) with score 767
+[11:55:08.729] [INFO] Goblin Krakgulper moved from (9, 3) to (7, 3)
+[11:55:08.729] [INFO] Movement trail: [(9, 1), (9, 3), (7, 3)]
+[11:55:10.365] [INFO] Moving carrier Kraksmasher Peanut the Fierce with 4 movement points
+[11:55:10.366] [INFO] Goblin Kraksmasher Peanut the Fierce moved from (5, 0) to (7, 0)
+[11:55:10.366] [INFO] Movement trail: [(4, 8), (5, 5), (5, 1), (5, 0), (7, 0)]
+[11:55:10.367] [INFO] Carrier Kraksmasher Peanut the Fierce moved to (7, 0) (score: 31.4)

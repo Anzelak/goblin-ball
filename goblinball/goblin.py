@@ -61,7 +61,7 @@ def generate_goblin_name(names_file="names.txt"):
     return name
 
 class Goblin:
-    def __init__(self, name=None, strength=None, toughness=None, movement=None):
+    def __init__(self, name=None, strength=None, toughness=None, movement=None, agility=None):
         # Identity
         self.name = name or generate_goblin_name()
         self.id = str(uuid.uuid4())
@@ -71,6 +71,7 @@ class Goblin:
         self.toughness = toughness or random.randint(CONFIG.get("min_toughness", 1), CONFIG.get("max_toughness", 10))
         self.movement = movement or random.randint(CONFIG.get("min_movement", 1), CONFIG.get("max_movement", 4))
         self.max_movement = self.movement  # To reset each turn
+        self.agility = agility or random.randint(1, 10)  # New agility attribute
         
         # Current state
         self.position = (0, 0)  # (x, y) coordinates
@@ -92,8 +93,6 @@ class Goblin:
         self.unavailable = False
         
         # Phase 3: Combat Stats
-        self.block_skill = random.randint(0, 2)  # Bonus to blocking attempts
-        self.dodge_skill = random.randint(0, 2)  # Bonus to dodging blocks
         self.injury_resistance = random.randint(0, 2)  # Bonus to injury rolls
         
         # Statistics - preserved between games for season tracking
@@ -128,9 +127,9 @@ class Goblin:
         blocker_roll = random.randint(1, 10)
         target_roll = random.randint(1, 10)
         
-        # Apply skill bonuses
-        blocker_total = blocker_roll + self.strength + self.block_skill
-        target_total = target_roll + target.toughness + target.dodge_skill
+        # Apply strength and agility
+        blocker_total = blocker_roll + self.strength
+        target_total = target_roll + target.agility  # Use agility instead of dodge_skill
         
         # Calculate margin of success/failure
         margin = blocker_total - target_total

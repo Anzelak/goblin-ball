@@ -1,0 +1,76 @@
+[11:47:24.308] [INFO] === Goblinball Debug Log - 20250403_114724 ===
+[11:47:24.308] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114724.txt
+[11:47:24.329] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:47:25.316] [INFO] Moving carrier Snotfinger Liris with 1 movement points
+[11:47:25.316] [INFO] Goblin Snotfinger Liris moved from (4, 8) to (3, 8)
+[11:47:25.316] [INFO] Movement trail: [(4, 8), (3, 8)]
+[11:47:25.316] [INFO] Carrier Snotfinger Liris moved to (3, 8)
+[11:47:25.318] [INFO] Moving offensive blocker Grimstabber with 1 movement points
+[11:47:25.318] [INFO] Offensive blocker chose move (1, 8) with score 666
+[11:47:25.318] [INFO] Goblin Grimstabber moved from (2, 8) to (1, 8)
+[11:47:25.318] [INFO] Movement trail: [(2, 8), (1, 8)]
+[11:47:25.318] [INFO] Moving offensive blocker Thrakfoot the Tough with 4 movement points
+[11:47:25.319] [INFO] Offensive blocker chose move (4, 8) with score 734
+[11:47:25.319] [INFO] Goblin Thrakfoot the Tough moved from (6, 8) to (4, 8)
+[11:47:25.319] [INFO] Movement trail: [(6, 8), (4, 8)]
+[11:47:25.319] [INFO] Moving offensive blocker Gutcrusher with 2 movement points
+[11:47:25.319] [INFO] Offensive blocker chose move (6, 8) with score 588
+[11:47:25.319] [INFO] Goblin Gutcrusher moved from (8, 8) to (6, 8)
+[11:47:25.319] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:47:25.319] [INFO] Moving offensive blocker Gutstomper with 1 movement points
+[11:47:25.319] [INFO] Offensive blocker chose move (8, 8) with score 428
+[11:47:25.319] [INFO] Goblin Gutstomper moved from (9, 8) to (8, 8)
+[11:47:25.319] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:47:25.319] [INFO] Moving defensive blocker Bludmangler Bullet the Cunning with 4 movement points
+[11:47:25.319] [INFO] Defensive blocker chose move (2, 5) with score 1236
+[11:47:25.319] [INFO] Goblin Bludmangler Bullet the Cunning moved from (2, 1) to (2, 5)
+[11:47:25.319] [INFO] Movement trail: [(2, 1), (2, 5)]
+[11:47:25.319] [INFO] Moving defensive blocker Zogchewer with 3 movement points
+[11:47:25.319] [INFO] Defensive blocker chose move (4, 4) with score 1222
+[11:47:25.319] [INFO] Goblin Zogchewer moved from (4, 1) to (4, 4)
+[11:47:25.319] [INFO] Movement trail: [(4, 1), (4, 4)]
+[11:47:25.319] [INFO] Moving defensive blocker Globchomper with 1 movement points
+[11:47:25.319] [INFO] Defensive blocker chose move (6, 2) with score 814
+[11:47:25.319] [INFO] Goblin Globchomper moved from (6, 1) to (6, 2)
+[11:47:25.319] [INFO] Movement trail: [(6, 1), (6, 2)]
+[11:47:25.319] [INFO] Moving defensive blocker Guttooth the Quick with 2 movement points
+[11:47:25.320] [INFO] Defensive blocker chose move (7, 2) with score 766
+[11:47:25.320] [INFO] Goblin Guttooth the Quick moved from (8, 1) to (7, 2)
+[11:47:25.320] [INFO] Movement trail: [(8, 1), (7, 2)]
+[11:47:25.320] [INFO] Moving defensive blocker Splatmangler with 4 movement points
+[11:47:25.320] [INFO] Defensive blocker chose move (9, 5) with score 823
+[11:47:25.320] [INFO] Goblin Splatmangler moved from (9, 1) to (9, 5)
+[11:47:25.320] [INFO] Movement trail: [(9, 1), (9, 5)]
+[11:47:26.705] [INFO] Moving carrier Snotfinger Liris with 1 movement points
+[11:47:26.705] [INFO] Goblin Snotfinger Liris moved from (3, 8) to (2, 8)
+[11:47:26.705] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8)]
+[11:47:26.705] [INFO] Carrier Snotfinger Liris moved to (2, 8)
+[11:47:26.705] [INFO] Moving offensive blocker Grimstabber with 1 movement points
+[11:47:26.705] [INFO] Offensive blocker chose move (1, 7) with score 672
+[11:47:26.705] [INFO] Goblin Grimstabber moved from (1, 8) to (1, 7)
+[11:47:26.705] [INFO] Movement trail: [(2, 8), (1, 8), (1, 7)]
+[11:47:26.705] [INFO] Moving offensive blocker Thrakfoot the Tough with 4 movement points
+[11:47:26.705] [INFO] Offensive blocker chose move (2, 6) with score 3195
+[11:47:26.705] [INFO] Goblin Thrakfoot the Tough moved from (4, 8) to (2, 6)
+[11:47:26.705] [INFO] Movement trail: [(6, 8), (4, 8), (2, 6)]
+[11:47:26.705] [INFO] Moving offensive blocker Gutcrusher with 2 movement points
+[11:47:26.706] [INFO] Offensive blocker chose move (4, 8) with score 658
+[11:47:26.706] [INFO] Goblin Gutcrusher moved from (6, 8) to (4, 8)
+[11:47:26.706] [INFO] Movement trail: [(8, 8), (6, 8), (4, 8)]
+[11:47:26.706] [INFO] Moving offensive blocker Gutstomper with 1 movement points
+[11:47:26.706] [INFO] Offensive blocker chose move (7, 8) with score 417
+[11:47:26.706] [INFO] Goblin Gutstomper moved from (8, 8) to (7, 8)
+[11:47:26.706] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8)]
+[11:47:26.706] [INFO] Moving defensive blocker Bludmangler Bullet the Cunning with 4 movement points
+[11:47:26.706] [INFO] Defensive blocker chose move (2, 7) with score 4412
+[11:47:26.706] [INFO] Goblin Bludmangler Bullet the Cunning moved from (2, 5) to (2, 7)
+[11:47:26.706] [INFO] Movement trail: [(2, 1), (2, 5), (2, 7)]
+[11:47:26.706] [INFO] Defensive blocker Bludmangler Bullet the Cunning attempting to block carrier Snotfinger Liris after moving
+[11:47:26.706] [INFO] Moving offensive blocker Zogchewer with 3 movement points
+[11:47:26.706] [INFO] No carrier found for team Skullsmashers!
+[11:47:26.706] [INFO] Moving offensive blocker Globchomper with 1 movement points
+[11:47:26.706] [INFO] No carrier found for team Skullsmashers!
+[11:47:26.706] [INFO] Moving offensive blocker Guttooth the Quick with 2 movement points
+[11:47:26.706] [INFO] No carrier found for team Skullsmashers!
+[11:47:26.706] [INFO] Moving offensive blocker Splatmangler with 4 movement points
+[11:47:26.706] [INFO] No carrier found for team Skullsmashers!

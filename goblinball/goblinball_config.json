@@ -10,7 +10,7 @@
   "max_toughness": 10,
   "min_movement": 1,
   "max_movement": 4,
-  "blocking_cost": 2,
+  "blocking_cost": 1,
   "push_threshold": 3,
   "knockdown_threshold": 6,
   "carrier_penalty": -3,

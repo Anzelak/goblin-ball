@@ -1,0 +1,97 @@
+[11:46:03.004] [INFO] === Goblinball Debug Log - 20250403_114603 ===
+[11:46:03.004] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114603.txt
+[11:46:03.025] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:46:04.016] [INFO] Moving carrier Mugstabber Blenkinsopp with 3 movement points
+[11:46:04.016] [INFO] Goblin Mugstabber Blenkinsopp moved from (4, 8) to (5, 6)
+[11:46:04.016] [INFO] Movement trail: [(4, 8), (5, 6)]
+[11:46:04.016] [INFO] Carrier Mugstabber Blenkinsopp moved along clear path to (5, 6)
+[11:46:04.017] [INFO] Moving offensive blocker Snotsquisher Dak  with 3 movement points
+[11:46:04.017] [INFO] Offensive blocker chose move (5, 8) with score 668
+[11:46:04.017] [INFO] Goblin Snotsquisher Dak  moved from (2, 8) to (5, 8)
+[11:46:04.017] [INFO] Movement trail: [(2, 8), (5, 8)]
+[11:46:04.017] [INFO] Moving offensive blocker Fizzfist with 4 movement points
+[11:46:04.018] [INFO] Offensive blocker chose move (6, 6) with score 756
+[11:46:04.018] [INFO] Goblin Fizzfist moved from (6, 8) to (6, 6)
+[11:46:04.018] [INFO] Movement trail: [(6, 8), (6, 6)]
+[11:46:04.018] [INFO] Moving offensive blocker Grubtooth with 2 movement points
+[11:46:04.018] [INFO] Offensive blocker chose move (8, 6) with score 595
+[11:46:04.018] [INFO] Goblin Grubtooth moved from (8, 8) to (8, 6)
+[11:46:04.018] [INFO] Movement trail: [(8, 8), (8, 6)]
+[11:46:04.018] [INFO] Moving offensive blocker Skabchewer Sutha with 4 movement points
+[11:46:04.018] [INFO] Offensive blocker chose move (7, 6) with score 668
+[11:46:04.018] [INFO] Goblin Skabchewer Sutha moved from (9, 8) to (7, 6)
+[11:46:04.018] [INFO] Movement trail: [(9, 8), (7, 6)]
+[11:46:04.018] [INFO] Moving defensive blocker Krakstomper with 3 movement points
+[11:46:04.018] [INFO] Defensive blocker chose move (5, 1) with score 1220
+[11:46:04.018] [INFO] Goblin Krakstomper moved from (2, 1) to (5, 1)
+[11:46:04.018] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:46:04.018] [INFO] Moving defensive blocker Krakmangler with 2 movement points
+[11:46:04.018] [INFO] Defensive blocker chose move (4, 3) with score 1257
+[11:46:04.019] [INFO] Goblin Krakmangler moved from (4, 1) to (4, 3)
+[11:46:04.019] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:46:04.019] [INFO] Moving defensive blocker Zogchomper with 3 movement points
+[11:46:04.019] [INFO] Defensive blocker chose move (6, 4) with score 1325
+[11:46:04.019] [INFO] Goblin Zogchomper moved from (6, 1) to (6, 4)
+[11:46:04.019] [INFO] Movement trail: [(6, 1), (6, 4)]
+[11:46:04.019] [INFO] Moving defensive blocker Skrizchewer with 1 movement points
+[11:46:04.019] [INFO] Defensive blocker chose move (8, 2) with score 916
+[11:46:04.019] [INFO] Goblin Skrizchewer moved from (8, 1) to (8, 2)
+[11:46:04.019] [INFO] Movement trail: [(8, 1), (8, 2)]
+[11:46:04.019] [INFO] Moving defensive blocker Splatfoot with 4 movement points
+[11:46:04.019] [INFO] Defensive blocker chose move (6, 2) with score 1220
+[11:46:04.019] [INFO] Goblin Splatfoot moved from (9, 1) to (6, 2)
+[11:46:04.019] [INFO] Movement trail: [(9, 1), (6, 2)]
+[11:46:04.701] [INFO] Moving carrier Mugstabber Blenkinsopp with 3 movement points
+[11:46:04.701] [INFO] Goblin Mugstabber Blenkinsopp moved from (5, 6) to (5, 5)
+[11:46:04.701] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5)]
+[11:46:04.701] [INFO] Carrier Mugstabber Blenkinsopp moved to (5, 5)
+[11:46:04.701] [INFO] Moving offensive blocker Snotsquisher Dak  with 3 movement points
+[11:46:04.702] [INFO] Offensive blocker chose move (5, 6) with score 738
+[11:46:04.702] [INFO] Goblin Snotsquisher Dak  moved from (5, 8) to (5, 6)
+[11:46:04.702] [INFO] Movement trail: [(2, 8), (5, 8), (5, 6)]
+[11:46:04.702] [INFO] Moving offensive blocker Fizzfist with 4 movement points
+[11:46:04.702] [INFO] Offensive blocker chose move (5, 4) with score 3134
+[11:46:04.702] [INFO] Moving offensive blocker Grubtooth with 2 movement points
+[11:46:04.702] [INFO] Offensive blocker chose move (7, 5) with score 645
+[11:46:04.702] [INFO] Goblin Grubtooth moved from (8, 6) to (7, 5)
+[11:46:04.702] [INFO] Movement trail: [(8, 8), (8, 6), (7, 5)]
+[11:46:04.702] [INFO] Moving offensive blocker Skabchewer Sutha with 4 movement points
+[11:46:04.702] [INFO] Offensive blocker chose move (6, 5) with score 3148
+[11:46:04.702] [INFO] Goblin Skabchewer Sutha moved from (7, 6) to (6, 5)
+[11:46:04.702] [INFO] Movement trail: [(9, 8), (7, 6), (6, 5)]
+[11:46:04.702] [INFO] Offensive blocker Skabchewer Sutha attempting to block Zogchomper after moving
+[11:46:04.702] [INFO] Moving defensive blocker Krakstomper with 3 movement points
+[11:46:04.703] [INFO] Defensive blocker chose move (5, 4) with score 3408
+[11:46:04.703] [INFO] Goblin Krakstomper moved from (5, 1) to (5, 4)
+[11:46:04.703] [INFO] Movement trail: [(2, 1), (5, 1), (5, 4)]
+[11:46:04.703] [INFO] Moving defensive blocker Krakmangler with 2 movement points
+[11:46:04.703] [INFO] Defensive blocker chose move (4, 5) with score 2969
+[11:46:04.703] [INFO] Moving defensive blocker Zogchomper with 3 movement points
+[11:46:04.703] [INFO] Defensive blocker Zogchomper attempting to block carrier Mugstabber Blenkinsopp
+[11:46:04.703] [INFO] Defensive blocker chose move (4, 4) with score 1355
+[11:46:04.703] [INFO] Goblin Zogchomper moved from (6, 4) to (4, 4)
+[11:46:04.703] [INFO] Movement trail: [(6, 1), (6, 4), (4, 4)]
+[11:46:04.703] [INFO] Moving defensive blocker Skrizchewer with 1 movement points
+[11:46:04.703] [INFO] Defensive blocker chose move (7, 2) with score 1025
+[11:46:04.703] [INFO] Goblin Skrizchewer moved from (8, 2) to (7, 2)
+[11:46:04.703] [INFO] Movement trail: [(8, 1), (8, 2), (7, 2)]
+[11:46:04.703] [INFO] Moving defensive blocker Splatfoot with 4 movement points
+[11:46:04.703] [INFO] Defensive blocker chose move (6, 4) with score 1352
+[11:46:04.703] [INFO] Goblin Splatfoot moved from (6, 2) to (6, 4)
+[11:46:04.703] [INFO] Movement trail: [(9, 1), (6, 2), (6, 4)]
+[11:46:06.132] [INFO] Moving carrier Mugstabber Blenkinsopp with 3 movement points
+[11:46:06.133] [INFO] Carrier Mugstabber Blenkinsopp couldn't find valid move
+[11:46:06.133] [INFO] Moving offensive blocker Krakstomper with 3 movement points
+[11:46:06.133] [INFO] No carrier found for team Skullsmashers!
+[11:46:06.133] [INFO] Moving offensive blocker Zogchomper with 3 movement points
+[11:46:06.133] [INFO] No carrier found for team Skullsmashers!
+[11:46:06.133] [INFO] Moving offensive blocker Skrizchewer with 1 movement points
+[11:46:06.133] [INFO] No carrier found for team Skullsmashers!
+[11:46:06.133] [INFO] Moving offensive blocker Splatfoot with 4 movement points
+[11:46:06.133] [INFO] No carrier found for team Skullsmashers!
+[11:46:06.134] [INFO] Moving defensive blocker Snotsquisher Dak  with 3 movement points
+[11:46:06.134] [INFO] No carrier found for team Skullsmashers!
+[11:46:06.134] [INFO] Moving defensive blocker Grubtooth with 2 movement points
+[11:46:06.134] [INFO] No carrier found for team Skullsmashers!
+[11:46:06.134] [INFO] Moving defensive blocker Skabchewer Sutha with 4 movement points
+[11:46:06.134] [INFO] No carrier found for team Skullsmashers!

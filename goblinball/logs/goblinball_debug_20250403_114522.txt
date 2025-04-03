@@ -1,0 +1,120 @@
+[11:45:22.464] [INFO] === Goblinball Debug Log - 20250403_114522 ===
+[11:45:22.464] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114522.txt
+[11:45:22.485] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:45:23.814] [INFO] Moving carrier Skrizfist Tymeka with 4 movement points
+[11:45:23.814] [INFO] Goblin Skrizfist Tymeka moved from (4, 8) to (5, 5)
+[11:45:23.814] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:45:23.814] [INFO] Carrier Skrizfist Tymeka moved along clear path to (5, 5)
+[11:45:23.817] [INFO] Moving offensive blocker Skrizchomper the Brutal with 1 movement points
+[11:45:23.817] [INFO] Offensive blocker chose move (2, 7) with score 417
+[11:45:23.817] [INFO] Goblin Skrizchomper the Brutal moved from (2, 8) to (2, 7)
+[11:45:23.817] [INFO] Movement trail: [(2, 8), (2, 7)]
+[11:45:23.817] [INFO] Moving offensive blocker Splatmangler the Brutal with 4 movement points
+[11:45:23.817] [INFO] Offensive blocker chose move (5, 6) with score 756
+[11:45:23.817] [INFO] Goblin Splatmangler the Brutal moved from (6, 8) to (5, 6)
+[11:45:23.817] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:45:23.817] [INFO] Moving offensive blocker Gnogfist Tryane the Tough with 1 movement points
+[11:45:23.818] [INFO] Offensive blocker chose move (7, 8) with score 404
+[11:45:23.818] [INFO] Goblin Gnogfist Tryane the Tough moved from (8, 8) to (7, 8)
+[11:45:23.818] [INFO] Movement trail: [(8, 8), (7, 8)]
+[11:45:23.818] [INFO] Moving offensive blocker Grubnose with 3 movement points
+[11:45:23.818] [INFO] Offensive blocker chose move (9, 5) with score 509
+[11:45:23.818] [INFO] Goblin Grubnose moved from (9, 8) to (9, 5)
+[11:45:23.818] [INFO] Movement trail: [(9, 8), (9, 5)]
+[11:45:23.818] [INFO] Moving defensive blocker Gnogbiter Hodgenik with 3 movement points
+[11:45:23.818] [INFO] Defensive blocker chose move (5, 1) with score 1265
+[11:45:23.818] [INFO] Goblin Gnogbiter Hodgenik moved from (2, 1) to (5, 1)
+[11:45:23.818] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:45:23.818] [INFO] Moving defensive blocker Stabgob Freca with 2 movement points
+[11:45:23.819] [INFO] Defensive blocker chose move (4, 3) with score 1322
+[11:45:23.819] [INFO] Goblin Stabgob Freca moved from (4, 1) to (4, 3)
+[11:45:23.819] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:45:23.819] [INFO] Moving defensive blocker Thrakbasher with 3 movement points
+[11:45:23.819] [INFO] Defensive blocker chose move (5, 3) with score 1359
+[11:45:23.819] [INFO] Goblin Thrakbasher moved from (6, 1) to (5, 3)
+[11:45:23.819] [INFO] Movement trail: [(6, 1), (5, 3)]
+[11:45:23.819] [INFO] Moving defensive blocker Fizzskull Wymmer with 1 movement points
+[11:45:23.819] [INFO] Defensive blocker chose move (7, 1) with score 956
+[11:45:23.819] [INFO] Goblin Fizzskull Wymmer moved from (8, 1) to (7, 1)
+[11:45:23.819] [INFO] Movement trail: [(8, 1), (7, 1)]
+[11:45:23.819] [INFO] Moving defensive blocker Lugstomper Kwang with 3 movement points
+[11:45:23.819] [INFO] Defensive blocker chose move (6, 1) with score 1190
+[11:45:23.819] [INFO] Goblin Lugstomper Kwang moved from (9, 1) to (6, 1)
+[11:45:23.819] [INFO] Movement trail: [(9, 1), (6, 1)]
+[11:45:24.872] [INFO] Moving carrier Skrizfist Tymeka with 4 movement points
+[11:45:24.872] [INFO] Goblin Skrizfist Tymeka moved from (5, 5) to (5, 4)
+[11:45:24.872] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4)]
+[11:45:24.872] [INFO] Carrier Skrizfist Tymeka moved to (5, 4)
+[11:45:24.872] [INFO] Moving offensive blocker Skrizchomper the Brutal with 1 movement points
+[11:45:24.872] [INFO] Offensive blocker chose move (2, 6) with score 437
+[11:45:24.872] [INFO] Goblin Skrizchomper the Brutal moved from (2, 7) to (2, 6)
+[11:45:24.872] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6)]
+[11:45:24.872] [INFO] Moving offensive blocker Splatmangler the Brutal with 4 movement points
+[11:45:24.873] [INFO] Offensive blocker chose move (5, 2) with score 5167
+[11:45:24.873] [INFO] Goblin Splatmangler the Brutal moved from (5, 6) to (5, 2)
+[11:45:24.873] [INFO] Movement trail: [(6, 8), (5, 6), (5, 2)]
+[11:45:24.873] [INFO] Moving offensive blocker Gnogfist Tryane the Tough with 1 movement points
+[11:45:24.873] [INFO] Offensive blocker chose move (7, 7) with score 426
+[11:45:24.873] [INFO] Goblin Gnogfist Tryane the Tough moved from (7, 8) to (7, 7)
+[11:45:24.873] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7)]
+[11:45:24.873] [INFO] Moving offensive blocker Grubnose with 3 movement points
+[11:45:24.873] [INFO] Offensive blocker chose move (7, 4) with score 681
+[11:45:24.873] [INFO] Goblin Grubnose moved from (9, 5) to (7, 4)
+[11:45:24.873] [INFO] Movement trail: [(9, 8), (9, 5), (7, 4)]
+[11:45:24.873] [INFO] Moving defensive blocker Gnogbiter Hodgenik with 3 movement points
+[11:45:24.873] [INFO] Defensive blocker chose move (6, 3) with score 1362
+[11:45:24.873] [INFO] Goblin Gnogbiter Hodgenik moved from (5, 1) to (6, 3)
+[11:45:24.873] [INFO] Movement trail: [(2, 1), (5, 1), (6, 3)]
+[11:45:24.873] [INFO] Moving defensive blocker Stabgob Freca with 2 movement points
+[11:45:24.873] [INFO] Defensive blocker Stabgob Freca attempting to block carrier Skrizfist Tymeka
+[11:45:24.873] [INFO] Defensive blocker chose move (4, 4) with score 2959
+[11:45:24.873] [INFO] Goblin Stabgob Freca moved from (4, 3) to (4, 4)
+[11:45:24.873] [INFO] Movement trail: [(4, 1), (4, 3), (4, 4)]
+[11:45:24.873] [INFO] Moving defensive blocker Thrakbasher with 3 movement points
+[11:45:24.873] [INFO] Defensive blocker Thrakbasher attempting to block carrier Skrizfist Tymeka
+[11:45:24.873] [INFO] Defensive blocker chose move (5, 3) with score 4408
+[11:45:24.873] [INFO] Moving defensive blocker Fizzskull Wymmer with 1 movement points
+[11:45:24.874] [INFO] Defensive blocker chose move (7, 2) with score 1040
+[11:45:24.874] [INFO] Goblin Fizzskull Wymmer moved from (7, 1) to (7, 2)
+[11:45:24.874] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2)]
+[11:45:24.874] [INFO] Moving defensive blocker Lugstomper Kwang with 3 movement points
+[11:45:24.874] [INFO] Defensive blocker chose move (6, 4) with score 2943
+[11:45:26.310] [INFO] Moving carrier Skrizfist Tymeka with 4 movement points
+[11:45:26.310] [INFO] Goblin Skrizfist Tymeka moved from (5, 4) to (5, 1)
+[11:45:26.310] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4), (5, 1)]
+[11:45:26.310] [INFO] Carrier Skrizfist Tymeka moved to (5, 1)
+[11:45:26.310] [INFO] Moving offensive blocker Skrizchomper the Brutal with 1 movement points
+[11:45:26.310] [INFO] Offensive blocker chose move (2, 5) with score 267
+[11:45:26.310] [INFO] Goblin Skrizchomper the Brutal moved from (2, 6) to (2, 5)
+[11:45:26.310] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6), (2, 5)]
+[11:45:26.310] [INFO] Moving offensive blocker Splatmangler the Brutal with 4 movement points
+[11:45:26.310] [INFO] Attempt block of Thrakbasher by Splatmangler the Brutal
+[11:45:26.310] [INFO] Block succeeded!
+[11:45:26.310] [INFO] Moving offensive blocker Gnogfist Tryane the Tough with 1 movement points
+[11:45:26.310] [INFO] Offensive blocker chose move (6, 7) with score 270
+[11:45:26.310] [INFO] Goblin Gnogfist Tryane the Tough moved from (7, 7) to (6, 7)
+[11:45:26.310] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7), (6, 7)]
+[11:45:26.310] [INFO] Moving offensive blocker Grubnose with 3 movement points
+[11:45:26.310] [INFO] Attempt block of Gnogbiter Hodgenik by Grubnose
+[11:45:26.310] [INFO] Offensive blocker chose move (6, 4) with score 5217
+[11:45:26.310] [INFO] Goblin Grubnose moved from (7, 4) to (6, 4)
+[11:45:26.310] [INFO] Movement trail: [(9, 8), (9, 5), (7, 4), (6, 4)]
+[11:45:26.310] [INFO] Offensive blocker Grubnose attempting to block Thrakbasher after moving
+[11:45:26.311] [INFO] Moving defensive blocker Gnogbiter Hodgenik with 3 movement points
+[11:45:26.311] [INFO] Defensive blocker chose move (6, 0) with score 1368
+[11:45:26.311] [INFO] Goblin Gnogbiter Hodgenik moved from (6, 3) to (6, 0)
+[11:45:26.311] [INFO] Movement trail: [(2, 1), (5, 1), (6, 3), (6, 0)]
+[11:45:26.311] [INFO] Moving defensive blocker Stabgob Freca with 2 movement points
+[11:45:26.311] [INFO] Defensive blocker chose move (4, 2) with score 925
+[11:45:26.311] [INFO] Goblin Stabgob Freca moved from (4, 4) to (4, 2)
+[11:45:26.311] [INFO] Movement trail: [(4, 1), (4, 3), (4, 4), (4, 2)]
+[11:45:26.311] [INFO] Moving defensive blocker Thrakbasher with 3 movement points
+[11:45:26.311] [INFO] Defensive blocker chose move (6, 2) with score 904
+[11:45:26.311] [INFO] Moving defensive blocker Fizzskull Wymmer with 1 movement points
+[11:45:26.311] [INFO] Defensive blocker chose move (7, 1) with score 918
+[11:45:26.311] [INFO] Goblin Fizzskull Wymmer moved from (7, 2) to (7, 1)
+[11:45:26.311] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2), (7, 1)]
+[11:45:28.162] [INFO] Moving carrier Skrizfist Tymeka with 4 movement points
+[11:45:28.162] [INFO] Goblin Skrizfist Tymeka moved from (5, 1) to (5, 0)
+[11:45:28.162] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4), (5, 1), (5, 0)]
+[11:45:28.162] [INFO] Carrier Skrizfist Tymeka moved along clear path to (5, 0)

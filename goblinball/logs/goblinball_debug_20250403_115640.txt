@@ -1,0 +1,148 @@
+[11:56:40.913] [INFO] === Goblinball Debug Log - 20250403_115640 ===
+[11:56:40.913] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115640.txt
+[11:56:40.934] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:56:41.880] [INFO] Moving carrier Snotsquisher  with 2 movement points
+[11:56:41.880] [INFO] Goblin Snotsquisher  moved from (4, 8) to (5, 7)
+[11:56:41.880] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:56:41.880] [INFO] Carrier Snotsquisher  moved along clear path to (5, 7)
+[11:56:41.884] [INFO] Moving offensive blocker Splatfoot the Strong with 2 movement points
+[11:56:41.884] [INFO] Offensive blocker chose move (4, 8) with score 660
+[11:56:41.884] [INFO] Goblin Splatfoot the Strong moved from (2, 8) to (4, 8)
+[11:56:41.884] [INFO] Movement trail: [(2, 8), (4, 8)]
+[11:56:41.884] [INFO] Moving offensive blocker Grubstabber the Fierce with 3 movement points
+[11:56:41.884] [INFO] Offensive blocker chose move (6, 7) with score 747
+[11:56:41.884] [INFO] Goblin Grubstabber the Fierce moved from (6, 8) to (6, 7)
+[11:56:41.884] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:56:41.884] [INFO] Moving offensive blocker Fizzstabber with 4 movement points
+[11:56:41.884] [INFO] Offensive blocker chose move (5, 8) with score 717
+[11:56:41.884] [INFO] Goblin Fizzstabber moved from (8, 8) to (5, 8)
+[11:56:41.884] [INFO] Movement trail: [(8, 8), (5, 8)]
+[11:56:41.884] [INFO] Moving offensive blocker Lugfist Concaline  with 1 movement points
+[11:56:41.885] [INFO] Offensive blocker chose move (9, 7) with score 503
+[11:56:41.885] [INFO] Goblin Lugfist Concaline  moved from (9, 8) to (9, 7)
+[11:56:41.885] [INFO] Movement trail: [(9, 8), (9, 7)]
+[11:56:41.885] [INFO] Moving defensive blocker Mugmangler with 2 movement points
+[11:56:41.885] [INFO] Defensive blocker chose move (3, 2) with score 904
+[11:56:41.885] [INFO] Goblin Mugmangler moved from (2, 1) to (3, 2)
+[11:56:41.885] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:56:41.885] [INFO] Moving defensive blocker Skrizsmasher Knour with 3 movement points
+[11:56:41.885] [INFO] Defensive blocker chose move (4, 4) with score 1270
+[11:56:41.885] [INFO] Goblin Skrizsmasher Knour moved from (4, 1) to (4, 4)
+[11:56:41.885] [INFO] Movement trail: [(4, 1), (4, 4)]
+[11:56:41.885] [INFO] Moving defensive blocker Splattooth with 3 movement points
+[11:56:41.885] [INFO] Defensive blocker chose move (6, 4) with score 1270
+[11:56:41.885] [INFO] Goblin Splattooth moved from (6, 1) to (6, 4)
+[11:56:41.885] [INFO] Movement trail: [(6, 1), (6, 4)]
+[11:56:41.885] [INFO] Moving defensive blocker Grakgulper with 1 movement points
+[11:56:41.885] [INFO] Defensive blocker chose move (8, 2) with score 872
+[11:56:41.885] [INFO] Goblin Grakgulper moved from (8, 1) to (8, 2)
+[11:56:41.885] [INFO] Movement trail: [(8, 1), (8, 2)]
+[11:56:41.885] [INFO] Moving defensive blocker Zogmangler with 1 movement points
+[11:56:41.885] [INFO] Defensive blocker chose move (9, 2) with score 805
+[11:56:41.885] [INFO] Goblin Zogmangler moved from (9, 1) to (9, 2)
+[11:56:41.885] [INFO] Movement trail: [(9, 1), (9, 2)]
+[11:56:42.588] [INFO] Moving carrier Snotsquisher  with 2 movement points
+[11:56:42.589] [INFO] Goblin Snotsquisher  moved from (5, 7) to (5, 5)
+[11:56:42.589] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5)]
+[11:56:42.589] [INFO] Carrier Snotsquisher  moved to (5, 5) (score: 33.0)
+[11:56:42.589] [INFO] Moving offensive blocker Splatfoot the Strong with 2 movement points
+[11:56:42.589] [INFO] Offensive blocker chose move (5, 7) with score 661
+[11:56:42.589] [INFO] Goblin Splatfoot the Strong moved from (4, 8) to (5, 7)
+[11:56:42.589] [INFO] Movement trail: [(2, 8), (4, 8), (5, 7)]
+[11:56:42.589] [INFO] Moving offensive blocker Grubstabber the Fierce with 3 movement points
+[11:56:42.589] [INFO] Offensive blocker chose move (6, 5) with score 3144
+[11:56:42.589] [INFO] Goblin Grubstabber the Fierce moved from (6, 7) to (6, 5)
+[11:56:42.589] [INFO] Movement trail: [(6, 8), (6, 7), (6, 5)]
+[11:56:42.589] [INFO] Offensive blocker Grubstabber the Fierce attempting to block Splattooth after moving
+[11:56:42.589] [INFO] Moving offensive blocker Fizzstabber with 4 movement points
+[11:56:42.590] [INFO] Offensive blocker chose move (5, 4) with score 2659
+[11:56:42.590] [INFO] Goblin Fizzstabber moved from (5, 8) to (5, 4)
+[11:56:42.590] [INFO] Movement trail: [(8, 8), (5, 8), (5, 4)]
+[11:56:42.590] [INFO] Moving offensive blocker Lugfist Concaline  with 1 movement points
+[11:56:42.590] [INFO] Offensive blocker chose move (8, 7) with score 416
+[11:56:42.590] [INFO] Goblin Lugfist Concaline  moved from (9, 7) to (8, 7)
+[11:56:42.590] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7)]
+[11:56:42.590] [INFO] Moving defensive blocker Mugmangler with 2 movement points
+[11:56:42.590] [INFO] Defensive blocker chose move (4, 3) with score 1319
+[11:56:42.590] [INFO] Goblin Mugmangler moved from (3, 2) to (4, 3)
+[11:56:42.590] [INFO] Movement trail: [(2, 1), (3, 2), (4, 3)]
+[11:56:42.590] [INFO] Moving defensive blocker Skrizsmasher Knour with 3 movement points
+[11:56:42.590] [INFO] Defensive blocker Skrizsmasher Knour attempting to block carrier Snotsquisher 
+[11:56:42.590] [INFO] Defensive blocker chose move (4, 5) with score 3949
+[11:56:42.590] [INFO] Goblin Skrizsmasher Knour moved from (4, 4) to (4, 5)
+[11:56:42.590] [INFO] Movement trail: [(4, 1), (4, 4), (4, 5)]
+[11:56:42.590] [INFO] Defensive blocker Skrizsmasher Knour attempting to block carrier Snotsquisher  after moving
+[11:56:42.590] [INFO] Moving defensive blocker Grakgulper with 1 movement points
+[11:56:42.590] [INFO] Defensive blocker chose move (7, 2) with score 1001
+[11:56:42.590] [INFO] Goblin Grakgulper moved from (8, 2) to (7, 2)
+[11:56:42.590] [INFO] Movement trail: [(8, 1), (8, 2), (7, 2)]
+[11:56:42.590] [INFO] Moving defensive blocker Zogmangler with 1 movement points
+[11:56:42.590] [INFO] Defensive blocker chose move (8, 2) with score 971
+[11:56:42.590] [INFO] Goblin Zogmangler moved from (9, 2) to (8, 2)
+[11:56:42.590] [INFO] Movement trail: [(9, 1), (9, 2), (8, 2)]
+[11:56:46.261] [INFO] Moving carrier Snotsquisher  with 2 movement points
+[11:56:46.261] [INFO] Goblin Snotsquisher  moved from (5, 5) to (5, 3)
+[11:56:46.261] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5), (5, 3)]
+[11:56:46.261] [INFO] Carrier Snotsquisher  moved to (5, 3) (score: 40.0)
+[11:56:46.261] [INFO] Moving offensive blocker Splatfoot the Strong with 2 movement points
+[11:56:46.261] [INFO] Offensive blocker chose move (5, 5) with score 2497
+[11:56:46.261] [INFO] Goblin Splatfoot the Strong moved from (5, 7) to (5, 5)
+[11:56:46.261] [INFO] Movement trail: [(2, 8), (4, 8), (5, 7), (5, 5)]
+[11:56:46.261] [INFO] Moving offensive blocker Grubstabber the Fierce with 3 movement points
+[11:56:46.261] [INFO] Offensive blocker chose move (4, 4) with score 4455
+[11:56:46.261] [INFO] Goblin Grubstabber the Fierce moved from (6, 5) to (4, 4)
+[11:56:46.261] [INFO] Movement trail: [(6, 8), (6, 7), (6, 5), (4, 4)]
+[11:56:46.261] [INFO] Moving offensive blocker Fizzstabber with 4 movement points
+[11:56:46.261] [INFO] Attempt block of Mugmangler by Fizzstabber
+[11:56:46.261] [INFO] Attempt block of Skrizsmasher Knour by Fizzstabber
+[11:56:46.261] [INFO] Offensive blocker chose move (5, 4) with score 766
+[11:56:46.261] [INFO] Moving offensive blocker Lugfist Concaline  with 1 movement points
+[11:56:46.261] [INFO] Offensive blocker chose move (7, 7) with score 343
+[11:56:46.261] [INFO] Goblin Lugfist Concaline  moved from (8, 7) to (7, 7)
+[11:56:46.261] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7), (7, 7)]
+[11:56:46.261] [INFO] Moving defensive blocker Mugmangler with 2 movement points
+[11:56:46.261] [INFO] Defensive blocker Mugmangler attempting to block carrier Snotsquisher 
+[11:56:46.262] [INFO] Block succeeded!
+[11:56:46.262] [INFO] Moving defensive blocker Skrizsmasher Knour with 3 movement points
+[11:56:46.262] [INFO] Defensive blocker chose move (5, 3) with score 2971
+[11:56:46.262] [INFO] Goblin Skrizsmasher Knour moved from (4, 5) to (5, 3)
+[11:56:46.262] [INFO] Movement trail: [(4, 1), (4, 4), (4, 5), (5, 3)]
+[11:56:46.262] [INFO] Moving defensive blocker Grakgulper with 1 movement points
+[11:56:46.262] [INFO] Defensive blocker Grakgulper attempting to block carrier Snotsquisher 
+[11:56:46.262] [INFO] Moving defensive blocker Zogmangler with 1 movement points
+[11:56:46.262] [INFO] Defensive blocker chose move (9, 2) with score 1058
+[11:56:46.262] [INFO] Goblin Zogmangler moved from (8, 2) to (9, 2)
+[11:56:46.262] [INFO] Movement trail: [(9, 1), (9, 2), (8, 2), (9, 2)]
+[11:56:47.527] [INFO] Moving carrier Snotsquisher  with 2 movement points
+[11:56:47.527] [INFO] Goblin Snotsquisher  moved from (6, 3) to (5, 2)
+[11:56:47.527] [INFO] Movement trail: [(5, 7), (5, 5), (5, 3), (6, 3), (5, 2)]
+[11:56:47.527] [INFO] Carrier Snotsquisher  moved to (5, 2) (score: 41.0)
+[11:56:47.527] [INFO] Moving offensive blocker Splatfoot the Strong with 2 movement points
+[11:56:47.527] [INFO] Offensive blocker chose move (6, 5) with score 525
+[11:56:47.527] [INFO] Goblin Splatfoot the Strong moved from (5, 5) to (6, 5)
+[11:56:47.527] [INFO] Movement trail: [(2, 8), (4, 8), (5, 7), (5, 5), (6, 5)]
+[11:56:47.527] [INFO] Moving offensive blocker Grubstabber the Fierce with 3 movement points
+[11:56:47.527] [INFO] Attempt block of Skrizsmasher Knour by Grubstabber the Fierce
+[11:56:47.527] [INFO] Block succeeded!
+[11:56:47.527] [INFO] Moving offensive blocker Fizzstabber with 4 movement points
+[11:56:47.527] [INFO] Attempt block of Mugmangler by Fizzstabber
+[11:56:47.528] [INFO] Offensive blocker chose move (6, 2) with score 3455
+[11:56:47.528] [INFO] Moving offensive blocker Lugfist Concaline  with 1 movement points
+[11:56:47.528] [INFO] Offensive blocker chose move (6, 7) with score 350
+[11:56:47.528] [INFO] Goblin Lugfist Concaline  moved from (7, 7) to (6, 7)
+[11:56:47.528] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7), (7, 7), (6, 7)]
+[11:56:47.528] [INFO] Moving defensive blocker Mugmangler with 2 movement points
+[11:56:47.528] [INFO] Defensive blocker Mugmangler attempting to block carrier Snotsquisher 
+[11:56:47.528] [INFO] Defensive blocker chose move (4, 2) with score 2963
+[11:56:47.528] [INFO] Moving defensive blocker Grakgulper with 1 movement points
+[11:56:47.528] [INFO] Defensive blocker chose move (6, 2) with score 2966
+[11:56:47.528] [INFO] Goblin Grakgulper moved from (7, 2) to (6, 2)
+[11:56:47.528] [INFO] Movement trail: [(8, 1), (8, 2), (7, 2), (6, 2)]
+[11:56:47.528] [INFO] Moving defensive blocker Zogmangler with 1 movement points
+[11:56:47.528] [INFO] Defensive blocker chose move (9, 1) with score 986
+[11:56:47.528] [INFO] Goblin Zogmangler moved from (9, 2) to (9, 1)
+[11:56:47.528] [INFO] Movement trail: [(9, 1), (9, 2), (8, 2), (9, 2), (9, 1)]
+[11:56:48.152] [INFO] Moving carrier Snotsquisher  with 2 movement points
+[11:56:48.152] [INFO] Goblin Snotsquisher  moved from (5, 2) to (5, 0)
+[11:56:48.152] [INFO] Movement trail: [(5, 5), (5, 3), (6, 3), (5, 2), (5, 0)]
+[11:56:48.153] [INFO] Carrier Snotsquisher  moved along clear path to (5, 0)

@@ -1,0 +1,116 @@
+[11:36:45.208] [INFO] === Goblinball Debug Log - 20250403_113645 ===
+[11:36:45.208] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113645.txt
+[11:36:45.229] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:36:46.602] [INFO] Moving carrier Krunkchewer  with 1 movement points
+[11:36:46.602] [INFO] Goblin Krunkchewer  moved from (4, 8) to (3, 8)
+[11:36:46.602] [INFO] Movement trail: [(4, 8), (3, 8)]
+[11:36:46.602] [INFO] Carrier Krunkchewer  moved to (3, 8)
+[11:36:46.602] [INFO] Moving offensive blocker Gnogskull the Sly with 3 movement points
+[11:36:46.605] [INFO] Offensive blocker chose move (3, 7) with score 736
+[11:36:46.605] [INFO] Goblin Gnogskull the Sly moved from (2, 8) to (3, 7)
+[11:36:46.605] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:36:46.605] [INFO] Moving offensive blocker Gutgob Seiont with 4 movement points
+[11:36:46.605] [INFO] Offensive blocker chose move (4, 8) with score 718
+[11:36:46.605] [INFO] Goblin Gutgob Seiont moved from (6, 8) to (4, 8)
+[11:36:46.605] [INFO] Movement trail: [(6, 8), (4, 8)]
+[11:36:46.605] [INFO] Moving offensive blocker Gnogchomper Ayesh  with 2 movement points
+[11:36:46.605] [INFO] Offensive blocker chose move (6, 8) with score 563
+[11:36:46.605] [INFO] Goblin Gnogchomper Ayesh  moved from (8, 8) to (6, 8)
+[11:36:46.606] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:36:46.606] [INFO] Moving offensive blocker Thrakfoot with 2 movement points
+[11:36:46.606] [INFO] Offensive blocker chose move (7, 8) with score 506
+[11:36:46.606] [INFO] Goblin Thrakfoot moved from (9, 8) to (7, 8)
+[11:36:46.606] [INFO] Movement trail: [(9, 8), (7, 8)]
+[11:36:46.606] [INFO] Moving defensive blocker Bludchomper with 2 movement points
+[11:36:46.606] [INFO] Defensive blocker chose move (3, 2) with score 1148
+[11:36:46.606] [INFO] Goblin Bludchomper moved from (2, 1) to (3, 2)
+[11:36:46.606] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:36:46.606] [INFO] Moving defensive blocker Wortbiter with 4 movement points
+[11:36:46.606] [INFO] Defensive blocker chose move (3, 4) with score 1267
+[11:36:46.606] [INFO] Goblin Wortbiter moved from (4, 1) to (3, 4)
+[11:36:46.606] [INFO] Movement trail: [(4, 1), (3, 4)]
+[11:36:46.606] [INFO] Moving defensive blocker Grimfinger with 2 movement points
+[11:36:46.606] [INFO] Defensive blocker chose move (4, 1) with score 1027
+[11:36:46.606] [INFO] Goblin Grimfinger moved from (6, 1) to (4, 1)
+[11:36:46.606] [INFO] Movement trail: [(6, 1), (4, 1)]
+[11:36:46.606] [INFO] Moving defensive blocker Thrakfist with 1 movement points
+[11:36:46.606] [INFO] Defensive blocker chose move (8, 2) with score 720
+[11:36:46.606] [INFO] Goblin Thrakfist moved from (8, 1) to (8, 2)
+[11:36:46.606] [INFO] Movement trail: [(8, 1), (8, 2)]
+[11:36:46.606] [INFO] Moving defensive blocker Krunkstomper Dimura with 4 movement points
+[11:36:46.607] [INFO] Defensive blocker chose move (8, 4) with score 825
+[11:36:46.607] [INFO] Goblin Krunkstomper Dimura moved from (9, 1) to (8, 4)
+[11:36:46.607] [INFO] Movement trail: [(9, 1), (8, 4)]
+[11:36:47.034] [INFO] Moving carrier Krunkchewer  with 1 movement points
+[11:36:47.034] [INFO] Goblin Krunkchewer  moved from (3, 8) to (2, 8)
+[11:36:47.034] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8)]
+[11:36:47.034] [INFO] Carrier Krunkchewer  moved to (2, 8)
+[11:36:47.034] [INFO] Moving offensive blocker Gnogskull the Sly with 3 movement points
+[11:36:47.034] [INFO] Offensive blocker chose move (2, 7) with score 739
+[11:36:47.034] [INFO] Goblin Gnogskull the Sly moved from (3, 7) to (2, 7)
+[11:36:47.034] [INFO] Movement trail: [(2, 8), (3, 7), (2, 7)]
+[11:36:47.034] [INFO] Moving offensive blocker Gutgob Seiont with 4 movement points
+[11:36:47.035] [INFO] Offensive blocker chose move (1, 8) with score 735
+[11:36:47.035] [INFO] Goblin Gutgob Seiont moved from (4, 8) to (1, 8)
+[11:36:47.035] [INFO] Movement trail: [(6, 8), (4, 8), (1, 8)]
+[11:36:47.035] [INFO] Moving offensive blocker Gnogchomper Ayesh  with 2 movement points
+[11:36:47.035] [INFO] Offensive blocker chose move (4, 8) with score 656
+[11:36:47.035] [INFO] Goblin Gnogchomper Ayesh  moved from (6, 8) to (4, 8)
+[11:36:47.035] [INFO] Movement trail: [(8, 8), (6, 8), (4, 8)]
+[11:36:47.035] [INFO] Moving offensive blocker Thrakfoot with 2 movement points
+[11:36:47.035] [INFO] Offensive blocker chose move (5, 8) with score 578
+[11:36:47.035] [INFO] Goblin Thrakfoot moved from (7, 8) to (5, 8)
+[11:36:47.035] [INFO] Movement trail: [(9, 8), (7, 8), (5, 8)]
+[11:36:47.035] [INFO] Moving defensive blocker Bludchomper with 2 movement points
+[11:36:47.035] [INFO] Defensive blocker chose move (2, 3) with score 1225
+[11:36:47.035] [INFO] Goblin Bludchomper moved from (3, 2) to (2, 3)
+[11:36:47.035] [INFO] Movement trail: [(2, 1), (3, 2), (2, 3)]
+[11:36:47.035] [INFO] Moving defensive blocker Wortbiter with 4 movement points
+[11:36:47.035] [INFO] Defensive blocker chose move (3, 8) with score 2928
+[11:36:47.035] [INFO] Goblin Wortbiter moved from (3, 4) to (3, 8)
+[11:36:47.035] [INFO] Movement trail: [(4, 1), (3, 4), (3, 8)]
+[11:36:47.035] [INFO] Moving defensive blocker Grimfinger with 2 movement points
+[11:36:47.036] [INFO] Defensive blocker chose move (2, 1) with score 1105
+[11:36:47.036] [INFO] Goblin Grimfinger moved from (4, 1) to (2, 1)
+[11:36:47.036] [INFO] Movement trail: [(6, 1), (4, 1), (2, 1)]
+[11:36:47.036] [INFO] Moving defensive blocker Thrakfist with 1 movement points
+[11:36:47.036] [INFO] Defensive blocker chose move (8, 3) with score 719
+[11:36:47.036] [INFO] Goblin Thrakfist moved from (8, 2) to (8, 3)
+[11:36:47.036] [INFO] Movement trail: [(8, 1), (8, 2), (8, 3)]
+[11:36:47.036] [INFO] Moving defensive blocker Krunkstomper Dimura with 4 movement points
+[11:36:47.036] [INFO] Defensive blocker chose move (6, 6) with score 969
+[11:36:47.036] [INFO] Goblin Krunkstomper Dimura moved from (8, 4) to (6, 6)
+[11:36:47.036] [INFO] Movement trail: [(9, 1), (8, 4), (6, 6)]
+[11:36:47.448] [INFO] Moving carrier Krunkchewer  with 1 movement points
+[11:36:47.448] [INFO] Carrier Krunkchewer  couldn't find valid move
+[11:36:47.448] [INFO] Moving offensive blocker Gnogskull the Sly with 3 movement points
+[11:36:47.448] [INFO] Attempt block of Wortbiter by Gnogskull the Sly
+[11:36:47.448] [INFO] Block succeeded!
+[11:36:47.448] [INFO] Moving offensive blocker Gutgob Seiont with 4 movement points
+[11:36:47.448] [INFO] Offensive blocker chose move (3, 9) with score 2987
+[11:36:47.448] [INFO] Goblin Gutgob Seiont moved from (1, 8) to (3, 9)
+[11:36:47.448] [INFO] Movement trail: [(6, 8), (4, 8), (1, 8), (3, 9)]
+[11:36:47.448] [INFO] Offensive blocker Gutgob Seiont attempting to block Wortbiter after moving
+[11:36:47.448] [INFO] Moving offensive blocker Gnogchomper Ayesh  with 2 movement points
+[11:36:47.448] [INFO] Attempt block of Wortbiter by Gnogchomper Ayesh 
+[11:36:47.448] [INFO] Offensive blocker chose move (4, 8) with score 2993
+[11:36:47.448] [INFO] Moving offensive blocker Thrakfoot with 2 movement points
+[11:36:47.448] [INFO] Attempt block of Wortbiter by Thrakfoot
+[11:36:47.448] [INFO] Offensive blocker chose move (5, 9) with score 2318
+[11:36:47.448] [INFO] Goblin Thrakfoot moved from (5, 8) to (5, 9)
+[11:36:47.448] [INFO] Movement trail: [(9, 8), (7, 8), (5, 8), (5, 9)]
+[11:36:47.448] [INFO] Moving defensive blocker Bludchomper with 2 movement points
+[11:36:47.448] [INFO] Defensive blocker chose move (2, 5) with score 1310
+[11:36:47.448] [INFO] Goblin Bludchomper moved from (2, 3) to (2, 5)
+[11:36:47.448] [INFO] Movement trail: [(2, 1), (3, 2), (2, 3), (2, 5)]
+[11:36:47.448] [INFO] Moving defensive blocker Wortbiter with 4 movement points
+[11:36:47.448] [INFO] Defensive blocker chose move (3, 8) with score 3931
+[11:36:47.448] [INFO] Goblin Wortbiter moved from (4, 9) to (3, 8)
+[11:36:47.448] [INFO] Movement trail: [(4, 1), (3, 4), (3, 8), (4, 9), (3, 8)]
+[11:36:47.448] [INFO] Defensive blocker Wortbiter attempting to block carrier Krunkchewer  after moving
+[11:36:47.449] [INFO] Moving offensive blocker Grimfinger with 2 movement points
+[11:36:47.449] [INFO] No carrier found for team Skullsmashers!
+[11:36:47.449] [INFO] Moving offensive blocker Thrakfist with 1 movement points
+[11:36:47.449] [INFO] No carrier found for team Skullsmashers!
+[11:36:47.449] [INFO] Moving offensive blocker Krunkstomper Dimura with 4 movement points
+[11:36:47.449] [INFO] No carrier found for team Skullsmashers!

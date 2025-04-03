@@ -1,0 +1,77 @@
+[11:45:13.808] [INFO] === Goblinball Debug Log - 20250403_114513 ===
+[11:45:13.808] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114513.txt
+[11:45:13.829] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:45:14.897] [INFO] Moving carrier Gnogstomper with 4 movement points
+[11:45:14.897] [INFO] Goblin Gnogstomper moved from (4, 8) to (5, 5)
+[11:45:14.897] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:45:14.897] [INFO] Carrier Gnogstomper moved along clear path to (5, 5)
+[11:45:14.900] [INFO] Moving offensive blocker Lugbiter with 3 movement points
+[11:45:14.900] [INFO] Offensive blocker chose move (3, 6) with score 590
+[11:45:14.900] [INFO] Goblin Lugbiter moved from (2, 8) to (3, 6)
+[11:45:14.900] [INFO] Movement trail: [(2, 8), (3, 6)]
+[11:45:14.900] [INFO] Moving offensive blocker Skrizslicer with 3 movement points
+[11:45:14.900] [INFO] Offensive blocker chose move (6, 5) with score 758
+[11:45:14.900] [INFO] Goblin Skrizslicer moved from (6, 8) to (6, 5)
+[11:45:14.900] [INFO] Movement trail: [(6, 8), (6, 5)]
+[11:45:14.900] [INFO] Moving offensive blocker Lugbasher Cord with 1 movement points
+[11:45:14.900] [INFO] Offensive blocker chose move (8, 7) with score 410
+[11:45:14.900] [INFO] Goblin Lugbasher Cord moved from (8, 8) to (8, 7)
+[11:45:14.900] [INFO] Movement trail: [(8, 8), (8, 7)]
+[11:45:14.900] [INFO] Moving offensive blocker Splatfist with 2 movement points
+[11:45:14.900] [INFO] Offensive blocker chose move (7, 8) with score 421
+[11:45:14.900] [INFO] Goblin Splatfist moved from (9, 8) to (7, 8)
+[11:45:14.900] [INFO] Movement trail: [(9, 8), (7, 8)]
+[11:45:14.900] [INFO] Moving defensive blocker Grubstomper Sergius with 3 movement points
+[11:45:14.900] [INFO] Defensive blocker chose move (5, 1) with score 1272
+[11:45:14.900] [INFO] Goblin Grubstomper Sergius moved from (2, 1) to (5, 1)
+[11:45:14.900] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:45:14.900] [INFO] Moving defensive blocker Lugfist Unarath with 4 movement points
+[11:45:14.901] [INFO] Defensive blocker chose move (5, 4) with score 3417
+[11:45:14.901] [INFO] Goblin Lugfist Unarath moved from (4, 1) to (5, 4)
+[11:45:14.901] [INFO] Movement trail: [(4, 1), (5, 4)]
+[11:45:14.901] [INFO] Moving defensive blocker Lugsquisher with 4 movement points
+[11:45:14.901] [INFO] Defensive blocker chose move (6, 4) with score 1372
+[11:45:14.901] [INFO] Goblin Lugsquisher moved from (6, 1) to (6, 4)
+[11:45:14.901] [INFO] Movement trail: [(6, 1), (6, 4)]
+[11:45:14.901] [INFO] Moving defensive blocker Thraksquisher  with 2 movement points
+[11:45:14.901] [INFO] Defensive blocker chose move (6, 1) with score 1211
+[11:45:14.901] [INFO] Goblin Thraksquisher  moved from (8, 1) to (6, 1)
+[11:45:14.901] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:45:14.901] [INFO] Moving defensive blocker Fizzskull with 3 movement points
+[11:45:14.901] [INFO] Defensive blocker chose move (7, 2) with score 1015
+[11:45:14.901] [INFO] Goblin Fizzskull moved from (9, 1) to (7, 2)
+[11:45:14.901] [INFO] Movement trail: [(9, 1), (7, 2)]
+[11:45:15.682] [INFO] Moving carrier Gnogstomper with 4 movement points
+[11:45:15.682] [INFO] Goblin Gnogstomper moved from (5, 5) to (5, 3)
+[11:45:15.682] [INFO] Movement trail: [(4, 8), (5, 5), (5, 3)]
+[11:45:15.682] [INFO] Carrier Gnogstomper moved to (5, 3)
+[11:45:15.682] [INFO] Moving offensive blocker Lugbiter with 3 movement points
+[11:45:15.682] [INFO] Offensive blocker chose move (4, 4) with score 2633
+[11:45:15.682] [INFO] Goblin Lugbiter moved from (3, 6) to (4, 4)
+[11:45:15.682] [INFO] Movement trail: [(2, 8), (3, 6), (4, 4)]
+[11:45:15.682] [INFO] Moving offensive blocker Skrizslicer with 3 movement points
+[11:45:15.682] [INFO] Attempt block of Lugfist Unarath by Skrizslicer
+[11:45:15.682] [INFO] Attempt block of Lugsquisher by Skrizslicer
+[11:45:15.682] [INFO] Offensive blocker chose move (6, 5) with score 2996
+[11:45:15.682] [INFO] Moving offensive blocker Lugbasher Cord with 1 movement points
+[11:45:15.682] [INFO] Offensive blocker chose move (8, 6) with score 348
+[11:45:15.682] [INFO] Goblin Lugbasher Cord moved from (8, 7) to (8, 6)
+[11:45:15.682] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6)]
+[11:45:15.682] [INFO] Moving offensive blocker Splatfist with 2 movement points
+[11:45:15.682] [INFO] Offensive blocker chose move (7, 6) with score 432
+[11:45:15.682] [INFO] Goblin Splatfist moved from (7, 8) to (7, 6)
+[11:45:15.682] [INFO] Movement trail: [(9, 8), (7, 8), (7, 6)]
+[11:45:15.683] [INFO] Moving defensive blocker Grubstomper Sergius with 3 movement points
+[11:45:15.683] [INFO] Defensive blocker chose move (5, 2) with score 4419
+[11:45:15.683] [INFO] Goblin Grubstomper Sergius moved from (5, 1) to (5, 2)
+[11:45:15.683] [INFO] Movement trail: [(2, 1), (5, 1), (5, 2)]
+[11:45:15.683] [INFO] Defensive blocker Grubstomper Sergius attempting to block carrier Gnogstomper after moving
+[11:45:15.683] [INFO] Moving defensive blocker Lugfist Unarath with 4 movement points
+[11:45:15.683] [INFO] Defensive blocker Lugfist Unarath attempting to block carrier Gnogstomper
+[11:45:15.683] [INFO] Block succeeded!
+[11:45:15.683] [INFO] Moving offensive blocker Lugsquisher with 4 movement points
+[11:45:15.683] [INFO] No carrier found for team Skullsmashers!
+[11:45:15.683] [INFO] Moving offensive blocker Thraksquisher  with 2 movement points
+[11:45:15.683] [INFO] No carrier found for team Skullsmashers!
+[11:45:15.683] [INFO] Moving offensive blocker Fizzskull with 3 movement points
+[11:45:15.683] [INFO] No carrier found for team Skullsmashers!

@@ -1,0 +1,33 @@
+2025-04-03 11:55:07,282 - goblinball - INFO - ==================================================
+2025-04-03 11:55:07,282 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:55:07,282 - goblinball - INFO - Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+2025-04-03 11:55:07,282 - goblinball - INFO - Current working directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:55:07,282 - goblinball - INFO - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball\\goblinball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 11:55:07,282 - goblinball - INFO - ==================================================
+2025-04-03 11:55:07,290 - goblinball - INFO - All required modules validated successfully
+2025-04-03 11:55:07,290 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:55:07,290 - goblinball - INFO - Running from directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:55:07,309 - goblinball.controller - INFO - Selected carrier: Zogmangler Verfsnot from team Mudcrushers
+2025-04-03 11:55:07,309 - goblinball.controller - INFO - ===== Starting Play 1 =====
+2025-04-03 11:55:07,309 - goblinball.controller - INFO - Selected carrier: Kraksmasher Peanut the Fierce from team Mudcrushers
+2025-04-03 11:55:08,235 - goblinball.controller - INFO - ==== Processing Turn 1 ====
+2025-04-03 11:55:08,235 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:55:08,235 - goblinball.controller - INFO - Attempting to move carrier Kraksmasher Peanut the Fierce
+2025-04-03 11:55:08,238 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:55:08,240 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:55:08,726 - goblinball.controller - INFO - ==== Processing Turn 2 ====
+2025-04-03 11:55:08,726 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:55:08,726 - goblinball.controller - INFO - Attempting to move carrier Kraksmasher Peanut the Fierce
+2025-04-03 11:55:08,727 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:55:08,728 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:55:10,364 - goblinball.controller - INFO - ==== Processing Turn 3 ====
+2025-04-03 11:55:10,364 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:55:10,365 - goblinball.controller - INFO - Attempting to move carrier Kraksmasher Peanut the Fierce
+2025-04-03 11:55:10,366 - goblinball.controller - INFO - ===== Ending Play 1 after 3 turns =====
+2025-04-03 11:55:10,366 - goblinball.controller - INFO - Score: Mudcrushers 3 - 0 Skullsmashers
+2025-04-03 11:55:10,367 - goblinball.controller - INFO - ===== Ending Play 1 after 3 turns =====
+2025-04-03 11:55:10,367 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 11:55:10,368 - goblinball.controller - INFO - Carrier Kraksmasher Peanut the Fierce scored! Ending play.
+2025-04-03 11:55:10,371 - goblinball.controller - INFO - ===== Ending Play 1 after 3 turns =====
+2025-04-03 11:55:10,372 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 11:55:12,732 - goblinball - INFO - Goblinball ended

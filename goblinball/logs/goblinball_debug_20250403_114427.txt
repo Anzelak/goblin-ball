@@ -1,0 +1,63 @@
+[11:44:27.816] [INFO] === Goblinball Debug Log - 20250403_114427 ===
+[11:44:27.817] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114427.txt
+[11:44:27.838] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:44:45.996] [INFO] Moving carrier Splatfoot Facent with 4 movement points
+[11:44:45.996] [INFO] Goblin Splatfoot Facent moved from (4, 8) to (5, 5)
+[11:44:45.996] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:44:45.996] [INFO] Carrier Splatfoot Facent moved along clear path to (5, 5)
+[11:44:45.999] [INFO] Moving offensive blocker Skrizcrusher with 4 movement points
+[11:44:45.999] [INFO] Offensive blocker chose move (4, 6) with score 680
+[11:44:45.999] [INFO] Goblin Skrizcrusher moved from (2, 8) to (4, 6)
+[11:44:45.999] [INFO] Movement trail: [(2, 8), (4, 6)]
+[11:44:45.999] [INFO] Moving offensive blocker Krunknose Indie with 3 movement points
+[11:44:45.999] [INFO] Offensive blocker chose move (6, 5) with score 755
+[11:44:45.999] [INFO] Goblin Krunknose Indie moved from (6, 8) to (6, 5)
+[11:44:45.999] [INFO] Movement trail: [(6, 8), (6, 5)]
+[11:44:45.999] [INFO] Moving offensive blocker Kraksquisher with 4 movement points
+[11:44:46.000] [INFO] Offensive blocker chose move (7, 5) with score 684
+[11:44:46.000] [INFO] Goblin Kraksquisher moved from (8, 8) to (7, 5)
+[11:44:46.000] [INFO] Movement trail: [(8, 8), (7, 5)]
+[11:44:46.000] [INFO] Moving offensive blocker Globchomper the Strong with 2 movement points
+[11:44:46.000] [INFO] Offensive blocker chose move (8, 7) with score 432
+[11:44:46.000] [INFO] Goblin Globchomper the Strong moved from (9, 8) to (8, 7)
+[11:44:46.000] [INFO] Movement trail: [(9, 8), (8, 7)]
+[11:44:46.000] [INFO] Moving defensive blocker Stabgulper the Sly with 3 movement points
+[11:44:46.000] [INFO] Defensive blocker chose move (4, 2) with score 1231
+[11:44:46.000] [INFO] Goblin Stabgulper the Sly moved from (2, 1) to (4, 2)
+[11:44:46.000] [INFO] Movement trail: [(2, 1), (4, 2)]
+[11:44:46.000] [INFO] Moving defensive blocker Skabfist with 4 movement points
+[11:44:46.000] [INFO] Defensive blocker chose move (5, 4) with score 3379
+[11:44:46.000] [INFO] Goblin Skabfist moved from (4, 1) to (5, 4)
+[11:44:46.000] [INFO] Movement trail: [(4, 1), (5, 4)]
+[11:44:46.000] [INFO] Moving defensive blocker Skabfinger Lynx  with 3 movement points
+[11:44:46.000] [INFO] Defensive blocker chose move (5, 3) with score 1357
+[11:44:46.000] [INFO] Goblin Skabfinger Lynx  moved from (6, 1) to (5, 3)
+[11:44:46.000] [INFO] Movement trail: [(6, 1), (5, 3)]
+[11:44:46.000] [INFO] Moving defensive blocker Muggulper Wink with 2 movement points
+[11:44:46.001] [INFO] Defensive blocker chose move (6, 1) with score 1208
+[11:44:46.001] [INFO] Goblin Muggulper Wink moved from (8, 1) to (6, 1)
+[11:44:46.001] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:44:46.001] [INFO] Moving defensive blocker Grubstabber with 1 movement points
+[11:44:46.001] [INFO] Defensive blocker chose move (9, 2) with score 913
+[11:44:46.001] [INFO] Goblin Grubstabber moved from (9, 1) to (9, 2)
+[11:44:46.001] [INFO] Movement trail: [(9, 1), (9, 2)]
+[11:45:06.418] [INFO] Moving carrier Splatfoot Facent with 4 movement points
+[11:45:06.418] [INFO] Carrier Splatfoot Facent couldn't find valid move
+[11:45:06.418] [INFO] Moving offensive blocker Stabgulper the Sly with 3 movement points
+[11:45:06.418] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.418] [INFO] Moving offensive blocker Skabfist with 4 movement points
+[11:45:06.418] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.418] [INFO] Moving offensive blocker Skabfinger Lynx  with 3 movement points
+[11:45:06.418] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.418] [INFO] Moving offensive blocker Muggulper Wink with 2 movement points
+[11:45:06.418] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.418] [INFO] Moving offensive blocker Grubstabber with 1 movement points
+[11:45:06.418] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.419] [INFO] Moving defensive blocker Skrizcrusher with 4 movement points
+[11:45:06.419] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.419] [INFO] Moving defensive blocker Krunknose Indie with 3 movement points
+[11:45:06.419] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.419] [INFO] Moving defensive blocker Kraksquisher with 4 movement points
+[11:45:06.419] [INFO] No carrier found for team Skullsmashers!
+[11:45:06.419] [INFO] Moving defensive blocker Globchomper the Strong with 2 movement points
+[11:45:06.419] [INFO] No carrier found for team Skullsmashers!

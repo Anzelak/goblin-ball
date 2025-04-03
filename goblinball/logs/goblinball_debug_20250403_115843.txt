@@ -1,0 +1,112 @@
+[11:58:43.721] [INFO] === Goblinball Debug Log - 20250403_115843 ===
+[11:58:43.721] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115843.txt
+[11:58:43.742] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:58:44.988] [INFO] Moving carrier Krunktooth Juggapo with 4 movement points
+[11:58:44.988] [INFO] Goblin Krunktooth Juggapo moved from (4, 8) to (5, 5)
+[11:58:44.989] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:58:44.989] [INFO] Carrier Krunktooth Juggapo moved along clear path to (5, 5)
+[11:58:44.989] [INFO] Moving offensive blocker Thrakmangler the Strong with 4 movement points
+[11:58:44.990] [INFO] Offensive blocker chose move (5, 7) with score 675
+[11:58:44.990] [INFO] Goblin Thrakmangler the Strong moved from (2, 8) to (5, 7)
+[11:58:44.990] [INFO] Movement trail: [(2, 8), (5, 7)]
+[11:58:44.990] [INFO] Moving offensive blocker Thrakbiter the Brutal with 3 movement points
+[11:58:44.990] [INFO] Offensive blocker chose move (6, 5) with score 752
+[11:58:44.990] [INFO] Goblin Thrakbiter the Brutal moved from (6, 8) to (6, 5)
+[11:58:44.990] [INFO] Movement trail: [(6, 8), (6, 5)]
+[11:58:44.990] [INFO] Moving offensive blocker Zogmangler Maldonado with 2 movement points
+[11:58:44.990] [INFO] Offensive blocker chose move (7, 7) with score 513
+[11:58:44.990] [INFO] Goblin Zogmangler Maldonado moved from (8, 8) to (7, 7)
+[11:58:44.990] [INFO] Movement trail: [(8, 8), (7, 7)]
+[11:58:44.990] [INFO] Moving offensive blocker Grimskull Camembert with 4 movement points
+[11:58:44.990] [INFO] Offensive blocker chose move (7, 6) with score 595
+[11:58:44.990] [INFO] Goblin Grimskull Camembert moved from (9, 8) to (7, 6)
+[11:58:44.990] [INFO] Movement trail: [(9, 8), (7, 6)]
+[11:58:44.991] [INFO] Moving defensive blocker Mugstabber with 2 movement points
+[11:58:44.991] [INFO] Defensive blocker chose move (2, 3) with score 1023
+[11:58:44.991] [INFO] Goblin Mugstabber moved from (2, 1) to (2, 3)
+[11:58:44.991] [INFO] Movement trail: [(2, 1), (2, 3)]
+[11:58:44.991] [INFO] Moving defensive blocker Stabbasher with 1 movement points
+[11:58:44.991] [INFO] Defensive blocker chose move (5, 1) with score 1260
+[11:58:44.991] [INFO] Goblin Stabbasher moved from (4, 1) to (5, 1)
+[11:58:44.991] [INFO] Movement trail: [(4, 1), (5, 1)]
+[11:58:44.991] [INFO] Moving defensive blocker Fizznose Joseph with 2 movement points
+[11:58:44.991] [INFO] Defensive blocker chose move (5, 2) with score 1323
+[11:58:44.991] [INFO] Goblin Fizznose Joseph moved from (6, 1) to (5, 2)
+[11:58:44.991] [INFO] Movement trail: [(6, 1), (5, 2)]
+[11:58:44.991] [INFO] Moving defensive blocker Snottooth with 1 movement points
+[11:58:44.991] [INFO] Defensive blocker chose move (8, 2) with score 969
+[11:58:44.991] [INFO] Goblin Snottooth moved from (8, 1) to (8, 2)
+[11:58:44.991] [INFO] Movement trail: [(8, 1), (8, 2)]
+[11:58:44.991] [INFO] Moving defensive blocker Gnogfinger Bredin with 2 movement points
+[11:58:44.991] [INFO] Defensive blocker chose move (9, 3) with score 975
+[11:58:44.991] [INFO] Goblin Gnogfinger Bredin moved from (9, 1) to (9, 3)
+[11:58:44.991] [INFO] Movement trail: [(9, 1), (9, 3)]
+[11:58:50.405] [INFO] Moving carrier Krunktooth Juggapo with 4 movement points
+[11:58:50.406] [INFO] Goblin Krunktooth Juggapo moved from (5, 5) to (5, 4)
+[11:58:50.406] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4)]
+[11:58:50.406] [INFO] Carrier Krunktooth Juggapo moved to (5, 4) (score: 34.6)
+[11:58:50.406] [INFO] Moving offensive blocker Thrakmangler the Strong with 4 movement points
+[11:58:50.406] [INFO] Offensive blocker chose move (5, 3) with score 4135
+[11:58:50.406] [INFO] Goblin Thrakmangler the Strong moved from (5, 7) to (5, 3)
+[11:58:50.406] [INFO] Movement trail: [(2, 8), (5, 7), (5, 3)]
+[11:58:50.406] [INFO] Moving offensive blocker Thrakbiter the Brutal with 3 movement points
+[11:58:50.406] [INFO] Offensive blocker chose move (6, 2) with score 2492
+[11:58:50.407] [INFO] Moving offensive blocker Zogmangler Maldonado with 2 movement points
+[11:58:50.407] [INFO] Offensive blocker chose move (6, 6) with score 596
+[11:58:50.407] [INFO] Goblin Zogmangler Maldonado moved from (7, 7) to (6, 6)
+[11:58:50.407] [INFO] Movement trail: [(8, 8), (7, 7), (6, 6)]
+[11:58:50.407] [INFO] Moving offensive blocker Grimskull Camembert with 4 movement points
+[11:58:50.407] [INFO] Offensive blocker chose move (6, 4) with score 768
+[11:58:50.407] [INFO] Goblin Grimskull Camembert moved from (7, 6) to (6, 4)
+[11:58:50.407] [INFO] Movement trail: [(9, 8), (7, 6), (6, 4)]
+[11:58:50.407] [INFO] Moving defensive blocker Mugstabber with 2 movement points
+[11:58:50.407] [INFO] Defensive blocker chose move (4, 3) with score 1366
+[11:58:50.407] [INFO] Goblin Mugstabber moved from (2, 3) to (4, 3)
+[11:58:50.407] [INFO] Movement trail: [(2, 1), (2, 3), (4, 3)]
+[11:58:50.407] [INFO] Moving defensive blocker Stabbasher with 1 movement points
+[11:58:50.407] [INFO] Defensive blocker chose move (6, 1) with score 1267
+[11:58:50.407] [INFO] Goblin Stabbasher moved from (5, 1) to (6, 1)
+[11:58:50.407] [INFO] Movement trail: [(4, 1), (5, 1), (6, 1)]
+[11:58:50.407] [INFO] Moving defensive blocker Fizznose Joseph with 2 movement points
+[11:58:50.407] [INFO] Defensive blocker chose move (6, 3) with score 1365
+[11:58:50.407] [INFO] Goblin Fizznose Joseph moved from (5, 2) to (6, 3)
+[11:58:50.407] [INFO] Movement trail: [(6, 1), (5, 2), (6, 3)]
+[11:58:50.407] [INFO] Moving defensive blocker Snottooth with 1 movement points
+[11:58:50.407] [INFO] Defensive blocker chose move (7, 2) with score 1026
+[11:58:50.407] [INFO] Goblin Snottooth moved from (8, 2) to (7, 2)
+[11:58:50.407] [INFO] Movement trail: [(8, 1), (8, 2), (7, 2)]
+[11:58:50.407] [INFO] Moving defensive blocker Gnogfinger Bredin with 2 movement points
+[11:58:50.407] [INFO] Defensive blocker chose move (7, 3) with score 1103
+[11:58:50.407] [INFO] Goblin Gnogfinger Bredin moved from (9, 3) to (7, 3)
+[11:58:50.407] [INFO] Movement trail: [(9, 1), (9, 3), (7, 3)]
+[11:59:06.884] [INFO] Moving carrier Krunktooth Juggapo with 4 movement points
+[11:59:06.885] [INFO] Goblin Krunktooth Juggapo moved from (5, 4) to (5, 2)
+[11:59:06.885] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4), (5, 2)]
+[11:59:06.885] [INFO] Carrier Krunktooth Juggapo moved to (5, 2) (score: 45.4)
+[11:59:06.885] [INFO] Moving offensive blocker Thrakmangler the Strong with 4 movement points
+[11:59:06.885] [INFO] Attempt block of Mugstabber by Thrakmangler the Strong
+[11:59:06.885] [INFO] Attempt block of Fizznose Joseph by Thrakmangler the Strong
+[11:59:06.885] [INFO] Offensive blocker chose move (6, 2) with score 7260
+[11:59:06.885] [INFO] Goblin Thrakmangler the Strong moved from (5, 3) to (6, 2)
+[11:59:06.885] [INFO] Movement trail: [(2, 8), (5, 7), (5, 3), (6, 2)]
+[11:59:06.885] [INFO] Moving offensive blocker Zogmangler Maldonado with 2 movement points
+[11:59:06.885] [INFO] Offensive blocker chose move (5, 5) with score 589
+[11:59:06.885] [INFO] Goblin Zogmangler Maldonado moved from (6, 6) to (5, 5)
+[11:59:06.885] [INFO] Movement trail: [(8, 8), (7, 7), (6, 6), (5, 5)]
+[11:59:06.885] [INFO] Moving offensive blocker Grimskull Camembert with 4 movement points
+[11:59:06.885] [INFO] Attempt block of Fizznose Joseph by Grimskull Camembert
+[11:59:06.885] [INFO] Attempt block of Gnogfinger Bredin by Grimskull Camembert
+[11:59:06.885] [INFO] Offensive blocker chose move (5, 3) with score 4557
+[11:59:06.885] [INFO] Goblin Grimskull Camembert moved from (6, 4) to (5, 3)
+[11:59:06.885] [INFO] Movement trail: [(9, 8), (7, 6), (6, 4), (5, 3)]
+[11:59:06.885] [INFO] Moving defensive blocker Mugstabber with 2 movement points
+[11:59:06.885] [INFO] Defensive blocker Mugstabber attempting to block carrier Krunktooth Juggapo
+[11:59:06.886] [INFO] Block succeeded!
+[11:59:06.886] [INFO] Moving offensive blocker Stabbasher with 1 movement points
+[11:59:06.886] [INFO] No carrier found for team Skullsmashers!
+[11:59:06.886] [INFO] Moving offensive blocker Fizznose Joseph with 2 movement points
+[11:59:06.886] [INFO] No carrier found for team Skullsmashers!
+[11:59:06.886] [INFO] Moving offensive blocker Snottooth with 1 movement points
+[11:59:06.886] [INFO] No carrier found for team Skullsmashers!
+[11:59:06.886] [INFO] Moving offensive blocker Gnogfinger Bredin with 2 movement points
+[11:59:06.886] [INFO] No carrier found for team Skullsmashers!

@@ -68,7 +68,18 @@ class MovementSystem:
         if move_distance > goblin.movement:
             return False
             
-        # Check for zone of control along the path
+        # First check if the goblin is currently in any opponent's zone of control
+        # This handles the case of leaving a zone of control
+        current_blockers = self.get_adjacent_blockers(goblin.position, goblin.team)
+        if current_blockers:
+            # Need to make DUKE check to leave ZoC
+            duke_result = self.perform_duke_check(goblin, current_blockers)
+            
+            if not duke_result["success"]:
+                # Failed to leave ZoC
+                return False
+        
+        # Now check for zone of control along the path
         path = self.calculate_path(goblin.position, target_pos)
         
         for pos in path[1:]:  # Skip starting position
@@ -198,8 +209,8 @@ class MovementSystem:
         # Adjust for number of blockers (-10% per additional blocker)
         success_chance -= (len(blockers) - 1) * 0.1
         
-        # Adjust for goblin's dodge skill (+10% per point)
-        success_chance += goblin.dodge_skill * 0.1
+        # Adjust for goblin's agility (+10% per point)
+        success_chance += goblin.agility * 0.1
         
         # Ball carrier penalty (-20%)
         if goblin.has_ball:
@@ -213,6 +224,32 @@ class MovementSystem:
         
         if success:
             goblin.stats["successful_dukes"] += 1
+        else:
+            # If DUKE check fails, goblin is knocked down and must make an injury roll
+            goblin.knocked_down = True
+            
+            # Create knockdown event
+            self.game.event_manager.create_and_dispatch("knockdown", {
+                "goblin_id": goblin.id,
+                "goblin_name": goblin.name,
+                "goblin": goblin,
+                "cause": "failed_duke"
+            })
+            
+            # If the goblin had the ball, it's dropped and the play ends
+            if goblin.has_ball:
+                goblin.has_ball = False
+                
+                # Log ball dropped event
+                self.game.event_manager.create_and_dispatch("ball_dropped", {
+                    "goblin_id": goblin.id,
+                    "goblin_name": goblin.name,
+                    "goblin": goblin,
+                    "position": goblin.position
+                })
+                
+                # End the play since the ball carrier was knocked down
+                self.game.end_play()
         
         # Create event for DUKE check
         self.game.event_manager.create_and_dispatch("duke_check", {
@@ -267,10 +304,10 @@ class MovementSystem:
             
         # Perform the block
         # Blocker: Strength + d10
-        # Defender: Strength + d10 (-3 if carrying ball)
+        # Defender: Agility + d10 (-3 if carrying ball)
         blocker_roll = goblin.strength + random.randint(1, 10)
         defender_penalty = self.game.config.get("carrier_penalty", -3) if target.has_ball else 0
-        defender_roll = target.strength + random.randint(1, 10) + defender_penalty
+        defender_roll = target.agility + random.randint(1, 10) + defender_penalty
         
         # Calculate the difference
         diff = blocker_roll - defender_roll
@@ -394,6 +431,17 @@ class MovementSystem:
         current_x, current_y = goblin.position
         possible_moves = []
         
+        # Check if the goblin is currently in any opponent's zone of control
+        current_blockers = self.get_adjacent_blockers(goblin.position, goblin.team)
+        current_duke_risk = len(current_blockers)
+        
+        # Determine if this is a defensive blocker trying to get to the carrier
+        is_defensive_blocker = False
+        carrier = None
+        if goblin.team == self.game.defense_team and not goblin.has_ball:
+            is_defensive_blocker = True
+            carrier = self.game.offense_team.get_carrier()
+        
         # Check all positions within movement range
         for dx in range(-goblin.movement, goblin.movement + 1):
             for dy in range(-goblin.movement, goblin.movement + 1):
@@ -407,14 +455,70 @@ class MovementSystem:
                     
                 new_x = current_x + dx
                 new_y = current_y + dy
+                new_pos = (new_x, new_y)
                 
                 # Ensure the position is on the grid
                 if not (0 <= new_x < self.game.grid.width and 0 <= new_y < self.game.grid.height):
                     continue
                     
                 # Ensure the position is empty
-                if self.game.grid.get_entity_at_position((new_x, new_y)) is None:
-                    possible_moves.append((new_x, new_y))
+                if self.game.grid.get_entity_at_position(new_pos) is not None:
+                    continue
+                
+                # Check for zone of control along the path
+                path = self.calculate_path(goblin.position, new_pos)
+                can_reach = True
+                
+                # First check if the goblin has to leave a zone of control
+                if current_blockers:
+                    # The success chance calculation should match perform_duke_check
+                    success_chance = 0.5
+                    success_chance -= (len(current_blockers) - 1) * 0.1
+                    success_chance += goblin.agility * 0.1
+                    if goblin.has_ball:
+                        success_chance -= 0.2
+                    
+                    # If chance is very low, don't consider this move
+                    # Use a lower threshold for defensive blockers trying to reach the carrier
+                    risk_threshold = 0.2 if (is_defensive_blocker and carrier and manhattan_distance(new_pos, carrier.position) <= 2) else 0.3
+                    
+                    if success_chance < risk_threshold:  # Threshold for "too risky"
+                        continue
+                
+                # Check path for zone control issues
+                for pos in path[1:]:  # Skip starting position
+                    blockers = self.get_adjacent_blockers(pos, goblin.team)
+                    
+                    if blockers and pos != new_pos:  # If not the final position
+                        # Calculate DUKE success chance
+                        success_chance = 0.5
+                        success_chance -= (len(blockers) - 1) * 0.1
+                        success_chance += goblin.agility * 0.1
+                        if goblin.has_ball:
+                            success_chance -= 0.2
+                        
+                        # If chance is very low, don't consider this move
+                        # Again, use a lower threshold for defensive blockers
+                        risk_threshold = 0.2 if (is_defensive_blocker and carrier and manhattan_distance(new_pos, carrier.position) <= 2) else 0.3
+                        
+                        if success_chance < risk_threshold:  # Threshold for "too risky"
+                            can_reach = False
+                            break
+                
+                if can_reach:
+                    possible_moves.append(new_pos)
+                    
+        # If current position is surrounded by lots of blockers, 
+        # and moving is very risky, consider staying put
+        if current_duke_risk > 0:
+            # Check if there are any good blocking targets from current position
+            for adj_pos in get_adjacent_positions(goblin.position, self.game.grid.width):
+                entity = self.game.grid.get_entity_at_position(adj_pos)
+                if entity and hasattr(entity, 'team') and entity.team != goblin.team and not entity.knocked_down:
+                    # Found a potential blocking target
+                    # Add current position as a valid "move" to indicate blocking might be better
+                    possible_moves.append(goblin.position)
+                    break
         
         return possible_moves
         

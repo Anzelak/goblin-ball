@@ -1,0 +1,156 @@
+[11:34:39.746] [INFO] === Goblinball Debug Log - 20250403_113439 ===
+[11:34:39.746] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113439.txt
+[11:34:39.766] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:34:41.177] [INFO] Moving carrier Fizzchewer Zigmal with 3 movement points
+[11:34:41.178] [INFO] Goblin Fizzchewer Zigmal moved from (4, 8) to (5, 7)
+[11:34:41.178] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:34:41.178] [INFO] Carrier Fizzchewer Zigmal moved to (5, 7)
+[11:34:41.180] [INFO] Moving offensive blocker Grubsmasher Strongarm with 3 movement points
+[11:34:41.181] [INFO] Offensive blocker chose move (4, 7) with score 743
+[11:34:41.181] [INFO] Goblin Grubsmasher Strongarm moved from (2, 8) to (4, 7)
+[11:34:41.181] [INFO] Movement trail: [(2, 8), (4, 7)]
+[11:34:41.181] [INFO] Moving offensive blocker Wortfist  with 4 movement points
+[11:34:41.181] [INFO] Offensive blocker chose move (5, 6) with score 749
+[11:34:41.181] [INFO] Goblin Wortfist  moved from (6, 8) to (5, 6)
+[11:34:41.181] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:34:41.181] [INFO] Moving offensive blocker Splatfoot with 2 movement points
+[11:34:41.181] [INFO] Offensive blocker chose move (6, 8) with score 669
+[11:34:41.181] [INFO] Goblin Splatfoot moved from (8, 8) to (6, 8)
+[11:34:41.181] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:34:41.181] [INFO] Moving offensive blocker Grubsmasher  with 2 movement points
+[11:34:41.181] [INFO] Offensive blocker chose move (7, 8) with score 585
+[11:34:41.182] [INFO] Goblin Grubsmasher  moved from (9, 8) to (7, 8)
+[11:34:41.182] [INFO] Movement trail: [(9, 8), (7, 8)]
+[11:34:41.182] [INFO] Moving defensive blocker Lugbasher Rascal with 3 movement points
+[11:34:41.182] [INFO] Defensive blocker chose move (4, 2) with score 1131
+[11:34:41.182] [INFO] Goblin Lugbasher Rascal moved from (2, 1) to (4, 2)
+[11:34:41.182] [INFO] Movement trail: [(2, 1), (4, 2)]
+[11:34:41.182] [INFO] Moving defensive blocker Luggob with 2 movement points
+[11:34:41.182] [INFO] Defensive blocker chose move (4, 3) with score 1201
+[11:34:41.182] [INFO] Goblin Luggob moved from (4, 1) to (4, 3)
+[11:34:41.182] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:34:41.182] [INFO] Moving defensive blocker Krunkmangler the Fierce with 3 movement points
+[11:34:41.182] [INFO] Defensive blocker chose move (5, 3) with score 1256
+[11:34:41.182] [INFO] Goblin Krunkmangler the Fierce moved from (6, 1) to (5, 3)
+[11:34:41.182] [INFO] Movement trail: [(6, 1), (5, 3)]
+[11:34:41.182] [INFO] Moving defensive blocker Skrizgulper Krishna with 4 movement points
+[11:34:41.183] [INFO] Defensive blocker chose move (5, 2) with score 1215
+[11:34:41.183] [INFO] Goblin Skrizgulper Krishna moved from (8, 1) to (5, 2)
+[11:34:41.183] [INFO] Movement trail: [(8, 1), (5, 2)]
+[11:34:41.183] [INFO] Moving defensive blocker Grakfist with 2 movement points
+[11:34:41.183] [INFO] Defensive blocker chose move (7, 1) with score 838
+[11:34:41.183] [INFO] Goblin Grakfist moved from (9, 1) to (7, 1)
+[11:34:41.183] [INFO] Movement trail: [(9, 1), (7, 1)]
+[11:34:41.791] [INFO] Moving carrier Fizzchewer Zigmal with 3 movement points
+[11:34:41.791] [INFO] Goblin Fizzchewer Zigmal moved from (5, 7) to (5, 5)
+[11:34:41.791] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5)]
+[11:34:41.791] [INFO] Carrier Fizzchewer Zigmal moved to (5, 5)
+[11:34:41.791] [INFO] Moving offensive blocker Grubsmasher Strongarm with 3 movement points
+[11:34:41.791] [INFO] Offensive blocker chose move (4, 4) with score 2537
+[11:34:41.791] [INFO] Goblin Grubsmasher Strongarm moved from (4, 7) to (4, 4)
+[11:34:41.791] [INFO] Movement trail: [(2, 8), (4, 7), (4, 4)]
+[11:34:41.791] [INFO] Moving offensive blocker Wortfist  with 4 movement points
+[11:34:41.792] [INFO] Offensive blocker chose move (5, 4) with score 4654
+[11:34:41.792] [INFO] Goblin Wortfist  moved from (5, 6) to (5, 4)
+[11:34:41.792] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4)]
+[11:34:41.792] [INFO] Offensive blocker Wortfist  attempting to block Krunkmangler the Fierce after moving
+[11:34:41.792] [INFO] Moving offensive blocker Splatfoot with 2 movement points
+[11:34:41.792] [INFO] Offensive blocker chose move (5, 7) with score 655
+[11:34:41.792] [INFO] Goblin Splatfoot moved from (6, 8) to (5, 7)
+[11:34:41.792] [INFO] Movement trail: [(8, 8), (6, 8), (5, 7)]
+[11:34:41.792] [INFO] Moving offensive blocker Grubsmasher  with 2 movement points
+[11:34:41.792] [INFO] Offensive blocker chose move (7, 6) with score 577
+[11:34:41.792] [INFO] Goblin Grubsmasher  moved from (7, 8) to (7, 6)
+[11:34:41.792] [INFO] Movement trail: [(9, 8), (7, 8), (7, 6)]
+[11:34:41.792] [INFO] Moving defensive blocker Lugbasher Rascal with 3 movement points
+[11:34:41.792] [INFO] Defensive blocker chose move (4, 5) with score 2958
+[11:34:41.792] [INFO] Goblin Lugbasher Rascal moved from (4, 2) to (4, 5)
+[11:34:41.792] [INFO] Movement trail: [(2, 1), (4, 2), (4, 5)]
+[11:34:41.792] [INFO] Moving defensive blocker Luggob with 2 movement points
+[11:34:41.792] [INFO] Defensive blocker chose move (4, 3) with score 1304
+[11:34:41.792] [INFO] Moving defensive blocker Krunkmangler the Fierce with 3 movement points
+[11:34:41.792] [INFO] Defensive blocker chose move (5, 6) with score 2962
+[11:34:41.792] [INFO] Goblin Krunkmangler the Fierce moved from (5, 3) to (5, 6)
+[11:34:41.792] [INFO] Movement trail: [(6, 1), (5, 3), (5, 6)]
+[11:34:41.792] [INFO] Moving defensive blocker Skrizgulper Krishna with 4 movement points
+[11:34:41.793] [INFO] Defensive blocker chose move (6, 5) with score 2962
+[11:34:41.793] [INFO] Goblin Skrizgulper Krishna moved from (5, 2) to (6, 5)
+[11:34:41.793] [INFO] Movement trail: [(8, 1), (5, 2), (6, 5)]
+[11:34:41.793] [INFO] Moving defensive blocker Grakfist with 2 movement points
+[11:34:41.793] [INFO] Defensive blocker chose move (6, 2) with score 1258
+[11:34:41.793] [INFO] Goblin Grakfist moved from (7, 1) to (6, 2)
+[11:34:41.793] [INFO] Movement trail: [(9, 1), (7, 1), (6, 2)]
+[11:34:43.553] [INFO] Moving carrier Fizzchewer Zigmal with 3 movement points
+[11:34:43.553] [INFO] Goblin Fizzchewer Zigmal moved from (5, 5) to (5, 3)
+[11:34:43.553] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5), (5, 3)]
+[11:34:43.553] [INFO] Carrier Fizzchewer Zigmal moved to (5, 3)
+[11:34:43.553] [INFO] Moving offensive blocker Grubsmasher Strongarm with 3 movement points
+[11:34:43.553] [INFO] Attempt block of Luggob by Grubsmasher Strongarm
+[11:34:43.553] [INFO] Attempt block of Lugbasher Rascal by Grubsmasher Strongarm
+[11:34:43.553] [INFO] Block succeeded!
+[11:34:43.553] [INFO] Moving offensive blocker Wortfist  with 4 movement points
+[11:34:43.553] [INFO] Attempt block of Luggob by Wortfist 
+[11:34:43.553] [INFO] Attempt block of Skrizgulper Krishna by Wortfist 
+[11:34:43.553] [INFO] Offensive blocker chose move (5, 5) with score 6053
+[11:34:43.553] [INFO] Goblin Wortfist  moved from (5, 4) to (5, 5)
+[11:34:43.553] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4), (5, 5)]
+[11:34:43.553] [INFO] Offensive blocker Wortfist  attempting to block Krunkmangler the Fierce after moving
+[11:34:43.553] [INFO] Moving offensive blocker Splatfoot with 2 movement points
+[11:34:43.553] [INFO] Attempt block of Krunkmangler the Fierce by Splatfoot
+[11:34:43.553] [INFO] Offensive blocker chose move (5, 7) with score 2863
+[11:34:43.553] [INFO] Moving offensive blocker Grubsmasher  with 2 movement points
+[11:34:43.554] [INFO] Attempt block of Skrizgulper Krishna by Grubsmasher 
+[11:34:43.554] [INFO] Block succeeded!
+[11:34:43.554] [INFO] Moving defensive blocker Lugbasher Rascal with 3 movement points
+[11:34:43.554] [INFO] Defensive blocker chose move (3, 4) with score 867
+[11:34:43.554] [INFO] Moving defensive blocker Luggob with 2 movement points
+[11:34:43.554] [INFO] Defensive blocker Luggob attempting to block carrier Fizzchewer Zigmal
+[11:34:43.554] [INFO] Block succeeded!
+[11:34:43.554] [INFO] Moving defensive blocker Krunkmangler the Fierce with 3 movement points
+[11:34:43.554] [INFO] Defensive blocker chose move (5, 3) with score 2972
+[11:34:43.554] [INFO] Goblin Krunkmangler the Fierce moved from (5, 6) to (5, 3)
+[11:34:43.554] [INFO] Movement trail: [(6, 1), (5, 3), (5, 6), (5, 3)]
+[11:34:43.554] [INFO] Moving defensive blocker Skrizgulper Krishna with 4 movement points
+[11:34:43.554] [INFO] Defensive blocker Skrizgulper Krishna attempting to block carrier Fizzchewer Zigmal
+[11:34:43.554] [INFO] Defensive blocker chose move (6, 4) with score 3959
+[11:34:43.554] [INFO] Goblin Skrizgulper Krishna moved from (5, 4) to (6, 4)
+[11:34:43.554] [INFO] Movement trail: [(8, 1), (5, 2), (6, 5), (5, 4), (6, 4)]
+[11:34:43.554] [INFO] Defensive blocker Skrizgulper Krishna attempting to block carrier Fizzchewer Zigmal after moving
+[11:34:43.554] [INFO] Moving defensive blocker Grakfist with 2 movement points
+[11:34:43.554] [INFO] Defensive blocker Grakfist attempting to block carrier Fizzchewer Zigmal
+[11:34:43.554] [INFO] Defensive blocker chose move (6, 2) with score 4389
+[11:34:45.731] [INFO] Moving carrier Fizzchewer Zigmal with 3 movement points
+[11:34:45.731] [INFO] Goblin Fizzchewer Zigmal moved from (6, 3) to (5, 2)
+[11:34:45.731] [INFO] Movement trail: [(5, 7), (5, 5), (5, 3), (6, 3), (5, 2)]
+[11:34:45.731] [INFO] Carrier Fizzchewer Zigmal moved to (5, 2)
+[11:34:45.731] [INFO] Moving offensive blocker Grubsmasher Strongarm with 3 movement points
+[11:34:45.731] [INFO] Attempt block of Krunkmangler the Fierce by Grubsmasher Strongarm
+[11:34:45.731] [INFO] Attempt block of Luggob by Grubsmasher Strongarm
+[11:34:45.731] [INFO] Block succeeded!
+[11:34:45.731] [INFO] Moving offensive blocker Wortfist  with 4 movement points
+[11:34:45.731] [INFO] Attempt block of Skrizgulper Krishna by Wortfist 
+[11:34:45.731] [INFO] Offensive blocker chose move (6, 3) with score 6433
+[11:34:45.731] [INFO] Goblin Wortfist  moved from (5, 5) to (6, 3)
+[11:34:45.731] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4), (5, 5), (6, 3)]
+[11:34:45.731] [INFO] Moving offensive blocker Splatfoot with 2 movement points
+[11:34:45.731] [INFO] Offensive blocker chose move (5, 5) with score 592
+[11:34:45.731] [INFO] Goblin Splatfoot moved from (5, 7) to (5, 5)
+[11:34:45.731] [INFO] Movement trail: [(8, 8), (6, 8), (5, 7), (5, 5)]
+[11:34:45.731] [INFO] Moving offensive blocker Grubsmasher  with 2 movement points
+[11:34:45.731] [INFO] Offensive blocker chose move (7, 4) with score 2377
+[11:34:45.731] [INFO] Goblin Grubsmasher  moved from (7, 6) to (7, 4)
+[11:34:45.731] [INFO] Movement trail: [(9, 8), (7, 8), (7, 6), (7, 4)]
+[11:34:45.731] [INFO] Moving defensive blocker Krunkmangler the Fierce with 3 movement points
+[11:34:45.731] [INFO] Defensive blocker Krunkmangler the Fierce attempting to block carrier Fizzchewer Zigmal
+[11:34:45.732] [INFO] Defensive blocker chose move (5, 3) with score 3953
+[11:34:45.732] [INFO] Moving defensive blocker Skrizgulper Krishna with 4 movement points
+[11:34:45.732] [INFO] Defensive blocker chose move (5, 1) with score 3386
+[11:34:45.732] [INFO] Goblin Skrizgulper Krishna moved from (6, 4) to (5, 1)
+[11:34:45.732] [INFO] Movement trail: [(5, 2), (6, 5), (5, 4), (6, 4), (5, 1)]
+[11:34:45.732] [INFO] Moving defensive blocker Grakfist with 2 movement points
+[11:34:45.732] [INFO] Defensive blocker Grakfist attempting to block carrier Fizzchewer Zigmal
+[11:34:45.732] [INFO] Defensive blocker chose move (6, 2) with score 3938
+[11:34:47.028] [INFO] Moving carrier Fizzchewer Zigmal with 3 movement points
+[11:34:47.029] [INFO] Goblin Fizzchewer Zigmal moved from (5, 2) to (5, 0)
+[11:34:47.029] [INFO] Movement trail: [(5, 5), (5, 3), (6, 3), (5, 2), (5, 0)]
+[11:34:47.029] [INFO] Carrier Fizzchewer Zigmal moved to (5, 0)

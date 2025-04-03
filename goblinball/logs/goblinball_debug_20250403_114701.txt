@@ -1,0 +1,100 @@
+[11:47:01.388] [INFO] === Goblinball Debug Log - 20250403_114701 ===
+[11:47:01.388] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114701.txt
+[11:47:01.409] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:47:02.486] [INFO] Moving carrier Skrizfinger Paskel with 2 movement points
+[11:47:02.487] [INFO] Goblin Skrizfinger Paskel moved from (4, 8) to (5, 7)
+[11:47:02.487] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:47:02.487] [INFO] Carrier Skrizfinger Paskel moved along clear path to (5, 7)
+[11:47:02.488] [INFO] Moving offensive blocker Skrizsquisher the Fierce with 3 movement points
+[11:47:02.489] [INFO] Offensive blocker chose move (4, 7) with score 739
+[11:47:02.489] [INFO] Goblin Skrizsquisher the Fierce moved from (2, 8) to (4, 7)
+[11:47:02.489] [INFO] Movement trail: [(2, 8), (4, 7)]
+[11:47:02.489] [INFO] Moving offensive blocker Gnogtooth with 3 movement points
+[11:47:02.489] [INFO] Offensive blocker chose move (5, 6) with score 752
+[11:47:02.489] [INFO] Goblin Gnogtooth moved from (6, 8) to (5, 6)
+[11:47:02.489] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:47:02.489] [INFO] Moving offensive blocker Skrizfist Tiwana with 1 movement points
+[11:47:02.489] [INFO] Offensive blocker chose move (8, 7) with score 589
+[11:47:02.489] [INFO] Goblin Skrizfist Tiwana moved from (8, 8) to (8, 7)
+[11:47:02.489] [INFO] Movement trail: [(8, 8), (8, 7)]
+[11:47:02.489] [INFO] Moving offensive blocker Gutfinger the Brutal with 3 movement points
+[11:47:02.489] [INFO] Offensive blocker chose move (7, 7) with score 666
+[11:47:02.489] [INFO] Goblin Gutfinger the Brutal moved from (9, 8) to (7, 7)
+[11:47:02.489] [INFO] Movement trail: [(9, 8), (7, 7)]
+[11:47:02.490] [INFO] Moving defensive blocker Snotgob Ootlu with 4 movement points
+[11:47:02.490] [INFO] Defensive blocker chose move (5, 2) with score 1200
+[11:47:02.490] [INFO] Goblin Snotgob Ootlu moved from (2, 1) to (5, 2)
+[11:47:02.490] [INFO] Movement trail: [(2, 1), (5, 2)]
+[11:47:02.490] [INFO] Moving defensive blocker Globfoot with 4 movement points
+[11:47:02.490] [INFO] Defensive blocker chose move (4, 5) with score 1293
+[11:47:02.490] [INFO] Goblin Globfoot moved from (4, 1) to (4, 5)
+[11:47:02.490] [INFO] Movement trail: [(4, 1), (4, 5)]
+[11:47:02.490] [INFO] Moving defensive blocker Snotbiter the Tough with 4 movement points
+[11:47:02.491] [INFO] Defensive blocker chose move (6, 5) with score 1321
+[11:47:02.491] [INFO] Goblin Snotbiter the Tough moved from (6, 1) to (6, 5)
+[11:47:02.491] [INFO] Movement trail: [(6, 1), (6, 5)]
+[11:47:02.491] [INFO] Moving defensive blocker Stabgulper Squeakers with 4 movement points
+[11:47:02.491] [INFO] Defensive blocker chose move (6, 3) with score 1194
+[11:47:02.491] [INFO] Goblin Stabgulper Squeakers moved from (8, 1) to (6, 3)
+[11:47:02.491] [INFO] Movement trail: [(8, 1), (6, 3)]
+[11:47:02.491] [INFO] Moving defensive blocker Bludchewer with 4 movement points
+[11:47:02.491] [INFO] Defensive blocker chose move (6, 2) with score 1146
+[11:47:02.491] [INFO] Goblin Bludchewer moved from (9, 1) to (6, 2)
+[11:47:02.491] [INFO] Movement trail: [(9, 1), (6, 2)]
+[11:47:03.512] [INFO] Moving carrier Skrizfinger Paskel with 2 movement points
+[11:47:03.512] [INFO] Goblin Skrizfinger Paskel moved from (5, 7) to (5, 5)
+[11:47:03.512] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5)]
+[11:47:03.512] [INFO] Carrier Skrizfinger Paskel moved to (5, 5)
+[11:47:03.513] [INFO] Moving offensive blocker Skrizsquisher the Fierce with 3 movement points
+[11:47:03.513] [INFO] Offensive blocker chose move (4, 6) with score 3090
+[11:47:03.513] [INFO] Goblin Skrizsquisher the Fierce moved from (4, 7) to (4, 6)
+[11:47:03.513] [INFO] Movement trail: [(2, 8), (4, 7), (4, 6)]
+[11:47:03.513] [INFO] Offensive blocker Skrizsquisher the Fierce attempting to block Globfoot after moving
+[11:47:03.513] [INFO] Moving offensive blocker Gnogtooth with 3 movement points
+[11:47:03.513] [INFO] Attempt block of Globfoot by Gnogtooth
+[11:47:03.513] [INFO] Attempt block of Snotbiter the Tough by Gnogtooth
+[11:47:03.513] [INFO] Offensive blocker chose move (6, 6) with score 2630
+[11:47:03.513] [INFO] Goblin Gnogtooth moved from (5, 6) to (6, 6)
+[11:47:03.513] [INFO] Movement trail: [(6, 8), (5, 6), (6, 6)]
+[11:47:03.513] [INFO] Moving offensive blocker Skrizfist Tiwana with 1 movement points
+[11:47:03.513] [INFO] Offensive blocker chose move (8, 6) with score 482
+[11:47:03.513] [INFO] Goblin Skrizfist Tiwana moved from (8, 7) to (8, 6)
+[11:47:03.513] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6)]
+[11:47:03.513] [INFO] Moving offensive blocker Gutfinger the Brutal with 3 movement points
+[11:47:03.513] [INFO] Offensive blocker chose move (7, 5) with score 3097
+[11:47:03.513] [INFO] Goblin Gutfinger the Brutal moved from (7, 7) to (7, 5)
+[11:47:03.513] [INFO] Movement trail: [(9, 8), (7, 7), (7, 5)]
+[11:47:03.513] [INFO] Offensive blocker Gutfinger the Brutal attempting to block Snotbiter the Tough after moving
+[11:47:03.513] [INFO] Moving defensive blocker Snotgob Ootlu with 4 movement points
+[11:47:03.513] [INFO] Defensive blocker chose move (5, 4) with score 4381
+[11:47:03.513] [INFO] Goblin Snotgob Ootlu moved from (5, 2) to (5, 4)
+[11:47:03.513] [INFO] Movement trail: [(2, 1), (5, 2), (5, 4)]
+[11:47:03.513] [INFO] Defensive blocker Snotgob Ootlu attempting to block carrier Skrizfinger Paskel after moving
+[11:47:03.513] [INFO] Moving defensive blocker Globfoot with 4 movement points
+[11:47:03.513] [INFO] Defensive blocker Globfoot attempting to block carrier Skrizfinger Paskel
+[11:47:03.513] [INFO] Block succeeded!
+[11:47:03.513] [INFO] Moving defensive blocker Snotbiter the Tough with 4 movement points
+[11:47:03.514] [INFO] Defensive blocker Snotbiter the Tough attempting to block carrier Skrizfinger Paskel
+[11:47:03.514] [INFO] Defensive blocker chose move (5, 6) with score 3956
+[11:47:03.514] [INFO] Moving defensive blocker Stabgulper Squeakers with 4 movement points
+[11:47:03.514] [INFO] Defensive blocker chose move (5, 6) with score 2939
+[11:47:03.514] [INFO] Moving defensive blocker Bludchewer with 4 movement points
+[11:47:03.514] [INFO] Defensive blocker chose move (5, 3) with score 1358
+[11:47:03.514] [INFO] Goblin Bludchewer moved from (6, 2) to (5, 3)
+[11:47:03.514] [INFO] Movement trail: [(9, 1), (6, 2), (5, 3)]
+[11:47:05.321] [INFO] Moving carrier Skrizfinger Paskel with 2 movement points
+[11:47:05.321] [INFO] Carrier Skrizfinger Paskel couldn't find valid move
+[11:47:05.321] [INFO] Moving offensive blocker Snotgob Ootlu with 4 movement points
+[11:47:05.321] [INFO] No carrier found for team Skullsmashers!
+[11:47:05.321] [INFO] Moving offensive blocker Globfoot with 4 movement points
+[11:47:05.321] [INFO] No carrier found for team Skullsmashers!
+[11:47:05.321] [INFO] Moving offensive blocker Bludchewer with 4 movement points
+[11:47:05.321] [INFO] No carrier found for team Skullsmashers!
+[11:47:05.321] [INFO] Moving defensive blocker Skrizsquisher the Fierce with 3 movement points
+[11:47:05.321] [INFO] No carrier found for team Skullsmashers!
+[11:47:05.321] [INFO] Moving defensive blocker Gnogtooth with 3 movement points
+[11:47:05.321] [INFO] No carrier found for team Skullsmashers!
+[11:47:05.321] [INFO] Moving defensive blocker Skrizfist Tiwana with 1 movement points
+[11:47:05.321] [INFO] No carrier found for team Skullsmashers!
+[11:47:05.321] [INFO] Moving defensive blocker Gutfinger the Brutal with 3 movement points
+[11:47:05.321] [INFO] No carrier found for team Skullsmashers!

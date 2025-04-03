@@ -1,9 +1,0 @@
-2025-04-03 00:02:25,429 - goblinball - CRITICAL - Cannot start game. Missing required modules: config, goblin, team, event, renderer, logger, animation, movement_system, carrier_movement, blocker_movement, ai_goals, utils, grid, game_controller, grid_renderer, goblin_renderer, ui_renderer, animation_renderer
-2025-04-03 00:02:25,430 - goblinball - CRITICAL - Current directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
-2025-04-03 00:02:25,430 - goblinball - CRITICAL - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
-2025-04-03 00:02:25,430 - goblinball - CRITICAL - Missing animation_renderer.py. This file should be in the same directory as renderer.py.
-2025-04-03 00:02:25,430 - goblinball - CRITICAL - 
-Possible solutions:
-2025-04-03 00:02:25,430 - goblinball - CRITICAL - 1. Run from parent directory: python -m goblinball.main
-2025-04-03 00:02:25,430 - goblinball - CRITICAL - 2. Ensure all required files exist in the project structure
-2025-04-03 00:02:25,430 - goblinball - CRITICAL - 3. Check for circular imports

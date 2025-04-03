@@ -1,0 +1,76 @@
+[11:53:36.819] [INFO] === Goblinball Debug Log - 20250403_115336 ===
+[11:53:36.819] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115336.txt
+[11:53:36.840] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:53:37.981] [INFO] Moving carrier Wortskull Galet with 3 movement points
+[11:53:37.981] [INFO] Goblin Wortskull Galet moved from (4, 8) to (5, 6)
+[11:53:37.981] [INFO] Movement trail: [(4, 8), (5, 6)]
+[11:53:37.981] [INFO] Carrier Wortskull Galet moved along clear path to (5, 6)
+[11:53:37.984] [INFO] Moving offensive blocker Bludfist with 1 movement points
+[11:53:37.984] [INFO] Offensive blocker chose move (2, 7) with score 512
+[11:53:37.984] [INFO] Goblin Bludfist moved from (2, 8) to (2, 7)
+[11:53:37.984] [INFO] Movement trail: [(2, 8), (2, 7)]
+[11:53:37.984] [INFO] Moving offensive blocker Skabfist with 4 movement points
+[11:53:37.985] [INFO] Offensive blocker chose move (6, 6) with score 743
+[11:53:37.985] [INFO] Goblin Skabfist moved from (6, 8) to (6, 6)
+[11:53:37.985] [INFO] Movement trail: [(6, 8), (6, 6)]
+[11:53:37.985] [INFO] Moving offensive blocker Gnogslicer the Strong with 2 movement points
+[11:53:37.985] [INFO] Offensive blocker chose move (7, 7) with score 594
+[11:53:37.985] [INFO] Goblin Gnogslicer the Strong moved from (8, 8) to (7, 7)
+[11:53:37.985] [INFO] Movement trail: [(8, 8), (7, 7)]
+[11:53:37.985] [INFO] Moving offensive blocker Grubstabber Zaragamba with 3 movement points
+[11:53:37.985] [INFO] Offensive blocker chose move (8, 6) with score 592
+[11:53:37.985] [INFO] Goblin Grubstabber Zaragamba moved from (9, 8) to (8, 6)
+[11:53:37.985] [INFO] Movement trail: [(9, 8), (8, 6)]
+[11:53:37.986] [INFO] Moving defensive blocker Lugnose Chambers the Sneaky with 3 movement points
+[11:53:37.986] [INFO] Defensive blocker chose move (5, 1) with score 1198
+[11:53:37.986] [INFO] Goblin Lugnose Chambers the Sneaky moved from (2, 1) to (5, 1)
+[11:53:37.986] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:53:37.986] [INFO] Moving defensive blocker Gutnose the Brutal with 4 movement points
+[11:53:37.986] [INFO] Defensive blocker chose move (4, 5) with score 1370
+[11:53:37.986] [INFO] Goblin Gutnose the Brutal moved from (4, 1) to (4, 5)
+[11:53:37.986] [INFO] Movement trail: [(4, 1), (4, 5)]
+[11:53:37.986] [INFO] Moving defensive blocker Zogmangler the Tough with 4 movement points
+[11:53:37.987] [INFO] Defensive blocker chose move (6, 5) with score 1354
+[11:53:37.987] [INFO] Goblin Zogmangler the Tough moved from (6, 1) to (6, 5)
+[11:53:37.987] [INFO] Movement trail: [(6, 1), (6, 5)]
+[11:53:37.987] [INFO] Moving defensive blocker Stabchewer Nikki with 2 movement points
+[11:53:37.987] [INFO] Defensive blocker chose move (6, 1) with score 1138
+[11:53:37.987] [INFO] Goblin Stabchewer Nikki moved from (8, 1) to (6, 1)
+[11:53:37.987] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:53:37.987] [INFO] Moving defensive blocker Krunkface the Fierce with 1 movement points
+[11:53:37.987] [INFO] Defensive blocker chose move (9, 2) with score 874
+[11:53:37.987] [INFO] Goblin Krunkface the Fierce moved from (9, 1) to (9, 2)
+[11:53:37.987] [INFO] Movement trail: [(9, 1), (9, 2)]
+[11:53:38.687] [INFO] Moving carrier Wortskull Galet with 3 movement points
+[11:53:38.688] [INFO] Goblin Wortskull Galet moved from (5, 6) to (5, 5)
+[11:53:38.688] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5)]
+[11:53:38.688] [INFO] Carrier Wortskull Galet moved to (5, 5) (score: 36.4)
+[11:53:38.688] [INFO] Moving offensive blocker Bludfist with 1 movement points
+[11:53:38.688] [INFO] Offensive blocker chose move (3, 7) with score 506
+[11:53:38.688] [INFO] Goblin Bludfist moved from (2, 7) to (3, 7)
+[11:53:38.688] [INFO] Movement trail: [(2, 8), (2, 7), (3, 7)]
+[11:53:38.688] [INFO] Moving offensive blocker Skabfist with 4 movement points
+[11:53:38.688] [INFO] Attempt block of Zogmangler the Tough by Skabfist
+[11:53:38.688] [INFO] Offensive blocker chose move (7, 5) with score 3122
+[11:53:38.688] [INFO] Moving offensive blocker Gnogslicer the Strong with 2 movement points
+[11:53:38.688] [INFO] Offensive blocker chose move (7, 5) with score 2603
+[11:53:38.688] [INFO] Goblin Gnogslicer the Strong moved from (7, 7) to (7, 5)
+[11:53:38.688] [INFO] Movement trail: [(8, 8), (7, 7), (7, 5)]
+[11:53:38.688] [INFO] Moving offensive blocker Grubstabber Zaragamba with 3 movement points
+[11:53:38.688] [INFO] Offensive blocker chose move (5, 6) with score 735
+[11:53:38.688] [INFO] Goblin Grubstabber Zaragamba moved from (8, 6) to (5, 6)
+[11:53:38.688] [INFO] Movement trail: [(9, 8), (8, 6), (5, 6)]
+[11:53:38.688] [INFO] Moving defensive blocker Lugnose Chambers the Sneaky with 3 movement points
+[11:53:38.689] [INFO] Defensive blocker chose move (5, 4) with score 3419
+[11:53:38.689] [INFO] Goblin Lugnose Chambers the Sneaky moved from (5, 1) to (5, 4)
+[11:53:38.689] [INFO] Movement trail: [(2, 1), (5, 1), (5, 4)]
+[11:53:38.689] [INFO] Moving defensive blocker Gutnose the Brutal with 4 movement points
+[11:53:38.689] [INFO] Defensive blocker Gutnose the Brutal attempting to block carrier Wortskull Galet
+[11:53:38.689] [INFO] Defensive blocker chose move (4, 5) with score 3973
+[11:53:38.689] [INFO] Moving defensive blocker Zogmangler the Tough with 4 movement points
+[11:53:38.689] [INFO] Defensive blocker Zogmangler the Tough attempting to block carrier Wortskull Galet
+[11:53:38.689] [INFO] Block succeeded!
+[11:53:38.689] [INFO] Moving offensive blocker Stabchewer Nikki with 2 movement points
+[11:53:38.689] [INFO] No carrier found for team Skullsmashers!
+[11:53:38.689] [INFO] Moving offensive blocker Krunkface the Fierce with 1 movement points
+[11:53:38.689] [INFO] No carrier found for team Skullsmashers!

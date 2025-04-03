@@ -1,0 +1,73 @@
+[11:56:35.271] [INFO] === Goblinball Debug Log - 20250403_115635 ===
+[11:56:35.271] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115635.txt
+[11:56:35.292] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:56:36.253] [INFO] Moving carrier Lugstabber with 4 movement points
+[11:56:36.253] [INFO] Goblin Lugstabber moved from (4, 8) to (5, 5)
+[11:56:36.253] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:56:36.253] [INFO] Carrier Lugstabber moved along clear path to (5, 5)
+[11:56:36.256] [INFO] Moving offensive blocker Skriznose with 3 movement points
+[11:56:36.257] [INFO] Offensive blocker chose move (2, 5) with score 603
+[11:56:36.257] [INFO] Goblin Skriznose moved from (2, 8) to (2, 5)
+[11:56:36.257] [INFO] Movement trail: [(2, 8), (2, 5)]
+[11:56:36.257] [INFO] Moving offensive blocker Skabmangler with 4 movement points
+[11:56:36.257] [INFO] Offensive blocker chose move (6, 5) with score 755
+[11:56:36.257] [INFO] Goblin Skabmangler moved from (6, 8) to (6, 5)
+[11:56:36.257] [INFO] Movement trail: [(6, 8), (6, 5)]
+[11:56:36.257] [INFO] Moving offensive blocker Krunkmangler Hazzap  with 2 movement points
+[11:56:36.257] [INFO] Offensive blocker chose move (6, 8) with score 507
+[11:56:36.257] [INFO] Goblin Krunkmangler Hazzap  moved from (8, 8) to (6, 8)
+[11:56:36.257] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:56:36.257] [INFO] Moving offensive blocker Muggulper with 3 movement points
+[11:56:36.257] [INFO] Offensive blocker chose move (9, 5) with score 516
+[11:56:36.258] [INFO] Goblin Muggulper moved from (9, 8) to (9, 5)
+[11:56:36.258] [INFO] Movement trail: [(9, 8), (9, 5)]
+[11:56:36.258] [INFO] Moving defensive blocker Grimgulper Erich the Strong with 4 movement points
+[11:56:36.258] [INFO] Defensive blocker chose move (5, 2) with score 1323
+[11:56:36.258] [INFO] Goblin Grimgulper Erich the Strong moved from (2, 1) to (5, 2)
+[11:56:36.258] [INFO] Movement trail: [(2, 1), (5, 2)]
+[11:56:36.258] [INFO] Moving defensive blocker Lugfinger the Mighty with 2 movement points
+[11:56:36.258] [INFO] Defensive blocker chose move (4, 3) with score 1315
+[11:56:36.258] [INFO] Goblin Lugfinger the Mighty moved from (4, 1) to (4, 3)
+[11:56:36.258] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:56:36.258] [INFO] Moving defensive blocker Lugstomper Toto the Fierce with 4 movement points
+[11:56:36.259] [INFO] Defensive blocker chose move (5, 4) with score 3375
+[11:56:36.259] [INFO] Goblin Lugstomper Toto the Fierce moved from (6, 1) to (5, 4)
+[11:56:36.259] [INFO] Movement trail: [(6, 1), (5, 4)]
+[11:56:36.259] [INFO] Moving defensive blocker Lugcrusher Dynera with 2 movement points
+[11:56:36.259] [INFO] Defensive blocker chose move (6, 1) with score 1208
+[11:56:36.259] [INFO] Goblin Lugcrusher Dynera moved from (8, 1) to (6, 1)
+[11:56:36.259] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:56:36.259] [INFO] Moving defensive blocker Mugbasher with 2 movement points
+[11:56:36.259] [INFO] Defensive blocker chose move (7, 1) with score 954
+[11:56:36.259] [INFO] Goblin Mugbasher moved from (9, 1) to (7, 1)
+[11:56:36.259] [INFO] Movement trail: [(9, 1), (7, 1)]
+[11:56:37.268] [INFO] Moving carrier Lugstabber with 4 movement points
+[11:56:37.269] [INFO] Goblin Lugstabber moved from (5, 5) to (5, 3)
+[11:56:37.269] [INFO] Movement trail: [(4, 8), (5, 5), (5, 3)]
+[11:56:37.269] [INFO] Carrier Lugstabber moved to (5, 3) (score: 36.4)
+[11:56:37.269] [INFO] Moving offensive blocker Skriznose with 3 movement points
+[11:56:37.269] [INFO] Offensive blocker chose move (4, 4) with score 4588
+[11:56:37.269] [INFO] Goblin Skriznose moved from (2, 5) to (4, 4)
+[11:56:37.269] [INFO] Movement trail: [(2, 8), (2, 5), (4, 4)]
+[11:56:37.269] [INFO] Moving offensive blocker Skabmangler with 4 movement points
+[11:56:37.269] [INFO] Attempt block of Lugstomper Toto the Fierce by Skabmangler
+[11:56:37.269] [INFO] Block succeeded!
+[11:56:37.269] [INFO] Moving offensive blocker Krunkmangler Hazzap  with 2 movement points
+[11:56:37.269] [INFO] Offensive blocker chose move (5, 7) with score 487
+[11:56:37.269] [INFO] Goblin Krunkmangler Hazzap  moved from (6, 8) to (5, 7)
+[11:56:37.269] [INFO] Movement trail: [(8, 8), (6, 8), (5, 7)]
+[11:56:37.269] [INFO] Moving offensive blocker Muggulper with 3 movement points
+[11:56:37.270] [INFO] Offensive blocker chose move (8, 3) with score 590
+[11:56:37.270] [INFO] Goblin Muggulper moved from (9, 5) to (8, 3)
+[11:56:37.270] [INFO] Movement trail: [(9, 8), (9, 5), (8, 3)]
+[11:56:37.270] [INFO] Moving defensive blocker Grimgulper Erich the Strong with 4 movement points
+[11:56:37.270] [INFO] Defensive blocker Grimgulper Erich the Strong attempting to block carrier Lugstabber
+[11:56:37.270] [INFO] Block succeeded!
+[11:56:37.270] [INFO] Moving offensive blocker Lugfinger the Mighty with 2 movement points
+[11:56:37.270] [INFO] No carrier found for team Skullsmashers!
+[11:56:37.270] [INFO] Moving offensive blocker Lugstomper Toto the Fierce with 4 movement points
+[11:56:37.270] [INFO] No carrier found for team Skullsmashers!
+[11:56:37.270] [INFO] Moving offensive blocker Lugcrusher Dynera with 2 movement points
+[11:56:37.270] [INFO] No carrier found for team Skullsmashers!
+[11:56:37.270] [INFO] Moving offensive blocker Mugbasher with 2 movement points
+[11:56:37.270] [INFO] No carrier found for team Skullsmashers!

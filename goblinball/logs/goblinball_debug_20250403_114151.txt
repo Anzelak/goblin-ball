@@ -1,0 +1,228 @@
+[11:41:51.125] [INFO] === Goblinball Debug Log - 20250403_114151 ===
+[11:41:51.125] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114151.txt
+[11:41:51.146] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:41:52.208] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:52.208] [INFO] Goblin Stabfinger Medel moved from (4, 8) to (5, 7)
+[11:41:52.208] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:41:52.208] [INFO] Carrier Stabfinger Medel moved along clear path to (5, 7)
+[11:41:52.212] [INFO] Moving offensive blocker Mugstomper  with 4 movement points
+[11:41:52.213] [INFO] Offensive blocker chose move (4, 7) with score 752
+[11:41:52.213] [INFO] Goblin Mugstomper  moved from (2, 8) to (4, 7)
+[11:41:52.213] [INFO] Movement trail: [(2, 8), (4, 7)]
+[11:41:52.213] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:52.213] [INFO] Offensive blocker chose move (6, 7) with score 732
+[11:41:52.213] [INFO] Goblin Skabnose the Cunning moved from (6, 8) to (6, 7)
+[11:41:52.213] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:41:52.213] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:52.213] [INFO] Offensive blocker chose move (6, 8) with score 665
+[11:41:52.213] [INFO] Goblin Mugnose Stayn moved from (8, 8) to (6, 8)
+[11:41:52.213] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:41:52.213] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:52.214] [INFO] Offensive blocker chose move (5, 8) with score 721
+[11:41:52.214] [INFO] Goblin Grimfinger Byrne moved from (9, 8) to (5, 8)
+[11:41:52.214] [INFO] Movement trail: [(9, 8), (5, 8)]
+[11:41:52.214] [INFO] Moving defensive blocker Globslicer Eleftheria the Quick with 2 movement points
+[11:41:52.214] [INFO] Defensive blocker chose move (3, 2) with score 919
+[11:41:52.214] [INFO] Goblin Globslicer Eleftheria the Quick moved from (2, 1) to (3, 2)
+[11:41:52.214] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:41:52.214] [INFO] Moving defensive blocker Grimskull with 2 movement points
+[11:41:52.214] [INFO] Defensive blocker chose move (4, 3) with score 1183
+[11:41:52.214] [INFO] Goblin Grimskull moved from (4, 1) to (4, 3)
+[11:41:52.214] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:41:52.214] [INFO] Moving defensive blocker Mugslicer  with 1 movement points
+[11:41:52.214] [INFO] Defensive blocker chose move (5, 1) with score 1167
+[11:41:52.214] [INFO] Goblin Mugslicer  moved from (6, 1) to (5, 1)
+[11:41:52.214] [INFO] Movement trail: [(6, 1), (5, 1)]
+[11:41:52.214] [INFO] Moving defensive blocker Krakgulper the Fierce with 4 movement points
+[11:41:52.214] [INFO] Defensive blocker chose move (5, 2) with score 1191
+[11:41:52.215] [INFO] Goblin Krakgulper the Fierce moved from (8, 1) to (5, 2)
+[11:41:52.215] [INFO] Movement trail: [(8, 1), (5, 2)]
+[11:41:52.215] [INFO] Moving defensive blocker Stabfoot Leonaro with 4 movement points
+[11:41:52.215] [INFO] Defensive blocker chose move (6, 2) with score 1158
+[11:41:52.215] [INFO] Goblin Stabfoot Leonaro moved from (9, 1) to (6, 2)
+[11:41:52.215] [INFO] Movement trail: [(9, 1), (6, 2)]
+[11:41:52.656] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:52.656] [INFO] Goblin Stabfinger Medel moved from (5, 7) to (5, 6)
+[11:41:52.656] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[11:41:52.656] [INFO] Carrier Stabfinger Medel moved to (5, 6)
+[11:41:52.656] [INFO] Moving offensive blocker Mugstomper  with 4 movement points
+[11:41:52.656] [INFO] Offensive blocker chose move (5, 5) with score 755
+[11:41:52.656] [INFO] Goblin Mugstomper  moved from (4, 7) to (5, 5)
+[11:41:52.656] [INFO] Movement trail: [(2, 8), (4, 7), (5, 5)]
+[11:41:52.656] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:52.656] [INFO] Offensive blocker chose move (5, 7) with score 747
+[11:41:52.656] [INFO] Goblin Skabnose the Cunning moved from (6, 7) to (5, 7)
+[11:41:52.656] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7)]
+[11:41:52.656] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:52.657] [INFO] Offensive blocker chose move (6, 6) with score 734
+[11:41:52.657] [INFO] Goblin Mugnose Stayn moved from (6, 8) to (6, 6)
+[11:41:52.657] [INFO] Movement trail: [(8, 8), (6, 8), (6, 6)]
+[11:41:52.657] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:52.657] [INFO] Offensive blocker chose move (4, 6) with score 740
+[11:41:52.657] [INFO] Goblin Grimfinger Byrne moved from (5, 8) to (4, 6)
+[11:41:52.657] [INFO] Movement trail: [(9, 8), (5, 8), (4, 6)]
+[11:41:52.657] [INFO] Moving defensive blocker Globslicer Eleftheria the Quick with 2 movement points
+[11:41:52.657] [INFO] Defensive blocker chose move (4, 2) with score 1212
+[11:41:52.657] [INFO] Goblin Globslicer Eleftheria the Quick moved from (3, 2) to (4, 2)
+[11:41:52.657] [INFO] Movement trail: [(2, 1), (3, 2), (4, 2)]
+[11:41:52.657] [INFO] Moving defensive blocker Grimskull with 2 movement points
+[11:41:52.657] [INFO] Defensive blocker chose move (4, 5) with score 1358
+[11:41:52.657] [INFO] Goblin Grimskull moved from (4, 3) to (4, 5)
+[11:41:52.657] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5)]
+[11:41:52.657] [INFO] Moving defensive blocker Mugslicer  with 1 movement points
+[11:41:52.657] [INFO] Defensive blocker chose move (6, 1) with score 1172
+[11:41:52.657] [INFO] Goblin Mugslicer  moved from (5, 1) to (6, 1)
+[11:41:52.657] [INFO] Movement trail: [(6, 1), (5, 1), (6, 1)]
+[11:41:52.657] [INFO] Moving defensive blocker Krakgulper the Fierce with 4 movement points
+[11:41:52.657] [INFO] Defensive blocker chose move (6, 5) with score 1367
+[11:41:52.657] [INFO] Goblin Krakgulper the Fierce moved from (5, 2) to (6, 5)
+[11:41:52.657] [INFO] Movement trail: [(8, 1), (5, 2), (6, 5)]
+[11:41:52.657] [INFO] Moving defensive blocker Stabfoot Leonaro with 4 movement points
+[11:41:52.658] [INFO] Defensive blocker chose move (5, 4) with score 1344
+[11:41:52.658] [INFO] Goblin Stabfoot Leonaro moved from (6, 2) to (5, 4)
+[11:41:52.658] [INFO] Movement trail: [(9, 1), (6, 2), (5, 4)]
+[11:41:53.232] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:53.232] [INFO] Goblin Stabfinger Medel moved from (5, 6) to (3, 6)
+[11:41:53.232] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (3, 6)]
+[11:41:53.232] [INFO] Carrier Stabfinger Medel moved to (3, 6)
+[11:41:53.232] [INFO] Moving offensive blocker Mugstomper  with 4 movement points
+[11:41:53.232] [INFO] Attempt block of Grimskull by Mugstomper 
+[11:41:53.232] [INFO] Offensive blocker chose move (3, 5) with score 3154
+[11:41:53.232] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:53.232] [INFO] Offensive blocker chose move (3, 7) with score 727
+[11:41:53.232] [INFO] Goblin Skabnose the Cunning moved from (5, 7) to (3, 7)
+[11:41:53.232] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (3, 7)]
+[11:41:53.233] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:53.233] [INFO] Offensive blocker chose move (5, 6) with score 669
+[11:41:53.233] [INFO] Goblin Mugnose Stayn moved from (6, 6) to (5, 6)
+[11:41:53.233] [INFO] Movement trail: [(8, 8), (6, 8), (6, 6), (5, 6)]
+[11:41:53.233] [INFO] Offensive blocker Mugnose Stayn attempting to block Grimskull after moving
+[11:41:53.233] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:53.233] [INFO] Offensive blocker chose move (3, 5) with score 750
+[11:41:53.233] [INFO] Goblin Grimfinger Byrne moved from (4, 6) to (3, 5)
+[11:41:53.233] [INFO] Movement trail: [(9, 8), (5, 8), (4, 6), (3, 5)]
+[11:41:53.233] [INFO] Moving defensive blocker Globslicer Eleftheria the Quick with 2 movement points
+[11:41:53.233] [INFO] Defensive blocker chose move (3, 3) with score 1305
+[11:41:53.233] [INFO] Goblin Globslicer Eleftheria the Quick moved from (4, 2) to (3, 3)
+[11:41:53.233] [INFO] Movement trail: [(2, 1), (3, 2), (4, 2), (3, 3)]
+[11:41:53.233] [INFO] Moving defensive blocker Mugslicer  with 1 movement points
+[11:41:53.233] [INFO] Defensive blocker chose move (5, 1) with score 902
+[11:41:53.233] [INFO] Goblin Mugslicer  moved from (6, 1) to (5, 1)
+[11:41:53.233] [INFO] Movement trail: [(6, 1), (5, 1), (6, 1), (5, 1)]
+[11:41:53.233] [INFO] Moving defensive blocker Krakgulper the Fierce with 4 movement points
+[11:41:53.234] [INFO] Defensive blocker chose move (4, 6) with score 3967
+[11:41:53.234] [INFO] Goblin Krakgulper the Fierce moved from (6, 5) to (4, 6)
+[11:41:53.234] [INFO] Movement trail: [(8, 1), (5, 2), (6, 5), (4, 6)]
+[11:41:53.234] [INFO] Defensive blocker Krakgulper the Fierce attempting to block carrier Stabfinger Medel after moving
+[11:41:53.234] [INFO] Moving defensive blocker Stabfoot Leonaro with 4 movement points
+[11:41:53.234] [INFO] Defensive blocker chose move (2, 5) with score 1374
+[11:41:54.159] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:54.159] [INFO] Goblin Stabfinger Medel moved from (3, 6) to (2, 6)
+[11:41:54.159] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (3, 6), (2, 6)]
+[11:41:54.159] [INFO] Carrier Stabfinger Medel moved to (2, 6)
+[11:41:54.159] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:54.159] [INFO] Attempt block of Krakgulper the Fierce by Skabnose the Cunning
+[11:41:54.160] [INFO] Offensive blocker chose move (3, 6) with score 3953
+[11:41:54.160] [INFO] Goblin Skabnose the Cunning moved from (3, 7) to (3, 6)
+[11:41:54.160] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (3, 7), (3, 6)]
+[11:41:54.160] [INFO] Offensive blocker Skabnose the Cunning attempting to block Krakgulper the Fierce after moving
+[11:41:54.160] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:54.160] [INFO] Attempt block of Krakgulper the Fierce by Mugnose Stayn
+[11:41:54.160] [INFO] Block succeeded!
+[11:41:54.160] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:54.160] [INFO] Attempt block of Krakgulper the Fierce by Grimfinger Byrne
+[11:41:54.160] [INFO] Offensive blocker chose move (4, 7) with score 2434
+[11:41:54.160] [INFO] Goblin Grimfinger Byrne moved from (3, 5) to (4, 7)
+[11:41:54.160] [INFO] Movement trail: [(9, 8), (5, 8), (4, 6), (3, 5), (4, 7)]
+[11:41:54.160] [INFO] Moving defensive blocker Globslicer Eleftheria the Quick with 2 movement points
+[11:41:54.160] [INFO] Defensive blocker chose move (2, 4) with score 1350
+[11:41:54.160] [INFO] Goblin Globslicer Eleftheria the Quick moved from (3, 3) to (2, 4)
+[11:41:54.160] [INFO] Movement trail: [(2, 1), (3, 2), (4, 2), (3, 3), (2, 4)]
+[11:41:54.160] [INFO] Moving defensive blocker Mugslicer  with 1 movement points
+[11:41:54.160] [INFO] Defensive blocker chose move (4, 1) with score 914
+[11:41:54.160] [INFO] Goblin Mugslicer  moved from (5, 1) to (4, 1)
+[11:41:54.160] [INFO] Movement trail: [(6, 1), (5, 1), (6, 1), (5, 1), (4, 1)]
+[11:41:54.160] [INFO] Moving defensive blocker Krakgulper the Fierce with 4 movement points
+[11:41:54.161] [INFO] Defensive blocker chose move (2, 5) with score 4424
+[11:41:54.688] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:54.689] [INFO] Goblin Stabfinger Medel moved from (2, 6) to (3, 5)
+[11:41:54.689] [INFO] Movement trail: [(5, 7), (5, 6), (3, 6), (2, 6), (3, 5)]
+[11:41:54.689] [INFO] Carrier Stabfinger Medel moved along clear path to (3, 5)
+[11:41:54.689] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:54.689] [INFO] Offensive blocker chose move (2, 5) with score 3151
+[11:41:54.689] [INFO] Goblin Skabnose the Cunning moved from (3, 6) to (2, 5)
+[11:41:54.689] [INFO] Movement trail: [(6, 7), (5, 7), (3, 7), (3, 6), (2, 5)]
+[11:41:54.689] [INFO] Offensive blocker Skabnose the Cunning attempting to block Globslicer Eleftheria the Quick after moving
+[11:41:54.689] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:54.689] [INFO] Offensive blocker chose move (3, 6) with score 753
+[11:41:54.689] [INFO] Goblin Mugnose Stayn moved from (5, 6) to (3, 6)
+[11:41:54.689] [INFO] Movement trail: [(8, 8), (6, 8), (6, 6), (5, 6), (3, 6)]
+[11:41:54.689] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:54.689] [INFO] Offensive blocker chose move (3, 4) with score 2661
+[11:41:54.689] [INFO] Goblin Grimfinger Byrne moved from (4, 7) to (3, 4)
+[11:41:54.689] [INFO] Movement trail: [(5, 8), (4, 6), (3, 5), (4, 7), (3, 4)]
+[11:41:54.689] [INFO] Moving defensive blocker Globslicer Eleftheria the Quick with 2 movement points
+[11:41:54.689] [INFO] Defensive blocker Globslicer Eleftheria the Quick attempting to block carrier Stabfinger Medel
+[11:41:54.689] [INFO] Defensive blocker chose move (2, 4) with score 1370
+[11:41:54.689] [INFO] Moving defensive blocker Mugslicer  with 1 movement points
+[11:41:54.689] [INFO] Defensive blocker chose move (4, 2) with score 1231
+[11:41:54.689] [INFO] Goblin Mugslicer  moved from (4, 1) to (4, 2)
+[11:41:54.689] [INFO] Movement trail: [(5, 1), (6, 1), (5, 1), (4, 1), (4, 2)]
+[11:41:55.744] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:55.744] [INFO] Goblin Stabfinger Medel moved from (3, 5) to (4, 4)
+[11:41:55.744] [INFO] Movement trail: [(5, 6), (3, 6), (2, 6), (3, 5), (4, 4)]
+[11:41:55.744] [INFO] Carrier Stabfinger Medel moved along clear path to (4, 4)
+[11:41:55.744] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:55.744] [INFO] Attempt block of Globslicer Eleftheria the Quick by Skabnose the Cunning
+[11:41:55.744] [INFO] Offensive blocker chose move (2, 5) with score 2971
+[11:41:55.744] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:55.744] [INFO] Offensive blocker chose move (3, 5) with score 676
+[11:41:55.744] [INFO] Goblin Mugnose Stayn moved from (3, 6) to (3, 5)
+[11:41:55.744] [INFO] Movement trail: [(6, 8), (6, 6), (5, 6), (3, 6), (3, 5)]
+[11:41:55.744] [INFO] Offensive blocker Mugnose Stayn attempting to block Globslicer Eleftheria the Quick after moving
+[11:41:55.744] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:55.744] [INFO] Attempt block of Globslicer Eleftheria the Quick by Grimfinger Byrne
+[11:41:55.745] [INFO] Offensive blocker chose move (3, 4) with score 3958
+[11:41:55.745] [INFO] Moving defensive blocker Globslicer Eleftheria the Quick with 2 movement points
+[11:41:55.745] [INFO] Defensive blocker chose move (3, 3) with score 1350
+[11:41:55.745] [INFO] Moving defensive blocker Mugslicer  with 1 movement points
+[11:41:55.745] [INFO] Defensive blocker chose move (4, 3) with score 3388
+[11:41:55.745] [INFO] Goblin Mugslicer  moved from (4, 2) to (4, 3)
+[11:41:55.745] [INFO] Movement trail: [(6, 1), (5, 1), (4, 1), (4, 2), (4, 3)]
+[11:41:56.499] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:56.499] [INFO] Goblin Stabfinger Medel moved from (4, 4) to (5, 3)
+[11:41:56.499] [INFO] Movement trail: [(3, 6), (2, 6), (3, 5), (4, 4), (5, 3)]
+[11:41:56.499] [INFO] Carrier Stabfinger Medel moved along clear path to (5, 3)
+[11:41:56.500] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:56.500] [INFO] Offensive blocker chose move (3, 3) with score 2624
+[11:41:56.500] [INFO] Goblin Skabnose the Cunning moved from (2, 5) to (3, 3)
+[11:41:56.500] [INFO] Movement trail: [(5, 7), (3, 7), (3, 6), (2, 5), (3, 3)]
+[11:41:56.500] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:56.500] [INFO] Offensive blocker chose move (4, 4) with score 2620
+[11:41:56.500] [INFO] Goblin Mugnose Stayn moved from (3, 5) to (4, 4)
+[11:41:56.500] [INFO] Movement trail: [(6, 6), (5, 6), (3, 6), (3, 5), (4, 4)]
+[11:41:56.500] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:56.500] [INFO] Attempt block of Mugslicer  by Grimfinger Byrne
+[11:41:56.500] [INFO] Offensive blocker chose move (4, 2) with score 2628
+[11:41:56.500] [INFO] Goblin Grimfinger Byrne moved from (3, 4) to (4, 2)
+[11:41:56.500] [INFO] Movement trail: [(4, 6), (3, 5), (4, 7), (3, 4), (4, 2)]
+[11:41:56.500] [INFO] Moving defensive blocker Mugslicer  with 1 movement points
+[11:41:56.500] [INFO] Defensive blocker Mugslicer  attempting to block carrier Stabfinger Medel
+[11:41:58.072] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:58.073] [INFO] Goblin Stabfinger Medel moved from (5, 3) to (5, 1)
+[11:41:58.073] [INFO] Movement trail: [(2, 6), (3, 5), (4, 4), (5, 3), (5, 1)]
+[11:41:58.073] [INFO] Carrier Stabfinger Medel moved along clear path to (5, 1)
+[11:41:58.073] [INFO] Moving offensive blocker Skabnose the Cunning with 3 movement points
+[11:41:58.073] [INFO] Attempt block of Mugslicer  by Skabnose the Cunning
+[11:41:58.073] [INFO] Offensive blocker chose move (3, 3) with score 2860
+[11:41:58.073] [INFO] Moving offensive blocker Mugnose Stayn with 2 movement points
+[11:41:58.073] [INFO] Attempt block of Mugslicer  by Mugnose Stayn
+[11:41:58.073] [INFO] Block succeeded!
+[11:41:58.073] [INFO] Moving offensive blocker Grimfinger Byrne with 4 movement points
+[11:41:58.073] [INFO] Offensive blocker chose move (4, 1) with score 785
+[11:41:58.073] [INFO] Goblin Grimfinger Byrne moved from (4, 2) to (4, 1)
+[11:41:58.073] [INFO] Movement trail: [(3, 5), (4, 7), (3, 4), (4, 2), (4, 1)]
+[11:41:59.784] [INFO] Moving carrier Stabfinger Medel with 2 movement points
+[11:41:59.784] [INFO] Goblin Stabfinger Medel moved from (5, 1) to (5, 0)
+[11:41:59.784] [INFO] Movement trail: [(3, 5), (4, 4), (5, 3), (5, 1), (5, 0)]
+[11:41:59.784] [INFO] Carrier Stabfinger Medel moved along clear path to (5, 0)

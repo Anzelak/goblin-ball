@@ -1,0 +1,77 @@
+[11:36:54.006] [INFO] === Goblinball Debug Log - 20250403_113654 ===
+[11:36:54.006] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113654.txt
+[11:36:54.027] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:36:55.145] [INFO] Moving carrier Stabfinger Mesech the Quick with 2 movement points
+[11:36:55.145] [INFO] Goblin Stabfinger Mesech the Quick moved from (4, 8) to (5, 7)
+[11:36:55.145] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:36:55.145] [INFO] Carrier Stabfinger Mesech the Quick moved to (5, 7)
+[11:36:55.145] [INFO] Moving offensive blocker Gutstomper Wankum with 3 movement points
+[11:36:55.145] [INFO] Offensive blocker chose move (5, 8) with score 749
+[11:36:55.145] [INFO] Goblin Gutstomper Wankum moved from (2, 8) to (5, 8)
+[11:36:55.145] [INFO] Movement trail: [(2, 8), (5, 8)]
+[11:36:55.145] [INFO] Moving offensive blocker Gutfoot with 3 movement points
+[11:36:55.146] [INFO] Offensive blocker chose move (5, 6) with score 723
+[11:36:55.146] [INFO] Goblin Gutfoot moved from (6, 8) to (5, 6)
+[11:36:55.146] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:36:55.146] [INFO] Moving offensive blocker Grimface the Brutal with 3 movement points
+[11:36:55.146] [INFO] Offensive blocker chose move (6, 7) with score 750
+[11:36:55.146] [INFO] Goblin Grimface the Brutal moved from (8, 8) to (6, 7)
+[11:36:55.146] [INFO] Movement trail: [(8, 8), (6, 7)]
+[11:36:55.146] [INFO] Moving offensive blocker Lugbiter  with 4 movement points
+[11:36:55.146] [INFO] Offensive blocker chose move (7, 7) with score 667
+[11:36:55.146] [INFO] Goblin Lugbiter  moved from (9, 8) to (7, 7)
+[11:36:55.146] [INFO] Movement trail: [(9, 8), (7, 7)]
+[11:36:55.146] [INFO] Moving defensive blocker Stabtooth with 2 movement points
+[11:36:55.146] [INFO] Defensive blocker chose move (3, 2) with score 905
+[11:36:55.146] [INFO] Goblin Stabtooth moved from (2, 1) to (3, 2)
+[11:36:55.146] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:36:55.146] [INFO] Moving defensive blocker Skrizsquisher with 3 movement points
+[11:36:55.146] [INFO] Defensive blocker chose move (4, 4) with score 1240
+[11:36:55.146] [INFO] Goblin Skrizsquisher moved from (4, 1) to (4, 4)
+[11:36:55.146] [INFO] Movement trail: [(4, 1), (4, 4)]
+[11:36:55.146] [INFO] Moving defensive blocker Bludfinger Koral with 2 movement points
+[11:36:55.147] [INFO] Defensive blocker chose move (6, 3) with score 1204
+[11:36:55.147] [INFO] Goblin Bludfinger Koral moved from (6, 1) to (6, 3)
+[11:36:55.147] [INFO] Movement trail: [(6, 1), (6, 3)]
+[11:36:55.147] [INFO] Moving defensive blocker Gutgob Buchmeid with 3 movement points
+[11:36:55.147] [INFO] Defensive blocker chose move (6, 2) with score 1162
+[11:36:55.147] [INFO] Goblin Gutgob Buchmeid moved from (8, 1) to (6, 2)
+[11:36:55.147] [INFO] Movement trail: [(8, 1), (6, 2)]
+[11:36:55.147] [INFO] Moving defensive blocker Bludfist Howell with 2 movement points
+[11:36:55.147] [INFO] Defensive blocker chose move (8, 2) with score 867
+[11:36:55.147] [INFO] Goblin Bludfist Howell moved from (9, 1) to (8, 2)
+[11:36:55.147] [INFO] Movement trail: [(9, 1), (8, 2)]
+[11:36:55.606] [INFO] Moving carrier Stabfinger Mesech the Quick with 2 movement points
+[11:36:55.606] [INFO] Goblin Stabfinger Mesech the Quick moved from (5, 7) to (5, 5)
+[11:36:55.607] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5)]
+[11:36:55.607] [INFO] Carrier Stabfinger Mesech the Quick moved to (5, 5)
+[11:36:55.607] [INFO] Moving offensive blocker Gutstomper Wankum with 3 movement points
+[11:36:55.607] [INFO] Offensive blocker chose move (6, 6) with score 674
+[11:36:55.607] [INFO] Goblin Gutstomper Wankum moved from (5, 8) to (6, 6)
+[11:36:55.607] [INFO] Movement trail: [(2, 8), (5, 8), (6, 6)]
+[11:36:55.607] [INFO] Moving offensive blocker Gutfoot with 3 movement points
+[11:36:55.607] [INFO] Offensive blocker chose move (4, 5) with score 3165
+[11:36:55.607] [INFO] Goblin Gutfoot moved from (5, 6) to (4, 5)
+[11:36:55.607] [INFO] Movement trail: [(6, 8), (5, 6), (4, 5)]
+[11:36:55.607] [INFO] Offensive blocker Gutfoot attempting to block Skrizsquisher after moving
+[11:36:55.607] [INFO] Moving offensive blocker Grimface the Brutal with 3 movement points
+[11:36:55.607] [INFO] Offensive blocker chose move (6, 4) with score 2525
+[11:36:55.607] [INFO] Goblin Grimface the Brutal moved from (6, 7) to (6, 4)
+[11:36:55.607] [INFO] Movement trail: [(8, 8), (6, 7), (6, 4)]
+[11:36:55.607] [INFO] Moving offensive blocker Lugbiter  with 4 movement points
+[11:36:55.607] [INFO] Offensive blocker chose move (7, 3) with score 2381
+[11:36:55.607] [INFO] Goblin Lugbiter  moved from (7, 7) to (7, 3)
+[11:36:55.607] [INFO] Movement trail: [(9, 8), (7, 7), (7, 3)]
+[11:36:55.608] [INFO] Moving defensive blocker Stabtooth with 2 movement points
+[11:36:55.608] [INFO] Defensive blocker chose move (4, 3) with score 1321
+[11:36:55.608] [INFO] Goblin Stabtooth moved from (3, 2) to (4, 3)
+[11:36:55.608] [INFO] Movement trail: [(2, 1), (3, 2), (4, 3)]
+[11:36:55.608] [INFO] Moving defensive blocker Skrizsquisher with 3 movement points
+[11:36:55.608] [INFO] Defensive blocker Skrizsquisher attempting to block carrier Stabfinger Mesech the Quick
+[11:36:55.608] [INFO] Block succeeded!
+[11:36:55.608] [INFO] Moving offensive blocker Bludfinger Koral with 2 movement points
+[11:36:55.608] [INFO] No carrier found for team Skullsmashers!
+[11:36:55.608] [INFO] Moving offensive blocker Gutgob Buchmeid with 3 movement points
+[11:36:55.608] [INFO] No carrier found for team Skullsmashers!
+[11:36:55.608] [INFO] Moving offensive blocker Bludfist Howell with 2 movement points
+[11:36:55.608] [INFO] No carrier found for team Skullsmashers!

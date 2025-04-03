@@ -1,0 +1,112 @@
+[11:45:31.025] [INFO] === Goblinball Debug Log - 20250403_114531 ===
+[11:45:31.025] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114531.txt
+[11:45:31.046] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:45:32.188] [INFO] Moving carrier Skabnose Wulf with 4 movement points
+[11:45:32.188] [INFO] Goblin Skabnose Wulf moved from (4, 8) to (5, 5)
+[11:45:32.188] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:45:32.188] [INFO] Carrier Skabnose Wulf moved along clear path to (5, 5)
+[11:45:32.191] [INFO] Moving offensive blocker Fizzstabber with 3 movement points
+[11:45:32.191] [INFO] Offensive blocker chose move (2, 5) with score 601
+[11:45:32.191] [INFO] Goblin Fizzstabber moved from (2, 8) to (2, 5)
+[11:45:32.191] [INFO] Movement trail: [(2, 8), (2, 5)]
+[11:45:32.191] [INFO] Moving offensive blocker Bludface with 3 movement points
+[11:45:32.192] [INFO] Offensive blocker chose move (5, 6) with score 746
+[11:45:32.192] [INFO] Goblin Bludface moved from (6, 8) to (5, 6)
+[11:45:32.192] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:45:32.192] [INFO] Moving offensive blocker Thrakcrusher with 1 movement points
+[11:45:32.192] [INFO] Offensive blocker chose move (7, 8) with score 418
+[11:45:32.192] [INFO] Goblin Thrakcrusher moved from (8, 8) to (7, 8)
+[11:45:32.192] [INFO] Movement trail: [(8, 8), (7, 8)]
+[11:45:32.192] [INFO] Moving offensive blocker Thraknose with 1 movement points
+[11:45:32.192] [INFO] Offensive blocker chose move (9, 7) with score 353
+[11:45:32.192] [INFO] Goblin Thraknose moved from (9, 8) to (9, 7)
+[11:45:32.192] [INFO] Movement trail: [(9, 8), (9, 7)]
+[11:45:32.192] [INFO] Moving defensive blocker Grakgulper with 2 movement points
+[11:45:32.193] [INFO] Defensive blocker chose move (3, 2) with score 1004
+[11:45:32.193] [INFO] Goblin Grakgulper moved from (2, 1) to (3, 2)
+[11:45:32.193] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:45:32.193] [INFO] Moving defensive blocker Kraktooth Soulshaper  with 4 movement points
+[11:45:32.193] [INFO] Defensive blocker chose move (5, 4) with score 3380
+[11:45:32.193] [INFO] Goblin Kraktooth Soulshaper  moved from (4, 1) to (5, 4)
+[11:45:32.193] [INFO] Movement trail: [(4, 1), (5, 4)]
+[11:45:32.193] [INFO] Moving defensive blocker Gnogfoot  with 4 movement points
+[11:45:32.194] [INFO] Defensive blocker chose move (6, 5) with score 2925
+[11:45:32.194] [INFO] Goblin Gnogfoot  moved from (6, 1) to (6, 5)
+[11:45:32.194] [INFO] Movement trail: [(6, 1), (6, 5)]
+[11:45:32.194] [INFO] Moving defensive blocker Wortfoot with 1 movement points
+[11:45:32.194] [INFO] Defensive blocker chose move (8, 2) with score 972
+[11:45:32.194] [INFO] Goblin Wortfoot moved from (8, 1) to (8, 2)
+[11:45:32.194] [INFO] Movement trail: [(8, 1), (8, 2)]
+[11:45:32.194] [INFO] Moving defensive blocker Skabfist with 2 movement points
+[11:45:32.194] [INFO] Defensive blocker chose move (9, 3) with score 965
+[11:45:32.194] [INFO] Goblin Skabfist moved from (9, 1) to (9, 3)
+[11:45:32.194] [INFO] Movement trail: [(9, 1), (9, 3)]
+[11:45:33.311] [INFO] Moving carrier Skabnose Wulf with 4 movement points
+[11:45:33.311] [INFO] Goblin Skabnose Wulf moved from (5, 5) to (5, 3)
+[11:45:33.311] [INFO] Movement trail: [(4, 8), (5, 5), (5, 3)]
+[11:45:33.311] [INFO] Carrier Skabnose Wulf moved to (5, 3)
+[11:45:33.311] [INFO] Moving offensive blocker Fizzstabber with 3 movement points
+[11:45:33.311] [INFO] Offensive blocker chose move (5, 5) with score 4484
+[11:45:33.311] [INFO] Goblin Fizzstabber moved from (2, 5) to (5, 5)
+[11:45:33.311] [INFO] Movement trail: [(2, 8), (2, 5), (5, 5)]
+[11:45:33.311] [INFO] Moving offensive blocker Bludface with 3 movement points
+[11:45:33.311] [INFO] Attempt block of Gnogfoot  by Bludface
+[11:45:33.311] [INFO] Block succeeded!
+[11:45:33.311] [INFO] Moving offensive blocker Thrakcrusher with 1 movement points
+[11:45:33.311] [INFO] Offensive blocker chose move (7, 7) with score 352
+[11:45:33.311] [INFO] Goblin Thrakcrusher moved from (7, 8) to (7, 7)
+[11:45:33.311] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7)]
+[11:45:33.311] [INFO] Moving offensive blocker Thraknose with 1 movement points
+[11:45:33.311] [INFO] Offensive blocker chose move (8, 7) with score 267
+[11:45:33.311] [INFO] Goblin Thraknose moved from (9, 7) to (8, 7)
+[11:45:33.311] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7)]
+[11:45:33.312] [INFO] Moving defensive blocker Grakgulper with 2 movement points
+[11:45:33.312] [INFO] Defensive blocker chose move (5, 2) with score 3413
+[11:45:33.312] [INFO] Goblin Grakgulper moved from (3, 2) to (5, 2)
+[11:45:33.312] [INFO] Movement trail: [(2, 1), (3, 2), (5, 2)]
+[11:45:33.312] [INFO] Moving defensive blocker Kraktooth Soulshaper  with 4 movement points
+[11:45:33.312] [INFO] Defensive blocker Kraktooth Soulshaper  attempting to block carrier Skabnose Wulf
+[11:45:33.312] [INFO] Defensive blocker chose move (4, 3) with score 3969
+[11:45:33.312] [INFO] Goblin Kraktooth Soulshaper  moved from (5, 4) to (4, 3)
+[11:45:33.312] [INFO] Movement trail: [(4, 1), (5, 4), (4, 3)]
+[11:45:33.312] [INFO] Defensive blocker Kraktooth Soulshaper  attempting to block carrier Skabnose Wulf after moving
+[11:45:33.312] [INFO] Moving defensive blocker Gnogfoot  with 4 movement points
+[11:45:33.312] [INFO] Defensive blocker chose move (5, 4) with score 3928
+[11:45:33.312] [INFO] Moving defensive blocker Wortfoot with 1 movement points
+[11:45:33.312] [INFO] Defensive blocker chose move (7, 2) with score 1102
+[11:45:33.312] [INFO] Goblin Wortfoot moved from (8, 2) to (7, 2)
+[11:45:33.312] [INFO] Movement trail: [(8, 1), (8, 2), (7, 2)]
+[11:45:33.312] [INFO] Moving defensive blocker Skabfist with 2 movement points
+[11:45:33.312] [INFO] Defensive blocker chose move (8, 2) with score 1062
+[11:45:33.312] [INFO] Goblin Skabfist moved from (9, 3) to (8, 2)
+[11:45:33.312] [INFO] Movement trail: [(9, 1), (9, 3), (8, 2)]
+[11:45:33.976] [INFO] Moving carrier Skabnose Wulf with 4 movement points
+[11:45:33.976] [INFO] Goblin Skabnose Wulf moved from (5, 3) to (5, 1)
+[11:45:33.976] [INFO] Movement trail: [(4, 8), (5, 5), (5, 3), (5, 1)]
+[11:45:33.976] [INFO] Carrier Skabnose Wulf moved to (5, 1)
+[11:45:33.977] [INFO] Moving offensive blocker Fizzstabber with 3 movement points
+[11:45:33.977] [INFO] Offensive blocker chose move (5, 3) with score 5483
+[11:45:33.977] [INFO] Goblin Fizzstabber moved from (5, 5) to (5, 3)
+[11:45:33.977] [INFO] Movement trail: [(2, 8), (2, 5), (5, 5), (5, 3)]
+[11:45:33.977] [INFO] Offensive blocker Fizzstabber attempting to block Grakgulper after moving
+[11:45:33.977] [INFO] Moving offensive blocker Bludface with 3 movement points
+[11:45:33.977] [INFO] Offensive blocker chose move (4, 4) with score 2366
+[11:45:33.977] [INFO] Goblin Bludface moved from (5, 6) to (4, 4)
+[11:45:33.977] [INFO] Movement trail: [(6, 8), (5, 6), (4, 4)]
+[11:45:33.977] [INFO] Moving offensive blocker Thrakcrusher with 1 movement points
+[11:45:33.977] [INFO] Offensive blocker chose move (7, 6) with score 262
+[11:45:33.977] [INFO] Goblin Thrakcrusher moved from (7, 7) to (7, 6)
+[11:45:33.977] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7), (7, 6)]
+[11:45:33.977] [INFO] Moving offensive blocker Thraknose with 1 movement points
+[11:45:33.977] [INFO] Offensive blocker chose move (8, 6) with score 198
+[11:45:33.977] [INFO] Goblin Thraknose moved from (8, 7) to (8, 6)
+[11:45:33.977] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7), (8, 6)]
+[11:45:33.977] [INFO] Moving defensive blocker Grakgulper with 2 movement points
+[11:45:33.977] [INFO] Defensive blocker Grakgulper attempting to block carrier Skabnose Wulf
+[11:45:33.977] [INFO] Block succeeded!
+[11:45:33.977] [INFO] Moving offensive blocker Kraktooth Soulshaper  with 4 movement points
+[11:45:33.977] [INFO] No carrier found for team Skullsmashers!
+[11:45:33.977] [INFO] Moving offensive blocker Wortfoot with 1 movement points
+[11:45:33.977] [INFO] No carrier found for team Skullsmashers!
+[11:45:33.977] [INFO] Moving offensive blocker Skabfist with 2 movement points
+[11:45:33.977] [INFO] No carrier found for team Skullsmashers!

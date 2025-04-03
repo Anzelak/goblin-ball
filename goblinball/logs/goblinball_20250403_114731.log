@@ -1,0 +1,45 @@
+2025-04-03 11:47:31,197 - goblinball - INFO - ==================================================
+2025-04-03 11:47:31,197 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:47:31,197 - goblinball - INFO - Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+2025-04-03 11:47:31,197 - goblinball - INFO - Current working directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:47:31,197 - goblinball - INFO - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball\\goblinball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 11:47:31,197 - goblinball - INFO - ==================================================
+2025-04-03 11:47:31,205 - goblinball - INFO - All required modules validated successfully
+2025-04-03 11:47:31,205 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:47:31,205 - goblinball - INFO - Running from directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:47:31,224 - goblinball.controller - INFO - Selected carrier: Zoggulper Stag from team Mudcrushers
+2025-04-03 11:47:31,224 - goblinball.controller - INFO - ===== Starting Play 1 =====
+2025-04-03 11:47:31,224 - goblinball.controller - INFO - Selected carrier: Grakfinger Rush from team Mudcrushers
+2025-04-03 11:47:32,341 - goblinball.controller - INFO - ==== Processing Turn 1 ====
+2025-04-03 11:47:32,341 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:47:32,341 - goblinball.controller - INFO - Attempting to move carrier Grakfinger Rush
+2025-04-03 11:47:32,342 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:47:32,343 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:47:33,314 - goblinball.controller - INFO - ==== Processing Turn 2 ====
+2025-04-03 11:47:33,314 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:47:33,314 - goblinball.controller - INFO - Attempting to move carrier Grakfinger Rush
+2025-04-03 11:47:33,315 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:47:33,315 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:47:53,547 - goblinball.controller - INFO - ==== Processing Turn 3 ====
+2025-04-03 11:47:53,548 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:47:53,548 - goblinball.controller - INFO - Attempting to move carrier Grakfinger Rush
+2025-04-03 11:47:53,548 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:47:53,549 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:48:06,014 - goblinball.controller - INFO - ==== Processing Turn 4 ====
+2025-04-03 11:48:06,014 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:48:06,014 - goblinball.controller - INFO - Attempting to move carrier Grakfinger Rush
+2025-04-03 11:48:06,015 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:48:06,015 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:48:10,174 - goblinball.controller - INFO - ==== Processing Turn 5 ====
+2025-04-03 11:48:10,174 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:48:10,174 - goblinball.controller - INFO - Attempting to move carrier Grakfinger Rush
+2025-04-03 11:48:10,175 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:48:10,175 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:48:11,170 - goblinball.controller - INFO - ==== Processing Turn 6 ====
+2025-04-03 11:48:11,171 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:48:11,171 - goblinball.controller - INFO - Attempting to move carrier Grakfinger Rush
+2025-04-03 11:48:11,171 - goblinball.controller - INFO - ===== Ending Play 1 after 6 turns =====
+2025-04-03 11:48:11,171 - goblinball.controller - INFO - Score: Mudcrushers 0 - 0 Skullsmashers
+2025-04-03 11:48:11,171 - goblinball.controller - INFO - Moving offensive blockers for team Skullsmashers
+2025-04-03 11:48:11,171 - goblinball.controller - INFO - Moving defensive blockers for team Mudcrushers
+2025-04-03 11:48:22,850 - goblinball - INFO - Goblinball ended

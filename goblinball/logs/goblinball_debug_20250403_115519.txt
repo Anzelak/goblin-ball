@@ -1,0 +1,63 @@
+[11:55:19.203] [INFO] === Goblinball Debug Log - 20250403_115519 ===
+[11:55:19.203] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115519.txt
+[11:55:19.224] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:55:20.257] [INFO] Moving carrier Zogface Bredere with 4 movement points
+[11:55:20.257] [INFO] Goblin Zogface Bredere moved from (4, 8) to (5, 5)
+[11:55:20.257] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:55:20.257] [INFO] Carrier Zogface Bredere moved along clear path to (5, 5)
+[11:55:20.257] [INFO] Moving offensive blocker Zogslicer Baconwave  with 1 movement points
+[11:55:20.257] [INFO] Offensive blocker chose move (2, 7) with score 426
+[11:55:20.257] [INFO] Goblin Zogslicer Baconwave  moved from (2, 8) to (2, 7)
+[11:55:20.257] [INFO] Movement trail: [(2, 8), (2, 7)]
+[11:55:20.257] [INFO] Moving offensive blocker Thrakchomper the Strong with 4 movement points
+[11:55:20.258] [INFO] Offensive blocker chose move (5, 6) with score 738
+[11:55:20.258] [INFO] Goblin Thrakchomper the Strong moved from (6, 8) to (5, 6)
+[11:55:20.258] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:55:20.258] [INFO] Moving offensive blocker Bludchewer TwoDawns the Strong with 3 movement points
+[11:55:20.258] [INFO] Offensive blocker chose move (8, 5) with score 599
+[11:55:20.258] [INFO] Goblin Bludchewer TwoDawns the Strong moved from (8, 8) to (8, 5)
+[11:55:20.258] [INFO] Movement trail: [(8, 8), (8, 5)]
+[11:55:20.258] [INFO] Moving offensive blocker Krunkchewer Xerc with 4 movement points
+[11:55:20.258] [INFO] Offensive blocker chose move (7, 6) with score 593
+[11:55:20.258] [INFO] Goblin Krunkchewer Xerc moved from (9, 8) to (7, 6)
+[11:55:20.258] [INFO] Movement trail: [(9, 8), (7, 6)]
+[11:55:20.258] [INFO] Moving defensive blocker Grimmangler Crystalbelly  with 4 movement points
+[11:55:20.258] [INFO] Defensive blocker chose move (5, 2) with score 1286
+[11:55:20.258] [INFO] Goblin Grimmangler Crystalbelly  moved from (2, 1) to (5, 2)
+[11:55:20.258] [INFO] Movement trail: [(2, 1), (5, 2)]
+[11:55:20.258] [INFO] Moving defensive blocker Zogstomper Tysinni with 4 movement points
+[11:55:20.259] [INFO] Defensive blocker chose move (5, 4) with score 3389
+[11:55:20.259] [INFO] Goblin Zogstomper Tysinni moved from (4, 1) to (5, 4)
+[11:55:20.259] [INFO] Movement trail: [(4, 1), (5, 4)]
+[11:55:20.259] [INFO] Moving defensive blocker Globstabber Olsen with 1 movement points
+[11:55:20.259] [INFO] Defensive blocker chose move (6, 2) with score 1257
+[11:55:20.259] [INFO] Goblin Globstabber Olsen moved from (6, 1) to (6, 2)
+[11:55:20.259] [INFO] Movement trail: [(6, 1), (6, 2)]
+[11:55:20.259] [INFO] Moving defensive blocker Zogface with 4 movement points
+[11:55:20.259] [INFO] Defensive blocker chose move (6, 3) with score 1277
+[11:55:20.259] [INFO] Goblin Zogface moved from (8, 1) to (6, 3)
+[11:55:20.259] [INFO] Movement trail: [(8, 1), (6, 3)]
+[11:55:20.259] [INFO] Moving defensive blocker Mugstomper with 4 movement points
+[11:55:20.259] [INFO] Defensive blocker chose move (5, 1) with score 1248
+[11:55:20.259] [INFO] Goblin Mugstomper moved from (9, 1) to (5, 1)
+[11:55:20.259] [INFO] Movement trail: [(9, 1), (5, 1)]
+[11:55:20.905] [INFO] Moving carrier Zogface Bredere with 4 movement points
+[11:55:20.907] [INFO] Carrier Zogface Bredere couldn't find valid move
+[11:55:20.907] [INFO] Moving offensive blocker Grimmangler Crystalbelly  with 4 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving offensive blocker Zogstomper Tysinni with 4 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving offensive blocker Globstabber Olsen with 1 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving offensive blocker Zogface with 4 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving offensive blocker Mugstomper with 4 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving defensive blocker Zogslicer Baconwave  with 1 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving defensive blocker Thrakchomper the Strong with 4 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving defensive blocker Bludchewer TwoDawns the Strong with 3 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!
+[11:55:20.907] [INFO] Moving defensive blocker Krunkchewer Xerc with 4 movement points
+[11:55:20.907] [INFO] No carrier found for team Skullsmashers!

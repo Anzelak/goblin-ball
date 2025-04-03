@@ -1,0 +1,63 @@
+[11:56:25.757] [INFO] === Goblinball Debug Log - 20250403_115625 ===
+[11:56:25.757] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115625.txt
+[11:56:25.778] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:56:27.107] [INFO] Moving carrier Globskull with 4 movement points
+[11:56:27.107] [INFO] Goblin Globskull moved from (4, 8) to (5, 5)
+[11:56:27.107] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:56:27.107] [INFO] Carrier Globskull moved along clear path to (5, 5)
+[11:56:27.110] [INFO] Moving offensive blocker Grubgob with 4 movement points
+[11:56:27.110] [INFO] Offensive blocker chose move (3, 5) with score 677
+[11:56:27.110] [INFO] Goblin Grubgob moved from (2, 8) to (3, 5)
+[11:56:27.110] [INFO] Movement trail: [(2, 8), (3, 5)]
+[11:56:27.110] [INFO] Moving offensive blocker Skrizsquisher with 4 movement points
+[11:56:27.110] [INFO] Offensive blocker chose move (5, 6) with score 746
+[11:56:27.110] [INFO] Goblin Skrizsquisher moved from (6, 8) to (5, 6)
+[11:56:27.110] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:56:27.110] [INFO] Moving offensive blocker Gutbasher with 1 movement points
+[11:56:27.111] [INFO] Offensive blocker chose move (7, 8) with score 407
+[11:56:27.111] [INFO] Goblin Gutbasher moved from (8, 8) to (7, 8)
+[11:56:27.111] [INFO] Movement trail: [(8, 8), (7, 8)]
+[11:56:27.111] [INFO] Moving offensive blocker Krakstomper Angelie with 2 movement points
+[11:56:27.111] [INFO] Offensive blocker chose move (8, 7) with score 416
+[11:56:27.111] [INFO] Goblin Krakstomper Angelie moved from (9, 8) to (8, 7)
+[11:56:27.111] [INFO] Movement trail: [(9, 8), (8, 7)]
+[11:56:27.111] [INFO] Moving defensive blocker Stabgulper Miritna with 4 movement points
+[11:56:27.111] [INFO] Defensive blocker chose move (5, 2) with score 1312
+[11:56:27.111] [INFO] Goblin Stabgulper Miritna moved from (2, 1) to (5, 2)
+[11:56:27.111] [INFO] Movement trail: [(2, 1), (5, 2)]
+[11:56:27.111] [INFO] Moving defensive blocker Grimfoot with 2 movement points
+[11:56:27.111] [INFO] Defensive blocker chose move (4, 3) with score 1325
+[11:56:27.111] [INFO] Goblin Grimfoot moved from (4, 1) to (4, 3)
+[11:56:27.111] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:56:27.111] [INFO] Moving defensive blocker Bludstomper Peavuen with 3 movement points
+[11:56:27.112] [INFO] Defensive blocker chose move (5, 3) with score 1370
+[11:56:27.112] [INFO] Goblin Bludstomper Peavuen moved from (6, 1) to (5, 3)
+[11:56:27.112] [INFO] Movement trail: [(6, 1), (5, 3)]
+[11:56:27.112] [INFO] Moving defensive blocker Krakchomper  with 1 movement points
+[11:56:27.112] [INFO] Defensive blocker chose move (7, 1) with score 975
+[11:56:27.112] [INFO] Goblin Krakchomper  moved from (8, 1) to (7, 1)
+[11:56:27.112] [INFO] Movement trail: [(8, 1), (7, 1)]
+[11:56:27.112] [INFO] Moving defensive blocker Grubslicer with 1 movement points
+[11:56:27.112] [INFO] Defensive blocker chose move (8, 1) with score 879
+[11:56:27.112] [INFO] Goblin Grubslicer moved from (9, 1) to (8, 1)
+[11:56:27.112] [INFO] Movement trail: [(9, 1), (8, 1)]
+[11:56:27.878] [INFO] Moving carrier Globskull with 4 movement points
+[11:56:27.880] [INFO] Carrier Globskull couldn't find valid move
+[11:56:27.880] [INFO] Moving offensive blocker Stabgulper Miritna with 4 movement points
+[11:56:27.880] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.880] [INFO] Moving offensive blocker Grimfoot with 2 movement points
+[11:56:27.880] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.880] [INFO] Moving offensive blocker Bludstomper Peavuen with 3 movement points
+[11:56:27.880] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.880] [INFO] Moving offensive blocker Krakchomper  with 1 movement points
+[11:56:27.880] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.880] [INFO] Moving offensive blocker Grubslicer with 1 movement points
+[11:56:27.880] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.881] [INFO] Moving defensive blocker Grubgob with 4 movement points
+[11:56:27.881] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.881] [INFO] Moving defensive blocker Skrizsquisher with 4 movement points
+[11:56:27.881] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.881] [INFO] Moving defensive blocker Gutbasher with 1 movement points
+[11:56:27.881] [INFO] No carrier found for team Skullsmashers!
+[11:56:27.881] [INFO] Moving defensive blocker Krakstomper Angelie with 2 movement points
+[11:56:27.881] [INFO] No carrier found for team Skullsmashers!

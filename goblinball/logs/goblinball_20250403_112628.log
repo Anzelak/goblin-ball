@@ -1,0 +1,75 @@
+2025-04-03 11:26:28,690 - goblinball - INFO - ==================================================
+2025-04-03 11:26:28,690 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:26:28,690 - goblinball - INFO - Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+2025-04-03 11:26:28,690 - goblinball - INFO - Current working directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:26:28,690 - goblinball - INFO - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball\\goblinball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 11:26:28,690 - goblinball - INFO - ==================================================
+2025-04-03 11:26:28,697 - goblinball - INFO - All required modules validated successfully
+2025-04-03 11:26:28,697 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:26:28,697 - goblinball - INFO - Running from directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:26:28,716 - goblinball.controller - INFO - Selected carrier: Bludchomper from team Mudcrushers
+2025-04-03 11:26:28,716 - goblinball.controller - INFO - ===== Starting Play 1 =====
+2025-04-03 11:26:28,717 - goblinball.controller - INFO - Selected carrier: Thrakface Vixen from team Mudcrushers
+2025-04-03 11:26:29,942 - goblinball.controller - INFO - ==== Processing Turn 1 ====
+2025-04-03 11:26:29,942 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:29,942 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:29,945 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:29,946 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:30,566 - goblinball.controller - INFO - ==== Processing Turn 2 ====
+2025-04-03 11:26:30,566 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:30,566 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:30,567 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:30,568 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:32,027 - goblinball.controller - INFO - ==== Processing Turn 3 ====
+2025-04-03 11:26:32,027 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:32,027 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:32,027 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:32,028 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:32,719 - goblinball.controller - INFO - ==== Processing Turn 4 ====
+2025-04-03 11:26:32,719 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:32,719 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:32,720 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:32,720 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:33,699 - goblinball.controller - INFO - ==== Processing Turn 5 ====
+2025-04-03 11:26:33,700 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:33,700 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:33,700 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:33,701 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:35,212 - goblinball.controller - INFO - ==== Processing Turn 6 ====
+2025-04-03 11:26:35,212 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:35,212 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:35,212 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:35,213 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:37,623 - goblinball.controller - INFO - ==== Processing Turn 7 ====
+2025-04-03 11:26:37,624 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:37,624 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:37,624 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:37,625 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:39,589 - goblinball.controller - INFO - ==== Processing Turn 8 ====
+2025-04-03 11:26:39,589 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:39,589 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:39,589 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:39,590 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:40,780 - goblinball.controller - INFO - ==== Processing Turn 9 ====
+2025-04-03 11:26:40,780 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:40,781 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:40,781 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:40,782 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:41,564 - goblinball.controller - INFO - ==== Processing Turn 10 ====
+2025-04-03 11:26:41,564 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:41,564 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:41,565 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:41,565 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:42,380 - goblinball.controller - INFO - ==== Processing Turn 11 ====
+2025-04-03 11:26:42,380 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:42,380 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:42,381 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:26:42,381 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:26:44,390 - goblinball.controller - INFO - ==== Processing Turn 12 ====
+2025-04-03 11:26:44,390 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:26:44,390 - goblinball.controller - INFO - Attempting to move carrier Thrakface Vixen
+2025-04-03 11:26:44,390 - goblinball.controller - INFO - ===== Ending Play 1 after 12 turns =====
+2025-04-03 11:26:44,390 - goblinball.controller - INFO - Score: Mudcrushers 0 - 0 Skullsmashers
+2025-04-03 11:26:44,390 - goblinball.controller - INFO - Moving offensive blockers for team Skullsmashers
+2025-04-03 11:26:44,390 - goblinball.controller - INFO - Moving defensive blockers for team Mudcrushers
+2025-04-03 11:26:56,892 - goblinball - INFO - Goblinball ended

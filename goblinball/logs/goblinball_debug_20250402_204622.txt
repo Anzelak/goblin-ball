@@ -1,4 +1,0 @@
-[20:46:22.763] [INFO] === Goblinball Debug Log - 20250402_204622 ===
-[20:46:22.790] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
-[20:46:24.450] [INFO] Moving carrier Zogbiter with 1 movement points
-[20:46:24.450] [INFO] Carrier chose move (4, 7) with score 162

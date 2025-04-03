@@ -1,0 +1,135 @@
+[11:53:53.296] [INFO] === Goblinball Debug Log - 20250403_115353 ===
+[11:53:53.296] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115353.txt
+[11:53:53.317] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:53:54.328] [INFO] Moving carrier Kraksquisher with 1 movement points
+[11:53:54.328] [INFO] Goblin Kraksquisher moved from (4, 8) to (4, 7)
+[11:53:54.328] [INFO] Movement trail: [(4, 8), (4, 7)]
+[11:53:54.328] [INFO] Carrier Kraksquisher moved to (4, 7) (score: 23.0)
+[11:53:54.331] [INFO] Moving offensive blocker Skrizstomper with 1 movement points
+[11:53:54.331] [INFO] Offensive blocker chose move (2, 7) with score 649
+[11:53:54.331] [INFO] Goblin Skrizstomper moved from (2, 8) to (2, 7)
+[11:53:54.331] [INFO] Movement trail: [(2, 8), (2, 7)]
+[11:53:54.332] [INFO] Moving offensive blocker Luggulper with 4 movement points
+[11:53:54.332] [INFO] Offensive blocker chose move (4, 6) with score 738
+[11:53:54.332] [INFO] Goblin Luggulper moved from (6, 8) to (4, 6)
+[11:53:54.332] [INFO] Movement trail: [(6, 8), (4, 6)]
+[11:53:54.332] [INFO] Moving offensive blocker Skrizbiter Tract with 1 movement points
+[11:53:54.332] [INFO] Offensive blocker chose move (7, 8) with score 509
+[11:53:54.332] [INFO] Goblin Skrizbiter Tract moved from (8, 8) to (7, 8)
+[11:53:54.332] [INFO] Movement trail: [(8, 8), (7, 8)]
+[11:53:54.332] [INFO] Moving offensive blocker Globbasher with 2 movement points
+[11:53:54.332] [INFO] Offensive blocker chose move (8, 7) with score 483
+[11:53:54.332] [INFO] Goblin Globbasher moved from (9, 8) to (8, 7)
+[11:53:54.332] [INFO] Movement trail: [(9, 8), (8, 7)]
+[11:53:54.332] [INFO] Moving defensive blocker Krunkcrusher Larce the Cunning with 1 movement points
+[11:53:54.332] [INFO] Defensive blocker chose move (3, 1) with score 1111
+[11:53:54.332] [INFO] Goblin Krunkcrusher Larce the Cunning moved from (2, 1) to (3, 1)
+[11:53:54.332] [INFO] Movement trail: [(2, 1), (3, 1)]
+[11:53:54.332] [INFO] Moving defensive blocker Lugslicer with 3 movement points
+[11:53:54.332] [INFO] Defensive blocker chose move (4, 4) with score 1310
+[11:53:54.332] [INFO] Goblin Lugslicer moved from (4, 1) to (4, 4)
+[11:53:54.332] [INFO] Movement trail: [(4, 1), (4, 4)]
+[11:53:54.333] [INFO] Moving defensive blocker Wortfinger with 3 movement points
+[11:53:54.333] [INFO] Defensive blocker chose move (4, 2) with score 1180
+[11:53:54.333] [INFO] Goblin Wortfinger moved from (6, 1) to (4, 2)
+[11:53:54.333] [INFO] Movement trail: [(6, 1), (4, 2)]
+[11:53:54.333] [INFO] Moving defensive blocker Stabchewer Walkers with 2 movement points
+[11:53:54.333] [INFO] Defensive blocker chose move (7, 2) with score 867
+[11:53:54.333] [INFO] Goblin Stabchewer Walkers moved from (8, 1) to (7, 2)
+[11:53:54.333] [INFO] Movement trail: [(8, 1), (7, 2)]
+[11:53:54.333] [INFO] Moving defensive blocker Krakchewer Evenchaser the Tough with 4 movement points
+[11:53:54.333] [INFO] Defensive blocker chose move (5, 1) with score 1111
+[11:53:54.333] [INFO] Goblin Krakchewer Evenchaser the Tough moved from (9, 1) to (5, 1)
+[11:53:54.333] [INFO] Movement trail: [(9, 1), (5, 1)]
+[11:53:54.793] [INFO] Moving carrier Kraksquisher with 1 movement points
+[11:53:54.793] [INFO] Goblin Kraksquisher moved from (4, 7) to (3, 7)
+[11:53:54.793] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7)]
+[11:53:54.793] [INFO] Carrier Kraksquisher moved to (3, 7) (score: 23.0)
+[11:53:54.793] [INFO] Moving offensive blocker Skrizstomper with 1 movement points
+[11:53:54.793] [INFO] Offensive blocker chose move (1, 7) with score 671
+[11:53:54.793] [INFO] Goblin Skrizstomper moved from (2, 7) to (1, 7)
+[11:53:54.793] [INFO] Movement trail: [(2, 8), (2, 7), (1, 7)]
+[11:53:54.793] [INFO] Moving offensive blocker Luggulper with 4 movement points
+[11:53:54.793] [INFO] Offensive blocker chose move (3, 6) with score 748
+[11:53:54.793] [INFO] Goblin Luggulper moved from (4, 6) to (3, 6)
+[11:53:54.793] [INFO] Movement trail: [(6, 8), (4, 6), (3, 6)]
+[11:53:54.793] [INFO] Moving offensive blocker Skrizbiter Tract with 1 movement points
+[11:53:54.793] [INFO] Offensive blocker chose move (6, 8) with score 509
+[11:53:54.793] [INFO] Goblin Skrizbiter Tract moved from (7, 8) to (6, 8)
+[11:53:54.793] [INFO] Movement trail: [(8, 8), (7, 8), (6, 8)]
+[11:53:54.793] [INFO] Moving offensive blocker Globbasher with 2 movement points
+[11:53:54.793] [INFO] Offensive blocker chose move (6, 7) with score 557
+[11:53:54.793] [INFO] Goblin Globbasher moved from (8, 7) to (6, 7)
+[11:53:54.793] [INFO] Movement trail: [(9, 8), (8, 7), (6, 7)]
+[11:53:54.794] [INFO] Moving defensive blocker Krunkcrusher Larce the Cunning with 1 movement points
+[11:53:54.794] [INFO] Defensive blocker chose move (3, 2) with score 1205
+[11:53:54.794] [INFO] Goblin Krunkcrusher Larce the Cunning moved from (3, 1) to (3, 2)
+[11:53:54.794] [INFO] Movement trail: [(2, 1), (3, 1), (3, 2)]
+[11:53:54.794] [INFO] Moving defensive blocker Lugslicer with 3 movement points
+[11:53:54.794] [INFO] Defensive blocker chose move (4, 7) with score 2936
+[11:53:54.794] [INFO] Moving defensive blocker Wortfinger with 3 movement points
+[11:53:54.794] [INFO] Defensive blocker chose move (4, 5) with score 1320
+[11:53:54.794] [INFO] Goblin Wortfinger moved from (4, 2) to (4, 5)
+[11:53:54.794] [INFO] Movement trail: [(6, 1), (4, 2), (4, 5)]
+[11:53:54.794] [INFO] Moving defensive blocker Stabchewer Walkers with 2 movement points
+[11:53:54.794] [INFO] Defensive blocker chose move (7, 4) with score 921
+[11:53:54.794] [INFO] Goblin Stabchewer Walkers moved from (7, 2) to (7, 4)
+[11:53:54.794] [INFO] Movement trail: [(8, 1), (7, 2), (7, 4)]
+[11:53:54.794] [INFO] Moving defensive blocker Krakchewer Evenchaser the Tough with 4 movement points
+[11:53:54.794] [INFO] Defensive blocker chose move (3, 3) with score 1274
+[11:53:54.794] [INFO] Goblin Krakchewer Evenchaser the Tough moved from (5, 1) to (3, 3)
+[11:53:54.794] [INFO] Movement trail: [(9, 1), (5, 1), (3, 3)]
+[11:53:56.262] [INFO] Moving carrier Kraksquisher with 1 movement points
+[11:53:56.262] [INFO] Goblin Kraksquisher moved from (3, 7) to (2, 7)
+[11:53:56.262] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7), (2, 7)]
+[11:53:56.262] [INFO] Carrier Kraksquisher moved to (2, 7) (score: 23.0)
+[11:53:56.262] [INFO] Moving offensive blocker Skrizstomper with 1 movement points
+[11:53:56.262] [INFO] Offensive blocker chose move (0, 7) with score 659
+[11:53:56.262] [INFO] Goblin Skrizstomper moved from (1, 7) to (0, 7)
+[11:53:56.262] [INFO] Movement trail: [(2, 8), (2, 7), (1, 7), (0, 7)]
+[11:53:56.262] [INFO] Moving offensive blocker Luggulper with 4 movement points
+[11:53:56.262] [INFO] Offensive blocker chose move (2, 6) with score 741
+[11:53:56.262] [INFO] Goblin Luggulper moved from (3, 6) to (2, 6)
+[11:53:56.262] [INFO] Movement trail: [(6, 8), (4, 6), (3, 6), (2, 6)]
+[11:53:56.262] [INFO] Moving offensive blocker Skrizbiter Tract with 1 movement points
+[11:53:56.262] [INFO] Offensive blocker chose move (5, 8) with score 486
+[11:53:56.262] [INFO] Goblin Skrizbiter Tract moved from (6, 8) to (5, 8)
+[11:53:56.262] [INFO] Movement trail: [(8, 8), (7, 8), (6, 8), (5, 8)]
+[11:53:56.262] [INFO] Moving offensive blocker Globbasher with 2 movement points
+[11:53:56.263] [INFO] Offensive blocker chose move (4, 7) with score 669
+[11:53:56.263] [INFO] Goblin Globbasher moved from (6, 7) to (4, 7)
+[11:53:56.263] [INFO] Movement trail: [(9, 8), (8, 7), (6, 7), (4, 7)]
+[11:53:56.263] [INFO] Moving defensive blocker Krunkcrusher Larce the Cunning with 1 movement points
+[11:53:56.263] [INFO] Defensive blocker chose move (2, 2) with score 1217
+[11:53:56.263] [INFO] Goblin Krunkcrusher Larce the Cunning moved from (3, 2) to (2, 2)
+[11:53:56.263] [INFO] Movement trail: [(2, 1), (3, 1), (3, 2), (2, 2)]
+[11:53:56.263] [INFO] Moving defensive blocker Wortfinger with 3 movement points
+[11:53:56.263] [INFO] Defensive blocker chose move (3, 7) with score 2953
+[11:53:56.263] [INFO] Goblin Wortfinger moved from (4, 5) to (3, 7)
+[11:53:56.263] [INFO] Movement trail: [(6, 1), (4, 2), (4, 5), (3, 7)]
+[11:53:56.263] [INFO] Moving defensive blocker Stabchewer Walkers with 2 movement points
+[11:53:56.263] [INFO] Defensive blocker chose move (5, 4) with score 970
+[11:53:56.263] [INFO] Goblin Stabchewer Walkers moved from (7, 4) to (5, 4)
+[11:53:56.263] [INFO] Movement trail: [(8, 1), (7, 2), (7, 4), (5, 4)]
+[11:53:56.263] [INFO] Moving defensive blocker Krakchewer Evenchaser the Tough with 4 movement points
+[11:53:56.263] [INFO] Defensive blocker chose move (2, 5) with score 1360
+[11:53:56.263] [INFO] Goblin Krakchewer Evenchaser the Tough moved from (3, 3) to (2, 5)
+[11:53:56.263] [INFO] Movement trail: [(9, 1), (5, 1), (3, 3), (2, 5)]
+[11:53:57.753] [INFO] Moving carrier Kraksquisher with 1 movement points
+[11:53:57.753] [INFO] Carrier Kraksquisher couldn't find valid move
+[11:53:57.753] [INFO] Moving offensive blocker Krunkcrusher Larce the Cunning with 1 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!
+[11:53:57.753] [INFO] Moving offensive blocker Wortfinger with 3 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!
+[11:53:57.753] [INFO] Moving offensive blocker Stabchewer Walkers with 2 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!
+[11:53:57.753] [INFO] Moving offensive blocker Krakchewer Evenchaser the Tough with 4 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!
+[11:53:57.753] [INFO] Moving defensive blocker Skrizstomper with 1 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!
+[11:53:57.753] [INFO] Moving defensive blocker Luggulper with 4 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!
+[11:53:57.753] [INFO] Moving defensive blocker Skrizbiter Tract with 1 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!
+[11:53:57.753] [INFO] Moving defensive blocker Globbasher with 2 movement points
+[11:53:57.753] [INFO] No carrier found for team Skullsmashers!

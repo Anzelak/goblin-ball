@@ -1,0 +1,102 @@
+[11:34:50.404] [INFO] === Goblinball Debug Log - 20250403_113450 ===
+[11:34:50.404] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113450.txt
+[11:34:50.424] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:34:51.643] [INFO] Moving carrier Gutchewer Gunasekera with 3 movement points
+[11:34:51.644] [INFO] Goblin Gutchewer Gunasekera moved from (4, 8) to (5, 7)
+[11:34:51.644] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:34:51.644] [INFO] Carrier Gutchewer Gunasekera moved to (5, 7)
+[11:34:51.647] [INFO] Moving offensive blocker Globmangler Chang the Brutal with 2 movement points
+[11:34:51.647] [INFO] Offensive blocker chose move (4, 8) with score 647
+[11:34:51.647] [INFO] Goblin Globmangler Chang the Brutal moved from (2, 8) to (4, 8)
+[11:34:51.647] [INFO] Movement trail: [(2, 8), (4, 8)]
+[11:34:51.647] [INFO] Moving offensive blocker Thrakcrusher Olga with 1 movement points
+[11:34:51.647] [INFO] Offensive blocker chose move (6, 7) with score 743
+[11:34:51.647] [INFO] Goblin Thrakcrusher Olga moved from (6, 8) to (6, 7)
+[11:34:51.647] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:34:51.647] [INFO] Moving offensive blocker Gutsquisher with 3 movement points
+[11:34:51.648] [INFO] Offensive blocker chose move (5, 8) with score 726
+[11:34:51.648] [INFO] Goblin Gutsquisher moved from (8, 8) to (5, 8)
+[11:34:51.648] [INFO] Movement trail: [(8, 8), (5, 8)]
+[11:34:51.648] [INFO] Moving offensive blocker Fizzbasher with 3 movement points
+[11:34:51.648] [INFO] Offensive blocker chose move (6, 8) with score 659
+[11:34:51.648] [INFO] Goblin Fizzbasher moved from (9, 8) to (6, 8)
+[11:34:51.648] [INFO] Movement trail: [(9, 8), (6, 8)]
+[11:34:51.648] [INFO] Moving defensive blocker Skabfinger with 4 movement points
+[11:34:51.649] [INFO] Defensive blocker chose move (4, 3) with score 1189
+[11:34:51.649] [INFO] Goblin Skabfinger moved from (2, 1) to (4, 3)
+[11:34:51.649] [INFO] Movement trail: [(2, 1), (4, 3)]
+[11:34:51.649] [INFO] Moving defensive blocker Muggulper Nilnot with 3 movement points
+[11:34:51.649] [INFO] Defensive blocker chose move (5, 3) with score 1268
+[11:34:51.649] [INFO] Goblin Muggulper Nilnot moved from (4, 1) to (5, 3)
+[11:34:51.649] [INFO] Movement trail: [(4, 1), (5, 3)]
+[11:34:51.649] [INFO] Moving defensive blocker Stabfinger Perez with 4 movement points
+[11:34:51.649] [INFO] Defensive blocker chose move (6, 5) with score 1313
+[11:34:51.650] [INFO] Goblin Stabfinger Perez moved from (6, 1) to (6, 5)
+[11:34:51.650] [INFO] Movement trail: [(6, 1), (6, 5)]
+[11:34:51.650] [INFO] Moving defensive blocker Skabfist the Quick with 2 movement points
+[11:34:51.650] [INFO] Defensive blocker chose move (6, 1) with score 1117
+[11:34:51.650] [INFO] Goblin Skabfist the Quick moved from (8, 1) to (6, 1)
+[11:34:51.650] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:34:51.650] [INFO] Moving defensive blocker Mugskull Duskfeather with 2 movement points
+[11:34:51.650] [INFO] Defensive blocker chose move (8, 2) with score 855
+[11:34:51.650] [INFO] Goblin Mugskull Duskfeather moved from (9, 1) to (8, 2)
+[11:34:51.650] [INFO] Movement trail: [(9, 1), (8, 2)]
+[11:34:52.070] [INFO] Moving carrier Gutchewer Gunasekera with 3 movement points
+[11:34:52.070] [INFO] Goblin Gutchewer Gunasekera moved from (5, 7) to (5, 6)
+[11:34:52.070] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[11:34:52.070] [INFO] Carrier Gutchewer Gunasekera moved to (5, 6)
+[11:34:52.070] [INFO] Moving offensive blocker Globmangler Chang the Brutal with 2 movement points
+[11:34:52.070] [INFO] Offensive blocker chose move (4, 6) with score 749
+[11:34:52.070] [INFO] Goblin Globmangler Chang the Brutal moved from (4, 8) to (4, 6)
+[11:34:52.070] [INFO] Movement trail: [(2, 8), (4, 8), (4, 6)]
+[11:34:52.070] [INFO] Moving offensive blocker Thrakcrusher Olga with 1 movement points
+[11:34:52.070] [INFO] Offensive blocker chose move (6, 6) with score 2631
+[11:34:52.070] [INFO] Goblin Thrakcrusher Olga moved from (6, 7) to (6, 6)
+[11:34:52.070] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6)]
+[11:34:52.070] [INFO] Moving offensive blocker Gutsquisher with 3 movement points
+[11:34:52.070] [INFO] Offensive blocker chose move (5, 5) with score 3334
+[11:34:52.071] [INFO] Goblin Gutsquisher moved from (5, 8) to (5, 5)
+[11:34:52.071] [INFO] Movement trail: [(8, 8), (5, 8), (5, 5)]
+[11:34:52.071] [INFO] Moving offensive blocker Fizzbasher with 3 movement points
+[11:34:52.071] [INFO] Offensive blocker chose move (5, 7) with score 740
+[11:34:52.071] [INFO] Goblin Fizzbasher moved from (6, 8) to (5, 7)
+[11:34:52.071] [INFO] Movement trail: [(9, 8), (6, 8), (5, 7)]
+[11:34:52.071] [INFO] Moving defensive blocker Skabfinger with 4 movement points
+[11:34:52.071] [INFO] Defensive blocker chose move (4, 5) with score 1346
+[11:34:52.071] [INFO] Goblin Skabfinger moved from (4, 3) to (4, 5)
+[11:34:52.071] [INFO] Movement trail: [(2, 1), (4, 3), (4, 5)]
+[11:34:52.071] [INFO] Moving defensive blocker Muggulper Nilnot with 3 movement points
+[11:34:52.071] [INFO] Defensive blocker chose move (5, 4) with score 1354
+[11:34:52.071] [INFO] Goblin Muggulper Nilnot moved from (5, 3) to (5, 4)
+[11:34:52.071] [INFO] Movement trail: [(4, 1), (5, 3), (5, 4)]
+[11:34:52.071] [INFO] Moving defensive blocker Stabfinger Perez with 4 movement points
+[11:34:52.071] [INFO] Defensive blocker Stabfinger Perez attempting to block carrier Gutchewer Gunasekera
+[11:34:52.071] [INFO] Defensive blocker chose move (6, 5) with score 1333
+[11:34:52.071] [INFO] Moving defensive blocker Skabfist the Quick with 2 movement points
+[11:34:52.071] [INFO] Defensive blocker chose move (5, 2) with score 1237
+[11:34:52.071] [INFO] Goblin Skabfist the Quick moved from (6, 1) to (5, 2)
+[11:34:52.072] [INFO] Movement trail: [(8, 1), (6, 1), (5, 2)]
+[11:34:52.072] [INFO] Moving defensive blocker Mugskull Duskfeather with 2 movement points
+[11:34:52.072] [INFO] Defensive blocker chose move (6, 2) with score 1189
+[11:34:52.072] [INFO] Goblin Mugskull Duskfeather moved from (8, 2) to (6, 2)
+[11:34:52.072] [INFO] Movement trail: [(9, 1), (8, 2), (6, 2)]
+[11:34:52.700] [INFO] Moving carrier Gutchewer Gunasekera with 3 movement points
+[11:34:52.700] [INFO] Carrier Gutchewer Gunasekera couldn't find valid move
+[11:34:52.701] [INFO] Moving offensive blocker Skabfinger with 4 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving offensive blocker Muggulper Nilnot with 3 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving offensive blocker Stabfinger Perez with 4 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving offensive blocker Skabfist the Quick with 2 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving offensive blocker Mugskull Duskfeather with 2 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving defensive blocker Globmangler Chang the Brutal with 2 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving defensive blocker Thrakcrusher Olga with 1 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving defensive blocker Gutsquisher with 3 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!
+[11:34:52.701] [INFO] Moving defensive blocker Fizzbasher with 3 movement points
+[11:34:52.701] [INFO] No carrier found for team Skullsmashers!

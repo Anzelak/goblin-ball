@@ -1,0 +1,63 @@
+[11:54:29.899] [INFO] === Goblinball Debug Log - 20250403_115429 ===
+[11:54:29.899] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115429.txt
+[11:54:29.920] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:54:30.800] [INFO] Moving carrier Grimtooth with 4 movement points
+[11:54:30.800] [INFO] Goblin Grimtooth moved from (4, 8) to (5, 5)
+[11:54:30.800] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:54:30.800] [INFO] Carrier Grimtooth moved along clear path to (5, 5)
+[11:54:30.803] [INFO] Moving offensive blocker Bludchewer Baske with 4 movement points
+[11:54:30.803] [INFO] Offensive blocker chose move (3, 5) with score 671
+[11:54:30.803] [INFO] Goblin Bludchewer Baske moved from (2, 8) to (3, 5)
+[11:54:30.803] [INFO] Movement trail: [(2, 8), (3, 5)]
+[11:54:30.803] [INFO] Moving offensive blocker Grubcrusher Camus with 3 movement points
+[11:54:30.803] [INFO] Offensive blocker chose move (6, 5) with score 745
+[11:54:30.803] [INFO] Goblin Grubcrusher Camus moved from (6, 8) to (6, 5)
+[11:54:30.803] [INFO] Movement trail: [(6, 8), (6, 5)]
+[11:54:30.803] [INFO] Moving offensive blocker Gnogskull with 3 movement points
+[11:54:30.804] [INFO] Offensive blocker chose move (8, 5) with score 598
+[11:54:30.804] [INFO] Goblin Gnogskull moved from (8, 8) to (8, 5)
+[11:54:30.804] [INFO] Movement trail: [(8, 8), (8, 5)]
+[11:54:30.804] [INFO] Moving offensive blocker Zogface Erim with 1 movement points
+[11:54:30.804] [INFO] Offensive blocker chose move (9, 7) with score 335
+[11:54:30.804] [INFO] Goblin Zogface Erim moved from (9, 8) to (9, 7)
+[11:54:30.804] [INFO] Movement trail: [(9, 8), (9, 7)]
+[11:54:30.804] [INFO] Moving defensive blocker Mugtooth with 3 movement points
+[11:54:30.804] [INFO] Defensive blocker chose move (5, 1) with score 1263
+[11:54:30.804] [INFO] Goblin Mugtooth moved from (2, 1) to (5, 1)
+[11:54:30.804] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:54:30.804] [INFO] Moving defensive blocker Kraksquisher Zebariah with 4 movement points
+[11:54:30.804] [INFO] Defensive blocker chose move (5, 4) with score 3377
+[11:54:30.804] [INFO] Goblin Kraksquisher Zebariah moved from (4, 1) to (5, 4)
+[11:54:30.804] [INFO] Movement trail: [(4, 1), (5, 4)]
+[11:54:30.804] [INFO] Moving defensive blocker Splatgob Shakemia with 3 movement points
+[11:54:30.804] [INFO] Defensive blocker chose move (5, 3) with score 1351
+[11:54:30.804] [INFO] Goblin Splatgob Shakemia moved from (6, 1) to (5, 3)
+[11:54:30.804] [INFO] Movement trail: [(6, 1), (5, 3)]
+[11:54:30.804] [INFO] Moving defensive blocker Zogface  with 3 movement points
+[11:54:30.804] [INFO] Defensive blocker chose move (6, 2) with score 1242
+[11:54:30.805] [INFO] Goblin Zogface  moved from (8, 1) to (6, 2)
+[11:54:30.805] [INFO] Movement trail: [(8, 1), (6, 2)]
+[11:54:30.805] [INFO] Moving defensive blocker Thrakgob the Fierce with 1 movement points
+[11:54:30.805] [INFO] Defensive blocker chose move (9, 2) with score 924
+[11:54:30.805] [INFO] Goblin Thrakgob the Fierce moved from (9, 1) to (9, 2)
+[11:54:30.805] [INFO] Movement trail: [(9, 1), (9, 2)]
+[11:54:31.166] [INFO] Moving carrier Grimtooth with 4 movement points
+[11:54:31.167] [INFO] Carrier Grimtooth couldn't find valid move
+[11:54:31.167] [INFO] Moving offensive blocker Mugtooth with 3 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving offensive blocker Kraksquisher Zebariah with 4 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving offensive blocker Splatgob Shakemia with 3 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving offensive blocker Zogface  with 3 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving offensive blocker Thrakgob the Fierce with 1 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving defensive blocker Bludchewer Baske with 4 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving defensive blocker Grubcrusher Camus with 3 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!
+[11:54:31.167] [INFO] Moving defensive blocker Zogface Erim with 1 movement points
+[11:54:31.167] [INFO] No carrier found for team Skullsmashers!

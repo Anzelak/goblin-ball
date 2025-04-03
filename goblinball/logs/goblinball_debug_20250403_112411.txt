@@ -1,0 +1,169 @@
+[11:24:11.963] [INFO] === Goblinball Debug Log - 20250403_112411 ===
+[11:24:11.963] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_112411.txt
+[11:24:11.986] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:24:13.453] [INFO] Moving carrier Skrizfist with 2 movement points
+[11:24:13.453] [INFO] Goblin Skrizfist moved from (4, 8) to (5, 7)
+[11:24:13.453] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:24:13.453] [INFO] Carrier Skrizfist moved to (5, 7)
+[11:24:13.453] [INFO] Moving offensive blocker Bludslicer Theresa the Brutal with 4 movement points
+[11:24:13.456] [INFO] Offensive blocker chose move (5, 8) with score 933
+[11:24:13.456] [INFO] Goblin Bludslicer Theresa the Brutal moved from (2, 8) to (5, 8)
+[11:24:13.456] [INFO] Movement trail: [(2, 8), (5, 8)]
+[11:24:13.456] [INFO] Moving offensive blocker Zogskull with 1 movement points
+[11:24:13.456] [INFO] Offensive blocker chose move (6, 7) with score 935
+[11:24:13.456] [INFO] Goblin Zogskull moved from (6, 8) to (6, 7)
+[11:24:13.456] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:24:13.456] [INFO] Moving offensive blocker Splatsmasher with 1 movement points
+[11:24:13.456] [INFO] Offensive blocker chose move (8, 7) with score 726
+[11:24:13.456] [INFO] Goblin Splatsmasher moved from (8, 8) to (8, 7)
+[11:24:13.456] [INFO] Movement trail: [(8, 8), (8, 7)]
+[11:24:13.456] [INFO] Moving offensive blocker Stabfist with 1 movement points
+[11:24:13.456] [INFO] Offensive blocker chose move (9, 7) with score 639
+[11:24:13.456] [INFO] Goblin Stabfist moved from (9, 8) to (9, 7)
+[11:24:13.456] [INFO] Movement trail: [(9, 8), (9, 7)]
+[11:24:13.456] [INFO] Moving defensive blocker Thrakchomper with 2 movement points
+[11:24:13.456] [INFO] Defensive blocker chose move (3, 0) with score 367
+[11:24:13.456] [INFO] Goblin Thrakchomper moved from (2, 1) to (3, 0)
+[11:24:13.456] [INFO] Movement trail: [(2, 1), (3, 0)]
+[11:24:13.456] [INFO] Moving defensive blocker Luggulper Wolfgang the Brutal with 3 movement points
+[11:24:13.456] [INFO] Defensive blocker chose move (5, 3) with score 672
+[11:24:13.456] [INFO] Goblin Luggulper Wolfgang the Brutal moved from (4, 1) to (5, 3)
+[11:24:13.456] [INFO] Movement trail: [(4, 1), (5, 3)]
+[11:24:13.456] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:24:13.457] [INFO] Defensive blocker chose move (4, 1) with score 672
+[11:24:13.457] [INFO] Goblin Gnogskull moved from (6, 1) to (4, 1)
+[11:24:13.457] [INFO] Movement trail: [(6, 1), (4, 1)]
+[11:24:13.457] [INFO] Moving defensive blocker Zogtooth the Fierce with 3 movement points
+[11:24:13.457] [INFO] Defensive blocker chose move (6, 1) with score 673
+[11:24:13.457] [INFO] Goblin Zogtooth the Fierce moved from (8, 1) to (6, 1)
+[11:24:13.457] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:24:13.457] [INFO] Moving defensive blocker Stabslicer Nichelle with 1 movement points
+[11:24:13.457] [INFO] Defensive blocker chose move (9, 0) with score 364
+[11:24:13.457] [INFO] Goblin Stabslicer Nichelle moved from (9, 1) to (9, 0)
+[11:24:13.457] [INFO] Movement trail: [(9, 1), (9, 0)]
+[11:24:14.150] [INFO] Moving carrier Skrizfist with 2 movement points
+[11:24:14.150] [INFO] Goblin Skrizfist moved from (5, 7) to (5, 6)
+[11:24:14.150] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[11:24:14.150] [INFO] Carrier Skrizfist moved to (5, 6)
+[11:24:14.150] [INFO] Moving offensive blocker Bludslicer Theresa the Brutal with 4 movement points
+[11:24:14.151] [INFO] Offensive blocker chose move (5, 5) with score 2174
+[11:24:14.151] [INFO] Goblin Bludslicer Theresa the Brutal moved from (5, 8) to (5, 5)
+[11:24:14.151] [INFO] Movement trail: [(2, 8), (5, 8), (5, 5)]
+[11:24:14.151] [INFO] Moving offensive blocker Zogskull with 1 movement points
+[11:24:14.151] [INFO] Offensive blocker chose move (5, 7) with score 942
+[11:24:14.151] [INFO] Goblin Zogskull moved from (6, 7) to (5, 7)
+[11:24:14.151] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7)]
+[11:24:14.151] [INFO] Moving offensive blocker Splatsmasher with 1 movement points
+[11:24:14.151] [INFO] Offensive blocker chose move (8, 6) with score 731
+[11:24:14.151] [INFO] Goblin Splatsmasher moved from (8, 7) to (8, 6)
+[11:24:14.151] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6)]
+[11:24:14.151] [INFO] Moving offensive blocker Stabfist with 1 movement points
+[11:24:14.151] [INFO] Offensive blocker chose move (8, 7) with score 642
+[11:24:14.151] [INFO] Goblin Stabfist moved from (9, 7) to (8, 7)
+[11:24:14.151] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7)]
+[11:24:14.151] [INFO] Moving defensive blocker Thrakchomper with 2 movement points
+[11:24:14.151] [INFO] Defensive blocker chose move (5, 0) with score 664
+[11:24:14.151] [INFO] Goblin Thrakchomper moved from (3, 0) to (5, 0)
+[11:24:14.151] [INFO] Movement trail: [(2, 1), (3, 0), (5, 0)]
+[11:24:14.151] [INFO] Moving defensive blocker Luggulper Wolfgang the Brutal with 3 movement points
+[11:24:14.151] [INFO] Defensive blocker Luggulper Wolfgang the Brutal pursuing carrier Skrizfist
+[11:24:14.151] [INFO] Goblin Luggulper Wolfgang the Brutal moved from (5, 3) to (4, 5)
+[11:24:14.151] [INFO] Movement trail: [(4, 1), (5, 3), (4, 5)]
+[11:24:14.151] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:24:14.151] [INFO] Defensive blocker chose move (5, 2) with score 673
+[11:24:14.151] [INFO] Goblin Gnogskull moved from (4, 1) to (5, 2)
+[11:24:14.151] [INFO] Movement trail: [(6, 1), (4, 1), (5, 2)]
+[11:24:14.151] [INFO] Moving defensive blocker Zogtooth the Fierce with 3 movement points
+[11:24:14.152] [INFO] Defensive blocker chose move (4, 1) with score 670
+[11:24:14.152] [INFO] Goblin Zogtooth the Fierce moved from (6, 1) to (4, 1)
+[11:24:14.152] [INFO] Movement trail: [(8, 1), (6, 1), (4, 1)]
+[11:24:14.152] [INFO] Moving defensive blocker Stabslicer Nichelle with 1 movement points
+[11:24:14.152] [INFO] Defensive blocker chose move (8, 0) with score 349
+[11:24:14.152] [INFO] Goblin Stabslicer Nichelle moved from (9, 0) to (8, 0)
+[11:24:14.152] [INFO] Movement trail: [(9, 1), (9, 0), (8, 0)]
+[11:24:48.219] [INFO] Moving carrier Skrizfist with 2 movement points
+[11:24:48.219] [INFO] Goblin Skrizfist moved from (5, 6) to (5, 4)
+[11:24:48.219] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 4)]
+[11:24:48.219] [INFO] Carrier Skrizfist moved to (5, 4)
+[11:24:48.219] [INFO] Moving offensive blocker Bludslicer Theresa the Brutal with 4 movement points
+[11:24:48.219] [INFO] Attempt block of Luggulper Wolfgang the Brutal by Bludslicer Theresa the Brutal
+[11:24:48.219] [INFO] Block succeeded!
+[11:24:48.219] [INFO] Moving offensive blocker Zogskull with 1 movement points
+[11:24:48.219] [INFO] Offensive blocker chose move (5, 6) with score 841
+[11:24:48.219] [INFO] Goblin Zogskull moved from (5, 7) to (5, 6)
+[11:24:48.219] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (5, 6)]
+[11:24:48.219] [INFO] Moving offensive blocker Splatsmasher with 1 movement points
+[11:24:48.219] [INFO] Offensive blocker chose move (7, 6) with score 652
+[11:24:48.219] [INFO] Goblin Splatsmasher moved from (8, 6) to (7, 6)
+[11:24:48.219] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6), (7, 6)]
+[11:24:48.219] [INFO] Moving offensive blocker Stabfist with 1 movement points
+[11:24:48.219] [INFO] Offensive blocker chose move (7, 7) with score 545
+[11:24:48.219] [INFO] Goblin Stabfist moved from (8, 7) to (7, 7)
+[11:24:48.219] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7), (7, 7)]
+[11:24:48.219] [INFO] Moving defensive blocker Thrakchomper with 2 movement points
+[11:24:48.219] [INFO] Defensive blocker chose move (6, 0) with score 670
+[11:24:48.219] [INFO] Goblin Thrakchomper moved from (5, 0) to (6, 0)
+[11:24:48.219] [INFO] Movement trail: [(2, 1), (3, 0), (5, 0), (6, 0)]
+[11:24:48.219] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:24:48.219] [INFO] Defensive blocker Gnogskull pursuing carrier Skrizfist
+[11:24:48.219] [INFO] Goblin Gnogskull moved from (5, 2) to (4, 4)
+[11:24:48.219] [INFO] Movement trail: [(6, 1), (4, 1), (5, 2), (4, 4)]
+[11:24:48.220] [INFO] Moving defensive blocker Zogtooth the Fierce with 3 movement points
+[11:24:48.220] [INFO] Defensive blocker chose move (6, 2) with score 674
+[11:24:48.220] [INFO] Goblin Zogtooth the Fierce moved from (4, 1) to (6, 2)
+[11:24:48.220] [INFO] Movement trail: [(8, 1), (6, 1), (4, 1), (6, 2)]
+[11:24:48.220] [INFO] Moving defensive blocker Stabslicer Nichelle with 1 movement points
+[11:24:48.220] [INFO] Defensive blocker chose move (8, 1) with score 374
+[11:24:48.220] [INFO] Goblin Stabslicer Nichelle moved from (8, 0) to (8, 1)
+[11:24:48.220] [INFO] Movement trail: [(9, 1), (9, 0), (8, 0), (8, 1)]
+[11:25:08.724] [INFO] Moving carrier Skrizfist with 2 movement points
+[11:25:08.724] [INFO] Goblin Skrizfist moved from (5, 4) to (5, 3)
+[11:25:08.724] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 4), (5, 3)]
+[11:25:08.724] [INFO] Carrier Skrizfist moved to (5, 3)
+[11:25:08.724] [INFO] Moving offensive blocker Bludslicer Theresa the Brutal with 4 movement points
+[11:25:08.724] [INFO] Attempt block of Gnogskull by Bludslicer Theresa the Brutal
+[11:25:08.725] [INFO] Block succeeded!
+[11:25:08.725] [INFO] Moving offensive blocker Zogskull with 1 movement points
+[11:25:08.725] [INFO] Offensive blocker chose move (6, 6) with score 659
+[11:25:08.725] [INFO] Goblin Zogskull moved from (5, 6) to (6, 6)
+[11:25:08.725] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (5, 6), (6, 6)]
+[11:25:08.725] [INFO] Moving offensive blocker Splatsmasher with 1 movement points
+[11:25:08.725] [INFO] Offensive blocker chose move (7, 5) with score 626
+[11:25:08.725] [INFO] Goblin Splatsmasher moved from (7, 6) to (7, 5)
+[11:25:08.725] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6), (7, 6), (7, 5)]
+[11:25:08.725] [INFO] Moving offensive blocker Stabfist with 1 movement points
+[11:25:08.725] [INFO] Offensive blocker chose move (7, 6) with score 552
+[11:25:08.725] [INFO] Goblin Stabfist moved from (7, 7) to (7, 6)
+[11:25:08.725] [INFO] Movement trail: [(9, 8), (9, 7), (8, 7), (7, 7), (7, 6)]
+[11:25:08.725] [INFO] Moving defensive blocker Thrakchomper with 2 movement points
+[11:25:08.725] [INFO] Defensive blocker chose move (5, 0) with score 675
+[11:25:08.725] [INFO] Goblin Thrakchomper moved from (6, 0) to (5, 0)
+[11:25:08.725] [INFO] Movement trail: [(2, 1), (3, 0), (5, 0), (6, 0), (5, 0)]
+[11:25:08.725] [INFO] Moving defensive blocker Gnogskull with 3 movement points
+[11:25:08.725] [INFO] Defensive blocker Gnogskull pursuing carrier Skrizfist
+[11:25:08.725] [INFO] Goblin Gnogskull moved from (3, 3) to (4, 3)
+[11:25:08.725] [INFO] Movement trail: [(4, 1), (5, 2), (4, 4), (3, 3), (4, 3)]
+[11:25:08.725] [INFO] Moving defensive blocker Zogtooth the Fierce with 3 movement points
+[11:25:08.725] [INFO] Defensive blocker Zogtooth the Fierce attempting to block carrier Skrizfist
+[11:25:08.725] [INFO] Defensive blocker Zogtooth the Fierce pursuing carrier Skrizfist
+[11:25:08.725] [INFO] Moving defensive blocker Stabslicer Nichelle with 1 movement points
+[11:25:08.725] [INFO] Defensive blocker chose move (9, 1) with score 375
+[11:25:08.725] [INFO] Goblin Stabslicer Nichelle moved from (8, 1) to (9, 1)
+[11:25:08.725] [INFO] Movement trail: [(9, 1), (9, 0), (8, 0), (8, 1), (9, 1)]
+[11:25:53.320] [INFO] Moving carrier Skrizfist with 2 movement points
+[11:25:53.321] [INFO] Moving offensive blocker Thrakchomper with 2 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!
+[11:25:53.321] [INFO] Moving offensive blocker Gnogskull with 3 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!
+[11:25:53.321] [INFO] Moving offensive blocker Stabslicer Nichelle with 1 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!
+[11:25:53.321] [INFO] Moving defensive blocker Bludslicer Theresa the Brutal with 4 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!
+[11:25:53.321] [INFO] Moving defensive blocker Skrizfist with 2 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!
+[11:25:53.321] [INFO] Moving defensive blocker Zogskull with 1 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!
+[11:25:53.321] [INFO] Moving defensive blocker Splatsmasher with 1 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!
+[11:25:53.321] [INFO] Moving defensive blocker Stabfist with 1 movement points
+[11:25:53.321] [INFO] No carrier found for team Skullsmashers!

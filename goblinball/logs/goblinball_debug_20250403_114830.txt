@@ -1,0 +1,63 @@
+[11:48:30.094] [INFO] === Goblinball Debug Log - 20250403_114830 ===
+[11:48:30.094] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114830.txt
+[11:48:30.115] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:48:31.014] [INFO] Moving carrier Skrizfoot with 4 movement points
+[11:48:31.014] [INFO] Goblin Skrizfoot moved from (4, 8) to (5, 5)
+[11:48:31.014] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:48:31.014] [INFO] Carrier Skrizfoot moved along clear path to (5, 5)
+[11:48:31.017] [INFO] Moving offensive blocker Zogfoot with 2 movement points
+[11:48:31.017] [INFO] Offensive blocker chose move (3, 7) with score 492
+[11:48:31.017] [INFO] Goblin Zogfoot moved from (2, 8) to (3, 7)
+[11:48:31.017] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:48:31.017] [INFO] Moving offensive blocker Grubbiter with 2 movement points
+[11:48:31.017] [INFO] Offensive blocker chose move (6, 6) with score 660
+[11:48:31.017] [INFO] Goblin Grubbiter moved from (6, 8) to (6, 6)
+[11:48:31.017] [INFO] Movement trail: [(6, 8), (6, 6)]
+[11:48:31.017] [INFO] Moving offensive blocker Grubbiter Solomon with 4 movement points
+[11:48:31.018] [INFO] Offensive blocker chose move (5, 7) with score 671
+[11:48:31.018] [INFO] Goblin Grubbiter Solomon moved from (8, 8) to (5, 7)
+[11:48:31.018] [INFO] Movement trail: [(8, 8), (5, 7)]
+[11:48:31.018] [INFO] Moving offensive blocker Fizzface Yssith with 1 movement points
+[11:48:31.018] [INFO] Offensive blocker chose move (9, 7) with score 336
+[11:48:31.018] [INFO] Goblin Fizzface Yssith moved from (9, 8) to (9, 7)
+[11:48:31.018] [INFO] Movement trail: [(9, 8), (9, 7)]
+[11:48:31.018] [INFO] Moving defensive blocker Mugskull with 3 movement points
+[11:48:31.019] [INFO] Defensive blocker chose move (5, 1) with score 1274
+[11:48:31.019] [INFO] Goblin Mugskull moved from (2, 1) to (5, 1)
+[11:48:31.019] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:48:31.019] [INFO] Moving defensive blocker Grimfoot with 1 movement points
+[11:48:31.019] [INFO] Defensive blocker chose move (4, 2) with score 1272
+[11:48:31.019] [INFO] Goblin Grimfoot moved from (4, 1) to (4, 2)
+[11:48:31.019] [INFO] Movement trail: [(4, 1), (4, 2)]
+[11:48:31.019] [INFO] Moving defensive blocker Zogstabber Vinkolt with 4 movement points
+[11:48:31.019] [INFO] Defensive blocker chose move (5, 4) with score 3392
+[11:48:31.019] [INFO] Goblin Zogstabber Vinkolt moved from (6, 1) to (5, 4)
+[11:48:31.019] [INFO] Movement trail: [(6, 1), (5, 4)]
+[11:48:31.019] [INFO] Moving defensive blocker Skrizgulper Moranet with 2 movement points
+[11:48:31.019] [INFO] Defensive blocker chose move (6, 1) with score 1184
+[11:48:31.019] [INFO] Goblin Skrizgulper Moranet moved from (8, 1) to (6, 1)
+[11:48:31.019] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:48:31.019] [INFO] Moving defensive blocker Snotbiter with 3 movement points
+[11:48:31.019] [INFO] Defensive blocker chose move (7, 2) with score 1016
+[11:48:31.019] [INFO] Goblin Snotbiter moved from (9, 1) to (7, 2)
+[11:48:31.019] [INFO] Movement trail: [(9, 1), (7, 2)]
+[11:48:31.977] [INFO] Moving carrier Skrizfoot with 4 movement points
+[11:48:31.978] [INFO] Carrier Skrizfoot couldn't find valid move
+[11:48:31.978] [INFO] Moving offensive blocker Mugskull with 3 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving offensive blocker Grimfoot with 1 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving offensive blocker Zogstabber Vinkolt with 4 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving offensive blocker Skrizgulper Moranet with 2 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving offensive blocker Snotbiter with 3 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving defensive blocker Zogfoot with 2 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving defensive blocker Grubbiter with 2 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving defensive blocker Grubbiter Solomon with 4 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!
+[11:48:31.978] [INFO] Moving defensive blocker Fizzface Yssith with 1 movement points
+[11:48:31.978] [INFO] No carrier found for team Skullsmashers!

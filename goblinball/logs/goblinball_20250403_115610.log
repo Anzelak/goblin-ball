@@ -1,0 +1,33 @@
+2025-04-03 11:56:10,924 - goblinball - INFO - ==================================================
+2025-04-03 11:56:10,924 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:56:10,925 - goblinball - INFO - Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+2025-04-03 11:56:10,925 - goblinball - INFO - Current working directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:56:10,925 - goblinball - INFO - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball\\goblinball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 11:56:10,925 - goblinball - INFO - ==================================================
+2025-04-03 11:56:10,932 - goblinball - INFO - All required modules validated successfully
+2025-04-03 11:56:10,932 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:56:10,932 - goblinball - INFO - Running from directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:56:10,952 - goblinball.controller - INFO - Selected carrier: Fizzfinger the Sly from team Mudcrushers
+2025-04-03 11:56:10,952 - goblinball.controller - INFO - ===== Starting Play 1 =====
+2025-04-03 11:56:10,952 - goblinball.controller - INFO - Selected carrier: Bludmangler Wraithfire from team Mudcrushers
+2025-04-03 11:56:16,221 - goblinball.controller - INFO - ==== Processing Turn 1 ====
+2025-04-03 11:56:16,221 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:56:16,221 - goblinball.controller - INFO - Attempting to move carrier Bludmangler Wraithfire
+2025-04-03 11:56:16,224 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:56:16,225 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:56:22,217 - goblinball.controller - INFO - ==== Processing Turn 2 ====
+2025-04-03 11:56:22,218 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:56:22,218 - goblinball.controller - INFO - Attempting to move carrier Bludmangler Wraithfire
+2025-04-03 11:56:22,219 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:56:22,219 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:56:22,795 - goblinball.controller - INFO - ==== Processing Turn 3 ====
+2025-04-03 11:56:22,796 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:56:22,799 - goblinball.controller - INFO - Attempting to move carrier Bludmangler Wraithfire
+2025-04-03 11:56:22,815 - goblinball.controller - INFO - ===== Ending Play 1 after 3 turns =====
+2025-04-03 11:56:22,815 - goblinball.controller - INFO - Score: Mudcrushers 3 - 0 Skullsmashers
+2025-04-03 11:56:22,830 - goblinball.controller - INFO - ===== Ending Play 1 after 3 turns =====
+2025-04-03 11:56:22,846 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 11:56:22,854 - goblinball.controller - INFO - Carrier Bludmangler Wraithfire scored! Ending play.
+2025-04-03 11:56:22,856 - goblinball.controller - INFO - ===== Ending Play 1 after 3 turns =====
+2025-04-03 11:56:22,858 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 11:56:24,525 - goblinball - INFO - Goblinball ended

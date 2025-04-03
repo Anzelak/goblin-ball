@@ -1,0 +1,583 @@
+[11:55:23.796] [INFO] === Goblinball Debug Log - 20250403_115523 ===
+[11:55:23.796] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115523.txt
+[11:55:23.817] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:55:24.809] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:24.810] [INFO] Goblin Bludchewer moved from (4, 8) to (4, 7)
+[11:55:24.810] [INFO] Movement trail: [(4, 8), (4, 7)]
+[11:55:24.810] [INFO] Carrier Bludchewer moved to (4, 7) (score: 23.0)
+[11:55:24.811] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:24.811] [INFO] Offensive blocker chose move (3, 7) with score 725
+[11:55:24.811] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (2, 8) to (3, 7)
+[11:55:24.811] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:55:24.811] [INFO] Moving offensive blocker Globfoot  with 3 movement points
+[11:55:24.811] [INFO] Offensive blocker chose move (5, 7) with score 720
+[11:55:24.811] [INFO] Goblin Globfoot  moved from (6, 8) to (5, 7)
+[11:55:24.811] [INFO] Movement trail: [(6, 8), (5, 7)]
+[11:55:24.811] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:24.811] [INFO] Offensive blocker chose move (7, 7) with score 563
+[11:55:24.811] [INFO] Goblin Gutskull Thefarie moved from (8, 8) to (7, 7)
+[11:55:24.811] [INFO] Movement trail: [(8, 8), (7, 7)]
+[11:55:24.811] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:24.811] [INFO] Offensive blocker chose move (6, 8) with score 572
+[11:55:24.811] [INFO] Goblin Snotfinger moved from (9, 8) to (6, 8)
+[11:55:24.811] [INFO] Movement trail: [(9, 8), (6, 8)]
+[11:55:24.811] [INFO] Moving defensive blocker Grimfinger with 4 movement points
+[11:55:24.811] [INFO] Defensive blocker chose move (4, 3) with score 1258
+[11:55:24.811] [INFO] Goblin Grimfinger moved from (2, 1) to (4, 3)
+[11:55:24.811] [INFO] Movement trail: [(2, 1), (4, 3)]
+[11:55:24.812] [INFO] Moving defensive blocker Grubgulper the Brutal with 1 movement points
+[11:55:24.812] [INFO] Defensive blocker chose move (4, 2) with score 1219
+[11:55:24.812] [INFO] Goblin Grubgulper the Brutal moved from (4, 1) to (4, 2)
+[11:55:24.812] [INFO] Movement trail: [(4, 1), (4, 2)]
+[11:55:24.812] [INFO] Moving defensive blocker Skrizfoot the Cunning with 3 movement points
+[11:55:24.812] [INFO] Defensive blocker chose move (5, 3) with score 1209
+[11:55:24.812] [INFO] Goblin Skrizfoot the Cunning moved from (6, 1) to (5, 3)
+[11:55:24.812] [INFO] Movement trail: [(6, 1), (5, 3)]
+[11:55:24.812] [INFO] Moving defensive blocker Skabskull the Cunning with 3 movement points
+[11:55:24.812] [INFO] Defensive blocker chose move (5, 1) with score 1091
+[11:55:24.812] [INFO] Goblin Skabskull the Cunning moved from (8, 1) to (5, 1)
+[11:55:24.812] [INFO] Movement trail: [(8, 1), (5, 1)]
+[11:55:24.812] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:24.812] [INFO] Defensive blocker chose move (8, 1) with score 749
+[11:55:24.812] [INFO] Goblin Skabslicer moved from (9, 1) to (8, 1)
+[11:55:24.812] [INFO] Movement trail: [(9, 1), (8, 1)]
+[11:55:25.347] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:25.347] [INFO] Goblin Bludchewer moved from (4, 7) to (4, 6)
+[11:55:25.347] [INFO] Movement trail: [(4, 8), (4, 7), (4, 6)]
+[11:55:25.347] [INFO] Carrier Bludchewer moved to (4, 6) (score: 23.0)
+[11:55:25.347] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:25.347] [INFO] Offensive blocker chose move (3, 6) with score 760
+[11:55:25.347] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (3, 7) to (3, 6)
+[11:55:25.347] [INFO] Movement trail: [(2, 8), (3, 7), (3, 6)]
+[11:55:25.347] [INFO] Moving offensive blocker Globfoot  with 3 movement points
+[11:55:25.347] [INFO] Offensive blocker chose move (4, 5) with score 1426
+[11:55:25.347] [INFO] Goblin Globfoot  moved from (5, 7) to (4, 5)
+[11:55:25.347] [INFO] Movement trail: [(6, 8), (5, 7), (4, 5)]
+[11:55:25.347] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:25.348] [INFO] Offensive blocker chose move (6, 6) with score 677
+[11:55:25.348] [INFO] Goblin Gutskull Thefarie moved from (7, 7) to (6, 6)
+[11:55:25.348] [INFO] Movement trail: [(8, 8), (7, 7), (6, 6)]
+[11:55:25.348] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:25.348] [INFO] Offensive blocker chose move (4, 7) with score 735
+[11:55:25.348] [INFO] Goblin Snotfinger moved from (6, 8) to (4, 7)
+[11:55:25.348] [INFO] Movement trail: [(9, 8), (6, 8), (4, 7)]
+[11:55:25.348] [INFO] Moving defensive blocker Grimfinger with 4 movement points
+[11:55:25.348] [INFO] Defensive blocker chose move (5, 6) with score 2943
+[11:55:25.348] [INFO] Moving defensive blocker Grubgulper the Brutal with 1 movement points
+[11:55:25.348] [INFO] Defensive blocker chose move (3, 2) with score 1201
+[11:55:25.348] [INFO] Goblin Grubgulper the Brutal moved from (4, 2) to (3, 2)
+[11:55:25.348] [INFO] Movement trail: [(4, 1), (4, 2), (3, 2)]
+[11:55:25.348] [INFO] Moving defensive blocker Skrizfoot the Cunning with 3 movement points
+[11:55:25.348] [INFO] Defensive blocker chose move (5, 6) with score 2966
+[11:55:25.348] [INFO] Goblin Skrizfoot the Cunning moved from (5, 3) to (5, 6)
+[11:55:25.348] [INFO] Movement trail: [(6, 1), (5, 3), (5, 6)]
+[11:55:25.348] [INFO] Moving defensive blocker Skabskull the Cunning with 3 movement points
+[11:55:25.348] [INFO] Defensive blocker chose move (5, 4) with score 1321
+[11:55:25.348] [INFO] Goblin Skabskull the Cunning moved from (5, 1) to (5, 4)
+[11:55:25.348] [INFO] Movement trail: [(8, 1), (5, 1), (5, 4)]
+[11:55:25.348] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:25.348] [INFO] Defensive blocker chose move (7, 1) with score 857
+[11:55:25.348] [INFO] Goblin Skabslicer moved from (8, 1) to (7, 1)
+[11:55:25.348] [INFO] Movement trail: [(9, 1), (8, 1), (7, 1)]
+[11:55:26.800] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:26.800] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:26.800] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:26.800] [INFO] Offensive blocker chose move (2, 6) with score 661
+[11:55:26.800] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (3, 6) to (2, 6)
+[11:55:26.800] [INFO] Movement trail: [(2, 8), (3, 7), (3, 6), (2, 6)]
+[11:55:26.800] [INFO] Moving offensive blocker Globfoot  with 3 movement points
+[11:55:26.800] [INFO] Attempt block of Skrizfoot the Cunning by Globfoot 
+[11:55:26.800] [INFO] Attempt block of Skabskull the Cunning by Globfoot 
+[11:55:26.800] [INFO] Block succeeded!
+[11:55:26.800] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:26.800] [INFO] Attempt block of Skrizfoot the Cunning by Gutskull Thefarie
+[11:55:26.801] [INFO] Offensive blocker chose move (6, 6) with score 3114
+[11:55:26.801] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:26.801] [INFO] Attempt block of Skrizfoot the Cunning by Snotfinger
+[11:55:26.801] [INFO] Block succeeded!
+[11:55:26.801] [INFO] Moving defensive blocker Grubgulper the Brutal with 1 movement points
+[11:55:26.801] [INFO] Defensive blocker chose move (3, 3) with score 1271
+[11:55:26.801] [INFO] Goblin Grubgulper the Brutal moved from (3, 2) to (3, 3)
+[11:55:26.801] [INFO] Movement trail: [(4, 1), (4, 2), (3, 2), (3, 3)]
+[11:55:26.801] [INFO] Moving defensive blocker Skrizfoot the Cunning with 3 movement points
+[11:55:26.801] [INFO] Defensive blocker chose move (5, 6) with score 3933
+[11:55:26.801] [INFO] Goblin Skrizfoot the Cunning moved from (6, 5) to (5, 6)
+[11:55:26.801] [INFO] Movement trail: [(6, 1), (5, 3), (5, 6), (6, 5), (5, 6)]
+[11:55:26.801] [INFO] Defensive blocker Skrizfoot the Cunning attempting to block carrier Bludchewer after moving
+[11:55:26.801] [INFO] Moving defensive blocker Skabskull the Cunning with 3 movement points
+[11:55:26.801] [INFO] Defensive blocker chose move (4, 4) with score 1366
+[11:55:26.801] [INFO] Goblin Skabskull the Cunning moved from (6, 3) to (4, 4)
+[11:55:26.801] [INFO] Movement trail: [(8, 1), (5, 1), (5, 4), (6, 3), (4, 4)]
+[11:55:26.801] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:26.801] [INFO] Defensive blocker chose move (7, 2) with score 924
+[11:55:26.801] [INFO] Goblin Skabslicer moved from (7, 1) to (7, 2)
+[11:55:26.801] [INFO] Movement trail: [(9, 1), (8, 1), (7, 1), (7, 2)]
+[11:55:27.633] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:27.633] [INFO] Goblin Bludchewer moved from (4, 6) to (3, 6)
+[11:55:27.633] [INFO] Movement trail: [(4, 8), (4, 7), (4, 6), (3, 6)]
+[11:55:27.633] [INFO] Carrier Bludchewer moved to (3, 6) (score: 30.0)
+[11:55:27.633] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:27.633] [INFO] Offensive blocker chose move (4, 6) with score 3423
+[11:55:27.633] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (2, 6) to (4, 6)
+[11:55:27.633] [INFO] Movement trail: [(2, 8), (3, 7), (3, 6), (2, 6), (4, 6)]
+[11:55:27.633] [INFO] Moving offensive blocker Globfoot  with 3 movement points
+[11:55:27.633] [INFO] Attempt block of Skrizfoot the Cunning by Globfoot 
+[11:55:27.633] [INFO] Attempt block of Skabskull the Cunning by Globfoot 
+[11:55:27.634] [INFO] Offensive blocker chose move (4, 5) with score 3015
+[11:55:27.634] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:27.634] [INFO] Attempt block of Skrizfoot the Cunning by Gutskull Thefarie
+[11:55:27.634] [INFO] Block succeeded!
+[11:55:27.634] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:27.634] [INFO] Offensive blocker chose move (3, 5) with score 1458
+[11:55:27.634] [INFO] Goblin Snotfinger moved from (4, 7) to (3, 5)
+[11:55:27.634] [INFO] Movement trail: [(9, 8), (6, 8), (4, 7), (3, 5)]
+[11:55:27.634] [INFO] Moving defensive blocker Grubgulper the Brutal with 1 movement points
+[11:55:27.634] [INFO] Defensive blocker chose move (3, 4) with score 1339
+[11:55:27.634] [INFO] Goblin Grubgulper the Brutal moved from (3, 3) to (3, 4)
+[11:55:27.634] [INFO] Movement trail: [(4, 1), (4, 2), (3, 2), (3, 3), (3, 4)]
+[11:55:27.634] [INFO] Moving defensive blocker Skabskull the Cunning with 3 movement points
+[11:55:27.634] [INFO] Defensive blocker chose move (2, 5) with score 1330
+[11:55:27.634] [INFO] Goblin Skabskull the Cunning moved from (4, 4) to (2, 5)
+[11:55:27.634] [INFO] Movement trail: [(5, 1), (5, 4), (6, 3), (4, 4), (2, 5)]
+[11:55:27.634] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:27.634] [INFO] Defensive blocker chose move (6, 2) with score 901
+[11:55:27.634] [INFO] Goblin Skabslicer moved from (7, 2) to (6, 2)
+[11:55:27.634] [INFO] Movement trail: [(9, 1), (8, 1), (7, 1), (7, 2), (6, 2)]
+[11:55:30.618] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:30.619] [INFO] Goblin Bludchewer moved from (3, 6) to (2, 6)
+[11:55:30.619] [INFO] Movement trail: [(4, 8), (4, 7), (4, 6), (3, 6), (2, 6)]
+[11:55:30.619] [INFO] Carrier Bludchewer moved to (2, 6) (score: 28.0)
+[11:55:30.619] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:30.619] [INFO] Offensive blocker chose move (4, 4) with score 2380
+[11:55:30.619] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (4, 6) to (4, 4)
+[11:55:30.619] [INFO] Movement trail: [(3, 7), (3, 6), (2, 6), (4, 6), (4, 4)]
+[11:55:30.619] [INFO] Moving offensive blocker Globfoot  with 3 movement points
+[11:55:30.619] [INFO] Attempt block of Grubgulper the Brutal by Globfoot 
+[11:55:30.619] [INFO] Offensive blocker chose move (3, 6) with score 702
+[11:55:30.619] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:30.619] [INFO] Offensive blocker chose move (4, 6) with score 659
+[11:55:30.619] [INFO] Goblin Gutskull Thefarie moved from (6, 6) to (4, 6)
+[11:55:30.619] [INFO] Movement trail: [(8, 8), (7, 7), (6, 6), (4, 6)]
+[11:55:30.619] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:30.619] [INFO] Attempt block of Skabskull the Cunning by Snotfinger
+[11:55:30.619] [INFO] Attempt block of Grubgulper the Brutal by Snotfinger
+[11:55:30.619] [INFO] Offensive blocker chose move (3, 5) with score 5482
+[11:55:30.619] [INFO] Moving defensive blocker Grubgulper the Brutal with 1 movement points
+[11:55:30.619] [INFO] Defensive blocker chose move (2, 4) with score 1347
+[11:55:30.619] [INFO] Goblin Grubgulper the Brutal moved from (3, 4) to (2, 4)
+[11:55:30.619] [INFO] Movement trail: [(4, 2), (3, 2), (3, 3), (3, 4), (2, 4)]
+[11:55:30.619] [INFO] Moving defensive blocker Skabskull the Cunning with 3 movement points
+[11:55:30.619] [INFO] Defensive blocker Skabskull the Cunning attempting to block carrier Bludchewer
+[11:55:30.619] [INFO] Defensive blocker chose move (2, 5) with score 4415
+[11:55:30.619] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:30.619] [INFO] Defensive blocker chose move (5, 2) with score 924
+[11:55:30.619] [INFO] Goblin Skabslicer moved from (6, 2) to (5, 2)
+[11:55:30.619] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2), (6, 2), (5, 2)]
+[11:55:31.867] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:31.867] [INFO] Goblin Bludchewer moved from (2, 6) to (1, 6)
+[11:55:31.867] [INFO] Movement trail: [(4, 7), (4, 6), (3, 6), (2, 6), (1, 6)]
+[11:55:31.867] [INFO] Carrier Bludchewer moved to (1, 6) (score: 28.0)
+[11:55:31.867] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:31.867] [INFO] Offensive blocker chose move (3, 4) with score 2856
+[11:55:31.867] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (4, 4) to (3, 4)
+[11:55:31.867] [INFO] Movement trail: [(3, 6), (2, 6), (4, 6), (4, 4), (3, 4)]
+[11:55:31.867] [INFO] Offensive blocker Fizzsquisher Arade the Brutal attempting to block Skabskull the Cunning after moving
+[11:55:31.867] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:31.867] [INFO] Offensive blocker chose move (2, 6) with score 2634
+[11:55:31.867] [INFO] Goblin Gutskull Thefarie moved from (4, 6) to (2, 6)
+[11:55:31.867] [INFO] Movement trail: [(8, 8), (7, 7), (6, 6), (4, 6), (2, 6)]
+[11:55:31.867] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:31.867] [INFO] Attempt block of Skabskull the Cunning by Snotfinger
+[11:55:31.867] [INFO] Attempt block of Grubgulper the Brutal by Snotfinger
+[11:55:31.867] [INFO] Offensive blocker chose move (3, 5) with score 2985
+[11:55:31.867] [INFO] Moving defensive blocker Grubgulper the Brutal with 1 movement points
+[11:55:31.868] [INFO] Defensive blocker chose move (1, 4) with score 1331
+[11:55:31.868] [INFO] Goblin Grubgulper the Brutal moved from (2, 4) to (1, 4)
+[11:55:31.868] [INFO] Movement trail: [(3, 2), (3, 3), (3, 4), (2, 4), (1, 4)]
+[11:55:31.868] [INFO] Moving defensive blocker Skabskull the Cunning with 3 movement points
+[11:55:31.868] [INFO] Defensive blocker Skabskull the Cunning attempting to block carrier Bludchewer
+[11:55:31.868] [INFO] Defensive blocker chose move (1, 5) with score 4391
+[11:55:31.868] [INFO] Goblin Skabskull the Cunning moved from (2, 5) to (1, 5)
+[11:55:31.868] [INFO] Movement trail: [(5, 4), (6, 3), (4, 4), (2, 5), (1, 5)]
+[11:55:31.868] [INFO] Defensive blocker Skabskull the Cunning attempting to block carrier Bludchewer after moving
+[11:55:31.868] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:31.868] [INFO] Defensive blocker chose move (5, 3) with score 894
+[11:55:31.868] [INFO] Goblin Skabslicer moved from (5, 2) to (5, 3)
+[11:55:31.868] [INFO] Movement trail: [(7, 1), (7, 2), (6, 2), (5, 2), (5, 3)]
+[11:55:32.523] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:32.523] [INFO] Goblin Bludchewer moved from (1, 6) to (0, 6)
+[11:55:32.523] [INFO] Movement trail: [(4, 6), (3, 6), (2, 6), (1, 6), (0, 6)]
+[11:55:32.523] [INFO] Carrier Bludchewer moved to (0, 6) (score: 28.0)
+[11:55:32.523] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:32.523] [INFO] Offensive blocker chose move (2, 4) with score 2855
+[11:55:32.523] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (3, 4) to (2, 4)
+[11:55:32.523] [INFO] Movement trail: [(2, 6), (4, 6), (4, 4), (3, 4), (2, 4)]
+[11:55:32.523] [INFO] Offensive blocker Fizzsquisher Arade the Brutal attempting to block Skabskull the Cunning after moving
+[11:55:32.523] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:32.523] [INFO] Attempt block of Skabskull the Cunning by Gutskull Thefarie
+[11:55:32.523] [INFO] Offensive blocker chose move (1, 6) with score 2654
+[11:55:32.523] [INFO] Goblin Gutskull Thefarie moved from (2, 6) to (1, 6)
+[11:55:32.523] [INFO] Movement trail: [(7, 7), (6, 6), (4, 6), (2, 6), (1, 6)]
+[11:55:32.523] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:32.523] [INFO] Offensive blocker chose move (2, 5) with score 2981
+[11:55:32.523] [INFO] Goblin Snotfinger moved from (3, 5) to (2, 5)
+[11:55:32.523] [INFO] Movement trail: [(9, 8), (6, 8), (4, 7), (3, 5), (2, 5)]
+[11:55:32.523] [INFO] Offensive blocker Snotfinger attempting to block Skabskull the Cunning after moving
+[11:55:32.523] [INFO] Moving defensive blocker Grubgulper the Brutal with 1 movement points
+[11:55:32.524] [INFO] Defensive blocker chose move (0, 4) with score 1374
+[11:55:32.524] [INFO] Moving defensive blocker Skabskull the Cunning with 3 movement points
+[11:55:32.524] [INFO] Defensive blocker Skabskull the Cunning attempting to block carrier Bludchewer
+[11:55:32.524] [INFO] Defensive blocker chose move (0, 5) with score 4387
+[11:55:32.524] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:32.524] [INFO] Defensive blocker chose move (5, 4) with score 888
+[11:55:32.524] [INFO] Goblin Skabslicer moved from (5, 3) to (5, 4)
+[11:55:32.524] [INFO] Movement trail: [(7, 2), (6, 2), (5, 2), (5, 3), (5, 4)]
+[11:55:33.158] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:33.158] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:33.158] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:33.159] [INFO] Offensive blocker chose move (0, 4) with score 2631
+[11:55:33.159] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (2, 4) to (0, 4)
+[11:55:33.159] [INFO] Movement trail: [(4, 6), (4, 4), (3, 4), (2, 4), (0, 4)]
+[11:55:33.159] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:33.159] [INFO] Attempt block of Skabskull the Cunning by Gutskull Thefarie
+[11:55:33.159] [INFO] Block succeeded!
+[11:55:33.159] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:33.159] [INFO] Offensive blocker chose move (1, 5) with score 678
+[11:55:33.159] [INFO] Goblin Snotfinger moved from (2, 5) to (1, 5)
+[11:55:33.159] [INFO] Movement trail: [(6, 8), (4, 7), (3, 5), (2, 5), (1, 5)]
+[11:55:33.159] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:33.159] [INFO] Defensive blocker chose move (5, 5) with score 965
+[11:55:33.159] [INFO] Goblin Skabslicer moved from (5, 4) to (5, 5)
+[11:55:33.159] [INFO] Movement trail: [(6, 2), (5, 2), (5, 3), (5, 4), (5, 5)]
+[11:55:34.174] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:34.174] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:34.174] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:34.174] [INFO] Offensive blocker chose move (0, 3) with score 589
+[11:55:34.174] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (0, 4) to (0, 3)
+[11:55:34.174] [INFO] Movement trail: [(4, 4), (3, 4), (2, 4), (0, 4), (0, 3)]
+[11:55:34.174] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:34.174] [INFO] Offensive blocker chose move (0, 7) with score 704
+[11:55:34.174] [INFO] Goblin Gutskull Thefarie moved from (1, 6) to (0, 7)
+[11:55:34.174] [INFO] Movement trail: [(6, 6), (4, 6), (2, 6), (1, 6), (0, 7)]
+[11:55:34.174] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:34.174] [INFO] Offensive blocker chose move (1, 6) with score 696
+[11:55:34.174] [INFO] Goblin Snotfinger moved from (1, 5) to (1, 6)
+[11:55:34.174] [INFO] Movement trail: [(4, 7), (3, 5), (2, 5), (1, 5), (1, 6)]
+[11:55:34.174] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:34.174] [INFO] Defensive blocker chose move (6, 5) with score 888
+[11:55:34.174] [INFO] Goblin Skabslicer moved from (5, 5) to (6, 5)
+[11:55:34.174] [INFO] Movement trail: [(5, 2), (5, 3), (5, 4), (5, 5), (6, 5)]
+[11:55:35.272] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:35.272] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:35.272] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:35.272] [INFO] Offensive blocker chose move (0, 4) with score 654
+[11:55:35.272] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (0, 3) to (0, 4)
+[11:55:35.272] [INFO] Movement trail: [(3, 4), (2, 4), (0, 4), (0, 3), (0, 4)]
+[11:55:35.272] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:35.272] [INFO] Offensive blocker chose move (1, 7) with score 638
+[11:55:35.273] [INFO] Goblin Gutskull Thefarie moved from (0, 7) to (1, 7)
+[11:55:35.273] [INFO] Movement trail: [(4, 6), (2, 6), (1, 6), (0, 7), (1, 7)]
+[11:55:35.273] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:35.273] [INFO] Offensive blocker chose move (0, 7) with score 711
+[11:55:35.273] [INFO] Goblin Snotfinger moved from (1, 6) to (0, 7)
+[11:55:35.273] [INFO] Movement trail: [(3, 5), (2, 5), (1, 5), (1, 6), (0, 7)]
+[11:55:35.273] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:35.273] [INFO] Defensive blocker chose move (5, 5) with score 968
+[11:55:35.273] [INFO] Goblin Skabslicer moved from (6, 5) to (5, 5)
+[11:55:35.273] [INFO] Movement trail: [(5, 3), (5, 4), (5, 5), (6, 5), (5, 5)]
+[11:55:36.391] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:36.391] [INFO] Goblin Bludchewer moved from (0, 6) to (1, 6)
+[11:55:36.391] [INFO] Movement trail: [(3, 6), (2, 6), (1, 6), (0, 6), (1, 6)]
+[11:55:36.391] [INFO] Carrier Bludchewer moved to lateral position (1, 6) (safety: 0.0)
+[11:55:36.391] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:36.391] [INFO] Offensive blocker chose move (1, 5) with score 729
+[11:55:36.391] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (0, 4) to (1, 5)
+[11:55:36.391] [INFO] Movement trail: [(2, 4), (0, 4), (0, 3), (0, 4), (1, 5)]
+[11:55:36.391] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:36.391] [INFO] Offensive blocker chose move (0, 6) with score 737
+[11:55:36.391] [INFO] Goblin Gutskull Thefarie moved from (1, 7) to (0, 6)
+[11:55:36.391] [INFO] Movement trail: [(2, 6), (1, 6), (0, 7), (1, 7), (0, 6)]
+[11:55:36.391] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:36.391] [INFO] Offensive blocker chose move (2, 6) with score 759
+[11:55:36.391] [INFO] Goblin Snotfinger moved from (0, 7) to (2, 6)
+[11:55:36.391] [INFO] Movement trail: [(2, 5), (1, 5), (1, 6), (0, 7), (2, 6)]
+[11:55:36.391] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:36.391] [INFO] Defensive blocker chose move (6, 5) with score 940
+[11:55:36.392] [INFO] Goblin Skabslicer moved from (5, 5) to (6, 5)
+[11:55:36.392] [INFO] Movement trail: [(5, 4), (5, 5), (6, 5), (5, 5), (6, 5)]
+[11:55:36.998] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:36.998] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:36.998] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:36.998] [INFO] Offensive blocker chose move (1, 7) with score 708
+[11:55:36.998] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (1, 5) to (1, 7)
+[11:55:36.998] [INFO] Movement trail: [(0, 4), (0, 3), (0, 4), (1, 5), (1, 7)]
+[11:55:36.998] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:36.998] [INFO] Offensive blocker chose move (1, 5) with score 728
+[11:55:36.998] [INFO] Goblin Gutskull Thefarie moved from (0, 6) to (1, 5)
+[11:55:36.998] [INFO] Movement trail: [(1, 6), (0, 7), (1, 7), (0, 6), (1, 5)]
+[11:55:36.998] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:36.998] [INFO] Offensive blocker chose move (0, 6) with score 756
+[11:55:36.998] [INFO] Goblin Snotfinger moved from (2, 6) to (0, 6)
+[11:55:36.998] [INFO] Movement trail: [(1, 5), (1, 6), (0, 7), (2, 6), (0, 6)]
+[11:55:36.998] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:36.998] [INFO] Defensive blocker chose move (5, 5) with score 980
+[11:55:36.998] [INFO] Goblin Skabslicer moved from (6, 5) to (5, 5)
+[11:55:36.999] [INFO] Movement trail: [(5, 5), (6, 5), (5, 5), (6, 5), (5, 5)]
+[11:55:37.555] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:37.555] [INFO] Goblin Bludchewer moved from (1, 6) to (2, 6)
+[11:55:37.555] [INFO] Movement trail: [(2, 6), (1, 6), (0, 6), (1, 6), (2, 6)]
+[11:55:37.555] [INFO] Carrier Bludchewer moved to lateral position (2, 6) (safety: 0.0)
+[11:55:37.555] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:37.555] [INFO] Offensive blocker chose move (2, 7) with score 749
+[11:55:37.555] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (1, 7) to (2, 7)
+[11:55:37.555] [INFO] Movement trail: [(0, 3), (0, 4), (1, 5), (1, 7), (2, 7)]
+[11:55:37.555] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:37.555] [INFO] Offensive blocker chose move (2, 5) with score 740
+[11:55:37.555] [INFO] Goblin Gutskull Thefarie moved from (1, 5) to (2, 5)
+[11:55:37.555] [INFO] Movement trail: [(0, 7), (1, 7), (0, 6), (1, 5), (2, 5)]
+[11:55:37.555] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:37.555] [INFO] Offensive blocker chose move (3, 6) with score 730
+[11:55:37.555] [INFO] Goblin Snotfinger moved from (0, 6) to (3, 6)
+[11:55:37.555] [INFO] Movement trail: [(1, 6), (0, 7), (2, 6), (0, 6), (3, 6)]
+[11:55:37.555] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:37.555] [INFO] Defensive blocker chose move (6, 5) with score 1003
+[11:55:37.555] [INFO] Goblin Skabslicer moved from (5, 5) to (6, 5)
+[11:55:37.556] [INFO] Movement trail: [(6, 5), (5, 5), (6, 5), (5, 5), (6, 5)]
+[11:55:38.655] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:38.655] [INFO] Goblin Bludchewer moved from (2, 6) to (1, 6)
+[11:55:38.655] [INFO] Movement trail: [(1, 6), (0, 6), (1, 6), (2, 6), (1, 6)]
+[11:55:38.655] [INFO] Carrier Bludchewer moved to lateral position (1, 6) (safety: 0.0)
+[11:55:38.655] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:38.656] [INFO] Offensive blocker chose move (2, 6) with score 722
+[11:55:38.656] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (2, 7) to (2, 6)
+[11:55:38.656] [INFO] Movement trail: [(0, 4), (1, 5), (1, 7), (2, 7), (2, 6)]
+[11:55:38.656] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:38.656] [INFO] Offensive blocker chose move (1, 5) with score 753
+[11:55:38.656] [INFO] Goblin Gutskull Thefarie moved from (2, 5) to (1, 5)
+[11:55:38.656] [INFO] Movement trail: [(1, 7), (0, 6), (1, 5), (2, 5), (1, 5)]
+[11:55:38.656] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:38.656] [INFO] Offensive blocker chose move (0, 6) with score 735
+[11:55:38.656] [INFO] Goblin Snotfinger moved from (3, 6) to (0, 6)
+[11:55:38.656] [INFO] Movement trail: [(0, 7), (2, 6), (0, 6), (3, 6), (0, 6)]
+[11:55:38.656] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:38.656] [INFO] Defensive blocker chose move (5, 5) with score 982
+[11:55:38.656] [INFO] Goblin Skabslicer moved from (6, 5) to (5, 5)
+[11:55:38.656] [INFO] Movement trail: [(5, 5), (6, 5), (5, 5), (6, 5), (5, 5)]
+[11:55:39.252] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:39.252] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:39.252] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:39.252] [INFO] Offensive blocker chose move (1, 7) with score 695
+[11:55:39.252] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (2, 6) to (1, 7)
+[11:55:39.252] [INFO] Movement trail: [(1, 5), (1, 7), (2, 7), (2, 6), (1, 7)]
+[11:55:39.252] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:39.252] [INFO] Offensive blocker chose move (2, 6) with score 721
+[11:55:39.252] [INFO] Goblin Gutskull Thefarie moved from (1, 5) to (2, 6)
+[11:55:39.252] [INFO] Movement trail: [(0, 6), (1, 5), (2, 5), (1, 5), (2, 6)]
+[11:55:39.252] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:39.252] [INFO] Offensive blocker chose move (1, 5) with score 728
+[11:55:39.252] [INFO] Goblin Snotfinger moved from (0, 6) to (1, 5)
+[11:55:39.252] [INFO] Movement trail: [(2, 6), (0, 6), (3, 6), (0, 6), (1, 5)]
+[11:55:39.252] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:39.252] [INFO] Defensive blocker chose move (5, 4) with score 951
+[11:55:39.252] [INFO] Goblin Skabslicer moved from (5, 5) to (5, 4)
+[11:55:39.252] [INFO] Movement trail: [(6, 5), (5, 5), (6, 5), (5, 5), (5, 4)]
+[11:55:40.420] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:40.420] [INFO] Goblin Bludchewer moved from (1, 6) to (0, 6)
+[11:55:40.420] [INFO] Movement trail: [(0, 6), (1, 6), (2, 6), (1, 6), (0, 6)]
+[11:55:40.420] [INFO] Carrier Bludchewer moved to lateral position (0, 6) (safety: 0.0)
+[11:55:40.420] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:40.420] [INFO] Offensive blocker chose move (1, 6) with score 747
+[11:55:40.420] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (1, 7) to (1, 6)
+[11:55:40.420] [INFO] Movement trail: [(1, 7), (2, 7), (2, 6), (1, 7), (1, 6)]
+[11:55:40.420] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:40.420] [INFO] Offensive blocker chose move (1, 7) with score 635
+[11:55:40.420] [INFO] Goblin Gutskull Thefarie moved from (2, 6) to (1, 7)
+[11:55:40.420] [INFO] Movement trail: [(1, 5), (2, 5), (1, 5), (2, 6), (1, 7)]
+[11:55:40.420] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:40.420] [INFO] Offensive blocker chose move (0, 7) with score 720
+[11:55:40.420] [INFO] Goblin Snotfinger moved from (1, 5) to (0, 7)
+[11:55:40.420] [INFO] Movement trail: [(0, 6), (3, 6), (0, 6), (1, 5), (0, 7)]
+[11:55:40.420] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:40.420] [INFO] Defensive blocker chose move (4, 4) with score 973
+[11:55:40.420] [INFO] Goblin Skabslicer moved from (5, 4) to (4, 4)
+[11:55:40.420] [INFO] Movement trail: [(5, 5), (6, 5), (5, 5), (5, 4), (4, 4)]
+[11:55:42.290] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:42.290] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:42.290] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:42.290] [INFO] Offensive blocker chose move (2, 6) with score 676
+[11:55:42.290] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (1, 6) to (2, 6)
+[11:55:42.290] [INFO] Movement trail: [(2, 7), (2, 6), (1, 7), (1, 6), (2, 6)]
+[11:55:42.290] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:42.290] [INFO] Offensive blocker chose move (1, 6) with score 724
+[11:55:42.290] [INFO] Goblin Gutskull Thefarie moved from (1, 7) to (1, 6)
+[11:55:42.290] [INFO] Movement trail: [(2, 5), (1, 5), (2, 6), (1, 7), (1, 6)]
+[11:55:42.290] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:42.290] [INFO] Offensive blocker chose move (0, 4) with score 688
+[11:55:42.290] [INFO] Goblin Snotfinger moved from (0, 7) to (0, 4)
+[11:55:42.290] [INFO] Movement trail: [(3, 6), (0, 6), (1, 5), (0, 7), (0, 4)]
+[11:55:42.291] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:42.291] [INFO] Defensive blocker chose move (3, 4) with score 977
+[11:55:42.291] [INFO] Goblin Skabslicer moved from (4, 4) to (3, 4)
+[11:55:42.291] [INFO] Movement trail: [(6, 5), (5, 5), (5, 4), (4, 4), (3, 4)]
+[11:55:42.895] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:42.896] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:42.896] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:42.896] [INFO] Offensive blocker chose move (1, 5) with score 673
+[11:55:42.896] [INFO] Goblin Fizzsquisher Arade the Brutal moved from (2, 6) to (1, 5)
+[11:55:42.896] [INFO] Movement trail: [(2, 6), (1, 7), (1, 6), (2, 6), (1, 5)]
+[11:55:42.896] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:42.896] [INFO] Offensive blocker chose move (0, 7) with score 706
+[11:55:42.896] [INFO] Goblin Gutskull Thefarie moved from (1, 6) to (0, 7)
+[11:55:42.896] [INFO] Movement trail: [(1, 5), (2, 6), (1, 7), (1, 6), (0, 7)]
+[11:55:42.896] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:42.896] [INFO] Offensive blocker chose move (1, 6) with score 703
+[11:55:42.896] [INFO] Goblin Snotfinger moved from (0, 4) to (1, 6)
+[11:55:42.896] [INFO] Movement trail: [(0, 6), (1, 5), (0, 7), (0, 4), (1, 6)]
+[11:55:42.896] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:42.896] [INFO] Defensive blocker chose move (2, 4) with score 1051
+[11:55:42.896] [INFO] Goblin Skabslicer moved from (3, 4) to (2, 4)
+[11:55:42.896] [INFO] Movement trail: [(5, 5), (5, 4), (4, 4), (3, 4), (2, 4)]
+[11:55:43.455] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:43.455] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:43.455] [INFO] Moving offensive blocker Fizzsquisher Arade the Brutal with 2 movement points
+[11:55:43.455] [INFO] Offensive blocker chose move (0, 4) with score 673
+[11:55:43.455] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:43.455] [INFO] Offensive blocker chose move (1, 7) with score 664
+[11:55:43.455] [INFO] Goblin Gutskull Thefarie moved from (0, 7) to (1, 7)
+[11:55:43.455] [INFO] Movement trail: [(2, 6), (1, 7), (1, 6), (0, 7), (1, 7)]
+[11:55:43.455] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:43.455] [INFO] Offensive blocker chose move (0, 7) with score 706
+[11:55:43.455] [INFO] Goblin Snotfinger moved from (1, 6) to (0, 7)
+[11:55:43.455] [INFO] Movement trail: [(1, 5), (0, 7), (0, 4), (1, 6), (0, 7)]
+[11:55:43.456] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:43.456] [INFO] Defensive blocker chose move (2, 5) with score 1123
+[11:55:43.456] [INFO] Goblin Skabslicer moved from (2, 4) to (2, 5)
+[11:55:43.456] [INFO] Movement trail: [(5, 4), (4, 4), (3, 4), (2, 4), (2, 5)]
+[11:55:44.968] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:44.968] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:44.968] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:44.968] [INFO] Offensive blocker chose move (2, 6) with score 2507
+[11:55:44.968] [INFO] Goblin Gutskull Thefarie moved from (1, 7) to (2, 6)
+[11:55:44.968] [INFO] Movement trail: [(1, 7), (1, 6), (0, 7), (1, 7), (2, 6)]
+[11:55:44.968] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:44.968] [INFO] Offensive blocker chose move (1, 6) with score 747
+[11:55:44.968] [INFO] Goblin Snotfinger moved from (0, 7) to (1, 6)
+[11:55:44.968] [INFO] Movement trail: [(0, 7), (0, 4), (1, 6), (0, 7), (1, 6)]
+[11:55:44.968] [INFO] Offensive blocker Snotfinger attempting to block Skabslicer after moving
+[11:55:44.968] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:44.969] [INFO] Defensive blocker chose move (2, 5) with score 1122
+[11:55:45.674] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:45.674] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:45.674] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:45.674] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:45.674] [INFO] Offensive blocker chose move (2, 6) with score 3011
+[11:55:45.674] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:45.674] [INFO] Attempt block of Skabslicer by Snotfinger
+[11:55:45.675] [INFO] Offensive blocker chose move (1, 6) with score 743
+[11:55:45.675] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:45.675] [INFO] Defensive blocker chose move (2, 5) with score 1106
+[11:55:46.199] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:46.199] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:46.199] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:46.199] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:46.200] [INFO] Offensive blocker chose move (2, 6) with score 3019
+[11:55:46.200] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:46.200] [INFO] Attempt block of Skabslicer by Snotfinger
+[11:55:46.200] [INFO] Offensive blocker chose move (1, 6) with score 726
+[11:55:46.200] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:46.200] [INFO] Defensive blocker chose move (2, 5) with score 1106
+[11:55:47.032] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:47.032] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:47.032] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:47.032] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:47.032] [INFO] Block succeeded!
+[11:55:47.032] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:47.032] [INFO] Offensive blocker chose move (0, 7) with score 722
+[11:55:47.032] [INFO] Goblin Snotfinger moved from (1, 6) to (0, 7)
+[11:55:47.032] [INFO] Movement trail: [(0, 4), (1, 6), (0, 7), (1, 6), (0, 7)]
+[11:55:47.032] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:47.032] [INFO] Defensive blocker chose move (2, 5) with score 1078
+[11:55:47.032] [INFO] Goblin Skabslicer moved from (2, 4) to (2, 5)
+[11:55:47.032] [INFO] Movement trail: [(3, 4), (2, 4), (2, 5), (2, 4), (2, 5)]
+[11:55:47.672] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:47.672] [INFO] Goblin Bludchewer moved from (0, 6) to (1, 6)
+[11:55:47.672] [INFO] Movement trail: [(1, 6), (2, 6), (1, 6), (0, 6), (1, 6)]
+[11:55:47.672] [INFO] Carrier Bludchewer moved to lateral position (1, 6) (safety: 2.0)
+[11:55:47.672] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:47.672] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:47.672] [INFO] Offensive blocker chose move (2, 6) with score 3142
+[11:55:47.672] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:47.672] [INFO] Offensive blocker chose move (0, 6) with score 747
+[11:55:47.672] [INFO] Goblin Snotfinger moved from (0, 7) to (0, 6)
+[11:55:47.672] [INFO] Movement trail: [(1, 6), (0, 7), (1, 6), (0, 7), (0, 6)]
+[11:55:47.672] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:47.672] [INFO] Defensive blocker Skabslicer attempting to block carrier Bludchewer
+[11:55:48.579] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:48.579] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:48.579] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:48.579] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:48.579] [INFO] Offensive blocker chose move (2, 6) with score 3120
+[11:55:48.579] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:48.579] [INFO] Offensive blocker chose move (1, 7) with score 726
+[11:55:48.579] [INFO] Goblin Snotfinger moved from (0, 6) to (1, 7)
+[11:55:48.579] [INFO] Movement trail: [(0, 7), (1, 6), (0, 7), (0, 6), (1, 7)]
+[11:55:48.579] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:48.579] [INFO] Defensive blocker Skabslicer attempting to block carrier Bludchewer
+[11:55:49.087] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:49.087] [INFO] Goblin Bludchewer moved from (1, 6) to (0, 6)
+[11:55:49.087] [INFO] Movement trail: [(2, 6), (1, 6), (0, 6), (1, 6), (0, 6)]
+[11:55:49.087] [INFO] Carrier Bludchewer moved to lateral position (0, 6) (safety: 2.0)
+[11:55:49.087] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:49.087] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:49.087] [INFO] Block succeeded!
+[11:55:49.088] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:49.088] [INFO] Offensive blocker chose move (1, 6) with score 743
+[11:55:49.088] [INFO] Goblin Snotfinger moved from (1, 7) to (1, 6)
+[11:55:49.088] [INFO] Movement trail: [(1, 6), (0, 7), (0, 6), (1, 7), (1, 6)]
+[11:55:49.088] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:49.088] [INFO] Defensive blocker chose move (2, 5) with score 1093
+[11:55:49.088] [INFO] Goblin Skabslicer moved from (2, 4) to (2, 5)
+[11:55:49.088] [INFO] Movement trail: [(2, 5), (2, 4), (2, 5), (2, 4), (2, 5)]
+[11:55:49.552] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:49.552] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:49.552] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:49.552] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:49.552] [INFO] Offensive blocker chose move (2, 6) with score 2990
+[11:55:49.552] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:49.552] [INFO] Attempt block of Skabslicer by Snotfinger
+[11:55:49.552] [INFO] Offensive blocker chose move (1, 6) with score 751
+[11:55:49.552] [INFO] Moving defensive blocker Skabslicer with 1 movement points
+[11:55:49.552] [INFO] Defensive blocker chose move (2, 5) with score 1115
+[11:55:49.987] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:49.987] [INFO] Carrier Bludchewer couldn't find valid move
+[11:55:49.987] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:49.987] [INFO] Attempt block of Skabslicer by Gutskull Thefarie
+[11:55:49.987] [INFO] Block succeeded!
+[11:55:49.987] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:49.987] [INFO] Offensive blocker chose move (0, 7) with score 714
+[11:55:49.987] [INFO] Goblin Snotfinger moved from (1, 6) to (0, 7)
+[11:55:49.987] [INFO] Movement trail: [(0, 7), (0, 6), (1, 7), (1, 6), (0, 7)]
+[11:55:50.459] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:50.459] [INFO] Goblin Bludchewer moved from (0, 6) to (1, 6)
+[11:55:50.459] [INFO] Movement trail: [(1, 6), (0, 6), (1, 6), (0, 6), (1, 6)]
+[11:55:50.459] [INFO] Carrier Bludchewer moved to lateral position (1, 6) (safety: 0.0)
+[11:55:50.459] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:50.459] [INFO] Offensive blocker chose move (1, 7) with score 730
+[11:55:50.459] [INFO] Goblin Gutskull Thefarie moved from (2, 6) to (1, 7)
+[11:55:50.459] [INFO] Movement trail: [(1, 6), (0, 7), (1, 7), (2, 6), (1, 7)]
+[11:55:50.459] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:50.459] [INFO] Offensive blocker chose move (0, 6) with score 747
+[11:55:50.459] [INFO] Goblin Snotfinger moved from (0, 7) to (0, 6)
+[11:55:50.459] [INFO] Movement trail: [(0, 6), (1, 7), (1, 6), (0, 7), (0, 6)]
+[11:55:51.036] [INFO] Moving carrier Bludchewer with 1 movement points
+[11:55:51.036] [INFO] Goblin Bludchewer moved from (1, 6) to (2, 6)
+[11:55:51.036] [INFO] Movement trail: [(0, 6), (1, 6), (0, 6), (1, 6), (2, 6)]
+[11:55:51.036] [INFO] Carrier Bludchewer moved to (2, 6) (score: 24.0)
+[11:55:51.036] [INFO] Moving offensive blocker Gutskull Thefarie with 2 movement points
+[11:55:51.036] [INFO] Offensive blocker chose move (1, 6) with score 758
+[11:55:51.036] [INFO] Goblin Gutskull Thefarie moved from (1, 7) to (1, 6)
+[11:55:51.036] [INFO] Movement trail: [(0, 7), (1, 7), (2, 6), (1, 7), (1, 6)]
+[11:55:51.036] [INFO] Moving offensive blocker Snotfinger with 3 movement points
+[11:55:51.036] [INFO] Offensive blocker chose move (3, 6) with score 744
+[11:55:51.036] [INFO] Goblin Snotfinger moved from (0, 6) to (3, 6)
+[11:55:51.036] [INFO] Movement trail: [(1, 7), (1, 6), (0, 7), (0, 6), (3, 6)]

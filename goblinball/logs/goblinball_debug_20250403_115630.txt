@@ -1,0 +1,76 @@
+[11:56:30.611] [INFO] === Goblinball Debug Log - 20250403_115630 ===
+[11:56:30.611] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115630.txt
+[11:56:30.632] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:56:31.904] [INFO] Moving carrier Grubstomper with 3 movement points
+[11:56:31.905] [INFO] Goblin Grubstomper moved from (4, 8) to (5, 6)
+[11:56:31.905] [INFO] Movement trail: [(4, 8), (5, 6)]
+[11:56:31.905] [INFO] Carrier Grubstomper moved along clear path to (5, 6)
+[11:56:31.909] [INFO] Moving offensive blocker Bludskull  with 1 movement points
+[11:56:31.909] [INFO] Offensive blocker chose move (2, 7) with score 500
+[11:56:31.909] [INFO] Goblin Bludskull  moved from (2, 8) to (2, 7)
+[11:56:31.909] [INFO] Movement trail: [(2, 8), (2, 7)]
+[11:56:31.909] [INFO] Moving offensive blocker Krunkface Quana the Mighty with 1 movement points
+[11:56:31.909] [INFO] Offensive blocker chose move (6, 7) with score 651
+[11:56:31.909] [INFO] Goblin Krunkface Quana the Mighty moved from (6, 8) to (6, 7)
+[11:56:31.909] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:56:31.909] [INFO] Moving offensive blocker Fizzface  with 1 movement points
+[11:56:31.909] [INFO] Offensive blocker chose move (8, 7) with score 479
+[11:56:31.909] [INFO] Goblin Fizzface  moved from (8, 8) to (8, 7)
+[11:56:31.909] [INFO] Movement trail: [(8, 8), (8, 7)]
+[11:56:31.909] [INFO] Moving offensive blocker Fizzgulper with 4 movement points
+[11:56:31.909] [INFO] Offensive blocker chose move (7, 6) with score 673
+[11:56:31.909] [INFO] Goblin Fizzgulper moved from (9, 8) to (7, 6)
+[11:56:31.909] [INFO] Movement trail: [(9, 8), (7, 6)]
+[11:56:31.910] [INFO] Moving defensive blocker Globsmasher Beli  with 4 movement points
+[11:56:31.910] [INFO] Defensive blocker chose move (4, 3) with score 1260
+[11:56:31.910] [INFO] Goblin Globsmasher Beli  moved from (2, 1) to (4, 3)
+[11:56:31.910] [INFO] Movement trail: [(2, 1), (4, 3)]
+[11:56:31.910] [INFO] Moving defensive blocker Grakfoot Flavius with 1 movement points
+[11:56:31.910] [INFO] Defensive blocker chose move (5, 1) with score 1221
+[11:56:31.910] [INFO] Goblin Grakfoot Flavius moved from (4, 1) to (5, 1)
+[11:56:31.910] [INFO] Movement trail: [(4, 1), (5, 1)]
+[11:56:31.910] [INFO] Moving defensive blocker Grimgob the Sly with 1 movement points
+[11:56:31.910] [INFO] Defensive blocker chose move (6, 2) with score 1210
+[11:56:31.910] [INFO] Goblin Grimgob the Sly moved from (6, 1) to (6, 2)
+[11:56:31.910] [INFO] Movement trail: [(6, 1), (6, 2)]
+[11:56:31.910] [INFO] Moving defensive blocker Krunkfinger with 2 movement points
+[11:56:31.910] [INFO] Defensive blocker chose move (6, 1) with score 1169
+[11:56:31.910] [INFO] Goblin Krunkfinger moved from (8, 1) to (6, 1)
+[11:56:31.911] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:56:31.911] [INFO] Moving defensive blocker Lugslicer Staph with 3 movement points
+[11:56:31.911] [INFO] Defensive blocker chose move (7, 2) with score 958
+[11:56:31.911] [INFO] Goblin Lugslicer Staph moved from (9, 1) to (7, 2)
+[11:56:31.911] [INFO] Movement trail: [(9, 1), (7, 2)]
+[11:56:32.435] [INFO] Moving carrier Grubstomper with 3 movement points
+[11:56:32.436] [INFO] Goblin Grubstomper moved from (5, 6) to (5, 5)
+[11:56:32.436] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5)]
+[11:56:32.436] [INFO] Carrier Grubstomper moved to (5, 5) (score: 34.4)
+[11:56:32.436] [INFO] Moving offensive blocker Bludskull  with 1 movement points
+[11:56:32.436] [INFO] Offensive blocker chose move (2, 6) with score 516
+[11:56:32.436] [INFO] Goblin Bludskull  moved from (2, 7) to (2, 6)
+[11:56:32.436] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6)]
+[11:56:32.436] [INFO] Moving offensive blocker Krunkface Quana the Mighty with 1 movement points
+[11:56:32.436] [INFO] Offensive blocker chose move (6, 6) with score 670
+[11:56:32.436] [INFO] Goblin Krunkface Quana the Mighty moved from (6, 7) to (6, 6)
+[11:56:32.436] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6)]
+[11:56:32.436] [INFO] Moving offensive blocker Fizzface  with 1 movement points
+[11:56:32.436] [INFO] Offensive blocker chose move (7, 7) with score 504
+[11:56:32.436] [INFO] Goblin Fizzface  moved from (8, 7) to (7, 7)
+[11:56:32.436] [INFO] Movement trail: [(8, 8), (8, 7), (7, 7)]
+[11:56:32.436] [INFO] Moving offensive blocker Fizzgulper with 4 movement points
+[11:56:32.436] [INFO] Offensive blocker chose move (6, 5) with score 756
+[11:56:32.436] [INFO] Goblin Fizzgulper moved from (7, 6) to (6, 5)
+[11:56:32.436] [INFO] Movement trail: [(9, 8), (7, 6), (6, 5)]
+[11:56:32.436] [INFO] Moving defensive blocker Globsmasher Beli  with 4 movement points
+[11:56:32.437] [INFO] Defensive blocker chose move (5, 4) with score 4400
+[11:56:32.437] [INFO] Goblin Globsmasher Beli  moved from (4, 3) to (5, 4)
+[11:56:32.437] [INFO] Movement trail: [(2, 1), (4, 3), (5, 4)]
+[11:56:32.437] [INFO] Defensive blocker Globsmasher Beli  attempting to block carrier Grubstomper after moving
+[11:56:32.437] [INFO] Moving offensive blocker Grakfoot Flavius with 1 movement points
+[11:56:32.437] [INFO] No carrier found for team Skullsmashers!
+[11:56:32.437] [INFO] Moving offensive blocker Grimgob the Sly with 1 movement points
+[11:56:32.437] [INFO] No carrier found for team Skullsmashers!
+[11:56:32.437] [INFO] Moving offensive blocker Krunkfinger with 2 movement points
+[11:56:32.437] [INFO] No carrier found for team Skullsmashers!
+[11:56:32.437] [INFO] Moving offensive blocker Lugslicer Staph with 3 movement points
+[11:56:32.437] [INFO] No carrier found for team Skullsmashers!

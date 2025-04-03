@@ -1,0 +1,422 @@
+[11:26:28.696] [INFO] === Goblinball Debug Log - 20250403_112628 ===
+[11:26:28.696] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_112628.txt
+[11:26:28.716] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:26:29.943] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:29.943] [INFO] Goblin Thrakface Vixen moved from (4, 8) to (3, 8)
+[11:26:29.943] [INFO] Movement trail: [(4, 8), (3, 8)]
+[11:26:29.943] [INFO] Carrier Thrakface Vixen moved to (3, 8)
+[11:26:29.945] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:29.946] [INFO] Offensive blocker chose move (4, 8) with score 941
+[11:26:29.946] [INFO] Goblin Bludchomper moved from (2, 8) to (4, 8)
+[11:26:29.946] [INFO] Movement trail: [(2, 8), (4, 8)]
+[11:26:29.946] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:29.946] [INFO] Offensive blocker chose move (5, 8) with score 824
+[11:26:29.946] [INFO] Goblin Grakchewer moved from (6, 8) to (5, 8)
+[11:26:29.946] [INFO] Movement trail: [(6, 8), (5, 8)]
+[11:26:29.946] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:29.946] [INFO] Offensive blocker chose move (6, 8) with score 729
+[11:26:29.946] [INFO] Goblin Grimface Crowdbreaker moved from (8, 8) to (6, 8)
+[11:26:29.946] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:26:29.946] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:29.946] [INFO] Offensive blocker chose move (7, 8) with score 616
+[11:26:29.946] [INFO] Goblin Fizznose moved from (9, 8) to (7, 8)
+[11:26:29.946] [INFO] Movement trail: [(9, 8), (7, 8)]
+[11:26:29.946] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:29.946] [INFO] Defensive blocker chose move (2, 2) with score 671
+[11:26:29.946] [INFO] Goblin Krunkfist moved from (2, 1) to (2, 2)
+[11:26:29.946] [INFO] Movement trail: [(2, 1), (2, 2)]
+[11:26:29.946] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:29.947] [INFO] Defensive blocker chose move (3, 1) with score 673
+[11:26:29.947] [INFO] Goblin Stabskull Nalge moved from (4, 1) to (3, 1)
+[11:26:29.947] [INFO] Movement trail: [(4, 1), (3, 1)]
+[11:26:29.947] [INFO] Moving defensive blocker Krakgob the Fierce with 4 movement points
+[11:26:29.947] [INFO] Defensive blocker chose move (4, 2) with score 669
+[11:26:29.947] [INFO] Goblin Krakgob the Fierce moved from (6, 1) to (4, 2)
+[11:26:29.947] [INFO] Movement trail: [(6, 1), (4, 2)]
+[11:26:29.947] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:29.947] [INFO] Defensive blocker chose move (4, 1) with score 634
+[11:26:29.947] [INFO] Goblin Thrakbasher  moved from (8, 1) to (4, 1)
+[11:26:29.947] [INFO] Movement trail: [(8, 1), (4, 1)]
+[11:26:29.947] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:29.947] [INFO] Defensive blocker chose move (9, 0) with score 369
+[11:26:29.947] [INFO] Goblin Krunkchewer Barcer moved from (9, 1) to (9, 0)
+[11:26:29.947] [INFO] Movement trail: [(9, 1), (9, 0)]
+[11:26:30.567] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:30.567] [INFO] Goblin Thrakface Vixen moved from (3, 8) to (2, 8)
+[11:26:30.567] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8)]
+[11:26:30.567] [INFO] Carrier Thrakface Vixen moved to (2, 8)
+[11:26:30.567] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:30.567] [INFO] Offensive blocker chose move (3, 8) with score 911
+[11:26:30.567] [INFO] Goblin Bludchomper moved from (4, 8) to (3, 8)
+[11:26:30.567] [INFO] Movement trail: [(2, 8), (4, 8), (3, 8)]
+[11:26:30.567] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:30.567] [INFO] Offensive blocker chose move (4, 8) with score 837
+[11:26:30.567] [INFO] Goblin Grakchewer moved from (5, 8) to (4, 8)
+[11:26:30.567] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8)]
+[11:26:30.567] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:30.567] [INFO] Offensive blocker chose move (3, 7) with score 827
+[11:26:30.567] [INFO] Goblin Grimface Crowdbreaker moved from (6, 8) to (3, 7)
+[11:26:30.567] [INFO] Movement trail: [(8, 8), (6, 8), (3, 7)]
+[11:26:30.567] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:30.567] [INFO] Offensive blocker chose move (5, 8) with score 697
+[11:26:30.568] [INFO] Goblin Fizznose moved from (7, 8) to (5, 8)
+[11:26:30.568] [INFO] Movement trail: [(9, 8), (7, 8), (5, 8)]
+[11:26:30.568] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:30.568] [INFO] Defensive blocker chose move (2, 1) with score 673
+[11:26:30.568] [INFO] Goblin Krunkfist moved from (2, 2) to (2, 1)
+[11:26:30.568] [INFO] Movement trail: [(2, 1), (2, 2), (2, 1)]
+[11:26:30.568] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:30.568] [INFO] Defensive blocker chose move (1, 2) with score 675
+[11:26:30.568] [INFO] Goblin Stabskull Nalge moved from (3, 1) to (1, 2)
+[11:26:30.568] [INFO] Movement trail: [(4, 1), (3, 1), (1, 2)]
+[11:26:30.568] [INFO] Moving defensive blocker Krakgob the Fierce with 4 movement points
+[11:26:30.568] [INFO] Defensive blocker chose move (3, 1) with score 673
+[11:26:30.568] [INFO] Goblin Krakgob the Fierce moved from (4, 2) to (3, 1)
+[11:26:30.568] [INFO] Movement trail: [(6, 1), (4, 2), (3, 1)]
+[11:26:30.568] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:30.568] [INFO] Defensive blocker chose move (1, 1) with score 669
+[11:26:30.568] [INFO] Goblin Thrakbasher  moved from (4, 1) to (1, 1)
+[11:26:30.568] [INFO] Movement trail: [(8, 1), (4, 1), (1, 1)]
+[11:26:30.568] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:30.568] [INFO] Defensive blocker chose move (9, 1) with score 365
+[11:26:30.568] [INFO] Goblin Krunkchewer Barcer moved from (9, 0) to (9, 1)
+[11:26:30.568] [INFO] Movement trail: [(9, 1), (9, 0), (9, 1)]
+[11:26:32.027] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:32.027] [INFO] Goblin Thrakface Vixen moved from (2, 8) to (1, 8)
+[11:26:32.027] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8)]
+[11:26:32.027] [INFO] Carrier Thrakface Vixen moved to (1, 8)
+[11:26:32.027] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:32.028] [INFO] Offensive blocker chose move (2, 8) with score 920
+[11:26:32.028] [INFO] Goblin Bludchomper moved from (3, 8) to (2, 8)
+[11:26:32.028] [INFO] Movement trail: [(2, 8), (4, 8), (3, 8), (2, 8)]
+[11:26:32.028] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:32.028] [INFO] Offensive blocker chose move (3, 8) with score 808
+[11:26:32.028] [INFO] Goblin Grakchewer moved from (4, 8) to (3, 8)
+[11:26:32.028] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8), (3, 8)]
+[11:26:32.028] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:32.028] [INFO] Offensive blocker chose move (1, 7) with score 913
+[11:26:32.028] [INFO] Goblin Grimface Crowdbreaker moved from (3, 7) to (1, 7)
+[11:26:32.028] [INFO] Movement trail: [(8, 8), (6, 8), (3, 7), (1, 7)]
+[11:26:32.028] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:32.028] [INFO] Offensive blocker chose move (3, 7) with score 738
+[11:26:32.028] [INFO] Goblin Fizznose moved from (5, 8) to (3, 7)
+[11:26:32.028] [INFO] Movement trail: [(9, 8), (7, 8), (5, 8), (3, 7)]
+[11:26:32.028] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:32.028] [INFO] Defensive blocker chose move (2, 0) with score 673
+[11:26:32.028] [INFO] Goblin Krunkfist moved from (2, 1) to (2, 0)
+[11:26:32.028] [INFO] Movement trail: [(2, 1), (2, 2), (2, 1), (2, 0)]
+[11:26:32.028] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:32.028] [INFO] Defensive blocker chose move (0, 1) with score 674
+[11:26:32.028] [INFO] Goblin Stabskull Nalge moved from (1, 2) to (0, 1)
+[11:26:32.028] [INFO] Movement trail: [(4, 1), (3, 1), (1, 2), (0, 1)]
+[11:26:32.028] [INFO] Moving defensive blocker Krakgob the Fierce with 4 movement points
+[11:26:32.029] [INFO] Defensive blocker chose move (1, 3) with score 665
+[11:26:32.029] [INFO] Goblin Krakgob the Fierce moved from (3, 1) to (1, 3)
+[11:26:32.029] [INFO] Movement trail: [(6, 1), (4, 2), (3, 1), (1, 3)]
+[11:26:32.029] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:32.029] [INFO] Defensive blocker chose move (0, 3) with score 667
+[11:26:32.029] [INFO] Goblin Thrakbasher  moved from (1, 1) to (0, 3)
+[11:26:32.029] [INFO] Movement trail: [(8, 1), (4, 1), (1, 1), (0, 3)]
+[11:26:32.029] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:32.029] [INFO] Defensive blocker chose move (9, 0) with score 359
+[11:26:32.029] [INFO] Goblin Krunkchewer Barcer moved from (9, 1) to (9, 0)
+[11:26:32.029] [INFO] Movement trail: [(9, 1), (9, 0), (9, 1), (9, 0)]
+[11:26:32.720] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:32.720] [INFO] Goblin Thrakface Vixen moved from (1, 8) to (0, 8)
+[11:26:32.720] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8), (0, 8)]
+[11:26:32.720] [INFO] Carrier Thrakface Vixen moved to (0, 8)
+[11:26:32.720] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:32.720] [INFO] Offensive blocker chose move (1, 8) with score 913
+[11:26:32.720] [INFO] Goblin Bludchomper moved from (2, 8) to (1, 8)
+[11:26:32.720] [INFO] Movement trail: [(2, 8), (4, 8), (3, 8), (2, 8), (1, 8)]
+[11:26:32.720] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:32.720] [INFO] Offensive blocker chose move (2, 8) with score 804
+[11:26:32.720] [INFO] Goblin Grakchewer moved from (3, 8) to (2, 8)
+[11:26:32.720] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8), (3, 8), (2, 8)]
+[11:26:32.720] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:32.720] [INFO] Offensive blocker chose move (0, 7) with score 948
+[11:26:32.720] [INFO] Goblin Grimface Crowdbreaker moved from (1, 7) to (0, 7)
+[11:26:32.720] [INFO] Movement trail: [(8, 8), (6, 8), (3, 7), (1, 7), (0, 7)]
+[11:26:32.720] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:32.720] [INFO] Offensive blocker chose move (1, 7) with score 853
+[11:26:32.720] [INFO] Goblin Fizznose moved from (3, 7) to (1, 7)
+[11:26:32.720] [INFO] Movement trail: [(9, 8), (7, 8), (5, 8), (3, 7), (1, 7)]
+[11:26:32.720] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:32.720] [INFO] Defensive blocker chose move (0, 0) with score 675
+[11:26:32.720] [INFO] Goblin Krunkfist moved from (2, 0) to (0, 0)
+[11:26:32.720] [INFO] Movement trail: [(2, 1), (2, 2), (2, 1), (2, 0), (0, 0)]
+[11:26:32.720] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:32.721] [INFO] Defensive blocker chose move (0, 2) with score 673
+[11:26:32.721] [INFO] Goblin Stabskull Nalge moved from (0, 1) to (0, 2)
+[11:26:32.721] [INFO] Movement trail: [(4, 1), (3, 1), (1, 2), (0, 1), (0, 2)]
+[11:26:32.721] [INFO] Moving defensive blocker Krakgob the Fierce with 4 movement points
+[11:26:32.721] [INFO] Defensive blocker chose move (0, 5) with score 675
+[11:26:32.721] [INFO] Goblin Krakgob the Fierce moved from (1, 3) to (0, 5)
+[11:26:32.721] [INFO] Movement trail: [(6, 1), (4, 2), (3, 1), (1, 3), (0, 5)]
+[11:26:32.721] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:32.721] [INFO] Defensive blocker chose move (0, 1) with score 674
+[11:26:32.721] [INFO] Goblin Thrakbasher  moved from (0, 3) to (0, 1)
+[11:26:32.721] [INFO] Movement trail: [(8, 1), (4, 1), (1, 1), (0, 3), (0, 1)]
+[11:26:32.721] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:32.721] [INFO] Defensive blocker chose move (8, 0) with score 357
+[11:26:32.721] [INFO] Goblin Krunkchewer Barcer moved from (9, 0) to (8, 0)
+[11:26:32.721] [INFO] Movement trail: [(9, 1), (9, 0), (9, 1), (9, 0), (8, 0)]
+[11:26:33.700] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:33.700] [INFO] Carrier Thrakface Vixen couldn't find valid move
+[11:26:33.700] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:33.700] [INFO] Offensive blocker chose move (1, 6) with score 947
+[11:26:33.700] [INFO] Goblin Bludchomper moved from (1, 8) to (1, 6)
+[11:26:33.700] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8), (1, 6)]
+[11:26:33.700] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:33.700] [INFO] Offensive blocker chose move (1, 8) with score 918
+[11:26:33.700] [INFO] Goblin Grakchewer moved from (2, 8) to (1, 8)
+[11:26:33.700] [INFO] Movement trail: [(5, 8), (4, 8), (3, 8), (2, 8), (1, 8)]
+[11:26:33.700] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:33.700] [INFO] Offensive blocker chose move (0, 6) with score 1047
+[11:26:33.700] [INFO] Goblin Grimface Crowdbreaker moved from (0, 7) to (0, 6)
+[11:26:33.700] [INFO] Movement trail: [(6, 8), (3, 7), (1, 7), (0, 7), (0, 6)]
+[11:26:33.700] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:33.700] [INFO] Offensive blocker chose move (0, 7) with score 2151
+[11:26:33.701] [INFO] Goblin Fizznose moved from (1, 7) to (0, 7)
+[11:26:33.701] [INFO] Movement trail: [(7, 8), (5, 8), (3, 7), (1, 7), (0, 7)]
+[11:26:33.701] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:33.701] [INFO] Defensive blocker chose move (1, 1) with score 660
+[11:26:33.701] [INFO] Goblin Krunkfist moved from (0, 0) to (1, 1)
+[11:26:33.701] [INFO] Movement trail: [(2, 2), (2, 1), (2, 0), (0, 0), (1, 1)]
+[11:26:33.701] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:33.701] [INFO] Defensive blocker chose move (1, 2) with score 669
+[11:26:33.701] [INFO] Goblin Stabskull Nalge moved from (0, 2) to (1, 2)
+[11:26:33.701] [INFO] Movement trail: [(3, 1), (1, 2), (0, 1), (0, 2), (1, 2)]
+[11:26:33.701] [INFO] Moving defensive blocker Krakgob the Fierce with 4 movement points
+[11:26:33.701] [INFO] Defensive blocker Krakgob the Fierce pursuing carrier Thrakface Vixen
+[11:26:33.701] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:33.701] [INFO] Defensive blocker chose move (1, 0) with score 665
+[11:26:33.701] [INFO] Goblin Thrakbasher  moved from (0, 1) to (1, 0)
+[11:26:33.701] [INFO] Movement trail: [(4, 1), (1, 1), (0, 3), (0, 1), (1, 0)]
+[11:26:33.701] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:33.701] [INFO] Defensive blocker chose move (7, 0) with score 357
+[11:26:33.701] [INFO] Goblin Krunkchewer Barcer moved from (8, 0) to (7, 0)
+[11:26:33.701] [INFO] Movement trail: [(9, 0), (9, 1), (9, 0), (8, 0), (7, 0)]
+[11:26:35.212] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:35.212] [INFO] Carrier Thrakface Vixen couldn't find valid move
+[11:26:35.212] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:35.212] [INFO] Offensive blocker chose move (1, 7) with score 758
+[11:26:35.212] [INFO] Goblin Bludchomper moved from (1, 6) to (1, 7)
+[11:26:35.212] [INFO] Movement trail: [(3, 8), (2, 8), (1, 8), (1, 6), (1, 7)]
+[11:26:35.212] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:35.212] [INFO] Offensive blocker chose move (0, 9) with score 848
+[11:26:35.212] [INFO] Goblin Grakchewer moved from (1, 8) to (0, 9)
+[11:26:35.212] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8), (0, 9)]
+[11:26:35.212] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:35.213] [INFO] Offensive blocker chose move (1, 8) with score 857
+[11:26:35.213] [INFO] Goblin Grimface Crowdbreaker moved from (0, 6) to (1, 8)
+[11:26:35.213] [INFO] Movement trail: [(3, 7), (1, 7), (0, 7), (0, 6), (1, 8)]
+[11:26:35.213] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:35.213] [INFO] Offensive blocker chose move (0, 6) with score 821
+[11:26:35.213] [INFO] Goblin Fizznose moved from (0, 7) to (0, 6)
+[11:26:35.213] [INFO] Movement trail: [(5, 8), (3, 7), (1, 7), (0, 7), (0, 6)]
+[11:26:35.213] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:35.213] [INFO] Defensive blocker chose move (0, 1) with score 675
+[11:26:35.213] [INFO] Goblin Krunkfist moved from (1, 1) to (0, 1)
+[11:26:35.213] [INFO] Movement trail: [(2, 1), (2, 0), (0, 0), (1, 1), (0, 1)]
+[11:26:35.213] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:35.213] [INFO] Defensive blocker chose move (0, 2) with score 670
+[11:26:35.213] [INFO] Goblin Stabskull Nalge moved from (1, 2) to (0, 2)
+[11:26:35.213] [INFO] Movement trail: [(1, 2), (0, 1), (0, 2), (1, 2), (0, 2)]
+[11:26:35.213] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:35.213] [INFO] Defensive blocker chose move (0, 3) with score 672
+[11:26:35.213] [INFO] Goblin Thrakbasher  moved from (1, 0) to (0, 3)
+[11:26:35.213] [INFO] Movement trail: [(1, 1), (0, 3), (0, 1), (1, 0), (0, 3)]
+[11:26:35.213] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:35.213] [INFO] Defensive blocker chose move (7, 1) with score 367
+[11:26:35.213] [INFO] Goblin Krunkchewer Barcer moved from (7, 0) to (7, 1)
+[11:26:35.213] [INFO] Movement trail: [(9, 1), (9, 0), (8, 0), (7, 0), (7, 1)]
+[11:26:37.624] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:37.624] [INFO] Goblin Thrakface Vixen moved from (0, 8) to (0, 7)
+[11:26:37.624] [INFO] Movement trail: [(3, 8), (2, 8), (1, 8), (0, 8), (0, 7)]
+[11:26:37.624] [INFO] Carrier Thrakface Vixen moved to (0, 7)
+[11:26:37.624] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:37.624] [INFO] Offensive blocker chose move (1, 6) with score 865
+[11:26:37.624] [INFO] Goblin Bludchomper moved from (1, 7) to (1, 6)
+[11:26:37.624] [INFO] Movement trail: [(2, 8), (1, 8), (1, 6), (1, 7), (1, 6)]
+[11:26:37.624] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:37.624] [INFO] Offensive blocker chose move (0, 8) with score 941
+[11:26:37.624] [INFO] Goblin Grakchewer moved from (0, 9) to (0, 8)
+[11:26:37.624] [INFO] Movement trail: [(3, 8), (2, 8), (1, 8), (0, 9), (0, 8)]
+[11:26:37.624] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:37.624] [INFO] Offensive blocker chose move (1, 7) with score 925
+[11:26:37.624] [INFO] Goblin Grimface Crowdbreaker moved from (1, 8) to (1, 7)
+[11:26:37.624] [INFO] Movement trail: [(1, 7), (0, 7), (0, 6), (1, 8), (1, 7)]
+[11:26:37.624] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:37.625] [INFO] Offensive blocker chose move (2, 7) with score 804
+[11:26:37.625] [INFO] Goblin Fizznose moved from (0, 6) to (2, 7)
+[11:26:37.625] [INFO] Movement trail: [(3, 7), (1, 7), (0, 7), (0, 6), (2, 7)]
+[11:26:37.625] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:37.625] [INFO] Defensive blocker chose move (1, 0) with score 670
+[11:26:37.625] [INFO] Goblin Krunkfist moved from (0, 1) to (1, 0)
+[11:26:37.625] [INFO] Movement trail: [(2, 0), (0, 0), (1, 1), (0, 1), (1, 0)]
+[11:26:37.625] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:37.625] [INFO] Defensive blocker chose move (0, 1) with score 675
+[11:26:37.625] [INFO] Goblin Stabskull Nalge moved from (0, 2) to (0, 1)
+[11:26:37.625] [INFO] Movement trail: [(0, 1), (0, 2), (1, 2), (0, 2), (0, 1)]
+[11:26:37.625] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:37.625] [INFO] Defensive blocker chose move (0, 2) with score 673
+[11:26:37.625] [INFO] Goblin Thrakbasher  moved from (0, 3) to (0, 2)
+[11:26:37.625] [INFO] Movement trail: [(0, 3), (0, 1), (1, 0), (0, 3), (0, 2)]
+[11:26:37.625] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:37.625] [INFO] Defensive blocker chose move (7, 2) with score 375
+[11:26:37.625] [INFO] Goblin Krunkchewer Barcer moved from (7, 1) to (7, 2)
+[11:26:37.625] [INFO] Movement trail: [(9, 0), (8, 0), (7, 0), (7, 1), (7, 2)]
+[11:26:39.589] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:39.589] [INFO] Goblin Thrakface Vixen moved from (0, 7) to (0, 6)
+[11:26:39.589] [INFO] Movement trail: [(2, 8), (1, 8), (0, 8), (0, 7), (0, 6)]
+[11:26:39.589] [INFO] Carrier Thrakface Vixen moved to (0, 6)
+[11:26:39.589] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:39.590] [INFO] Offensive blocker chose move (0, 7) with score 878
+[11:26:39.590] [INFO] Goblin Bludchomper moved from (1, 6) to (0, 7)
+[11:26:39.590] [INFO] Movement trail: [(1, 8), (1, 6), (1, 7), (1, 6), (0, 7)]
+[11:26:39.590] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:39.590] [INFO] Offensive blocker chose move (1, 8) with score 713
+[11:26:39.590] [INFO] Goblin Grakchewer moved from (0, 8) to (1, 8)
+[11:26:39.590] [INFO] Movement trail: [(2, 8), (1, 8), (0, 9), (0, 8), (1, 8)]
+[11:26:39.590] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:39.590] [INFO] Offensive blocker chose move (1, 6) with score 945
+[11:26:39.590] [INFO] Goblin Grimface Crowdbreaker moved from (1, 7) to (1, 6)
+[11:26:39.590] [INFO] Movement trail: [(0, 7), (0, 6), (1, 8), (1, 7), (1, 6)]
+[11:26:39.590] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:39.590] [INFO] Offensive blocker chose move (1, 5) with score 874
+[11:26:39.590] [INFO] Goblin Fizznose moved from (2, 7) to (1, 5)
+[11:26:39.590] [INFO] Movement trail: [(1, 7), (0, 7), (0, 6), (2, 7), (1, 5)]
+[11:26:39.590] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:39.590] [INFO] Defensive blocker chose move (1, 1) with score 667
+[11:26:39.590] [INFO] Goblin Krunkfist moved from (1, 0) to (1, 1)
+[11:26:39.590] [INFO] Movement trail: [(0, 0), (1, 1), (0, 1), (1, 0), (1, 1)]
+[11:26:39.590] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:39.590] [INFO] Defensive blocker chose move (0, 0) with score 672
+[11:26:39.590] [INFO] Goblin Stabskull Nalge moved from (0, 1) to (0, 0)
+[11:26:39.590] [INFO] Movement trail: [(0, 2), (1, 2), (0, 2), (0, 1), (0, 0)]
+[11:26:39.590] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:39.590] [INFO] Defensive blocker chose move (1, 0) with score 670
+[11:26:39.590] [INFO] Goblin Thrakbasher  moved from (0, 2) to (1, 0)
+[11:26:39.590] [INFO] Movement trail: [(0, 1), (1, 0), (0, 3), (0, 2), (1, 0)]
+[11:26:39.590] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:39.590] [INFO] Defensive blocker chose move (7, 1) with score 373
+[11:26:39.590] [INFO] Goblin Krunkchewer Barcer moved from (7, 2) to (7, 1)
+[11:26:39.591] [INFO] Movement trail: [(8, 0), (7, 0), (7, 1), (7, 2), (7, 1)]
+[11:26:40.781] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:40.781] [INFO] Carrier Thrakface Vixen couldn't find valid move
+[11:26:40.781] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:40.781] [INFO] Offensive blocker chose move (1, 7) with score 839
+[11:26:40.781] [INFO] Goblin Bludchomper moved from (0, 7) to (1, 7)
+[11:26:40.781] [INFO] Movement trail: [(1, 6), (1, 7), (1, 6), (0, 7), (1, 7)]
+[11:26:40.781] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:40.781] [INFO] Offensive blocker chose move (0, 7) with score 929
+[11:26:40.781] [INFO] Goblin Grakchewer moved from (1, 8) to (0, 7)
+[11:26:40.781] [INFO] Movement trail: [(1, 8), (0, 9), (0, 8), (1, 8), (0, 7)]
+[11:26:40.781] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:40.782] [INFO] Offensive blocker chose move (0, 4) with score 872
+[11:26:40.782] [INFO] Goblin Grimface Crowdbreaker moved from (1, 6) to (0, 4)
+[11:26:40.782] [INFO] Movement trail: [(0, 6), (1, 8), (1, 7), (1, 6), (0, 4)]
+[11:26:40.782] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:40.782] [INFO] Offensive blocker chose move (1, 6) with score 876
+[11:26:40.782] [INFO] Goblin Fizznose moved from (1, 5) to (1, 6)
+[11:26:40.782] [INFO] Movement trail: [(0, 7), (0, 6), (2, 7), (1, 5), (1, 6)]
+[11:26:40.782] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:40.782] [INFO] Defensive blocker chose move (0, 2) with score 650
+[11:26:40.782] [INFO] Goblin Krunkfist moved from (1, 1) to (0, 2)
+[11:26:40.782] [INFO] Movement trail: [(1, 1), (0, 1), (1, 0), (1, 1), (0, 2)]
+[11:26:40.782] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:40.782] [INFO] Defensive blocker chose move (0, 1) with score 672
+[11:26:40.782] [INFO] Goblin Stabskull Nalge moved from (0, 0) to (0, 1)
+[11:26:40.782] [INFO] Movement trail: [(1, 2), (0, 2), (0, 1), (0, 0), (0, 1)]
+[11:26:40.782] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:40.782] [INFO] Defensive blocker chose move (1, 1) with score 672
+[11:26:40.782] [INFO] Goblin Thrakbasher  moved from (1, 0) to (1, 1)
+[11:26:40.782] [INFO] Movement trail: [(1, 0), (0, 3), (0, 2), (1, 0), (1, 1)]
+[11:26:40.782] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:40.782] [INFO] Defensive blocker chose move (7, 0) with score 355
+[11:26:40.782] [INFO] Goblin Krunkchewer Barcer moved from (7, 1) to (7, 0)
+[11:26:40.782] [INFO] Movement trail: [(7, 0), (7, 1), (7, 2), (7, 1), (7, 0)]
+[11:26:41.564] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:41.565] [INFO] Carrier Thrakface Vixen couldn't find valid move
+[11:26:41.565] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:41.565] [INFO] Offensive blocker chose move (2, 6) with score 853
+[11:26:41.565] [INFO] Goblin Bludchomper moved from (1, 7) to (2, 6)
+[11:26:41.565] [INFO] Movement trail: [(1, 7), (1, 6), (0, 7), (1, 7), (2, 6)]
+[11:26:41.565] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:41.565] [INFO] Offensive blocker chose move (1, 7) with score 834
+[11:26:41.565] [INFO] Goblin Grakchewer moved from (0, 7) to (1, 7)
+[11:26:41.565] [INFO] Movement trail: [(0, 9), (0, 8), (1, 8), (0, 7), (1, 7)]
+[11:26:41.565] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:41.565] [INFO] Offensive blocker chose move (0, 7) with score 870
+[11:26:41.565] [INFO] Goblin Grimface Crowdbreaker moved from (0, 4) to (0, 7)
+[11:26:41.565] [INFO] Movement trail: [(1, 8), (1, 7), (1, 6), (0, 4), (0, 7)]
+[11:26:41.565] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:41.565] [INFO] Offensive blocker chose move (0, 4) with score 865
+[11:26:41.565] [INFO] Goblin Fizznose moved from (1, 6) to (0, 4)
+[11:26:41.565] [INFO] Movement trail: [(0, 6), (2, 7), (1, 5), (1, 6), (0, 4)]
+[11:26:41.565] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:41.565] [INFO] Defensive blocker chose move (1, 3) with score 675
+[11:26:41.565] [INFO] Goblin Krunkfist moved from (0, 2) to (1, 3)
+[11:26:41.565] [INFO] Movement trail: [(0, 1), (1, 0), (1, 1), (0, 2), (1, 3)]
+[11:26:41.565] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:41.565] [INFO] Defensive blocker chose move (0, 3) with score 666
+[11:26:41.565] [INFO] Goblin Stabskull Nalge moved from (0, 1) to (0, 3)
+[11:26:41.565] [INFO] Movement trail: [(0, 2), (0, 1), (0, 0), (0, 1), (0, 3)]
+[11:26:41.565] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:41.566] [INFO] Defensive blocker chose move (1, 0) with score 675
+[11:26:41.566] [INFO] Goblin Thrakbasher  moved from (1, 1) to (1, 0)
+[11:26:41.566] [INFO] Movement trail: [(0, 3), (0, 2), (1, 0), (1, 1), (1, 0)]
+[11:26:41.566] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:41.566] [INFO] Defensive blocker chose move (8, 0) with score 362
+[11:26:41.566] [INFO] Goblin Krunkchewer Barcer moved from (7, 0) to (8, 0)
+[11:26:41.566] [INFO] Movement trail: [(7, 1), (7, 2), (7, 1), (7, 0), (8, 0)]
+[11:26:42.381] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:42.381] [INFO] Goblin Thrakface Vixen moved from (0, 6) to (1, 6)
+[11:26:42.381] [INFO] Movement trail: [(1, 8), (0, 8), (0, 7), (0, 6), (1, 6)]
+[11:26:42.381] [INFO] Carrier Thrakface Vixen moved to (1, 6)
+[11:26:42.381] [INFO] Moving offensive blocker Bludchomper with 2 movement points
+[11:26:42.381] [INFO] Offensive blocker chose move (1, 5) with score 2162
+[11:26:42.381] [INFO] Goblin Bludchomper moved from (2, 6) to (1, 5)
+[11:26:42.381] [INFO] Movement trail: [(1, 6), (0, 7), (1, 7), (2, 6), (1, 5)]
+[11:26:42.381] [INFO] Moving offensive blocker Grakchewer with 2 movement points
+[11:26:42.381] [INFO] Offensive blocker chose move (0, 6) with score 943
+[11:26:42.381] [INFO] Goblin Grakchewer moved from (1, 7) to (0, 6)
+[11:26:42.381] [INFO] Movement trail: [(0, 8), (1, 8), (0, 7), (1, 7), (0, 6)]
+[11:26:42.381] [INFO] Moving offensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:42.381] [INFO] Offensive blocker chose move (1, 4) with score 1075
+[11:26:42.381] [INFO] Goblin Grimface Crowdbreaker moved from (0, 7) to (1, 4)
+[11:26:42.381] [INFO] Movement trail: [(1, 7), (1, 6), (0, 4), (0, 7), (1, 4)]
+[11:26:42.381] [INFO] Moving offensive blocker Fizznose with 3 movement points
+[11:26:42.381] [INFO] Attempt block of Krunkfist by Fizznose
+[11:26:42.381] [INFO] Offensive blocker chose move (0, 4) with score 970
+[11:26:42.381] [INFO] Moving defensive blocker Krunkfist with 2 movement points
+[11:26:42.381] [INFO] Defensive blocker Krunkfist pursuing carrier Thrakface Vixen
+[11:26:42.381] [INFO] Moving defensive blocker Stabskull Nalge with 4 movement points
+[11:26:42.382] [INFO] Defensive blocker chose move (0, 7) with score 802
+[11:26:42.382] [INFO] Goblin Stabskull Nalge moved from (0, 3) to (0, 7)
+[11:26:42.382] [INFO] Movement trail: [(0, 1), (0, 0), (0, 1), (0, 3), (0, 7)]
+[11:26:42.382] [INFO] Moving defensive blocker Thrakbasher  with 4 movement points
+[11:26:42.382] [INFO] Defensive blocker chose move (2, 1) with score 674
+[11:26:42.382] [INFO] Goblin Thrakbasher  moved from (1, 0) to (2, 1)
+[11:26:42.382] [INFO] Movement trail: [(0, 2), (1, 0), (1, 1), (1, 0), (2, 1)]
+[11:26:42.382] [INFO] Moving defensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:42.382] [INFO] Defensive blocker chose move (9, 0) with score 374
+[11:26:42.382] [INFO] Goblin Krunkchewer Barcer moved from (8, 0) to (9, 0)
+[11:26:42.382] [INFO] Movement trail: [(7, 2), (7, 1), (7, 0), (8, 0), (9, 0)]
+[11:26:44.390] [INFO] Moving carrier Thrakface Vixen with 1 movement points
+[11:26:44.390] [INFO] Carrier Thrakface Vixen couldn't find valid move
+[11:26:44.390] [INFO] Moving offensive blocker Stabskull Nalge with 4 movement points
+[11:26:44.390] [INFO] No carrier found for team Skullsmashers!
+[11:26:44.390] [INFO] Moving offensive blocker Thrakbasher  with 4 movement points
+[11:26:44.390] [INFO] No carrier found for team Skullsmashers!
+[11:26:44.390] [INFO] Moving offensive blocker Krunkchewer Barcer with 1 movement points
+[11:26:44.390] [INFO] No carrier found for team Skullsmashers!
+[11:26:44.390] [INFO] Moving defensive blocker Bludchomper with 2 movement points
+[11:26:44.390] [INFO] No carrier found for team Skullsmashers!
+[11:26:44.390] [INFO] Moving defensive blocker Grakchewer with 2 movement points
+[11:26:44.390] [INFO] No carrier found for team Skullsmashers!
+[11:26:44.390] [INFO] Moving defensive blocker Grimface Crowdbreaker with 4 movement points
+[11:26:44.390] [INFO] No carrier found for team Skullsmashers!
+[11:26:44.390] [INFO] Moving defensive blocker Fizznose with 3 movement points
+[11:26:44.390] [INFO] No carrier found for team Skullsmashers!

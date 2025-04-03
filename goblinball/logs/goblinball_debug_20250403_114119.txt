@@ -1,0 +1,179 @@
+[11:41:19.576] [INFO] === Goblinball Debug Log - 20250403_114119 ===
+[11:41:19.576] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114119.txt
+[11:41:19.597] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:41:20.742] [INFO] Moving carrier Gnogface with 1 movement points
+[11:41:20.742] [INFO] Goblin Gnogface moved from (4, 8) to (3, 8)
+[11:41:20.742] [INFO] Movement trail: [(4, 8), (3, 8)]
+[11:41:20.742] [INFO] Carrier Gnogface moved to (3, 8)
+[11:41:20.742] [INFO] Moving offensive blocker Globsmasher Jupp with 3 movement points
+[11:41:20.745] [INFO] Offensive blocker chose move (4, 8) with score 739
+[11:41:20.745] [INFO] Goblin Globsmasher Jupp moved from (2, 8) to (4, 8)
+[11:41:20.745] [INFO] Movement trail: [(2, 8), (4, 8)]
+[11:41:20.745] [INFO] Moving offensive blocker Stabsmasher Goreshade with 3 movement points
+[11:41:20.746] [INFO] Offensive blocker chose move (4, 7) with score 659
+[11:41:20.746] [INFO] Goblin Stabsmasher Goreshade moved from (6, 8) to (4, 7)
+[11:41:20.746] [INFO] Movement trail: [(6, 8), (4, 7)]
+[11:41:20.746] [INFO] Moving offensive blocker Splatsquisher Taltre with 2 movement points
+[11:41:20.746] [INFO] Offensive blocker chose move (6, 8) with score 587
+[11:41:20.746] [INFO] Goblin Splatsquisher Taltre moved from (8, 8) to (6, 8)
+[11:41:20.746] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:41:20.746] [INFO] Moving offensive blocker Bludstabber with 1 movement points
+[11:41:20.746] [INFO] Offensive blocker chose move (8, 8) with score 415
+[11:41:20.746] [INFO] Goblin Bludstabber moved from (9, 8) to (8, 8)
+[11:41:20.746] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:41:20.746] [INFO] Moving defensive blocker Stabskull with 1 movement points
+[11:41:20.747] [INFO] Defensive blocker chose move (2, 2) with score 1122
+[11:41:20.747] [INFO] Goblin Stabskull moved from (2, 1) to (2, 2)
+[11:41:20.747] [INFO] Movement trail: [(2, 1), (2, 2)]
+[11:41:20.747] [INFO] Moving defensive blocker Stabchewer Lephidiles with 2 movement points
+[11:41:20.747] [INFO] Defensive blocker chose move (4, 3) with score 1161
+[11:41:20.747] [INFO] Goblin Stabchewer Lephidiles moved from (4, 1) to (4, 3)
+[11:41:20.747] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:41:20.747] [INFO] Moving defensive blocker Skabslicer with 4 movement points
+[11:41:20.747] [INFO] Defensive blocker chose move (3, 2) with score 1150
+[11:41:20.747] [INFO] Goblin Skabslicer moved from (6, 1) to (3, 2)
+[11:41:20.747] [INFO] Movement trail: [(6, 1), (3, 2)]
+[11:41:20.747] [INFO] Moving defensive blocker Gutface Ackmard with 4 movement points
+[11:41:20.747] [INFO] Defensive blocker chose move (4, 1) with score 1043
+[11:41:20.747] [INFO] Goblin Gutface Ackmard moved from (8, 1) to (4, 1)
+[11:41:20.747] [INFO] Movement trail: [(8, 1), (4, 1)]
+[11:41:20.747] [INFO] Moving defensive blocker Krakfoot with 4 movement points
+[11:41:20.748] [INFO] Defensive blocker chose move (7, 3) with score 810
+[11:41:20.748] [INFO] Goblin Krakfoot moved from (9, 1) to (7, 3)
+[11:41:20.748] [INFO] Movement trail: [(9, 1), (7, 3)]
+[11:41:21.231] [INFO] Moving carrier Gnogface with 1 movement points
+[11:41:21.231] [INFO] Goblin Gnogface moved from (3, 8) to (2, 8)
+[11:41:21.231] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8)]
+[11:41:21.231] [INFO] Carrier Gnogface moved to (2, 8)
+[11:41:21.231] [INFO] Moving offensive blocker Globsmasher Jupp with 3 movement points
+[11:41:21.231] [INFO] Offensive blocker chose move (3, 8) with score 746
+[11:41:21.231] [INFO] Goblin Globsmasher Jupp moved from (4, 8) to (3, 8)
+[11:41:21.231] [INFO] Movement trail: [(2, 8), (4, 8), (3, 8)]
+[11:41:21.231] [INFO] Moving offensive blocker Stabsmasher Goreshade with 3 movement points
+[11:41:21.232] [INFO] Offensive blocker chose move (2, 7) with score 724
+[11:41:21.232] [INFO] Goblin Stabsmasher Goreshade moved from (4, 7) to (2, 7)
+[11:41:21.232] [INFO] Movement trail: [(6, 8), (4, 7), (2, 7)]
+[11:41:21.232] [INFO] Moving offensive blocker Splatsquisher Taltre with 2 movement points
+[11:41:21.232] [INFO] Offensive blocker chose move (4, 8) with score 667
+[11:41:21.232] [INFO] Goblin Splatsquisher Taltre moved from (6, 8) to (4, 8)
+[11:41:21.232] [INFO] Movement trail: [(8, 8), (6, 8), (4, 8)]
+[11:41:21.232] [INFO] Moving offensive blocker Bludstabber with 1 movement points
+[11:41:21.232] [INFO] Offensive blocker chose move (7, 8) with score 414
+[11:41:21.232] [INFO] Goblin Bludstabber moved from (8, 8) to (7, 8)
+[11:41:21.232] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8)]
+[11:41:21.232] [INFO] Moving defensive blocker Stabskull with 1 movement points
+[11:41:21.232] [INFO] Defensive blocker chose move (2, 3) with score 1213
+[11:41:21.232] [INFO] Goblin Stabskull moved from (2, 2) to (2, 3)
+[11:41:21.232] [INFO] Movement trail: [(2, 1), (2, 2), (2, 3)]
+[11:41:21.232] [INFO] Moving defensive blocker Stabchewer Lephidiles with 2 movement points
+[11:41:21.232] [INFO] Defensive blocker chose move (3, 4) with score 1207
+[11:41:21.232] [INFO] Goblin Stabchewer Lephidiles moved from (4, 3) to (3, 4)
+[11:41:21.232] [INFO] Movement trail: [(4, 1), (4, 3), (3, 4)]
+[11:41:21.232] [INFO] Moving defensive blocker Skabslicer with 4 movement points
+[11:41:21.232] [INFO] Defensive blocker chose move (2, 5) with score 1302
+[11:41:21.232] [INFO] Goblin Skabslicer moved from (3, 2) to (2, 5)
+[11:41:21.232] [INFO] Movement trail: [(6, 1), (3, 2), (2, 5)]
+[11:41:21.232] [INFO] Moving defensive blocker Gutface Ackmard with 4 movement points
+[11:41:21.233] [INFO] Defensive blocker chose move (2, 2) with score 1170
+[11:41:21.233] [INFO] Goblin Gutface Ackmard moved from (4, 1) to (2, 2)
+[11:41:21.233] [INFO] Movement trail: [(8, 1), (4, 1), (2, 2)]
+[11:41:21.233] [INFO] Moving defensive blocker Krakfoot with 4 movement points
+[11:41:21.233] [INFO] Defensive blocker chose move (3, 3) with score 1130
+[11:41:21.233] [INFO] Goblin Krakfoot moved from (7, 3) to (3, 3)
+[11:41:21.233] [INFO] Movement trail: [(9, 1), (7, 3), (3, 3)]
+[11:41:21.687] [INFO] Moving carrier Gnogface with 1 movement points
+[11:41:21.687] [INFO] Goblin Gnogface moved from (2, 8) to (1, 8)
+[11:41:21.687] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8)]
+[11:41:21.687] [INFO] Carrier Gnogface moved to (1, 8)
+[11:41:21.687] [INFO] Moving offensive blocker Globsmasher Jupp with 3 movement points
+[11:41:21.687] [INFO] Offensive blocker chose move (1, 7) with score 743
+[11:41:21.687] [INFO] Goblin Globsmasher Jupp moved from (3, 8) to (1, 7)
+[11:41:21.687] [INFO] Movement trail: [(2, 8), (4, 8), (3, 8), (1, 7)]
+[11:41:21.687] [INFO] Moving offensive blocker Stabsmasher Goreshade with 3 movement points
+[11:41:21.687] [INFO] Offensive blocker chose move (2, 8) with score 709
+[11:41:21.687] [INFO] Goblin Stabsmasher Goreshade moved from (2, 7) to (2, 8)
+[11:41:21.687] [INFO] Movement trail: [(6, 8), (4, 7), (2, 7), (2, 8)]
+[11:41:21.687] [INFO] Moving offensive blocker Splatsquisher Taltre with 2 movement points
+[11:41:21.687] [INFO] Offensive blocker chose move (3, 8) with score 637
+[11:41:21.687] [INFO] Goblin Splatsquisher Taltre moved from (4, 8) to (3, 8)
+[11:41:21.687] [INFO] Movement trail: [(8, 8), (6, 8), (4, 8), (3, 8)]
+[11:41:21.687] [INFO] Moving offensive blocker Bludstabber with 1 movement points
+[11:41:21.687] [INFO] Offensive blocker chose move (6, 8) with score 418
+[11:41:21.687] [INFO] Goblin Bludstabber moved from (7, 8) to (6, 8)
+[11:41:21.687] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8), (6, 8)]
+[11:41:21.687] [INFO] Moving defensive blocker Stabskull with 1 movement points
+[11:41:21.687] [INFO] Defensive blocker chose move (1, 3) with score 1211
+[11:41:21.687] [INFO] Goblin Stabskull moved from (2, 3) to (1, 3)
+[11:41:21.687] [INFO] Movement trail: [(2, 1), (2, 2), (2, 3), (1, 3)]
+[11:41:21.687] [INFO] Moving defensive blocker Stabchewer Lephidiles with 2 movement points
+[11:41:21.687] [INFO] Defensive blocker chose move (1, 4) with score 1254
+[11:41:21.687] [INFO] Goblin Stabchewer Lephidiles moved from (3, 4) to (1, 4)
+[11:41:21.688] [INFO] Movement trail: [(4, 1), (4, 3), (3, 4), (1, 4)]
+[11:41:21.688] [INFO] Moving defensive blocker Skabslicer with 4 movement points
+[11:41:21.688] [INFO] Defensive blocker chose move (1, 6) with score 1344
+[11:41:21.688] [INFO] Goblin Skabslicer moved from (2, 5) to (1, 6)
+[11:41:21.688] [INFO] Movement trail: [(6, 1), (3, 2), (2, 5), (1, 6)]
+[11:41:21.688] [INFO] Moving defensive blocker Gutface Ackmard with 4 movement points
+[11:41:21.688] [INFO] Defensive blocker chose move (1, 5) with score 1300
+[11:41:21.688] [INFO] Goblin Gutface Ackmard moved from (2, 2) to (1, 5)
+[11:41:21.688] [INFO] Movement trail: [(8, 1), (4, 1), (2, 2), (1, 5)]
+[11:41:21.688] [INFO] Moving defensive blocker Krakfoot with 4 movement points
+[11:41:21.688] [INFO] Defensive blocker chose move (2, 6) with score 1279
+[11:41:21.688] [INFO] Goblin Krakfoot moved from (3, 3) to (2, 6)
+[11:41:21.688] [INFO] Movement trail: [(9, 1), (7, 3), (3, 3), (2, 6)]
+[11:41:22.178] [INFO] Moving carrier Gnogface with 1 movement points
+[11:41:22.178] [INFO] Goblin Gnogface moved from (1, 8) to (0, 8)
+[11:41:22.178] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8), (0, 8)]
+[11:41:22.178] [INFO] Carrier Gnogface moved to (0, 8)
+[11:41:22.178] [INFO] Moving offensive blocker Globsmasher Jupp with 3 movement points
+[11:41:22.178] [INFO] Attempt block of Skabslicer by Globsmasher Jupp
+[11:41:22.178] [INFO] Offensive blocker chose move (1, 7) with score 2989
+[11:41:22.178] [INFO] Moving offensive blocker Stabsmasher Goreshade with 3 movement points
+[11:41:22.178] [INFO] Offensive blocker chose move (1, 8) with score 733
+[11:41:22.179] [INFO] Goblin Stabsmasher Goreshade moved from (2, 8) to (1, 8)
+[11:41:22.179] [INFO] Movement trail: [(6, 8), (4, 7), (2, 7), (2, 8), (1, 8)]
+[11:41:22.179] [INFO] Moving offensive blocker Splatsquisher Taltre with 2 movement points
+[11:41:22.179] [INFO] Offensive blocker chose move (2, 8) with score 637
+[11:41:22.179] [INFO] Goblin Splatsquisher Taltre moved from (3, 8) to (2, 8)
+[11:41:22.179] [INFO] Movement trail: [(8, 8), (6, 8), (4, 8), (3, 8), (2, 8)]
+[11:41:22.179] [INFO] Moving offensive blocker Bludstabber with 1 movement points
+[11:41:22.179] [INFO] Offensive blocker chose move (5, 8) with score 408
+[11:41:22.179] [INFO] Goblin Bludstabber moved from (6, 8) to (5, 8)
+[11:41:22.179] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8), (6, 8), (5, 8)]
+[11:41:22.179] [INFO] Moving defensive blocker Stabskull with 1 movement points
+[11:41:22.179] [INFO] Defensive blocker chose move (0, 3) with score 1177
+[11:41:22.179] [INFO] Goblin Stabskull moved from (1, 3) to (0, 3)
+[11:41:22.179] [INFO] Movement trail: [(2, 1), (2, 2), (2, 3), (1, 3), (0, 3)]
+[11:41:22.179] [INFO] Moving defensive blocker Stabchewer Lephidiles with 2 movement points
+[11:41:22.179] [INFO] Defensive blocker chose move (0, 5) with score 1316
+[11:41:22.179] [INFO] Goblin Stabchewer Lephidiles moved from (1, 4) to (0, 5)
+[11:41:22.179] [INFO] Movement trail: [(4, 1), (4, 3), (3, 4), (1, 4), (0, 5)]
+[11:41:22.179] [INFO] Moving defensive blocker Skabslicer with 4 movement points
+[11:41:22.179] [INFO] Defensive blocker chose move (0, 7) with score 4413
+[11:41:22.179] [INFO] Goblin Skabslicer moved from (1, 6) to (0, 7)
+[11:41:22.179] [INFO] Movement trail: [(6, 1), (3, 2), (2, 5), (1, 6), (0, 7)]
+[11:41:22.179] [INFO] Defensive blocker Skabslicer attempting to block carrier Gnogface after moving
+[11:41:22.179] [INFO] Moving defensive blocker Gutface Ackmard with 4 movement points
+[11:41:22.179] [INFO] Defensive blocker chose move (0, 8) with score 3400
+[11:41:22.179] [INFO] Goblin Gutface Ackmard moved from (1, 5) to (0, 8)
+[11:41:22.179] [INFO] Movement trail: [(8, 1), (4, 1), (2, 2), (1, 5), (0, 8)]
+[11:41:22.179] [INFO] Moving defensive blocker Krakfoot with 4 movement points
+[11:41:22.180] [INFO] Defensive blocker chose move (1, 9) with score 2946
+[11:41:23.193] [INFO] Moving carrier Gnogface with 1 movement points
+[11:41:23.194] [INFO] Carrier Gnogface couldn't find valid move
+[11:41:23.194] [INFO] Moving offensive blocker Stabskull with 1 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!
+[11:41:23.194] [INFO] Moving offensive blocker Stabchewer Lephidiles with 2 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!
+[11:41:23.194] [INFO] Moving offensive blocker Skabslicer with 4 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!
+[11:41:23.194] [INFO] Moving offensive blocker Gutface Ackmard with 4 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!
+[11:41:23.194] [INFO] Moving defensive blocker Globsmasher Jupp with 3 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!
+[11:41:23.194] [INFO] Moving defensive blocker Stabsmasher Goreshade with 3 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!
+[11:41:23.194] [INFO] Moving defensive blocker Splatsquisher Taltre with 2 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!
+[11:41:23.194] [INFO] Moving defensive blocker Bludstabber with 1 movement points
+[11:41:23.194] [INFO] No carrier found for team Skullsmashers!

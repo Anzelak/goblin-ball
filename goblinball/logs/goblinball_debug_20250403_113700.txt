@@ -1,0 +1,262 @@
+[11:37:00.368] [INFO] === Goblinball Debug Log - 20250403_113700 ===
+[11:37:00.368] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113700.txt
+[11:37:00.389] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:37:01.822] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:01.823] [INFO] Goblin Wortslicer moved from (4, 8) to (3, 8)
+[11:37:01.823] [INFO] Movement trail: [(4, 8), (3, 8)]
+[11:37:01.823] [INFO] Carrier Wortslicer moved to (3, 8)
+[11:37:01.823] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:01.823] [INFO] Offensive blocker chose move (3, 7) with score 752
+[11:37:01.823] [INFO] Goblin Globnose moved from (2, 8) to (3, 7)
+[11:37:01.823] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:37:01.824] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:01.824] [INFO] Offensive blocker chose move (5, 8) with score 664
+[11:37:01.824] [INFO] Goblin Globfoot Spottswood moved from (6, 8) to (5, 8)
+[11:37:01.824] [INFO] Movement trail: [(6, 8), (5, 8)]
+[11:37:01.824] [INFO] Moving offensive blocker Grubskull with 1 movement points
+[11:37:01.824] [INFO] Offensive blocker chose move (7, 8) with score 486
+[11:37:01.824] [INFO] Goblin Grubskull moved from (8, 8) to (7, 8)
+[11:37:01.824] [INFO] Movement trail: [(8, 8), (7, 8)]
+[11:37:01.824] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:01.824] [INFO] Offensive blocker chose move (6, 8) with score 565
+[11:37:01.824] [INFO] Goblin Globnose moved from (9, 8) to (6, 8)
+[11:37:01.824] [INFO] Movement trail: [(9, 8), (6, 8)]
+[11:37:01.824] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:01.824] [INFO] Defensive blocker chose move (3, 1) with score 1120
+[11:37:01.824] [INFO] Goblin Wortbasher moved from (2, 1) to (3, 1)
+[11:37:01.824] [INFO] Movement trail: [(2, 1), (3, 1)]
+[11:37:01.824] [INFO] Moving defensive blocker Krunkfinger with 4 movement points
+[11:37:01.824] [INFO] Defensive blocker chose move (4, 5) with score 1230
+[11:37:01.824] [INFO] Goblin Krunkfinger moved from (4, 1) to (4, 5)
+[11:37:01.824] [INFO] Movement trail: [(4, 1), (4, 5)]
+[11:37:01.824] [INFO] Moving defensive blocker Globchewer  with 4 movement points
+[11:37:01.825] [INFO] Defensive blocker chose move (4, 3) with score 1164
+[11:37:01.825] [INFO] Goblin Globchewer  moved from (6, 1) to (4, 3)
+[11:37:01.825] [INFO] Movement trail: [(6, 1), (4, 3)]
+[11:37:01.825] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:01.825] [INFO] Defensive blocker chose move (7, 1) with score 712
+[11:37:01.825] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (8, 1) to (7, 1)
+[11:37:01.825] [INFO] Movement trail: [(8, 1), (7, 1)]
+[11:37:01.825] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:01.825] [INFO] Defensive blocker chose move (9, 3) with score 720
+[11:37:01.825] [INFO] Goblin Splatbiter moved from (9, 1) to (9, 3)
+[11:37:01.825] [INFO] Movement trail: [(9, 1), (9, 3)]
+[11:37:02.330] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:02.330] [INFO] Goblin Wortslicer moved from (3, 8) to (2, 8)
+[11:37:02.330] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8)]
+[11:37:02.330] [INFO] Carrier Wortslicer moved to (2, 8)
+[11:37:02.330] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:02.330] [INFO] Offensive blocker chose move (2, 7) with score 727
+[11:37:02.330] [INFO] Goblin Globnose moved from (3, 7) to (2, 7)
+[11:37:02.330] [INFO] Movement trail: [(2, 8), (3, 7), (2, 7)]
+[11:37:02.330] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:02.330] [INFO] Offensive blocker chose move (4, 8) with score 652
+[11:37:02.330] [INFO] Goblin Globfoot Spottswood moved from (5, 8) to (4, 8)
+[11:37:02.330] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8)]
+[11:37:02.330] [INFO] Moving offensive blocker Grubskull with 1 movement points
+[11:37:02.330] [INFO] Offensive blocker chose move (7, 7) with score 333
+[11:37:02.330] [INFO] Goblin Grubskull moved from (7, 8) to (7, 7)
+[11:37:02.330] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7)]
+[11:37:02.330] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:02.330] [INFO] Offensive blocker chose move (3, 8) with score 749
+[11:37:02.330] [INFO] Goblin Globnose moved from (6, 8) to (3, 8)
+[11:37:02.330] [INFO] Movement trail: [(9, 8), (6, 8), (3, 8)]
+[11:37:02.331] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:02.331] [INFO] Defensive blocker chose move (2, 1) with score 1113
+[11:37:02.331] [INFO] Goblin Wortbasher moved from (3, 1) to (2, 1)
+[11:37:02.331] [INFO] Movement trail: [(2, 1), (3, 1), (2, 1)]
+[11:37:02.331] [INFO] Moving defensive blocker Krunkfinger with 4 movement points
+[11:37:02.331] [INFO] Defensive blocker chose move (2, 6) with score 1373
+[11:37:02.331] [INFO] Goblin Krunkfinger moved from (4, 5) to (2, 6)
+[11:37:02.331] [INFO] Movement trail: [(4, 1), (4, 5), (2, 6)]
+[11:37:02.331] [INFO] Moving defensive blocker Globchewer  with 4 movement points
+[11:37:02.331] [INFO] Defensive blocker chose move (3, 6) with score 1320
+[11:37:02.331] [INFO] Goblin Globchewer  moved from (4, 3) to (3, 6)
+[11:37:02.331] [INFO] Movement trail: [(6, 1), (4, 3), (3, 6)]
+[11:37:02.331] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:02.331] [INFO] Defensive blocker chose move (7, 2) with score 701
+[11:37:02.331] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (7, 1) to (7, 2)
+[11:37:02.331] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2)]
+[11:37:02.331] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:02.331] [INFO] Defensive blocker chose move (7, 3) with score 769
+[11:37:02.331] [INFO] Goblin Splatbiter moved from (9, 3) to (7, 3)
+[11:37:02.331] [INFO] Movement trail: [(9, 1), (9, 3), (7, 3)]
+[11:37:02.920] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:02.921] [INFO] Goblin Wortslicer moved from (2, 8) to (1, 8)
+[11:37:02.921] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8)]
+[11:37:02.921] [INFO] Carrier Wortslicer moved to (1, 8)
+[11:37:02.921] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:02.921] [INFO] Attempt block of Krunkfinger by Globnose
+[11:37:02.921] [INFO] Offensive blocker chose move (2, 7) with score 2986
+[11:37:02.921] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:02.921] [INFO] Offensive blocker chose move (5, 8) with score 497
+[11:37:02.921] [INFO] Goblin Globfoot Spottswood moved from (4, 8) to (5, 8)
+[11:37:02.921] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8), (5, 8)]
+[11:37:02.921] [INFO] Moving offensive blocker Grubskull with 1 movement points
+[11:37:02.921] [INFO] Offensive blocker chose move (6, 7) with score 347
+[11:37:02.921] [INFO] Goblin Grubskull moved from (7, 7) to (6, 7)
+[11:37:02.921] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7), (6, 7)]
+[11:37:02.921] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:02.921] [INFO] Offensive blocker chose move (2, 8) with score 737
+[11:37:02.921] [INFO] Goblin Globnose moved from (3, 8) to (2, 8)
+[11:37:02.921] [INFO] Movement trail: [(9, 8), (6, 8), (3, 8), (2, 8)]
+[11:37:02.921] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:02.921] [INFO] Defensive blocker chose move (1, 1) with score 1108
+[11:37:02.921] [INFO] Goblin Wortbasher moved from (2, 1) to (1, 1)
+[11:37:02.921] [INFO] Movement trail: [(2, 1), (3, 1), (2, 1), (1, 1)]
+[11:37:02.921] [INFO] Moving defensive blocker Krunkfinger with 4 movement points
+[11:37:02.922] [INFO] Defensive blocker chose move (1, 7) with score 4419
+[11:37:02.922] [INFO] Goblin Krunkfinger moved from (2, 6) to (1, 7)
+[11:37:02.922] [INFO] Movement trail: [(4, 1), (4, 5), (2, 6), (1, 7)]
+[11:37:02.922] [INFO] Defensive blocker Krunkfinger attempting to block carrier Wortslicer after moving
+[11:37:02.922] [INFO] Moving defensive blocker Globchewer  with 4 movement points
+[11:37:02.922] [INFO] Defensive blocker chose move (1, 6) with score 1358
+[11:37:02.922] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:02.922] [INFO] Defensive blocker chose move (6, 2) with score 687
+[11:37:02.922] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (7, 2) to (6, 2)
+[11:37:02.922] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2), (6, 2)]
+[11:37:02.922] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:02.922] [INFO] Defensive blocker chose move (5, 3) with score 808
+[11:37:02.922] [INFO] Goblin Splatbiter moved from (7, 3) to (5, 3)
+[11:37:02.922] [INFO] Movement trail: [(9, 1), (9, 3), (7, 3), (5, 3)]
+[11:37:03.676] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:03.676] [INFO] Goblin Wortslicer moved from (1, 8) to (0, 8)
+[11:37:03.676] [INFO] Movement trail: [(4, 8), (3, 8), (2, 8), (1, 8), (0, 8)]
+[11:37:03.676] [INFO] Carrier Wortslicer moved to (0, 8)
+[11:37:03.676] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:03.676] [INFO] Attempt block of Krunkfinger by Globnose
+[11:37:03.676] [INFO] Offensive blocker chose move (2, 7) with score 2984
+[11:37:03.676] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:03.676] [INFO] Offensive blocker chose move (4, 8) with score 472
+[11:37:03.676] [INFO] Goblin Globfoot Spottswood moved from (5, 8) to (4, 8)
+[11:37:03.676] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8), (5, 8), (4, 8)]
+[11:37:03.676] [INFO] Moving offensive blocker Grubskull with 1 movement points
+[11:37:03.676] [INFO] Offensive blocker chose move (5, 7) with score 349
+[11:37:03.676] [INFO] Goblin Grubskull moved from (6, 7) to (5, 7)
+[11:37:03.676] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7), (6, 7), (5, 7)]
+[11:37:03.676] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:03.676] [INFO] Attempt block of Krunkfinger by Globnose
+[11:37:03.676] [INFO] Block succeeded!
+[11:37:03.676] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:03.676] [INFO] Defensive blocker chose move (1, 2) with score 1113
+[11:37:03.676] [INFO] Goblin Wortbasher moved from (1, 1) to (1, 2)
+[11:37:03.676] [INFO] Movement trail: [(2, 1), (3, 1), (2, 1), (1, 1), (1, 2)]
+[11:37:03.676] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:03.676] [INFO] Defensive blocker chose move (6, 3) with score 719
+[11:37:03.676] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (6, 2) to (6, 3)
+[11:37:03.676] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2), (6, 2), (6, 3)]
+[11:37:03.676] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:03.676] [INFO] Defensive blocker chose move (5, 5) with score 874
+[11:37:03.676] [INFO] Goblin Splatbiter moved from (5, 3) to (5, 5)
+[11:37:03.676] [INFO] Movement trail: [(9, 1), (9, 3), (7, 3), (5, 3), (5, 5)]
+[11:37:04.206] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:04.206] [INFO] Goblin Wortslicer moved from (0, 8) to (0, 7)
+[11:37:04.206] [INFO] Movement trail: [(3, 8), (2, 8), (1, 8), (0, 8), (0, 7)]
+[11:37:04.206] [INFO] Carrier Wortslicer moved to (0, 7)
+[11:37:04.206] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:04.206] [INFO] Offensive blocker chose move (0, 6) with score 748
+[11:37:04.206] [INFO] Goblin Globnose moved from (2, 7) to (0, 6)
+[11:37:04.206] [INFO] Movement trail: [(2, 8), (3, 7), (2, 7), (0, 6)]
+[11:37:04.206] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:04.206] [INFO] Offensive blocker chose move (4, 7) with score 501
+[11:37:04.206] [INFO] Goblin Globfoot Spottswood moved from (4, 8) to (4, 7)
+[11:37:04.206] [INFO] Movement trail: [(5, 8), (4, 8), (5, 8), (4, 8), (4, 7)]
+[11:37:04.206] [INFO] Moving offensive blocker Grubskull with 1 movement points
+[11:37:04.206] [INFO] Offensive blocker chose move (5, 6) with score 346
+[11:37:04.206] [INFO] Goblin Grubskull moved from (5, 7) to (5, 6)
+[11:37:04.206] [INFO] Movement trail: [(7, 8), (7, 7), (6, 7), (5, 7), (5, 6)]
+[11:37:04.206] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:04.206] [INFO] Offensive blocker chose move (0, 8) with score 711
+[11:37:04.206] [INFO] Goblin Globnose moved from (2, 8) to (0, 8)
+[11:37:04.206] [INFO] Movement trail: [(9, 8), (6, 8), (3, 8), (2, 8), (0, 8)]
+[11:37:04.206] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:04.206] [INFO] Defensive blocker chose move (0, 2) with score 1215
+[11:37:04.206] [INFO] Goblin Wortbasher moved from (1, 2) to (0, 2)
+[11:37:04.206] [INFO] Movement trail: [(3, 1), (2, 1), (1, 1), (1, 2), (0, 2)]
+[11:37:04.206] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:04.206] [INFO] Defensive blocker chose move (6, 4) with score 804
+[11:37:04.206] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (6, 3) to (6, 4)
+[11:37:04.206] [INFO] Movement trail: [(7, 1), (7, 2), (6, 2), (6, 3), (6, 4)]
+[11:37:04.206] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:04.207] [INFO] Defensive blocker chose move (4, 6) with score 1019
+[11:37:04.207] [INFO] Goblin Splatbiter moved from (5, 5) to (4, 6)
+[11:37:04.207] [INFO] Movement trail: [(9, 3), (7, 3), (5, 3), (5, 5), (4, 6)]
+[11:37:04.762] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:04.762] [INFO] Carrier Wortslicer couldn't find valid move
+[11:37:04.762] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:04.762] [INFO] Offensive blocker chose move (2, 7) with score 650
+[11:37:04.762] [INFO] Goblin Globnose moved from (0, 6) to (2, 7)
+[11:37:04.762] [INFO] Movement trail: [(2, 8), (3, 7), (2, 7), (0, 6), (2, 7)]
+[11:37:04.762] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:04.762] [INFO] Offensive blocker chose move (3, 7) with score 587
+[11:37:04.762] [INFO] Goblin Globfoot Spottswood moved from (4, 7) to (3, 7)
+[11:37:04.762] [INFO] Movement trail: [(4, 8), (5, 8), (4, 8), (4, 7), (3, 7)]
+[11:37:04.762] [INFO] Moving offensive blocker Grubskull with 1 movement points
+[11:37:04.762] [INFO] Offensive blocker chose move (5, 7) with score 373
+[11:37:04.762] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:04.762] [INFO] Offensive blocker chose move (0, 6) with score 756
+[11:37:04.762] [INFO] Goblin Globnose moved from (0, 8) to (0, 6)
+[11:37:04.762] [INFO] Movement trail: [(6, 8), (3, 8), (2, 8), (0, 8), (0, 6)]
+[11:37:04.762] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:04.762] [INFO] Defensive blocker chose move (0, 3) with score 1274
+[11:37:04.762] [INFO] Goblin Wortbasher moved from (0, 2) to (0, 3)
+[11:37:04.762] [INFO] Movement trail: [(2, 1), (1, 1), (1, 2), (0, 2), (0, 3)]
+[11:37:04.762] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:04.762] [INFO] Defensive blocker chose move (5, 4) with score 870
+[11:37:04.762] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (6, 4) to (5, 4)
+[11:37:04.762] [INFO] Movement trail: [(7, 2), (6, 2), (6, 3), (6, 4), (5, 4)]
+[11:37:04.762] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:04.762] [INFO] Defensive blocker chose move (2, 6) with score 1119
+[11:37:04.762] [INFO] Goblin Splatbiter moved from (4, 6) to (2, 6)
+[11:37:04.762] [INFO] Movement trail: [(7, 3), (5, 3), (5, 5), (4, 6), (2, 6)]
+[11:37:05.205] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:05.205] [INFO] Carrier Wortslicer couldn't find valid move
+[11:37:05.205] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:05.205] [INFO] Attempt block of Splatbiter by Globnose
+[11:37:05.205] [INFO] Block succeeded!
+[11:37:05.205] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:05.205] [INFO] Offensive blocker chose move (4, 7) with score 514
+[11:37:05.205] [INFO] Goblin Globfoot Spottswood moved from (3, 7) to (4, 7)
+[11:37:05.205] [INFO] Movement trail: [(5, 8), (4, 8), (4, 7), (3, 7), (4, 7)]
+[11:37:05.205] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:05.205] [INFO] Offensive blocker chose move (0, 8) with score 714
+[11:37:05.205] [INFO] Goblin Globnose moved from (0, 6) to (0, 8)
+[11:37:05.206] [INFO] Movement trail: [(3, 8), (2, 8), (0, 8), (0, 6), (0, 8)]
+[11:37:05.206] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:05.206] [INFO] Defensive blocker chose move (0, 4) with score 1301
+[11:37:05.206] [INFO] Goblin Wortbasher moved from (0, 3) to (0, 4)
+[11:37:05.206] [INFO] Movement trail: [(1, 1), (1, 2), (0, 2), (0, 3), (0, 4)]
+[11:37:05.206] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:05.206] [INFO] Defensive blocker chose move (5, 5) with score 909
+[11:37:05.206] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (5, 4) to (5, 5)
+[11:37:05.206] [INFO] Movement trail: [(6, 2), (6, 3), (6, 4), (5, 4), (5, 5)]
+[11:37:05.206] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:05.206] [INFO] Defensive blocker chose move (1, 6) with score 1345
+[11:37:05.206] [INFO] Goblin Splatbiter moved from (2, 5) to (1, 6)
+[11:37:05.206] [INFO] Movement trail: [(5, 5), (4, 6), (2, 6), (2, 5), (1, 6)]
+[11:37:05.613] [INFO] Moving carrier Wortslicer with 1 movement points
+[11:37:05.613] [INFO] Goblin Wortslicer moved from (0, 7) to (0, 6)
+[11:37:05.613] [INFO] Movement trail: [(2, 8), (1, 8), (0, 8), (0, 7), (0, 6)]
+[11:37:05.613] [INFO] Carrier Wortslicer moved to (0, 6)
+[11:37:05.613] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:05.613] [INFO] Attempt block of Splatbiter by Globnose
+[11:37:05.613] [INFO] Block succeeded!
+[11:37:05.613] [INFO] Moving offensive blocker Globfoot Spottswood with 1 movement points
+[11:37:05.613] [INFO] Offensive blocker chose move (3, 7) with score 513
+[11:37:05.613] [INFO] Goblin Globfoot Spottswood moved from (4, 7) to (3, 7)
+[11:37:05.613] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7), (4, 7), (3, 7)]
+[11:37:05.613] [INFO] Moving offensive blocker Globnose with 3 movement points
+[11:37:05.613] [INFO] Offensive blocker chose move (1, 6) with score 735
+[11:37:05.613] [INFO] Goblin Globnose moved from (0, 8) to (1, 6)
+[11:37:05.613] [INFO] Movement trail: [(2, 8), (0, 8), (0, 6), (0, 8), (1, 6)]
+[11:37:05.613] [INFO] Moving defensive blocker Wortbasher with 1 movement points
+[11:37:05.613] [INFO] Defensive blocker chose move (0, 3) with score 1318
+[11:37:05.613] [INFO] Goblin Wortbasher moved from (0, 4) to (0, 3)
+[11:37:05.613] [INFO] Movement trail: [(1, 2), (0, 2), (0, 3), (0, 4), (0, 3)]
+[11:37:05.613] [INFO] Moving defensive blocker Zogstomper Hardshadow the Tough with 1 movement points
+[11:37:05.614] [INFO] Defensive blocker chose move (4, 5) with score 979
+[11:37:05.614] [INFO] Goblin Zogstomper Hardshadow the Tough moved from (5, 5) to (4, 5)
+[11:37:05.614] [INFO] Movement trail: [(6, 3), (6, 4), (5, 4), (5, 5), (4, 5)]
+[11:37:05.614] [INFO] Moving defensive blocker Splatbiter with 2 movement points
+[11:37:05.614] [INFO] Defensive blocker Splatbiter attempting to block carrier Wortslicer
+[11:37:05.614] [INFO] Block succeeded!

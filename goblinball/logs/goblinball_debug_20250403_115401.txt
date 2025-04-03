@@ -1,0 +1,78 @@
+[11:54:01.032] [INFO] === Goblinball Debug Log - 20250403_115401 ===
+[11:54:01.032] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115401.txt
+[11:54:01.053] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:54:02.028] [INFO] Moving carrier Gnogbasher Malvin with 2 movement points
+[11:54:02.028] [INFO] Goblin Gnogbasher Malvin moved from (4, 8) to (5, 7)
+[11:54:02.028] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:54:02.028] [INFO] Carrier Gnogbasher Malvin moved along clear path to (5, 7)
+[11:54:02.029] [INFO] Moving offensive blocker Wortslicer with 3 movement points
+[11:54:02.029] [INFO] Offensive blocker chose move (5, 8) with score 733
+[11:54:02.029] [INFO] Goblin Wortslicer moved from (2, 8) to (5, 8)
+[11:54:02.029] [INFO] Movement trail: [(2, 8), (5, 8)]
+[11:54:02.029] [INFO] Moving offensive blocker Mugtooth Hardnoggin the Sneaky with 3 movement points
+[11:54:02.029] [INFO] Offensive blocker chose move (5, 6) with score 755
+[11:54:02.029] [INFO] Goblin Mugtooth Hardnoggin the Sneaky moved from (6, 8) to (5, 6)
+[11:54:02.029] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:54:02.029] [INFO] Moving offensive blocker Fizzgulper with 1 movement points
+[11:54:02.029] [INFO] Offensive blocker chose move (8, 7) with score 588
+[11:54:02.029] [INFO] Goblin Fizzgulper moved from (8, 8) to (8, 7)
+[11:54:02.029] [INFO] Movement trail: [(8, 8), (8, 7)]
+[11:54:02.029] [INFO] Moving offensive blocker Gutsmasher Shade with 3 movement points
+[11:54:02.029] [INFO] Offensive blocker chose move (7, 7) with score 648
+[11:54:02.029] [INFO] Goblin Gutsmasher Shade moved from (9, 8) to (7, 7)
+[11:54:02.029] [INFO] Movement trail: [(9, 8), (7, 7)]
+[11:54:02.029] [INFO] Moving defensive blocker Fizzstabber with 4 movement points
+[11:54:02.029] [INFO] Defensive blocker chose move (4, 3) with score 1205
+[11:54:02.030] [INFO] Goblin Fizzstabber moved from (2, 1) to (4, 3)
+[11:54:02.030] [INFO] Movement trail: [(2, 1), (4, 3)]
+[11:54:02.030] [INFO] Moving defensive blocker Splatfoot with 4 movement points
+[11:54:02.030] [INFO] Defensive blocker chose move (4, 5) with score 1305
+[11:54:02.030] [INFO] Goblin Splatfoot moved from (4, 1) to (4, 5)
+[11:54:02.030] [INFO] Movement trail: [(4, 1), (4, 5)]
+[11:54:02.030] [INFO] Moving defensive blocker Wortmangler Noke  with 3 movement points
+[11:54:02.030] [INFO] Defensive blocker chose move (6, 4) with score 1273
+[11:54:02.030] [INFO] Goblin Wortmangler Noke  moved from (6, 1) to (6, 4)
+[11:54:02.030] [INFO] Movement trail: [(6, 1), (6, 4)]
+[11:54:02.030] [INFO] Moving defensive blocker Bludnose with 2 movement points
+[11:54:02.030] [INFO] Defensive blocker chose move (6, 1) with score 1104
+[11:54:02.030] [INFO] Goblin Bludnose moved from (8, 1) to (6, 1)
+[11:54:02.030] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:54:02.030] [INFO] Moving defensive blocker Snotfoot with 4 movement points
+[11:54:02.030] [INFO] Defensive blocker chose move (5, 1) with score 1160
+[11:54:02.030] [INFO] Goblin Snotfoot moved from (9, 1) to (5, 1)
+[11:54:02.030] [INFO] Movement trail: [(9, 1), (5, 1)]
+[11:54:02.486] [INFO] Moving carrier Gnogbasher Malvin with 2 movement points
+[11:54:02.486] [INFO] Goblin Gnogbasher Malvin moved from (5, 7) to (5, 5)
+[11:54:02.486] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5)]
+[11:54:02.486] [INFO] Carrier Gnogbasher Malvin moved to (5, 5) (score: 35.0)
+[11:54:02.486] [INFO] Moving offensive blocker Wortslicer with 3 movement points
+[11:54:02.486] [INFO] Offensive blocker chose move (4, 6) with score 2624
+[11:54:02.486] [INFO] Goblin Wortslicer moved from (5, 8) to (4, 6)
+[11:54:02.486] [INFO] Movement trail: [(2, 8), (5, 8), (4, 6)]
+[11:54:02.486] [INFO] Moving offensive blocker Mugtooth Hardnoggin the Sneaky with 3 movement points
+[11:54:02.486] [INFO] Attempt block of Splatfoot by Mugtooth Hardnoggin the Sneaky
+[11:54:02.487] [INFO] Block succeeded!
+[11:54:02.487] [INFO] Moving offensive blocker Fizzgulper with 1 movement points
+[11:54:02.487] [INFO] Offensive blocker chose move (8, 6) with score 518
+[11:54:02.487] [INFO] Goblin Fizzgulper moved from (8, 7) to (8, 6)
+[11:54:02.487] [INFO] Movement trail: [(8, 8), (8, 7), (8, 6)]
+[11:54:02.487] [INFO] Moving offensive blocker Gutsmasher Shade with 3 movement points
+[11:54:02.487] [INFO] Offensive blocker chose move (6, 5) with score 2639
+[11:54:02.487] [INFO] Goblin Gutsmasher Shade moved from (7, 7) to (6, 5)
+[11:54:02.487] [INFO] Movement trail: [(9, 8), (7, 7), (6, 5)]
+[11:54:02.487] [INFO] Moving defensive blocker Fizzstabber with 4 movement points
+[11:54:02.487] [INFO] Defensive blocker chose move (5, 4) with score 4402
+[11:54:02.487] [INFO] Goblin Fizzstabber moved from (4, 3) to (5, 4)
+[11:54:02.487] [INFO] Movement trail: [(2, 1), (4, 3), (5, 4)]
+[11:54:02.487] [INFO] Defensive blocker Fizzstabber attempting to block carrier Gnogbasher Malvin after moving
+[11:54:02.487] [INFO] Moving defensive blocker Splatfoot with 4 movement points
+[11:54:02.487] [INFO] Defensive blocker chose move (4, 5) with score 3935
+[11:54:02.487] [INFO] Goblin Splatfoot moved from (3, 4) to (4, 5)
+[11:54:02.487] [INFO] Movement trail: [(4, 1), (4, 5), (3, 4), (4, 5)]
+[11:54:02.487] [INFO] Defensive blocker Splatfoot attempting to block carrier Gnogbasher Malvin after moving
+[11:54:02.488] [INFO] Moving offensive blocker Wortmangler Noke  with 3 movement points
+[11:54:02.488] [INFO] No carrier found for team Skullsmashers!
+[11:54:02.488] [INFO] Moving offensive blocker Bludnose with 2 movement points
+[11:54:02.488] [INFO] No carrier found for team Skullsmashers!
+[11:54:02.488] [INFO] Moving offensive blocker Snotfoot with 4 movement points
+[11:54:02.488] [INFO] No carrier found for team Skullsmashers!

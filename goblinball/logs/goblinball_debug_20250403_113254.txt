@@ -1,0 +1,153 @@
+[11:32:54.597] [INFO] === Goblinball Debug Log - 20250403_113254 ===
+[11:32:54.597] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_113254.txt
+[11:32:54.623] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:32:56.239] [INFO] Moving carrier Bludstabber Garwocket with 3 movement points
+[11:32:56.239] [INFO] Goblin Bludstabber Garwocket moved from (4, 8) to (5, 7)
+[11:32:56.240] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:32:56.240] [INFO] Carrier Bludstabber Garwocket moved to (5, 7)
+[11:32:56.242] [INFO] Moving offensive blocker Zogstabber with 1 movement points
+[11:32:56.243] [INFO] Offensive blocker chose move (2, 7) with score 575
+[11:32:56.243] [INFO] Goblin Zogstabber moved from (2, 8) to (2, 7)
+[11:32:56.243] [INFO] Movement trail: [(2, 8), (2, 7)]
+[11:32:56.243] [INFO] Moving offensive blocker Mugchewer Brie with 4 movement points
+[11:32:56.243] [INFO] Offensive blocker chose move (5, 6) with score 747
+[11:32:56.243] [INFO] Goblin Mugchewer Brie moved from (6, 8) to (5, 6)
+[11:32:56.243] [INFO] Movement trail: [(6, 8), (5, 6)]
+[11:32:56.243] [INFO] Moving offensive blocker Lugchomper Taryll with 3 movement points
+[11:32:56.243] [INFO] Offensive blocker chose move (5, 8) with score 740
+[11:32:56.243] [INFO] Goblin Lugchomper Taryll moved from (8, 8) to (5, 8)
+[11:32:56.243] [INFO] Movement trail: [(8, 8), (5, 8)]
+[11:32:56.243] [INFO] Moving offensive blocker Stabchomper the Quick with 3 movement points
+[11:32:56.244] [INFO] Offensive blocker chose move (7, 7) with score 657
+[11:32:56.244] [INFO] Goblin Stabchomper the Quick moved from (9, 8) to (7, 7)
+[11:32:56.244] [INFO] Movement trail: [(9, 8), (7, 7)]
+[11:32:56.244] [INFO] Moving defensive blocker Splatskull the Cunning with 4 movement points
+[11:32:56.244] [INFO] Defensive blocker chose move (5, 2) with score 1195
+[11:32:56.244] [INFO] Goblin Splatskull the Cunning moved from (2, 1) to (5, 2)
+[11:32:56.244] [INFO] Movement trail: [(2, 1), (5, 2)]
+[11:32:56.244] [INFO] Moving defensive blocker Krakchewer Redman with 1 movement points
+[11:32:56.244] [INFO] Defensive blocker chose move (4, 2) with score 1137
+[11:32:56.244] [INFO] Goblin Krakchewer Redman moved from (4, 1) to (4, 2)
+[11:32:56.244] [INFO] Movement trail: [(4, 1), (4, 2)]
+[11:32:56.244] [INFO] Moving defensive blocker Fizzgulper the Strong with 3 movement points
+[11:32:56.245] [INFO] Defensive blocker chose move (5, 3) with score 1262
+[11:32:56.245] [INFO] Goblin Fizzgulper the Strong moved from (6, 1) to (5, 3)
+[11:32:56.245] [INFO] Movement trail: [(6, 1), (5, 3)]
+[11:32:56.245] [INFO] Moving defensive blocker Grimslicer James with 1 movement points
+[11:32:56.245] [INFO] Defensive blocker chose move (7, 1) with score 855
+[11:32:56.245] [INFO] Goblin Grimslicer James moved from (8, 1) to (7, 1)
+[11:32:56.245] [INFO] Movement trail: [(8, 1), (7, 1)]
+[11:32:56.245] [INFO] Moving defensive blocker Globcrusher Zessfar with 3 movement points
+[11:32:56.245] [INFO] Defensive blocker chose move (6, 1) with score 1111
+[11:32:56.245] [INFO] Goblin Globcrusher Zessfar moved from (9, 1) to (6, 1)
+[11:32:56.245] [INFO] Movement trail: [(9, 1), (6, 1)]
+[11:32:57.130] [INFO] Moving carrier Bludstabber Garwocket with 3 movement points
+[11:32:57.130] [INFO] Goblin Bludstabber Garwocket moved from (5, 7) to (5, 5)
+[11:32:57.130] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5)]
+[11:32:57.130] [INFO] Carrier Bludstabber Garwocket moved to (5, 5)
+[11:32:57.130] [INFO] Moving offensive blocker Zogstabber with 1 movement points
+[11:32:57.130] [INFO] Offensive blocker chose move (2, 6) with score 505
+[11:32:57.130] [INFO] Goblin Zogstabber moved from (2, 7) to (2, 6)
+[11:32:57.130] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6)]
+[11:32:57.130] [INFO] Moving offensive blocker Mugchewer Brie with 4 movement points
+[11:32:57.130] [INFO] Offensive blocker chose move (5, 4) with score 4642
+[11:32:57.130] [INFO] Goblin Mugchewer Brie moved from (5, 6) to (5, 4)
+[11:32:57.130] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4)]
+[11:32:57.130] [INFO] Offensive blocker Mugchewer Brie attempting to block Fizzgulper the Strong after moving
+[11:32:57.130] [INFO] Moving offensive blocker Lugchomper Taryll with 3 movement points
+[11:32:57.130] [INFO] Offensive blocker chose move (5, 6) with score 760
+[11:32:57.130] [INFO] Goblin Lugchomper Taryll moved from (5, 8) to (5, 6)
+[11:32:57.130] [INFO] Movement trail: [(8, 8), (5, 8), (5, 6)]
+[11:32:57.130] [INFO] Moving offensive blocker Stabchomper the Quick with 3 movement points
+[11:32:57.131] [INFO] Offensive blocker chose move (6, 5) with score 762
+[11:32:57.131] [INFO] Goblin Stabchomper the Quick moved from (7, 7) to (6, 5)
+[11:32:57.131] [INFO] Movement trail: [(9, 8), (7, 7), (6, 5)]
+[11:32:57.131] [INFO] Moving defensive blocker Splatskull the Cunning with 4 movement points
+[11:32:57.131] [INFO] Defensive blocker chose move (4, 5) with score 2943
+[11:32:57.131] [INFO] Moving defensive blocker Krakchewer Redman with 1 movement points
+[11:32:57.131] [INFO] Defensive blocker chose move (4, 3) with score 1287
+[11:32:57.131] [INFO] Goblin Krakchewer Redman moved from (4, 2) to (4, 3)
+[11:32:57.131] [INFO] Movement trail: [(4, 1), (4, 2), (4, 3)]
+[11:32:57.131] [INFO] Moving defensive blocker Fizzgulper the Strong with 3 movement points
+[11:32:57.131] [INFO] Defensive blocker chose move (4, 5) with score 2960
+[11:32:57.131] [INFO] Moving defensive blocker Grimslicer James with 1 movement points
+[11:32:57.131] [INFO] Defensive blocker chose move (7, 2) with score 1021
+[11:32:57.131] [INFO] Goblin Grimslicer James moved from (7, 1) to (7, 2)
+[11:32:57.131] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2)]
+[11:32:57.131] [INFO] Moving defensive blocker Globcrusher Zessfar with 3 movement points
+[11:32:57.131] [INFO] Defensive blocker chose move (6, 4) with score 1354
+[11:33:04.116] [INFO] Moving carrier Bludstabber Garwocket with 3 movement points
+[11:33:04.116] [INFO] Goblin Bludstabber Garwocket moved from (5, 5) to (4, 5)
+[11:33:04.116] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5), (4, 5)]
+[11:33:04.116] [INFO] Carrier Bludstabber Garwocket moved to (4, 5)
+[11:33:04.116] [INFO] Moving offensive blocker Zogstabber with 1 movement points
+[11:33:04.116] [INFO] Offensive blocker chose move (3, 6) with score 676
+[11:33:04.116] [INFO] Goblin Zogstabber moved from (2, 6) to (3, 6)
+[11:33:04.116] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6), (3, 6)]
+[11:33:04.116] [INFO] Moving offensive blocker Mugchewer Brie with 4 movement points
+[11:33:04.116] [INFO] Attempt block of Krakchewer Redman by Mugchewer Brie
+[11:33:04.117] [INFO] Offensive blocker chose move (4, 4) with score 3943
+[11:33:04.117] [INFO] Goblin Mugchewer Brie moved from (5, 4) to (4, 4)
+[11:33:04.117] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4), (4, 4)]
+[11:33:04.117] [INFO] Offensive blocker Mugchewer Brie attempting to block Krakchewer Redman after moving
+[11:33:04.117] [INFO] Moving offensive blocker Lugchomper Taryll with 3 movement points
+[11:33:04.117] [INFO] Offensive blocker chose move (3, 5) with score 761
+[11:33:04.117] [INFO] Goblin Lugchomper Taryll moved from (5, 6) to (3, 5)
+[11:33:04.117] [INFO] Movement trail: [(8, 8), (5, 8), (5, 6), (3, 5)]
+[11:33:04.117] [INFO] Moving offensive blocker Stabchomper the Quick with 3 movement points
+[11:33:04.117] [INFO] Offensive blocker chose move (5, 5) with score 735
+[11:33:04.117] [INFO] Goblin Stabchomper the Quick moved from (6, 5) to (5, 5)
+[11:33:04.117] [INFO] Movement trail: [(9, 8), (7, 7), (6, 5), (5, 5)]
+[11:33:04.117] [INFO] Moving defensive blocker Krakchewer Redman with 1 movement points
+[11:33:04.117] [INFO] Defensive blocker chose move (4, 3) with score 1358
+[11:33:04.117] [INFO] Moving defensive blocker Grimslicer James with 1 movement points
+[11:33:04.117] [INFO] Defensive blocker chose move (6, 2) with score 990
+[11:33:04.117] [INFO] Goblin Grimslicer James moved from (7, 2) to (6, 2)
+[11:33:04.117] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2), (6, 2)]
+[11:33:09.560] [INFO] Moving carrier Bludstabber Garwocket with 3 movement points
+[11:33:09.560] [INFO] Goblin Bludstabber Garwocket moved from (4, 5) to (5, 4)
+[11:33:09.560] [INFO] Movement trail: [(4, 8), (5, 7), (5, 5), (4, 5), (5, 4)]
+[11:33:09.560] [INFO] Carrier Bludstabber Garwocket moved to (5, 4)
+[11:33:09.560] [INFO] Moving offensive blocker Zogstabber with 1 movement points
+[11:33:09.560] [INFO] Offensive blocker chose move (4, 6) with score 574
+[11:33:09.560] [INFO] Goblin Zogstabber moved from (3, 6) to (4, 6)
+[11:33:09.560] [INFO] Movement trail: [(2, 8), (2, 7), (2, 6), (3, 6), (4, 6)]
+[11:33:09.560] [INFO] Moving offensive blocker Mugchewer Brie with 4 movement points
+[11:33:09.560] [INFO] Attempt block of Krakchewer Redman by Mugchewer Brie
+[11:33:09.560] [INFO] Offensive blocker chose move (4, 4) with score 3131
+[11:33:09.560] [INFO] Moving offensive blocker Lugchomper Taryll with 3 movement points
+[11:33:09.560] [INFO] Offensive blocker chose move (3, 3) with score 3013
+[11:33:09.560] [INFO] Goblin Lugchomper Taryll moved from (3, 5) to (3, 3)
+[11:33:09.560] [INFO] Movement trail: [(8, 8), (5, 8), (5, 6), (3, 5), (3, 3)]
+[11:33:09.560] [INFO] Offensive blocker Lugchomper Taryll attempting to block Krakchewer Redman after moving
+[11:33:09.560] [INFO] Moving offensive blocker Stabchomper the Quick with 3 movement points
+[11:33:09.560] [INFO] Offensive blocker chose move (6, 3) with score 2512
+[11:33:09.560] [INFO] Goblin Stabchomper the Quick moved from (5, 5) to (6, 3)
+[11:33:09.560] [INFO] Movement trail: [(9, 8), (7, 7), (6, 5), (5, 5), (6, 3)]
+[11:33:09.561] [INFO] Moving defensive blocker Grimslicer James with 1 movement points
+[11:33:09.561] [INFO] Defensive blocker chose move (6, 2) with score 1325
+[11:33:10.783] [INFO] Moving carrier Bludstabber Garwocket with 3 movement points
+[11:33:10.783] [INFO] Goblin Bludstabber Garwocket moved from (5, 4) to (5, 1)
+[11:33:10.783] [INFO] Movement trail: [(5, 7), (5, 5), (4, 5), (5, 4), (5, 1)]
+[11:33:10.783] [INFO] Carrier Bludstabber Garwocket moved to (5, 1)
+[11:33:10.783] [INFO] Moving offensive blocker Zogstabber with 1 movement points
+[11:33:10.783] [INFO] Offensive blocker chose move (4, 5) with score 436
+[11:33:10.783] [INFO] Goblin Zogstabber moved from (4, 6) to (4, 5)
+[11:33:10.783] [INFO] Movement trail: [(2, 7), (2, 6), (3, 6), (4, 6), (4, 5)]
+[11:33:10.783] [INFO] Moving offensive blocker Mugchewer Brie with 4 movement points
+[11:33:10.784] [INFO] Offensive blocker chose move (4, 1) with score 784
+[11:33:10.784] [INFO] Goblin Mugchewer Brie moved from (4, 4) to (4, 1)
+[11:33:10.784] [INFO] Movement trail: [(6, 8), (5, 6), (5, 4), (4, 4), (4, 1)]
+[11:33:10.784] [INFO] Moving offensive blocker Lugchomper Taryll with 3 movement points
+[11:33:10.784] [INFO] Offensive blocker chose move (4, 2) with score 678
+[11:33:10.784] [INFO] Goblin Lugchomper Taryll moved from (3, 3) to (4, 2)
+[11:33:10.784] [INFO] Movement trail: [(5, 8), (5, 6), (3, 5), (3, 3), (4, 2)]
+[11:33:10.784] [INFO] Moving offensive blocker Stabchomper the Quick with 3 movement points
+[11:33:10.784] [INFO] Attempt block of Grimslicer James by Stabchomper the Quick
+[11:33:10.784] [INFO] Offensive blocker chose move (6, 3) with score 2993
+[11:33:10.784] [INFO] Moving defensive blocker Grimslicer James with 1 movement points
+[11:33:10.784] [INFO] Defensive blocker Grimslicer James attempting to block carrier Bludstabber Garwocket
+[11:33:12.923] [INFO] Moving carrier Bludstabber Garwocket with 3 movement points
+[11:33:12.923] [INFO] Goblin Bludstabber Garwocket moved from (5, 1) to (5, 0)
+[11:33:12.923] [INFO] Movement trail: [(5, 5), (4, 5), (5, 4), (5, 1), (5, 0)]
+[11:33:12.924] [INFO] Carrier Bludstabber Garwocket moved to (5, 0)

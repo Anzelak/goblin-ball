@@ -1,0 +1,104 @@
+[11:41:43.375] [INFO] === Goblinball Debug Log - 20250403_114143 ===
+[11:41:43.375] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114143.txt
+[11:41:43.397] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:41:44.530] [INFO] Moving carrier Thrakchomper the Brutal with 4 movement points
+[11:41:44.530] [INFO] Goblin Thrakchomper the Brutal moved from (4, 8) to (5, 5)
+[11:41:44.530] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:41:44.530] [INFO] Carrier Thrakchomper the Brutal moved along clear path to (5, 5)
+[11:41:44.530] [INFO] Moving offensive blocker Mugchomper Chenakle with 2 movement points
+[11:41:44.530] [INFO] Offensive blocker chose move (4, 8) with score 507
+[11:41:44.530] [INFO] Goblin Mugchomper Chenakle moved from (2, 8) to (4, 8)
+[11:41:44.530] [INFO] Movement trail: [(2, 8), (4, 8)]
+[11:41:44.530] [INFO] Moving offensive blocker Wortstabber Hianor with 1 movement points
+[11:41:44.530] [INFO] Offensive blocker chose move (6, 7) with score 594
+[11:41:44.530] [INFO] Goblin Wortstabber Hianor moved from (6, 8) to (6, 7)
+[11:41:44.530] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:41:44.530] [INFO] Moving offensive blocker Globtooth Aurelius the Tough with 2 movement points
+[11:41:44.530] [INFO] Offensive blocker chose move (6, 8) with score 506
+[11:41:44.530] [INFO] Goblin Globtooth Aurelius the Tough moved from (8, 8) to (6, 8)
+[11:41:44.530] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:41:44.530] [INFO] Moving offensive blocker Grakfoot Anival with 1 movement points
+[11:41:44.530] [INFO] Offensive blocker chose move (8, 8) with score 334
+[11:41:44.530] [INFO] Goblin Grakfoot Anival moved from (9, 8) to (8, 8)
+[11:41:44.530] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:41:44.530] [INFO] Moving defensive blocker Stabgob with 3 movement points
+[11:41:44.531] [INFO] Defensive blocker chose move (5, 1) with score 1256
+[11:41:44.531] [INFO] Goblin Stabgob moved from (2, 1) to (5, 1)
+[11:41:44.531] [INFO] Movement trail: [(2, 1), (5, 1)]
+[11:41:44.531] [INFO] Moving defensive blocker Thrakchomper the Cunning with 1 movement points
+[11:41:44.531] [INFO] Defensive blocker chose move (4, 2) with score 1241
+[11:41:44.531] [INFO] Goblin Thrakchomper the Cunning moved from (4, 1) to (4, 2)
+[11:41:44.531] [INFO] Movement trail: [(4, 1), (4, 2)]
+[11:41:44.531] [INFO] Moving defensive blocker Stabfinger with 1 movement points
+[11:41:44.531] [INFO] Defensive blocker chose move (6, 2) with score 1237
+[11:41:44.531] [INFO] Goblin Stabfinger moved from (6, 1) to (6, 2)
+[11:41:44.531] [INFO] Movement trail: [(6, 1), (6, 2)]
+[11:41:44.531] [INFO] Moving defensive blocker Lugsmasher Vinald with 1 movement points
+[11:41:44.531] [INFO] Defensive blocker chose move (7, 1) with score 972
+[11:41:44.531] [INFO] Goblin Lugsmasher Vinald moved from (8, 1) to (7, 1)
+[11:41:44.531] [INFO] Movement trail: [(8, 1), (7, 1)]
+[11:41:44.531] [INFO] Moving defensive blocker Skrizfinger Wilte with 3 movement points
+[11:41:44.531] [INFO] Defensive blocker chose move (6, 1) with score 1190
+[11:41:44.531] [INFO] Goblin Skrizfinger Wilte moved from (9, 1) to (6, 1)
+[11:41:44.531] [INFO] Movement trail: [(9, 1), (6, 1)]
+[11:41:45.697] [INFO] Moving carrier Thrakchomper the Brutal with 4 movement points
+[11:41:45.697] [INFO] Goblin Thrakchomper the Brutal moved from (5, 5) to (5, 4)
+[11:41:45.697] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4)]
+[11:41:45.697] [INFO] Carrier Thrakchomper the Brutal moved to (5, 4)
+[11:41:45.697] [INFO] Moving offensive blocker Mugchomper Chenakle with 2 movement points
+[11:41:45.697] [INFO] Offensive blocker chose move (5, 7) with score 593
+[11:41:45.697] [INFO] Goblin Mugchomper Chenakle moved from (4, 8) to (5, 7)
+[11:41:45.697] [INFO] Movement trail: [(2, 8), (4, 8), (5, 7)]
+[11:41:45.697] [INFO] Moving offensive blocker Wortstabber Hianor with 1 movement points
+[11:41:45.697] [INFO] Offensive blocker chose move (6, 6) with score 594
+[11:41:45.697] [INFO] Goblin Wortstabber Hianor moved from (6, 7) to (6, 6)
+[11:41:45.697] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6)]
+[11:41:45.697] [INFO] Moving offensive blocker Globtooth Aurelius the Tough with 2 movement points
+[11:41:45.697] [INFO] Offensive blocker chose move (6, 7) with score 507
+[11:41:45.697] [INFO] Goblin Globtooth Aurelius the Tough moved from (6, 8) to (6, 7)
+[11:41:45.697] [INFO] Movement trail: [(8, 8), (6, 8), (6, 7)]
+[11:41:45.697] [INFO] Moving offensive blocker Grakfoot Anival with 1 movement points
+[11:41:45.697] [INFO] Offensive blocker chose move (8, 7) with score 342
+[11:41:45.698] [INFO] Goblin Grakfoot Anival moved from (8, 8) to (8, 7)
+[11:41:45.698] [INFO] Movement trail: [(9, 8), (8, 8), (8, 7)]
+[11:41:45.698] [INFO] Moving defensive blocker Stabgob with 3 movement points
+[11:41:45.698] [INFO] Defensive blocker chose move (5, 3) with score 4395
+[11:41:45.698] [INFO] Goblin Stabgob moved from (5, 1) to (5, 3)
+[11:41:45.698] [INFO] Movement trail: [(2, 1), (5, 1), (5, 3)]
+[11:41:45.698] [INFO] Defensive blocker Stabgob attempting to block carrier Thrakchomper the Brutal after moving
+[11:41:45.698] [INFO] Moving defensive blocker Thrakchomper the Cunning with 1 movement points
+[11:41:45.698] [INFO] Defensive blocker chose move (4, 3) with score 1313
+[11:41:45.698] [INFO] Goblin Thrakchomper the Cunning moved from (4, 2) to (4, 3)
+[11:41:45.698] [INFO] Movement trail: [(4, 1), (4, 2), (4, 3)]
+[11:41:45.698] [INFO] Moving defensive blocker Stabfinger with 1 movement points
+[11:41:45.698] [INFO] Defensive blocker chose move (6, 3) with score 1293
+[11:41:45.698] [INFO] Goblin Stabfinger moved from (6, 2) to (6, 3)
+[11:41:45.698] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3)]
+[11:41:45.698] [INFO] Moving defensive blocker Lugsmasher Vinald with 1 movement points
+[11:41:45.698] [INFO] Defensive blocker chose move (7, 2) with score 1011
+[11:41:45.698] [INFO] Goblin Lugsmasher Vinald moved from (7, 1) to (7, 2)
+[11:41:45.698] [INFO] Movement trail: [(8, 1), (7, 1), (7, 2)]
+[11:41:45.698] [INFO] Moving defensive blocker Skrizfinger Wilte with 3 movement points
+[11:41:45.698] [INFO] Defensive blocker chose move (6, 4) with score 1359
+[11:41:45.698] [INFO] Goblin Skrizfinger Wilte moved from (6, 1) to (6, 4)
+[11:41:45.698] [INFO] Movement trail: [(9, 1), (6, 1), (6, 4)]
+[11:41:46.286] [INFO] Moving carrier Thrakchomper the Brutal with 4 movement points
+[11:41:46.287] [INFO] Carrier Thrakchomper the Brutal couldn't find valid move
+[11:41:46.287] [INFO] Moving offensive blocker Stabgob with 3 movement points
+[11:41:46.287] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.287] [INFO] Moving offensive blocker Thrakchomper the Cunning with 1 movement points
+[11:41:46.287] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.287] [INFO] Moving offensive blocker Stabfinger with 1 movement points
+[11:41:46.287] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.287] [INFO] Moving offensive blocker Lugsmasher Vinald with 1 movement points
+[11:41:46.287] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.287] [INFO] Moving offensive blocker Skrizfinger Wilte with 3 movement points
+[11:41:46.287] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.287] [INFO] Moving defensive blocker Mugchomper Chenakle with 2 movement points
+[11:41:46.287] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.287] [INFO] Moving defensive blocker Wortstabber Hianor with 1 movement points
+[11:41:46.287] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.287] [INFO] Moving defensive blocker Globtooth Aurelius the Tough with 2 movement points
+[11:41:46.288] [INFO] No carrier found for team Skullsmashers!
+[11:41:46.288] [INFO] Moving defensive blocker Grakfoot Anival with 1 movement points
+[11:41:46.288] [INFO] No carrier found for team Skullsmashers!

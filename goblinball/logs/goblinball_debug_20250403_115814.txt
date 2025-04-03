@@ -1,0 +1,103 @@
+[11:58:14.273] [INFO] === Goblinball Debug Log - 20250403_115814 ===
+[11:58:14.273] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115814.txt
+[11:58:14.294] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:58:15.574] [INFO] Moving carrier Lugmangler Pahomes with 3 movement points
+[11:58:15.574] [INFO] Goblin Lugmangler Pahomes moved from (4, 8) to (5, 6)
+[11:58:15.574] [INFO] Movement trail: [(4, 8), (5, 6)]
+[11:58:15.575] [INFO] Carrier Lugmangler Pahomes moved along clear path to (5, 6)
+[11:58:15.578] [INFO] Moving offensive blocker Wortfoot with 2 movement points
+[11:58:15.578] [INFO] Offensive blocker chose move (3, 7) with score 583
+[11:58:15.578] [INFO] Goblin Wortfoot moved from (2, 8) to (3, 7)
+[11:58:15.578] [INFO] Movement trail: [(2, 8), (3, 7)]
+[11:58:15.578] [INFO] Moving offensive blocker Skabstomper  with 1 movement points
+[11:58:15.578] [INFO] Offensive blocker chose move (6, 7) with score 644
+[11:58:15.578] [INFO] Goblin Skabstomper  moved from (6, 8) to (6, 7)
+[11:58:15.578] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:58:15.578] [INFO] Moving offensive blocker Stabgulper Lafornon  with 4 movement points
+[11:58:15.578] [INFO] Offensive blocker chose move (6, 6) with score 739
+[11:58:15.578] [INFO] Goblin Stabgulper Lafornon  moved from (8, 8) to (6, 6)
+[11:58:15.578] [INFO] Movement trail: [(8, 8), (6, 6)]
+[11:58:15.578] [INFO] Moving offensive blocker Grubgulper with 1 movement points
+[11:58:15.578] [INFO] Offensive blocker chose move (9, 7) with score 419
+[11:58:15.578] [INFO] Goblin Grubgulper moved from (9, 8) to (9, 7)
+[11:58:15.578] [INFO] Movement trail: [(9, 8), (9, 7)]
+[11:58:15.578] [INFO] Moving defensive blocker Skrizskull with 1 movement points
+[11:58:15.578] [INFO] Defensive blocker chose move (2, 2) with score 914
+[11:58:15.578] [INFO] Goblin Skrizskull moved from (2, 1) to (2, 2)
+[11:58:15.579] [INFO] Movement trail: [(2, 1), (2, 2)]
+[11:58:15.579] [INFO] Moving defensive blocker Zogstomper Vina with 2 movement points
+[11:58:15.579] [INFO] Defensive blocker chose move (4, 3) with score 1268
+[11:58:15.579] [INFO] Goblin Zogstomper Vina moved from (4, 1) to (4, 3)
+[11:58:15.579] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:58:15.579] [INFO] Moving defensive blocker Kraktooth Remona with 1 movement points
+[11:58:15.579] [INFO] Defensive blocker chose move (6, 2) with score 1214
+[11:58:15.579] [INFO] Goblin Kraktooth Remona moved from (6, 1) to (6, 2)
+[11:58:15.579] [INFO] Movement trail: [(6, 1), (6, 2)]
+[11:58:15.579] [INFO] Moving defensive blocker Krunkslicer with 2 movement points
+[11:58:15.579] [INFO] Defensive blocker chose move (6, 1) with score 1137
+[11:58:15.579] [INFO] Goblin Krunkslicer moved from (8, 1) to (6, 1)
+[11:58:15.579] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:58:15.579] [INFO] Moving defensive blocker Thrakface Chusuk with 3 movement points
+[11:58:15.579] [INFO] Defensive blocker chose move (7, 2) with score 958
+[11:58:15.579] [INFO] Goblin Thrakface Chusuk moved from (9, 1) to (7, 2)
+[11:58:15.579] [INFO] Movement trail: [(9, 1), (7, 2)]
+[11:58:19.143] [INFO] Moving carrier Lugmangler Pahomes with 3 movement points
+[11:58:19.144] [INFO] Goblin Lugmangler Pahomes moved from (5, 6) to (5, 5)
+[11:58:19.144] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5)]
+[11:58:19.144] [INFO] Carrier Lugmangler Pahomes moved to (5, 5) (score: 34.4)
+[11:58:19.144] [INFO] Moving offensive blocker Wortfoot with 2 movement points
+[11:58:19.145] [INFO] Offensive blocker chose move (5, 7) with score 668
+[11:58:19.145] [INFO] Goblin Wortfoot moved from (3, 7) to (5, 7)
+[11:58:19.145] [INFO] Movement trail: [(2, 8), (3, 7), (5, 7)]
+[11:58:19.145] [INFO] Moving offensive blocker Skabstomper  with 1 movement points
+[11:58:19.145] [INFO] Offensive blocker chose move (7, 7) with score 488
+[11:58:19.145] [INFO] Goblin Skabstomper  moved from (6, 7) to (7, 7)
+[11:58:19.145] [INFO] Movement trail: [(6, 8), (6, 7), (7, 7)]
+[11:58:19.145] [INFO] Moving offensive blocker Stabgulper Lafornon  with 4 movement points
+[11:58:19.145] [INFO] Offensive blocker chose move (4, 4) with score 2537
+[11:58:19.145] [INFO] Goblin Stabgulper Lafornon  moved from (6, 6) to (4, 4)
+[11:58:19.145] [INFO] Movement trail: [(8, 8), (6, 6), (4, 4)]
+[11:58:19.145] [INFO] Moving offensive blocker Grubgulper with 1 movement points
+[11:58:19.145] [INFO] Offensive blocker chose move (9, 6) with score 436
+[11:58:19.145] [INFO] Goblin Grubgulper moved from (9, 7) to (9, 6)
+[11:58:19.145] [INFO] Movement trail: [(9, 8), (9, 7), (9, 6)]
+[11:58:19.145] [INFO] Moving defensive blocker Skrizskull with 1 movement points
+[11:58:19.145] [INFO] Defensive blocker chose move (3, 2) with score 985
+[11:58:19.145] [INFO] Goblin Skrizskull moved from (2, 2) to (3, 2)
+[11:58:19.145] [INFO] Movement trail: [(2, 1), (2, 2), (3, 2)]
+[11:58:19.145] [INFO] Moving defensive blocker Zogstomper Vina with 2 movement points
+[11:58:19.145] [INFO] Defensive blocker chose move (5, 4) with score 3415
+[11:58:19.145] [INFO] Goblin Zogstomper Vina moved from (4, 3) to (5, 4)
+[11:58:19.145] [INFO] Movement trail: [(4, 1), (4, 3), (5, 4)]
+[11:58:19.145] [INFO] Moving defensive blocker Kraktooth Remona with 1 movement points
+[11:58:19.145] [INFO] Defensive blocker chose move (5, 2) with score 1305
+[11:58:19.145] [INFO] Goblin Kraktooth Remona moved from (6, 2) to (5, 2)
+[11:58:19.145] [INFO] Movement trail: [(6, 1), (6, 2), (5, 2)]
+[11:58:19.145] [INFO] Moving defensive blocker Krunkslicer with 2 movement points
+[11:58:19.145] [INFO] Defensive blocker chose move (6, 3) with score 1304
+[11:58:19.145] [INFO] Goblin Krunkslicer moved from (6, 1) to (6, 3)
+[11:58:19.145] [INFO] Movement trail: [(8, 1), (6, 1), (6, 3)]
+[11:58:19.145] [INFO] Moving defensive blocker Thrakface Chusuk with 3 movement points
+[11:58:19.146] [INFO] Defensive blocker chose move (5, 3) with score 1343
+[11:58:19.146] [INFO] Goblin Thrakface Chusuk moved from (7, 2) to (5, 3)
+[11:58:19.146] [INFO] Movement trail: [(9, 1), (7, 2), (5, 3)]
+[11:58:38.407] [INFO] Moving carrier Lugmangler Pahomes with 3 movement points
+[11:58:38.408] [INFO] Carrier Lugmangler Pahomes couldn't find valid move
+[11:58:38.408] [INFO] Moving offensive blocker Skrizskull with 1 movement points
+[11:58:38.408] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.408] [INFO] Moving offensive blocker Zogstomper Vina with 2 movement points
+[11:58:38.408] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.408] [INFO] Moving offensive blocker Kraktooth Remona with 1 movement points
+[11:58:38.408] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.408] [INFO] Moving offensive blocker Krunkslicer with 2 movement points
+[11:58:38.408] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.408] [INFO] Moving offensive blocker Thrakface Chusuk with 3 movement points
+[11:58:38.408] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.408] [INFO] Moving defensive blocker Wortfoot with 2 movement points
+[11:58:38.408] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.408] [INFO] Moving defensive blocker Skabstomper  with 1 movement points
+[11:58:38.409] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.409] [INFO] Moving defensive blocker Stabgulper Lafornon  with 4 movement points
+[11:58:38.409] [INFO] No carrier found for team Skullsmashers!
+[11:58:38.409] [INFO] Moving defensive blocker Grubgulper with 1 movement points
+[11:58:38.409] [INFO] No carrier found for team Skullsmashers!

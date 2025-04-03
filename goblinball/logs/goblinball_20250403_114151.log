@@ -1,0 +1,63 @@
+2025-04-03 11:41:51,118 - goblinball - INFO - ==================================================
+2025-04-03 11:41:51,118 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:41:51,118 - goblinball - INFO - Python version: 3.13.2 (tags/v3.13.2:4f8bb39, Feb  4 2025, 15:23:48) [MSC v.1942 64 bit (AMD64)]
+2025-04-03 11:41:51,118 - goblinball - INFO - Current working directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:41:51,118 - goblinball - INFO - Sys path: ['C:\\Users\\johnm\\OneDrive\\Documents\\goblin-ball\\goblinball', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\python313.zip', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\DLLs', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313', 'C:\\Users\\johnm\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages']
+2025-04-03 11:41:51,120 - goblinball - INFO - ==================================================
+2025-04-03 11:41:51,127 - goblinball - INFO - All required modules validated successfully
+2025-04-03 11:41:51,127 - goblinball - INFO - Starting Goblinball
+2025-04-03 11:41:51,127 - goblinball - INFO - Running from directory: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball
+2025-04-03 11:41:51,146 - goblinball.controller - INFO - Selected carrier: Mugstomper  from team Mudcrushers
+2025-04-03 11:41:51,147 - goblinball.controller - INFO - ===== Starting Play 1 =====
+2025-04-03 11:41:51,147 - goblinball.controller - INFO - Selected carrier: Stabfinger Medel from team Mudcrushers
+2025-04-03 11:41:52,207 - goblinball.controller - INFO - ==== Processing Turn 1 ====
+2025-04-03 11:41:52,207 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:52,208 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:52,212 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:52,214 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:52,655 - goblinball.controller - INFO - ==== Processing Turn 2 ====
+2025-04-03 11:41:52,656 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:52,656 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:52,656 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:52,657 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:53,232 - goblinball.controller - INFO - ==== Processing Turn 3 ====
+2025-04-03 11:41:53,232 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:53,232 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:53,232 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:53,233 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:54,159 - goblinball.controller - INFO - ==== Processing Turn 4 ====
+2025-04-03 11:41:54,159 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:54,159 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:54,159 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:54,160 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:54,688 - goblinball.controller - INFO - ==== Processing Turn 5 ====
+2025-04-03 11:41:54,688 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:54,688 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:54,689 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:54,689 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:55,744 - goblinball.controller - INFO - ==== Processing Turn 6 ====
+2025-04-03 11:41:55,744 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:55,744 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:55,744 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:55,745 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:56,499 - goblinball.controller - INFO - ==== Processing Turn 7 ====
+2025-04-03 11:41:56,499 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:56,499 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:56,499 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:56,500 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:58,072 - goblinball.controller - INFO - ==== Processing Turn 8 ====
+2025-04-03 11:41:58,072 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:58,072 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:58,073 - goblinball.controller - INFO - Moving offensive blockers for team Mudcrushers
+2025-04-03 11:41:58,073 - goblinball.controller - INFO - Moving defensive blockers for team Skullsmashers
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - ==== Processing Turn 9 ====
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - Offense Team: Mudcrushers, Defense Team: Skullsmashers
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - Attempting to move carrier Stabfinger Medel
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - ===== Ending Play 1 after 9 turns =====
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - Score: Mudcrushers 3 - 0 Skullsmashers
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - ===== Ending Play 1 after 9 turns =====
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - Carrier Stabfinger Medel scored! Ending play.
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - ===== Ending Play 1 after 9 turns =====
+2025-04-03 11:41:59,784 - goblinball.controller - INFO - Score: Mudcrushers 6 - 0 Skullsmashers
+2025-04-03 11:42:01,154 - goblinball - INFO - Goblinball ended

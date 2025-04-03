@@ -1,0 +1,116 @@
+[11:45:56.256] [INFO] === Goblinball Debug Log - 20250403_114556 ===
+[11:45:56.256] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114556.txt
+[11:45:56.278] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:45:57.204] [INFO] Moving carrier Bludbiter with 2 movement points
+[11:45:57.205] [INFO] Goblin Bludbiter moved from (4, 8) to (5, 7)
+[11:45:57.205] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:45:57.205] [INFO] Carrier Bludbiter moved along clear path to (5, 7)
+[11:45:57.207] [INFO] Moving offensive blocker Mugsquisher the Sly with 1 movement points
+[11:45:57.207] [INFO] Offensive blocker chose move (3, 8) with score 578
+[11:45:57.207] [INFO] Goblin Mugsquisher the Sly moved from (2, 8) to (3, 8)
+[11:45:57.207] [INFO] Movement trail: [(2, 8), (3, 8)]
+[11:45:57.208] [INFO] Moving offensive blocker Mugsquisher Omen the Fierce with 2 movement points
+[11:45:57.208] [INFO] Offensive blocker chose move (6, 7) with score 753
+[11:45:57.208] [INFO] Goblin Mugsquisher Omen the Fierce moved from (6, 8) to (6, 7)
+[11:45:57.208] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:45:57.208] [INFO] Moving offensive blocker Grimstomper with 3 movement points
+[11:45:57.208] [INFO] Offensive blocker chose move (5, 8) with score 712
+[11:45:57.208] [INFO] Goblin Grimstomper moved from (8, 8) to (5, 8)
+[11:45:57.208] [INFO] Movement trail: [(8, 8), (5, 8)]
+[11:45:57.208] [INFO] Moving offensive blocker Fizzchomper the Brutal with 1 movement points
+[11:45:57.208] [INFO] Offensive blocker chose move (8, 8) with score 502
+[11:45:57.208] [INFO] Goblin Fizzchomper the Brutal moved from (9, 8) to (8, 8)
+[11:45:57.208] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:45:57.208] [INFO] Moving defensive blocker Gutmangler with 2 movement points
+[11:45:57.209] [INFO] Defensive blocker chose move (3, 2) with score 925
+[11:45:57.209] [INFO] Goblin Gutmangler moved from (2, 1) to (3, 2)
+[11:45:57.209] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:45:57.209] [INFO] Moving defensive blocker Guttooth Okar with 2 movement points
+[11:45:57.209] [INFO] Defensive blocker chose move (5, 2) with score 1189
+[11:45:57.209] [INFO] Goblin Guttooth Okar moved from (4, 1) to (5, 2)
+[11:45:57.209] [INFO] Movement trail: [(4, 1), (5, 2)]
+[11:45:57.209] [INFO] Moving defensive blocker Skabnose with 1 movement points
+[11:45:57.209] [INFO] Defensive blocker chose move (6, 2) with score 1145
+[11:45:57.209] [INFO] Goblin Skabnose moved from (6, 1) to (6, 2)
+[11:45:57.209] [INFO] Movement trail: [(6, 1), (6, 2)]
+[11:45:57.209] [INFO] Moving defensive blocker Skabfinger with 1 movement points
+[11:45:57.209] [INFO] Defensive blocker chose move (7, 1) with score 849
+[11:45:57.209] [INFO] Goblin Skabfinger moved from (8, 1) to (7, 1)
+[11:45:57.209] [INFO] Movement trail: [(8, 1), (7, 1)]
+[11:45:57.209] [INFO] Moving defensive blocker Fizznose the Brutal with 1 movement points
+[11:45:57.209] [INFO] Defensive blocker chose move (8, 1) with score 813
+[11:45:57.209] [INFO] Goblin Fizznose the Brutal moved from (9, 1) to (8, 1)
+[11:45:57.209] [INFO] Movement trail: [(9, 1), (8, 1)]
+[11:45:57.966] [INFO] Moving carrier Bludbiter with 2 movement points
+[11:45:57.967] [INFO] Goblin Bludbiter moved from (5, 7) to (5, 6)
+[11:45:57.967] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[11:45:57.967] [INFO] Carrier Bludbiter moved to (5, 6)
+[11:45:57.967] [INFO] Moving offensive blocker Mugsquisher the Sly with 1 movement points
+[11:45:57.967] [INFO] Offensive blocker chose move (4, 8) with score 590
+[11:45:57.967] [INFO] Goblin Mugsquisher the Sly moved from (3, 8) to (4, 8)
+[11:45:57.967] [INFO] Movement trail: [(2, 8), (3, 8), (4, 8)]
+[11:45:57.967] [INFO] Moving offensive blocker Mugsquisher Omen the Fierce with 2 movement points
+[11:45:57.967] [INFO] Offensive blocker chose move (6, 6) with score 740
+[11:45:57.967] [INFO] Goblin Mugsquisher Omen the Fierce moved from (6, 7) to (6, 6)
+[11:45:57.967] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6)]
+[11:45:57.967] [INFO] Moving offensive blocker Grimstomper with 3 movement points
+[11:45:57.967] [INFO] Offensive blocker chose move (5, 7) with score 733
+[11:45:57.967] [INFO] Goblin Grimstomper moved from (5, 8) to (5, 7)
+[11:45:57.967] [INFO] Movement trail: [(8, 8), (5, 8), (5, 7)]
+[11:45:57.967] [INFO] Moving offensive blocker Fizzchomper the Brutal with 1 movement points
+[11:45:57.967] [INFO] Offensive blocker chose move (7, 8) with score 503
+[11:45:57.967] [INFO] Goblin Fizzchomper the Brutal moved from (8, 8) to (7, 8)
+[11:45:57.967] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8)]
+[11:45:57.967] [INFO] Moving defensive blocker Gutmangler with 2 movement points
+[11:45:57.967] [INFO] Defensive blocker chose move (4, 3) with score 1262
+[11:45:57.967] [INFO] Goblin Gutmangler moved from (3, 2) to (4, 3)
+[11:45:57.967] [INFO] Movement trail: [(2, 1), (3, 2), (4, 3)]
+[11:45:57.967] [INFO] Moving defensive blocker Guttooth Okar with 2 movement points
+[11:45:57.967] [INFO] Defensive blocker chose move (5, 4) with score 1340
+[11:45:57.967] [INFO] Goblin Guttooth Okar moved from (5, 2) to (5, 4)
+[11:45:57.967] [INFO] Movement trail: [(4, 1), (5, 2), (5, 4)]
+[11:45:57.967] [INFO] Moving defensive blocker Skabnose with 1 movement points
+[11:45:57.967] [INFO] Defensive blocker chose move (6, 3) with score 1270
+[11:45:57.967] [INFO] Goblin Skabnose moved from (6, 2) to (6, 3)
+[11:45:57.967] [INFO] Movement trail: [(6, 1), (6, 2), (6, 3)]
+[11:45:57.967] [INFO] Moving defensive blocker Skabfinger with 1 movement points
+[11:45:57.967] [INFO] Defensive blocker chose move (6, 1) with score 1174
+[11:45:57.967] [INFO] Goblin Skabfinger moved from (7, 1) to (6, 1)
+[11:45:57.967] [INFO] Movement trail: [(8, 1), (7, 1), (6, 1)]
+[11:45:57.967] [INFO] Moving defensive blocker Fizznose the Brutal with 1 movement points
+[11:45:57.968] [INFO] Defensive blocker chose move (8, 2) with score 910
+[11:45:57.968] [INFO] Goblin Fizznose the Brutal moved from (8, 1) to (8, 2)
+[11:45:57.968] [INFO] Movement trail: [(9, 1), (8, 1), (8, 2)]
+[11:45:58.646] [INFO] Moving carrier Bludbiter with 2 movement points
+[11:45:58.646] [INFO] Goblin Bludbiter moved from (5, 6) to (5, 5)
+[11:45:58.646] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (5, 5)]
+[11:45:58.646] [INFO] Carrier Bludbiter moved to (5, 5)
+[11:45:58.646] [INFO] Moving offensive blocker Mugsquisher the Sly with 1 movement points
+[11:45:58.646] [INFO] Offensive blocker chose move (4, 7) with score 557
+[11:45:58.646] [INFO] Goblin Mugsquisher the Sly moved from (4, 8) to (4, 7)
+[11:45:58.646] [INFO] Movement trail: [(2, 8), (3, 8), (4, 8), (4, 7)]
+[11:45:58.646] [INFO] Moving offensive blocker Mugsquisher Omen the Fierce with 2 movement points
+[11:45:58.646] [INFO] Offensive blocker chose move (6, 4) with score 4463
+[11:45:58.646] [INFO] Goblin Mugsquisher Omen the Fierce moved from (6, 6) to (6, 4)
+[11:45:58.646] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6), (6, 4)]
+[11:45:58.646] [INFO] Moving offensive blocker Grimstomper with 3 movement points
+[11:45:58.646] [INFO] Offensive blocker chose move (6, 5) with score 764
+[11:45:58.646] [INFO] Goblin Grimstomper moved from (5, 7) to (6, 5)
+[11:45:58.646] [INFO] Movement trail: [(8, 8), (5, 8), (5, 7), (6, 5)]
+[11:45:58.646] [INFO] Moving offensive blocker Fizzchomper the Brutal with 1 movement points
+[11:45:58.646] [INFO] Offensive blocker chose move (6, 8) with score 503
+[11:45:58.646] [INFO] Goblin Fizzchomper the Brutal moved from (7, 8) to (6, 8)
+[11:45:58.646] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8), (6, 8)]
+[11:45:58.646] [INFO] Moving defensive blocker Gutmangler with 2 movement points
+[11:45:58.646] [INFO] Defensive blocker chose move (4, 5) with score 2941
+[11:45:58.647] [INFO] Goblin Gutmangler moved from (4, 3) to (4, 5)
+[11:45:58.647] [INFO] Movement trail: [(2, 1), (3, 2), (4, 3), (4, 5)]
+[11:45:58.647] [INFO] Moving defensive blocker Guttooth Okar with 2 movement points
+[11:45:58.647] [INFO] Defensive blocker Guttooth Okar attempting to block carrier Bludbiter
+[11:45:58.647] [INFO] Block succeeded!
+[11:45:58.647] [INFO] Moving offensive blocker Skabnose with 1 movement points
+[11:45:58.647] [INFO] No carrier found for team Skullsmashers!
+[11:45:58.647] [INFO] Moving offensive blocker Skabfinger with 1 movement points
+[11:45:58.647] [INFO] No carrier found for team Skullsmashers!
+[11:45:58.647] [INFO] Moving offensive blocker Fizznose the Brutal with 1 movement points
+[11:45:58.647] [INFO] No carrier found for team Skullsmashers!

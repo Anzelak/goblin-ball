@@ -1,0 +1,130 @@
+[11:41:11.578] [INFO] === Goblinball Debug Log - 20250403_114111 ===
+[11:41:11.578] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114111.txt
+[11:41:11.604] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:41:12.901] [INFO] Moving carrier Grimbasher Krim with 3 movement points
+[11:41:12.901] [INFO] Goblin Grimbasher Krim moved from (4, 8) to (5, 6)
+[11:41:12.901] [INFO] Movement trail: [(4, 8), (5, 6)]
+[11:41:12.901] [INFO] Carrier Grimbasher Krim moved along clear path to (5, 6)
+[11:41:12.903] [INFO] Moving offensive blocker Globfist the Sly with 4 movement points
+[11:41:12.903] [INFO] Offensive blocker chose move (4, 6) with score 758
+[11:41:12.903] [INFO] Goblin Globfist the Sly moved from (2, 8) to (4, 6)
+[11:41:12.903] [INFO] Movement trail: [(2, 8), (4, 6)]
+[11:41:12.903] [INFO] Moving offensive blocker Grubchomper Wisdum with 3 movement points
+[11:41:12.904] [INFO] Offensive blocker chose move (6, 6) with score 753
+[11:41:12.904] [INFO] Goblin Grubchomper Wisdum moved from (6, 8) to (6, 6)
+[11:41:12.904] [INFO] Movement trail: [(6, 8), (6, 6)]
+[11:41:12.904] [INFO] Moving offensive blocker Gutslicer Largo with 2 movement points
+[11:41:12.904] [INFO] Offensive blocker chose move (6, 8) with score 562
+[11:41:12.904] [INFO] Goblin Gutslicer Largo moved from (8, 8) to (6, 8)
+[11:41:12.904] [INFO] Movement trail: [(8, 8), (6, 8)]
+[11:41:12.904] [INFO] Moving offensive blocker Zogsmasher with 4 movement points
+[11:41:12.904] [INFO] Offensive blocker chose move (7, 6) with score 644
+[11:41:12.904] [INFO] Goblin Zogsmasher moved from (9, 8) to (7, 6)
+[11:41:12.904] [INFO] Movement trail: [(9, 8), (7, 6)]
+[11:41:12.904] [INFO] Moving defensive blocker Grakstabber with 2 movement points
+[11:41:12.904] [INFO] Defensive blocker chose move (3, 2) with score 950
+[11:41:12.904] [INFO] Goblin Grakstabber moved from (2, 1) to (3, 2)
+[11:41:12.904] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:41:12.904] [INFO] Moving defensive blocker Grimsquisher Danniella the Quick with 2 movement points
+[11:41:12.904] [INFO] Defensive blocker chose move (4, 3) with score 1248
+[11:41:12.904] [INFO] Goblin Grimsquisher Danniella the Quick moved from (4, 1) to (4, 3)
+[11:41:12.904] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:41:12.904] [INFO] Moving defensive blocker Skabgulper Netherwing with 1 movement points
+[11:41:12.904] [INFO] Defensive blocker chose move (5, 1) with score 1204
+[11:41:12.904] [INFO] Goblin Skabgulper Netherwing moved from (6, 1) to (5, 1)
+[11:41:12.904] [INFO] Movement trail: [(6, 1), (5, 1)]
+[11:41:12.904] [INFO] Moving defensive blocker Wortcrusher with 3 movement points
+[11:41:12.904] [INFO] Defensive blocker chose move (6, 2) with score 1197
+[11:41:12.904] [INFO] Goblin Wortcrusher moved from (8, 1) to (6, 2)
+[11:41:12.904] [INFO] Movement trail: [(8, 1), (6, 2)]
+[11:41:12.904] [INFO] Moving defensive blocker Splatcrusher with 1 movement points
+[11:41:12.904] [INFO] Defensive blocker chose move (8, 1) with score 873
+[11:41:12.904] [INFO] Goblin Splatcrusher moved from (9, 1) to (8, 1)
+[11:41:12.904] [INFO] Movement trail: [(9, 1), (8, 1)]
+[11:41:13.577] [INFO] Moving carrier Grimbasher Krim with 3 movement points
+[11:41:13.577] [INFO] Goblin Grimbasher Krim moved from (5, 6) to (5, 5)
+[11:41:13.577] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5)]
+[11:41:13.577] [INFO] Carrier Grimbasher Krim moved to (5, 5)
+[11:41:13.577] [INFO] Moving offensive blocker Globfist the Sly with 4 movement points
+[11:41:13.578] [INFO] Offensive blocker chose move (4, 4) with score 3026
+[11:41:13.578] [INFO] Goblin Globfist the Sly moved from (4, 6) to (4, 4)
+[11:41:13.578] [INFO] Movement trail: [(2, 8), (4, 6), (4, 4)]
+[11:41:13.578] [INFO] Offensive blocker Globfist the Sly attempting to block Grimsquisher Danniella the Quick after moving
+[11:41:13.578] [INFO] Moving offensive blocker Grubchomper Wisdum with 3 movement points
+[11:41:13.578] [INFO] Offensive blocker chose move (5, 4) with score 768
+[11:41:13.578] [INFO] Goblin Grubchomper Wisdum moved from (6, 6) to (5, 4)
+[11:41:13.578] [INFO] Movement trail: [(6, 8), (6, 6), (5, 4)]
+[11:41:13.578] [INFO] Moving offensive blocker Gutslicer Largo with 2 movement points
+[11:41:13.578] [INFO] Offensive blocker chose move (5, 7) with score 672
+[11:41:13.578] [INFO] Goblin Gutslicer Largo moved from (6, 8) to (5, 7)
+[11:41:13.578] [INFO] Movement trail: [(8, 8), (6, 8), (5, 7)]
+[11:41:13.578] [INFO] Moving offensive blocker Zogsmasher with 4 movement points
+[11:41:13.578] [INFO] Offensive blocker chose move (5, 6) with score 754
+[11:41:13.578] [INFO] Goblin Zogsmasher moved from (7, 6) to (5, 6)
+[11:41:13.578] [INFO] Movement trail: [(9, 8), (7, 6), (5, 6)]
+[11:41:13.578] [INFO] Moving defensive blocker Grakstabber with 2 movement points
+[11:41:13.578] [INFO] Defensive blocker chose move (5, 2) with score 1312
+[11:41:13.578] [INFO] Goblin Grakstabber moved from (3, 2) to (5, 2)
+[11:41:13.578] [INFO] Movement trail: [(2, 1), (3, 2), (5, 2)]
+[11:41:13.578] [INFO] Moving defensive blocker Grimsquisher Danniella the Quick with 2 movement points
+[11:41:13.578] [INFO] Defensive blocker chose move (4, 5) with score 2933
+[11:41:13.578] [INFO] Goblin Grimsquisher Danniella the Quick moved from (4, 3) to (4, 5)
+[11:41:13.578] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5)]
+[11:41:13.578] [INFO] Moving defensive blocker Skabgulper Netherwing with 1 movement points
+[11:41:13.578] [INFO] Defensive blocker chose move (5, 0) with score 1198
+[11:41:13.578] [INFO] Goblin Skabgulper Netherwing moved from (5, 1) to (5, 0)
+[11:41:13.578] [INFO] Movement trail: [(6, 1), (5, 1), (5, 0)]
+[11:41:13.578] [INFO] Moving defensive blocker Wortcrusher with 3 movement points
+[11:41:13.579] [INFO] Defensive blocker chose move (6, 5) with score 2931
+[11:41:13.579] [INFO] Goblin Wortcrusher moved from (6, 2) to (6, 5)
+[11:41:13.579] [INFO] Movement trail: [(8, 1), (6, 2), (6, 5)]
+[11:41:13.579] [INFO] Moving defensive blocker Splatcrusher with 1 movement points
+[11:41:13.579] [INFO] Defensive blocker chose move (8, 2) with score 951
+[11:41:13.579] [INFO] Goblin Splatcrusher moved from (8, 1) to (8, 2)
+[11:41:13.579] [INFO] Movement trail: [(9, 1), (8, 1), (8, 2)]
+[11:41:14.865] [INFO] Moving carrier Grimbasher Krim with 3 movement points
+[11:41:14.865] [INFO] Goblin Grimbasher Krim moved from (5, 5) to (5, 3)
+[11:41:14.865] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5), (5, 3)]
+[11:41:14.865] [INFO] Carrier Grimbasher Krim moved to (5, 3)
+[11:41:14.865] [INFO] Moving offensive blocker Globfist the Sly with 4 movement points
+[11:41:14.865] [INFO] Attempt block of Grimsquisher Danniella the Quick by Globfist the Sly
+[11:41:14.865] [INFO] Block succeeded!
+[11:41:14.865] [INFO] Moving offensive blocker Grubchomper Wisdum with 3 movement points
+[11:41:14.865] [INFO] Attempt block of Wortcrusher by Grubchomper Wisdum
+[11:41:14.866] [INFO] Offensive blocker chose move (6, 4) with score 3022
+[11:41:14.866] [INFO] Goblin Grubchomper Wisdum moved from (5, 4) to (6, 4)
+[11:41:14.866] [INFO] Movement trail: [(6, 8), (6, 6), (5, 4), (6, 4)]
+[11:41:14.866] [INFO] Offensive blocker Grubchomper Wisdum attempting to block Wortcrusher after moving
+[11:41:14.866] [INFO] Moving offensive blocker Gutslicer Largo with 2 movement points
+[11:41:14.866] [INFO] Offensive blocker chose move (5, 5) with score 680
+[11:41:14.866] [INFO] Moving offensive blocker Zogsmasher with 4 movement points
+[11:41:14.866] [INFO] Offensive blocker chose move (6, 3) with score 774
+[11:41:14.866] [INFO] Moving defensive blocker Grakstabber with 2 movement points
+[11:41:14.866] [INFO] Defensive blocker Grakstabber attempting to block carrier Grimbasher Krim
+[11:41:14.866] [INFO] Defensive blocker chose move (5, 2) with score 4410
+[11:41:14.866] [INFO] Moving defensive blocker Skabgulper Netherwing with 1 movement points
+[11:41:14.866] [INFO] Defensive blocker chose move (5, 1) with score 1371
+[11:41:14.866] [INFO] Goblin Skabgulper Netherwing moved from (5, 0) to (5, 1)
+[11:41:14.866] [INFO] Movement trail: [(6, 1), (5, 1), (5, 0), (5, 1)]
+[11:41:14.866] [INFO] Moving defensive blocker Wortcrusher with 3 movement points
+[11:41:14.866] [INFO] Defensive blocker chose move (5, 4) with score 2969
+[11:41:14.866] [INFO] Goblin Wortcrusher moved from (6, 6) to (5, 4)
+[11:41:14.867] [INFO] Movement trail: [(8, 1), (6, 2), (6, 5), (6, 6), (5, 4)]
+[11:41:14.867] [INFO] Moving defensive blocker Splatcrusher with 1 movement points
+[11:41:14.867] [INFO] Defensive blocker chose move (7, 2) with score 1116
+[11:41:14.867] [INFO] Goblin Splatcrusher moved from (8, 2) to (7, 2)
+[11:41:14.867] [INFO] Movement trail: [(9, 1), (8, 1), (8, 2), (7, 2)]
+[11:41:16.136] [INFO] Moving carrier Grimbasher Krim with 3 movement points
+[11:41:16.136] [INFO] Carrier Grimbasher Krim couldn't find valid move
+[11:41:16.136] [INFO] Moving offensive blocker Grakstabber with 2 movement points
+[11:41:16.136] [INFO] No carrier found for team Skullsmashers!
+[11:41:16.136] [INFO] Moving offensive blocker Skabgulper Netherwing with 1 movement points
+[11:41:16.136] [INFO] No carrier found for team Skullsmashers!
+[11:41:16.136] [INFO] Moving offensive blocker Wortcrusher with 3 movement points
+[11:41:16.136] [INFO] No carrier found for team Skullsmashers!
+[11:41:16.136] [INFO] Moving offensive blocker Splatcrusher with 1 movement points
+[11:41:16.136] [INFO] No carrier found for team Skullsmashers!
+[11:41:16.136] [INFO] Moving defensive blocker Globfist the Sly with 4 movement points
+[11:41:16.136] [INFO] No carrier found for team Skullsmashers!
+[11:41:16.136] [INFO] Moving defensive blocker Grubchomper Wisdum with 3 movement points
+[11:41:16.136] [INFO] No carrier found for team Skullsmashers!

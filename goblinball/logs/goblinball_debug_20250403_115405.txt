@@ -1,0 +1,78 @@
+[11:54:05.375] [INFO] === Goblinball Debug Log - 20250403_115405 ===
+[11:54:05.375] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115405.txt
+[11:54:05.396] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:54:06.424] [INFO] Moving carrier Lugsmasher Dustpunch with 3 movement points
+[11:54:06.424] [INFO] Goblin Lugsmasher Dustpunch moved from (4, 8) to (5, 6)
+[11:54:06.424] [INFO] Movement trail: [(4, 8), (5, 6)]
+[11:54:06.424] [INFO] Carrier Lugsmasher Dustpunch moved along clear path to (5, 6)
+[11:54:06.427] [INFO] Moving offensive blocker Gutsmasher Sharnette with 1 movement points
+[11:54:06.427] [INFO] Offensive blocker chose move (3, 8) with score 507
+[11:54:06.427] [INFO] Goblin Gutsmasher Sharnette moved from (2, 8) to (3, 8)
+[11:54:06.427] [INFO] Movement trail: [(2, 8), (3, 8)]
+[11:54:06.427] [INFO] Moving offensive blocker Globbasher with 1 movement points
+[11:54:06.427] [INFO] Offensive blocker chose move (6, 7) with score 672
+[11:54:06.427] [INFO] Goblin Globbasher moved from (6, 8) to (6, 7)
+[11:54:06.427] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:54:06.427] [INFO] Moving offensive blocker Splatgob Kroxx with 1 movement points
+[11:54:06.428] [INFO] Offensive blocker chose move (7, 8) with score 493
+[11:54:06.428] [INFO] Goblin Splatgob Kroxx moved from (8, 8) to (7, 8)
+[11:54:06.428] [INFO] Movement trail: [(8, 8), (7, 8)]
+[11:54:06.428] [INFO] Moving offensive blocker Skrizslicer the Mighty with 1 movement points
+[11:54:06.428] [INFO] Offensive blocker chose move (8, 8) with score 408
+[11:54:06.428] [INFO] Goblin Skrizslicer the Mighty moved from (9, 8) to (8, 8)
+[11:54:06.428] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:54:06.428] [INFO] Moving defensive blocker Muggulper with 3 movement points
+[11:54:06.428] [INFO] Defensive blocker chose move (4, 2) with score 1222
+[11:54:06.428] [INFO] Goblin Muggulper moved from (2, 1) to (4, 2)
+[11:54:06.428] [INFO] Movement trail: [(2, 1), (4, 2)]
+[11:54:06.428] [INFO] Moving defensive blocker Gnogchewer Stagblade with 1 movement points
+[11:54:06.428] [INFO] Defensive blocker chose move (5, 1) with score 1175
+[11:54:06.428] [INFO] Goblin Gnogchewer Stagblade moved from (4, 1) to (5, 1)
+[11:54:06.428] [INFO] Movement trail: [(4, 1), (5, 1)]
+[11:54:06.428] [INFO] Moving defensive blocker Fizzbiter Idris with 3 movement points
+[11:54:06.429] [INFO] Defensive blocker chose move (6, 4) with score 1290
+[11:54:06.429] [INFO] Goblin Fizzbiter Idris moved from (6, 1) to (6, 4)
+[11:54:06.429] [INFO] Movement trail: [(6, 1), (6, 4)]
+[11:54:06.429] [INFO] Moving defensive blocker Krunkfist Cyberchucks with 3 movement points
+[11:54:06.429] [INFO] Defensive blocker chose move (6, 2) with score 1218
+[11:54:06.429] [INFO] Goblin Krunkfist Cyberchucks moved from (8, 1) to (6, 2)
+[11:54:06.429] [INFO] Movement trail: [(8, 1), (6, 2)]
+[11:54:06.429] [INFO] Moving defensive blocker Lugsquisher  with 4 movement points
+[11:54:06.429] [INFO] Defensive blocker chose move (6, 1) with score 1158
+[11:54:06.429] [INFO] Goblin Lugsquisher  moved from (9, 1) to (6, 1)
+[11:54:06.429] [INFO] Movement trail: [(9, 1), (6, 1)]
+[11:54:07.392] [INFO] Moving carrier Lugsmasher Dustpunch with 3 movement points
+[11:54:07.393] [INFO] Goblin Lugsmasher Dustpunch moved from (5, 6) to (5, 5)
+[11:54:07.393] [INFO] Movement trail: [(4, 8), (5, 6), (5, 5)]
+[11:54:07.393] [INFO] Carrier Lugsmasher Dustpunch moved to (5, 5) (score: 34.4)
+[11:54:07.393] [INFO] Moving offensive blocker Gutsmasher Sharnette with 1 movement points
+[11:54:07.393] [INFO] Offensive blocker chose move (4, 8) with score 508
+[11:54:07.393] [INFO] Goblin Gutsmasher Sharnette moved from (3, 8) to (4, 8)
+[11:54:07.393] [INFO] Movement trail: [(2, 8), (3, 8), (4, 8)]
+[11:54:07.393] [INFO] Moving offensive blocker Globbasher with 1 movement points
+[11:54:07.393] [INFO] Offensive blocker chose move (6, 6) with score 673
+[11:54:07.393] [INFO] Goblin Globbasher moved from (6, 7) to (6, 6)
+[11:54:07.393] [INFO] Movement trail: [(6, 8), (6, 7), (6, 6)]
+[11:54:07.393] [INFO] Moving offensive blocker Splatgob Kroxx with 1 movement points
+[11:54:07.393] [INFO] Offensive blocker chose move (7, 7) with score 498
+[11:54:07.393] [INFO] Goblin Splatgob Kroxx moved from (7, 8) to (7, 7)
+[11:54:07.393] [INFO] Movement trail: [(8, 8), (7, 8), (7, 7)]
+[11:54:07.393] [INFO] Moving offensive blocker Skrizslicer the Mighty with 1 movement points
+[11:54:07.393] [INFO] Offensive blocker chose move (7, 8) with score 430
+[11:54:07.393] [INFO] Goblin Skrizslicer the Mighty moved from (8, 8) to (7, 8)
+[11:54:07.393] [INFO] Movement trail: [(9, 8), (8, 8), (7, 8)]
+[11:54:07.393] [INFO] Moving defensive blocker Muggulper with 3 movement points
+[11:54:07.394] [INFO] Defensive blocker chose move (5, 4) with score 3385
+[11:54:07.394] [INFO] Goblin Muggulper moved from (4, 2) to (5, 4)
+[11:54:07.394] [INFO] Movement trail: [(2, 1), (4, 2), (5, 4)]
+[11:54:07.394] [INFO] Moving defensive blocker Gnogchewer Stagblade with 1 movement points
+[11:54:07.394] [INFO] Defensive blocker chose move (5, 2) with score 1304
+[11:54:07.394] [INFO] Goblin Gnogchewer Stagblade moved from (5, 1) to (5, 2)
+[11:54:07.394] [INFO] Movement trail: [(4, 1), (5, 1), (5, 2)]
+[11:54:07.394] [INFO] Moving defensive blocker Fizzbiter Idris with 3 movement points
+[11:54:07.394] [INFO] Defensive blocker Fizzbiter Idris attempting to block carrier Lugsmasher Dustpunch
+[11:54:07.394] [INFO] Block succeeded!
+[11:54:07.394] [INFO] Moving offensive blocker Krunkfist Cyberchucks with 3 movement points
+[11:54:07.394] [INFO] No carrier found for team Skullsmashers!
+[11:54:07.394] [INFO] Moving offensive blocker Lugsquisher  with 4 movement points
+[11:54:07.394] [INFO] No carrier found for team Skullsmashers!

@@ -1,0 +1,141 @@
+[11:46:26.810] [INFO] === Goblinball Debug Log - 20250403_114626 ===
+[11:46:26.810] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_114626.txt
+[11:46:26.831] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:46:27.842] [INFO] Moving carrier Wortcrusher  with 4 movement points
+[11:46:27.842] [INFO] Goblin Wortcrusher  moved from (4, 8) to (5, 5)
+[11:46:27.842] [INFO] Movement trail: [(4, 8), (5, 5)]
+[11:46:27.842] [INFO] Carrier Wortcrusher  moved along clear path to (5, 5)
+[11:46:27.844] [INFO] Moving offensive blocker Gnogcrusher with 1 movement points
+[11:46:27.844] [INFO] Offensive blocker chose move (2, 7) with score 432
+[11:46:27.844] [INFO] Goblin Gnogcrusher moved from (2, 8) to (2, 7)
+[11:46:27.844] [INFO] Movement trail: [(2, 8), (2, 7)]
+[11:46:27.844] [INFO] Moving offensive blocker Fizzcrusher Avtar the Tough with 2 movement points
+[11:46:27.844] [INFO] Offensive blocker chose move (5, 7) with score 657
+[11:46:27.844] [INFO] Goblin Fizzcrusher Avtar the Tough moved from (6, 8) to (5, 7)
+[11:46:27.844] [INFO] Movement trail: [(6, 8), (5, 7)]
+[11:46:27.844] [INFO] Moving offensive blocker Skrizcrusher with 4 movement points
+[11:46:27.845] [INFO] Offensive blocker chose move (6, 6) with score 645
+[11:46:27.845] [INFO] Goblin Skrizcrusher moved from (8, 8) to (6, 6)
+[11:46:27.845] [INFO] Movement trail: [(8, 8), (6, 6)]
+[11:46:27.845] [INFO] Moving offensive blocker Grimgulper Ray with 1 movement points
+[11:46:27.845] [INFO] Offensive blocker chose move (8, 8) with score 339
+[11:46:27.845] [INFO] Goblin Grimgulper Ray moved from (9, 8) to (8, 8)
+[11:46:27.845] [INFO] Movement trail: [(9, 8), (8, 8)]
+[11:46:27.845] [INFO] Moving defensive blocker Wortchewer with 2 movement points
+[11:46:27.845] [INFO] Defensive blocker chose move (2, 3) with score 1021
+[11:46:27.845] [INFO] Goblin Wortchewer moved from (2, 1) to (2, 3)
+[11:46:27.845] [INFO] Movement trail: [(2, 1), (2, 3)]
+[11:46:27.845] [INFO] Moving defensive blocker Mugtooth Blaise the Quick with 2 movement points
+[11:46:27.845] [INFO] Defensive blocker chose move (5, 2) with score 1314
+[11:46:27.845] [INFO] Goblin Mugtooth Blaise the Quick moved from (4, 1) to (5, 2)
+[11:46:27.845] [INFO] Movement trail: [(4, 1), (5, 2)]
+[11:46:27.845] [INFO] Moving defensive blocker Gnogfinger with 2 movement points
+[11:46:27.845] [INFO] Defensive blocker chose move (6, 3) with score 1303
+[11:46:27.845] [INFO] Goblin Gnogfinger moved from (6, 1) to (6, 3)
+[11:46:27.845] [INFO] Movement trail: [(6, 1), (6, 3)]
+[11:46:27.845] [INFO] Moving defensive blocker Bludgob with 2 movement points
+[11:46:27.845] [INFO] Defensive blocker chose move (6, 1) with score 1197
+[11:46:27.845] [INFO] Goblin Bludgob moved from (8, 1) to (6, 1)
+[11:46:27.845] [INFO] Movement trail: [(8, 1), (6, 1)]
+[11:46:27.845] [INFO] Moving defensive blocker Krunkmangler the Quick with 4 movement points
+[11:46:27.845] [INFO] Defensive blocker chose move (6, 2) with score 1252
+[11:46:27.845] [INFO] Goblin Krunkmangler the Quick moved from (9, 1) to (6, 2)
+[11:46:27.845] [INFO] Movement trail: [(9, 1), (6, 2)]
+[11:46:28.420] [INFO] Moving carrier Wortcrusher  with 4 movement points
+[11:46:28.420] [INFO] Goblin Wortcrusher  moved from (5, 5) to (5, 4)
+[11:46:28.420] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4)]
+[11:46:28.420] [INFO] Carrier Wortcrusher  moved to (5, 4)
+[11:46:28.420] [INFO] Moving offensive blocker Gnogcrusher with 1 movement points
+[11:46:28.420] [INFO] Offensive blocker chose move (3, 7) with score 418
+[11:46:28.420] [INFO] Goblin Gnogcrusher moved from (2, 7) to (3, 7)
+[11:46:28.420] [INFO] Movement trail: [(2, 8), (2, 7), (3, 7)]
+[11:46:28.420] [INFO] Moving offensive blocker Fizzcrusher Avtar the Tough with 2 movement points
+[11:46:28.420] [INFO] Offensive blocker chose move (5, 5) with score 726
+[11:46:28.420] [INFO] Goblin Fizzcrusher Avtar the Tough moved from (5, 7) to (5, 5)
+[11:46:28.420] [INFO] Movement trail: [(6, 8), (5, 7), (5, 5)]
+[11:46:28.420] [INFO] Moving offensive blocker Skrizcrusher with 4 movement points
+[11:46:28.421] [INFO] Offensive blocker chose move (5, 3) with score 5356
+[11:46:28.421] [INFO] Goblin Skrizcrusher moved from (6, 6) to (5, 3)
+[11:46:28.421] [INFO] Movement trail: [(8, 8), (6, 6), (5, 3)]
+[11:46:28.421] [INFO] Moving offensive blocker Grimgulper Ray with 1 movement points
+[11:46:28.421] [INFO] Offensive blocker chose move (8, 7) with score 355
+[11:46:28.421] [INFO] Goblin Grimgulper Ray moved from (8, 8) to (8, 7)
+[11:46:28.421] [INFO] Movement trail: [(9, 8), (8, 8), (8, 7)]
+[11:46:28.421] [INFO] Moving defensive blocker Wortchewer with 2 movement points
+[11:46:28.421] [INFO] Defensive blocker chose move (4, 3) with score 1355
+[11:46:28.421] [INFO] Goblin Wortchewer moved from (2, 3) to (4, 3)
+[11:46:28.421] [INFO] Movement trail: [(2, 1), (2, 3), (4, 3)]
+[11:46:28.421] [INFO] Moving defensive blocker Mugtooth Blaise the Quick with 2 movement points
+[11:46:28.421] [INFO] Defensive blocker chose move (5, 2) with score 1357
+[11:46:28.421] [INFO] Moving defensive blocker Gnogfinger with 2 movement points
+[11:46:28.421] [INFO] Defensive blocker Gnogfinger attempting to block carrier Wortcrusher 
+[11:46:28.421] [INFO] Block succeeded!
+[11:46:28.421] [INFO] Moving defensive blocker Bludgob with 2 movement points
+[11:46:28.421] [INFO] Defensive blocker chose move (4, 1) with score 1273
+[11:46:28.421] [INFO] Goblin Bludgob moved from (6, 1) to (4, 1)
+[11:46:28.421] [INFO] Movement trail: [(8, 1), (6, 1), (4, 1)]
+[11:46:28.421] [INFO] Moving defensive blocker Krunkmangler the Quick with 4 movement points
+[11:46:28.421] [INFO] Defensive blocker chose move (4, 4) with score 3422
+[11:46:28.421] [INFO] Goblin Krunkmangler the Quick moved from (6, 2) to (4, 4)
+[11:46:28.421] [INFO] Movement trail: [(9, 1), (6, 2), (4, 4)]
+[11:46:28.906] [INFO] Moving carrier Wortcrusher  with 4 movement points
+[11:46:28.906] [INFO] Goblin Wortcrusher  moved from (4, 5) to (3, 5)
+[11:46:28.906] [INFO] Movement trail: [(4, 8), (5, 5), (5, 4), (4, 5), (3, 5)]
+[11:46:28.906] [INFO] Carrier Wortcrusher  moved to (3, 5)
+[11:46:28.906] [INFO] Moving offensive blocker Gnogcrusher with 1 movement points
+[11:46:28.907] [INFO] Offensive blocker chose move (3, 6) with score 750
+[11:46:28.907] [INFO] Goblin Gnogcrusher moved from (3, 7) to (3, 6)
+[11:46:28.907] [INFO] Movement trail: [(2, 8), (2, 7), (3, 7), (3, 6)]
+[11:46:28.907] [INFO] Moving offensive blocker Fizzcrusher Avtar the Tough with 2 movement points
+[11:46:28.907] [INFO] Attempt block of Krunkmangler the Quick by Fizzcrusher Avtar the Tough
+[11:46:28.907] [INFO] Offensive blocker chose move (4, 5) with score 2630
+[11:46:28.907] [INFO] Goblin Fizzcrusher Avtar the Tough moved from (5, 5) to (4, 5)
+[11:46:28.907] [INFO] Movement trail: [(6, 8), (5, 7), (5, 5), (4, 5)]
+[11:46:28.907] [INFO] Moving offensive blocker Skrizcrusher with 4 movement points
+[11:46:28.907] [INFO] Attempt block of Krunkmangler the Quick by Skrizcrusher
+[11:46:28.907] [INFO] Attempt block of Wortchewer by Skrizcrusher
+[11:46:28.907] [INFO] Offensive blocker chose move (5, 4) with score 2955
+[11:46:28.907] [INFO] Goblin Skrizcrusher moved from (5, 3) to (5, 4)
+[11:46:28.907] [INFO] Movement trail: [(8, 8), (6, 6), (5, 3), (5, 4)]
+[11:46:28.907] [INFO] Offensive blocker Skrizcrusher attempting to block Krunkmangler the Quick after moving
+[11:46:28.907] [INFO] Moving offensive blocker Grimgulper Ray with 1 movement points
+[11:46:28.907] [INFO] Offensive blocker chose move (8, 6) with score 326
+[11:46:28.907] [INFO] Goblin Grimgulper Ray moved from (8, 7) to (8, 6)
+[11:46:28.907] [INFO] Movement trail: [(9, 8), (8, 8), (8, 7), (8, 6)]
+[11:46:28.907] [INFO] Moving defensive blocker Wortchewer with 2 movement points
+[11:46:28.907] [INFO] Defensive blocker chose move (3, 4) with score 3393
+[11:46:28.907] [INFO] Goblin Wortchewer moved from (4, 3) to (3, 4)
+[11:46:28.907] [INFO] Movement trail: [(2, 1), (2, 3), (4, 3), (3, 4)]
+[11:46:28.907] [INFO] Moving defensive blocker Mugtooth Blaise the Quick with 2 movement points
+[11:46:28.907] [INFO] Defensive blocker chose move (4, 3) with score 1298
+[11:46:28.907] [INFO] Goblin Mugtooth Blaise the Quick moved from (5, 2) to (4, 3)
+[11:46:28.907] [INFO] Movement trail: [(4, 1), (5, 2), (4, 3)]
+[11:46:28.907] [INFO] Moving defensive blocker Gnogfinger with 2 movement points
+[11:46:28.907] [INFO] Defensive blocker chose move (6, 4) with score 1054
+[11:46:28.907] [INFO] Moving defensive blocker Bludgob with 2 movement points
+[11:46:28.907] [INFO] Defensive blocker chose move (3, 2) with score 1317
+[11:46:28.907] [INFO] Goblin Bludgob moved from (4, 1) to (3, 2)
+[11:46:28.907] [INFO] Movement trail: [(8, 1), (6, 1), (4, 1), (3, 2)]
+[11:46:28.907] [INFO] Moving defensive blocker Krunkmangler the Quick with 4 movement points
+[11:46:28.907] [INFO] Defensive blocker Krunkmangler the Quick attempting to block carrier Wortcrusher 
+[11:46:28.908] [INFO] Defensive blocker chose move (2, 5) with score 2955
+[11:46:28.908] [INFO] Goblin Krunkmangler the Quick moved from (4, 4) to (2, 5)
+[11:46:28.908] [INFO] Movement trail: [(9, 1), (6, 2), (4, 4), (2, 5)]
+[11:46:29.349] [INFO] Moving carrier Wortcrusher  with 4 movement points
+[11:46:29.350] [INFO] Carrier Wortcrusher  couldn't find valid move
+[11:46:29.350] [INFO] Moving offensive blocker Wortchewer with 2 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!
+[11:46:29.350] [INFO] Moving offensive blocker Mugtooth Blaise the Quick with 2 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!
+[11:46:29.350] [INFO] Moving offensive blocker Bludgob with 2 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!
+[11:46:29.350] [INFO] Moving offensive blocker Krunkmangler the Quick with 4 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!
+[11:46:29.350] [INFO] Moving defensive blocker Gnogcrusher with 1 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!
+[11:46:29.350] [INFO] Moving defensive blocker Fizzcrusher Avtar the Tough with 2 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!
+[11:46:29.350] [INFO] Moving defensive blocker Skrizcrusher with 4 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!
+[11:46:29.350] [INFO] Moving defensive blocker Grimgulper Ray with 1 movement points
+[11:46:29.350] [INFO] No carrier found for team Skullsmashers!

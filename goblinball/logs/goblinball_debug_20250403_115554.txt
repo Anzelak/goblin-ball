@@ -1,0 +1,172 @@
+[11:55:54.654] [INFO] === Goblinball Debug Log - 20250403_115554 ===
+[11:55:54.654] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115554.txt
+[11:55:54.674] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:55:55.807] [INFO] Moving carrier Gnogtooth Broken with 2 movement points
+[11:55:55.808] [INFO] Goblin Gnogtooth Broken moved from (4, 8) to (5, 7)
+[11:55:55.808] [INFO] Movement trail: [(4, 8), (5, 7)]
+[11:55:55.808] [INFO] Carrier Gnogtooth Broken moved along clear path to (5, 7)
+[11:55:55.811] [INFO] Moving offensive blocker Snotchewer with 1 movement points
+[11:55:55.812] [INFO] Offensive blocker chose move (3, 8) with score 572
+[11:55:55.812] [INFO] Goblin Snotchewer moved from (2, 8) to (3, 8)
+[11:55:55.812] [INFO] Movement trail: [(2, 8), (3, 8)]
+[11:55:55.812] [INFO] Moving offensive blocker Globsquisher with 2 movement points
+[11:55:55.812] [INFO] Offensive blocker chose move (6, 7) with score 753
+[11:55:55.812] [INFO] Goblin Globsquisher moved from (6, 8) to (6, 7)
+[11:55:55.812] [INFO] Movement trail: [(6, 8), (6, 7)]
+[11:55:55.812] [INFO] Moving offensive blocker Krakfoot with 4 movement points
+[11:55:55.812] [INFO] Offensive blocker chose move (5, 8) with score 729
+[11:55:55.812] [INFO] Goblin Krakfoot moved from (8, 8) to (5, 8)
+[11:55:55.812] [INFO] Movement trail: [(8, 8), (5, 8)]
+[11:55:55.812] [INFO] Moving offensive blocker Gutnose Morganfield the Sly with 4 movement points
+[11:55:55.813] [INFO] Offensive blocker chose move (7, 7) with score 670
+[11:55:55.813] [INFO] Goblin Gutnose Morganfield the Sly moved from (9, 8) to (7, 7)
+[11:55:55.813] [INFO] Movement trail: [(9, 8), (7, 7)]
+[11:55:55.813] [INFO] Moving defensive blocker Wortmangler Garner with 4 movement points
+[11:55:55.813] [INFO] Defensive blocker chose move (4, 3) with score 1222
+[11:55:55.814] [INFO] Goblin Wortmangler Garner moved from (2, 1) to (4, 3)
+[11:55:55.814] [INFO] Movement trail: [(2, 1), (4, 3)]
+[11:55:55.814] [INFO] Moving defensive blocker Bludchomper with 3 movement points
+[11:55:55.814] [INFO] Defensive blocker chose move (5, 3) with score 1257
+[11:55:55.814] [INFO] Goblin Bludchomper moved from (4, 1) to (5, 3)
+[11:55:55.814] [INFO] Movement trail: [(4, 1), (5, 3)]
+[11:55:55.814] [INFO] Moving defensive blocker Snotbiter with 1 movement points
+[11:55:55.814] [INFO] Defensive blocker chose move (5, 1) with score 1163
+[11:55:55.814] [INFO] Goblin Snotbiter moved from (6, 1) to (5, 1)
+[11:55:55.814] [INFO] Movement trail: [(6, 1), (5, 1)]
+[11:55:55.814] [INFO] Moving defensive blocker Fizzmangler Reslyn with 4 movement points
+[11:55:55.814] [INFO] Defensive blocker chose move (5, 2) with score 1200
+[11:55:55.814] [INFO] Goblin Fizzmangler Reslyn moved from (8, 1) to (5, 2)
+[11:55:55.815] [INFO] Movement trail: [(8, 1), (5, 2)]
+[11:55:55.815] [INFO] Moving defensive blocker Gutnose  with 3 movement points
+[11:55:55.815] [INFO] Defensive blocker chose move (6, 1) with score 1085
+[11:55:55.815] [INFO] Goblin Gutnose  moved from (9, 1) to (6, 1)
+[11:55:55.815] [INFO] Movement trail: [(9, 1), (6, 1)]
+[11:55:56.392] [INFO] Moving carrier Gnogtooth Broken with 2 movement points
+[11:55:56.392] [INFO] Goblin Gnogtooth Broken moved from (5, 7) to (5, 6)
+[11:55:56.392] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6)]
+[11:55:56.392] [INFO] Carrier Gnogtooth Broken moved to (5, 6) (score: 33.2)
+[11:55:56.392] [INFO] Moving offensive blocker Snotchewer with 1 movement points
+[11:55:56.392] [INFO] Offensive blocker chose move (4, 8) with score 589
+[11:55:56.392] [INFO] Goblin Snotchewer moved from (3, 8) to (4, 8)
+[11:55:56.392] [INFO] Movement trail: [(2, 8), (3, 8), (4, 8)]
+[11:55:56.392] [INFO] Moving offensive blocker Globsquisher with 2 movement points
+[11:55:56.392] [INFO] Offensive blocker chose move (5, 7) with score 753
+[11:55:56.392] [INFO] Goblin Globsquisher moved from (6, 7) to (5, 7)
+[11:55:56.392] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7)]
+[11:55:56.392] [INFO] Moving offensive blocker Krakfoot with 4 movement points
+[11:55:56.392] [INFO] Offensive blocker chose move (5, 4) with score 3226
+[11:55:56.392] [INFO] Goblin Krakfoot moved from (5, 8) to (5, 4)
+[11:55:56.392] [INFO] Movement trail: [(8, 8), (5, 8), (5, 4)]
+[11:55:56.392] [INFO] Moving offensive blocker Gutnose Morganfield the Sly with 4 movement points
+[11:55:56.393] [INFO] Offensive blocker chose move (5, 5) with score 1461
+[11:55:56.393] [INFO] Goblin Gutnose Morganfield the Sly moved from (7, 7) to (5, 5)
+[11:55:56.393] [INFO] Movement trail: [(9, 8), (7, 7), (5, 5)]
+[11:55:56.393] [INFO] Moving defensive blocker Wortmangler Garner with 4 movement points
+[11:55:56.393] [INFO] Defensive blocker chose move (4, 6) with score 3931
+[11:55:56.393] [INFO] Goblin Wortmangler Garner moved from (4, 3) to (4, 6)
+[11:55:56.393] [INFO] Movement trail: [(2, 1), (4, 3), (4, 6)]
+[11:55:56.393] [INFO] Defensive blocker Wortmangler Garner attempting to block carrier Gnogtooth Broken after moving
+[11:55:56.393] [INFO] Moving defensive blocker Bludchomper with 3 movement points
+[11:55:56.393] [INFO] Defensive blocker chose move (4, 5) with score 1361
+[11:55:56.393] [INFO] Moving defensive blocker Snotbiter with 1 movement points
+[11:55:56.393] [INFO] Defensive blocker chose move (5, 0) with score 1159
+[11:55:56.393] [INFO] Goblin Snotbiter moved from (5, 1) to (5, 0)
+[11:55:56.393] [INFO] Movement trail: [(6, 1), (5, 1), (5, 0)]
+[11:55:56.393] [INFO] Moving defensive blocker Fizzmangler Reslyn with 4 movement points
+[11:55:56.394] [INFO] Defensive blocker chose move (4, 5) with score 1366
+[11:55:56.394] [INFO] Goblin Fizzmangler Reslyn moved from (5, 2) to (4, 5)
+[11:55:56.394] [INFO] Movement trail: [(8, 1), (5, 2), (4, 5)]
+[11:55:56.394] [INFO] Moving defensive blocker Gutnose  with 3 movement points
+[11:55:56.394] [INFO] Defensive blocker chose move (6, 4) with score 1309
+[11:55:57.126] [INFO] Moving carrier Gnogtooth Broken with 2 movement points
+[11:55:57.127] [INFO] Goblin Gnogtooth Broken moved from (5, 6) to (6, 5)
+[11:55:57.127] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (6, 5)]
+[11:55:57.127] [INFO] Carrier Gnogtooth Broken moved to (6, 5) (score: 29.0)
+[11:55:57.127] [INFO] Moving offensive blocker Snotchewer with 1 movement points
+[11:55:57.127] [INFO] Offensive blocker chose move (4, 7) with score 2352
+[11:55:57.127] [INFO] Goblin Snotchewer moved from (4, 8) to (4, 7)
+[11:55:57.127] [INFO] Movement trail: [(2, 8), (3, 8), (4, 8), (4, 7)]
+[11:55:57.127] [INFO] Moving offensive blocker Globsquisher with 2 movement points
+[11:55:57.127] [INFO] Attempt block of Wortmangler Garner by Globsquisher
+[11:55:57.127] [INFO] Offensive blocker chose move (5, 6) with score 2517
+[11:55:57.127] [INFO] Goblin Globsquisher moved from (5, 7) to (5, 6)
+[11:55:57.127] [INFO] Movement trail: [(6, 8), (6, 7), (5, 7), (5, 6)]
+[11:55:57.127] [INFO] Moving offensive blocker Krakfoot with 4 movement points
+[11:55:57.127] [INFO] Attempt block of Fizzmangler Reslyn by Krakfoot
+[11:55:57.127] [INFO] Offensive blocker chose move (4, 4) with score 2984
+[11:55:57.127] [INFO] Goblin Krakfoot moved from (5, 4) to (4, 4)
+[11:55:57.127] [INFO] Movement trail: [(8, 8), (5, 8), (5, 4), (4, 4)]
+[11:55:57.127] [INFO] Offensive blocker Krakfoot attempting to block Fizzmangler Reslyn after moving
+[11:55:57.127] [INFO] Moving offensive blocker Gutnose Morganfield the Sly with 4 movement points
+[11:55:57.127] [INFO] Attempt block of Fizzmangler Reslyn by Gutnose Morganfield the Sly
+[11:55:57.127] [INFO] Attempt block of Wortmangler Garner by Gutnose Morganfield the Sly
+[11:55:57.127] [INFO] Offensive blocker chose move (5, 5) with score 3933
+[11:55:57.127] [INFO] Moving defensive blocker Wortmangler Garner with 4 movement points
+[11:55:57.128] [INFO] Defensive blocker chose move (6, 6) with score 3975
+[11:55:57.128] [INFO] Goblin Wortmangler Garner moved from (4, 6) to (6, 6)
+[11:55:57.128] [INFO] Movement trail: [(2, 1), (4, 3), (4, 6), (6, 6)]
+[11:55:57.128] [INFO] Defensive blocker Wortmangler Garner attempting to block carrier Gnogtooth Broken after moving
+[11:55:57.128] [INFO] Moving defensive blocker Snotbiter with 1 movement points
+[11:55:57.128] [INFO] Defensive blocker chose move (6, 0) with score 1218
+[11:55:57.128] [INFO] Goblin Snotbiter moved from (5, 0) to (6, 0)
+[11:55:57.128] [INFO] Movement trail: [(6, 1), (5, 1), (5, 0), (6, 0)]
+[11:55:57.128] [INFO] Moving defensive blocker Fizzmangler Reslyn with 4 movement points
+[11:55:57.128] [INFO] Defensive blocker chose move (6, 4) with score 4394
+[11:55:58.215] [INFO] Moving carrier Gnogtooth Broken with 2 movement points
+[11:55:58.215] [INFO] Goblin Gnogtooth Broken moved from (6, 5) to (5, 4)
+[11:55:58.215] [INFO] Movement trail: [(4, 8), (5, 7), (5, 6), (6, 5), (5, 4)]
+[11:55:58.215] [INFO] Carrier Gnogtooth Broken moved along clear path to (5, 4)
+[11:55:58.215] [INFO] Moving offensive blocker Snotchewer with 1 movement points
+[11:55:58.215] [INFO] Offensive blocker chose move (4, 6) with score 591
+[11:55:58.215] [INFO] Goblin Snotchewer moved from (4, 7) to (4, 6)
+[11:55:58.215] [INFO] Movement trail: [(2, 8), (3, 8), (4, 8), (4, 7), (4, 6)]
+[11:55:58.215] [INFO] Moving offensive blocker Globsquisher with 2 movement points
+[11:55:58.215] [INFO] Attempt block of Wortmangler Garner by Globsquisher
+[11:55:58.215] [INFO] Offensive blocker chose move (5, 6) with score 2995
+[11:55:58.215] [INFO] Moving offensive blocker Krakfoot with 4 movement points
+[11:55:58.215] [INFO] Offensive blocker chose move (6, 5) with score 3004
+[11:55:58.215] [INFO] Goblin Krakfoot moved from (4, 4) to (6, 5)
+[11:55:58.215] [INFO] Movement trail: [(8, 8), (5, 8), (5, 4), (4, 4), (6, 5)]
+[11:55:58.215] [INFO] Offensive blocker Krakfoot attempting to block Wortmangler Garner after moving
+[11:55:58.215] [INFO] Moving offensive blocker Gutnose Morganfield the Sly with 4 movement points
+[11:55:58.215] [INFO] Attempt block of Wortmangler Garner by Gutnose Morganfield the Sly
+[11:55:58.215] [INFO] Offensive blocker chose move (7, 6) with score 2330
+[11:55:58.215] [INFO] Goblin Gutnose Morganfield the Sly moved from (5, 5) to (7, 6)
+[11:55:58.215] [INFO] Movement trail: [(9, 8), (7, 7), (5, 5), (7, 6)]
+[11:55:58.215] [INFO] Moving defensive blocker Wortmangler Garner with 4 movement points
+[11:55:58.216] [INFO] Defensive blocker chose move (5, 5) with score 3971
+[11:55:58.216] [INFO] Goblin Wortmangler Garner moved from (6, 6) to (5, 5)
+[11:55:58.216] [INFO] Movement trail: [(2, 1), (4, 3), (4, 6), (6, 6), (5, 5)]
+[11:55:58.216] [INFO] Defensive blocker Wortmangler Garner attempting to block carrier Gnogtooth Broken after moving
+[11:55:58.216] [INFO] Moving defensive blocker Snotbiter with 1 movement points
+[11:55:58.216] [INFO] Defensive blocker chose move (5, 0) with score 1258
+[11:55:58.216] [INFO] Goblin Snotbiter moved from (6, 0) to (5, 0)
+[11:55:58.216] [INFO] Movement trail: [(6, 1), (5, 1), (5, 0), (6, 0), (5, 0)]
+[11:55:58.859] [INFO] Moving carrier Gnogtooth Broken with 2 movement points
+[11:55:58.859] [INFO] Goblin Gnogtooth Broken moved from (5, 4) to (5, 2)
+[11:55:58.859] [INFO] Movement trail: [(5, 7), (5, 6), (6, 5), (5, 4), (5, 2)]
+[11:55:58.859] [INFO] Carrier Gnogtooth Broken moved to (5, 2) (score: 36.0)
+[11:55:58.859] [INFO] Moving offensive blocker Snotchewer with 1 movement points
+[11:55:58.860] [INFO] Attempt block of Wortmangler Garner by Snotchewer
+[11:55:58.860] [INFO] Moving offensive blocker Globsquisher with 2 movement points
+[11:55:58.860] [INFO] Attempt block of Wortmangler Garner by Globsquisher
+[11:55:58.860] [INFO] Offensive blocker chose move (5, 6) with score 2863
+[11:55:58.860] [INFO] Moving offensive blocker Krakfoot with 4 movement points
+[11:55:58.860] [INFO] Attempt block of Wortmangler Garner by Krakfoot
+[11:55:58.860] [INFO] Block succeeded!
+[11:55:58.860] [INFO] Moving offensive blocker Gutnose Morganfield the Sly with 4 movement points
+[11:55:58.860] [INFO] Offensive blocker chose move (5, 4) with score 3239
+[11:55:58.860] [INFO] Goblin Gutnose Morganfield the Sly moved from (7, 6) to (5, 4)
+[11:55:58.860] [INFO] Movement trail: [(9, 8), (7, 7), (5, 5), (7, 6), (5, 4)]
+[11:55:58.860] [INFO] Moving defensive blocker Wortmangler Garner with 4 movement points
+[11:55:58.860] [INFO] Defensive blocker chose move (5, 1) with score 3415
+[11:55:58.860] [INFO] Goblin Wortmangler Garner moved from (5, 5) to (5, 1)
+[11:55:58.860] [INFO] Movement trail: [(4, 3), (4, 6), (6, 6), (5, 5), (5, 1)]
+[11:55:58.860] [INFO] Moving defensive blocker Snotbiter with 1 movement points
+[11:55:58.860] [INFO] Defensive blocker chose move (6, 0) with score 1287
+[11:55:58.860] [INFO] Goblin Snotbiter moved from (5, 0) to (6, 0)
+[11:55:58.860] [INFO] Movement trail: [(5, 1), (5, 0), (6, 0), (5, 0), (6, 0)]
+[11:56:01.689] [INFO] Moving carrier Gnogtooth Broken with 2 movement points
+[11:56:01.690] [INFO] Goblin Gnogtooth Broken moved from (5, 2) to (5, 0)
+[11:56:01.690] [INFO] Movement trail: [(5, 6), (6, 5), (5, 4), (5, 2), (5, 0)]
+[11:56:01.690] [INFO] Carrier Gnogtooth Broken moved to (5, 0) (score: 38.0)

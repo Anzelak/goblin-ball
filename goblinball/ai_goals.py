@@ -22,16 +22,28 @@ class AIGoalSystem:
             target_y = 0 if goblin.team == self.game.team2 else self.game.grid.height - 1
             distance = abs(goblin.position[1] - target_y)
             
+            # Check path to end zone for active defenders
+            path_defender_count = self.count_defenders_in_path(goblin, target_y)
+            
+            # Count defenders that are still up nearby
+            nearby_defender_count = self.count_nearby_opponents(goblin.position, goblin.team)
+            
+            # First check if very close to end zone, always prioritize scoring when close
             if distance <= 3:
                 return "score_touchdown"
-            elif self.in_field_goal_range(goblin):
+            # Next check if in field goal range but path to end zone is blocked
+            elif self.in_field_goal_range(goblin) and path_defender_count >= 2:
                 return "attempt_field_goal"
+            # Next check for clear path to end zone - be more aggressive
+            elif path_defender_count == 0:
+                # Clear path to end zone, prioritize direct scoring run
+                return "score_touchdown"
+            # Only evade if multiple defenders are nearby and active
+            elif nearby_defender_count >= 2:
+                return "evade_defenders"
+            # Default goal is to advance
             else:
-                defender_count = self.count_nearby_opponents(goblin.position, goblin.team)
-                if defender_count >= 2:
-                    return "evade_defenders"
-                else:
-                    return "advance_downfield"
+                return "advance_downfield"
         
         elif goblin.team == self.game.offense_team:
             # Offensive blocker goals
@@ -178,6 +190,42 @@ class AIGoalSystem:
             return goblin.position[1] < target.position[1] and goblin.position[1] > end_y
         else:  # End zone is below target
             return goblin.position[1] > target.position[1] and goblin.position[1] < end_y
+    
+    def count_defenders_in_path(self, goblin, target_y):
+        """Count defenders in the path between goblin and the end zone
+        
+        Args:
+            goblin: The carrier goblin
+            target_y: The y-coordinate of the target end zone
+            
+        Returns:
+            int: Number of defenders in path
+        """
+        # Determine direction to end zone
+        direction = -1 if target_y < goblin.position[1] else 1
+        
+        # Count opponents in a corridor between goblin and end zone
+        count = 0
+        current_x, current_y = goblin.position
+        
+        # Define the corridor width (wider = more conservative)
+        corridor_width = 2  # Check 2 squares to each side of direct path
+        
+        # Scan squares in path to end zone
+        for y in range(current_y + direction, target_y + direction, direction):
+            if not (0 <= y < self.game.grid.height):
+                break
+                
+            # Check squares in this row within corridor
+            for x in range(current_x - corridor_width, current_x + corridor_width + 1):
+                if not (0 <= x < self.game.grid.width):
+                    continue
+                    
+                entity = self.game.grid.get_entity_at_position((x, y))
+                if entity and hasattr(entity, 'team') and entity.team != goblin.team and not entity.knocked_down:
+                    count += 1
+        
+        return count
 
 class MovementStyleSelector:
     """Selects movement styles based on goals and situation"""
@@ -235,9 +283,36 @@ class MovementStyleSelector:
             weights["flanking"] += 0.3
             weights["deceptive"] += 0.1
         
-        # Add randomness
+        # Special adjustments for carriers moving downfield
+        if goal == "advance_downfield" and goblin.has_ball:
+            # Count active defenders nearby
+            active_defenders = 0
+            for x in range(self.game.grid.width):
+                for y in range(self.game.grid.height):
+                    entity = self.game.grid.get_entity_at_position((x, y))
+                    if entity and hasattr(entity, 'team') and entity.team != goblin.team and not entity.knocked_down:
+                        # Only count defenders that are actually near enough to be a threat
+                        if manhattan_distance(goblin.position, (x, y)) <= 4:
+                            active_defenders += 1
+            
+            # If few defenders are active, be much more aggressive and direct
+            if active_defenders == 0:
+                weights["direct"] += 0.4
+                weights["aggressive"] += 0.4
+                weights["cautious"] -= 0.3
+                weights["deceptive"] -= 0.1
+            elif active_defenders <= 1:
+                weights["direct"] += 0.3
+                weights["aggressive"] += 0.3
+                weights["cautious"] -= 0.2
+            elif active_defenders <= 3:
+                weights["direct"] += 0.1
+                weights["aggressive"] += 0.1
+                weights["cautious"] -= 0.1
+        
+        # Add randomness, but less than before to ensure more consistent behavior
         for style in weights:
-            weights[style] += random.uniform(-0.1, 0.1)
+            weights[style] += random.uniform(-0.05, 0.05)
             weights[style] = max(0.05, min(0.9, weights[style]))
         
         # Choose style based on weights

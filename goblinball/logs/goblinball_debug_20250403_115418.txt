@@ -1,0 +1,163 @@
+[11:54:18.681] [INFO] === Goblinball Debug Log - 20250403_115418 ===
+[11:54:18.681] [INFO] Log file path: C:\Users\johnm\OneDrive\Documents\goblin-ball\goblinball\logs\goblinball_debug_20250403_115418.txt
+[11:54:18.702] [INFO] Game initialized with teams: Mudcrushers vs Skullsmashers
+[11:54:19.732] [INFO] Moving carrier Zogmangler Dakkone with 1 movement points
+[11:54:19.733] [INFO] Goblin Zogmangler Dakkone moved from (4, 8) to (4, 7)
+[11:54:19.733] [INFO] Movement trail: [(4, 8), (4, 7)]
+[11:54:19.733] [INFO] Carrier Zogmangler Dakkone moved to (4, 7) (score: 23.0)
+[11:54:19.735] [INFO] Moving offensive blocker Skabfist Needles  with 2 movement points
+[11:54:19.735] [INFO] Offensive blocker chose move (4, 8) with score 738
+[11:54:19.736] [INFO] Goblin Skabfist Needles  moved from (2, 8) to (4, 8)
+[11:54:19.736] [INFO] Movement trail: [(2, 8), (4, 8)]
+[11:54:19.736] [INFO] Moving offensive blocker Skabchomper with 1 movement points
+[11:54:19.736] [INFO] Offensive blocker chose move (5, 8) with score 659
+[11:54:19.736] [INFO] Goblin Skabchomper moved from (6, 8) to (5, 8)
+[11:54:19.736] [INFO] Movement trail: [(6, 8), (5, 8)]
+[11:54:19.736] [INFO] Moving offensive blocker Globgob  with 4 movement points
+[11:54:19.736] [INFO] Offensive blocker chose move (5, 7) with score 741
+[11:54:19.736] [INFO] Goblin Globgob  moved from (8, 8) to (5, 7)
+[11:54:19.736] [INFO] Movement trail: [(8, 8), (5, 7)]
+[11:54:19.736] [INFO] Moving offensive blocker Snotfist Tinika the Brutal with 2 movement points
+[11:54:19.736] [INFO] Offensive blocker chose move (8, 7) with score 490
+[11:54:19.736] [INFO] Goblin Snotfist Tinika the Brutal moved from (9, 8) to (8, 7)
+[11:54:19.736] [INFO] Movement trail: [(9, 8), (8, 7)]
+[11:54:19.736] [INFO] Moving defensive blocker Thraksmasher Gumbo with 2 movement points
+[11:54:19.736] [INFO] Defensive blocker chose move (3, 2) with score 1169
+[11:54:19.736] [INFO] Goblin Thraksmasher Gumbo moved from (2, 1) to (3, 2)
+[11:54:19.736] [INFO] Movement trail: [(2, 1), (3, 2)]
+[11:54:19.736] [INFO] Moving defensive blocker Bludface Warmage with 2 movement points
+[11:54:19.736] [INFO] Defensive blocker chose move (4, 3) with score 1263
+[11:54:19.736] [INFO] Goblin Bludface Warmage moved from (4, 1) to (4, 3)
+[11:54:19.736] [INFO] Movement trail: [(4, 1), (4, 3)]
+[11:54:19.736] [INFO] Moving defensive blocker Zogsquisher Dolman with 2 movement points
+[11:54:19.736] [INFO] Defensive blocker chose move (4, 1) with score 1166
+[11:54:19.736] [INFO] Goblin Zogsquisher Dolman moved from (6, 1) to (4, 1)
+[11:54:19.736] [INFO] Movement trail: [(6, 1), (4, 1)]
+[11:54:19.736] [INFO] Moving defensive blocker Wortgob Paskel with 4 movement points
+[11:54:19.736] [INFO] Defensive blocker chose move (5, 2) with score 1132
+[11:54:19.736] [INFO] Goblin Wortgob Paskel moved from (8, 1) to (5, 2)
+[11:54:19.736] [INFO] Movement trail: [(8, 1), (5, 2)]
+[11:54:19.736] [INFO] Moving defensive blocker Wortsquisher with 3 movement points
+[11:54:19.737] [INFO] Defensive blocker chose move (8, 3) with score 872
+[11:54:19.737] [INFO] Goblin Wortsquisher moved from (9, 1) to (8, 3)
+[11:54:19.737] [INFO] Movement trail: [(9, 1), (8, 3)]
+[11:54:20.091] [INFO] Moving carrier Zogmangler Dakkone with 1 movement points
+[11:54:20.091] [INFO] Goblin Zogmangler Dakkone moved from (4, 7) to (3, 7)
+[11:54:20.091] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7)]
+[11:54:20.091] [INFO] Carrier Zogmangler Dakkone moved to (3, 7) (score: 23.0)
+[11:54:20.091] [INFO] Moving offensive blocker Skabfist Needles  with 2 movement points
+[11:54:20.091] [INFO] Offensive blocker chose move (4, 7) with score 751
+[11:54:20.091] [INFO] Goblin Skabfist Needles  moved from (4, 8) to (4, 7)
+[11:54:20.091] [INFO] Movement trail: [(2, 8), (4, 8), (4, 7)]
+[11:54:20.091] [INFO] Moving offensive blocker Skabchomper with 1 movement points
+[11:54:20.092] [INFO] Offensive blocker chose move (4, 8) with score 658
+[11:54:20.092] [INFO] Goblin Skabchomper moved from (5, 8) to (4, 8)
+[11:54:20.092] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8)]
+[11:54:20.092] [INFO] Moving offensive blocker Globgob  with 4 movement points
+[11:54:20.092] [INFO] Offensive blocker chose move (3, 6) with score 754
+[11:54:20.092] [INFO] Goblin Globgob  moved from (5, 7) to (3, 6)
+[11:54:20.092] [INFO] Movement trail: [(8, 8), (5, 7), (3, 6)]
+[11:54:20.092] [INFO] Moving offensive blocker Snotfist Tinika the Brutal with 2 movement points
+[11:54:20.092] [INFO] Offensive blocker chose move (6, 7) with score 571
+[11:54:20.092] [INFO] Goblin Snotfist Tinika the Brutal moved from (8, 7) to (6, 7)
+[11:54:20.092] [INFO] Movement trail: [(9, 8), (8, 7), (6, 7)]
+[11:54:20.092] [INFO] Moving defensive blocker Thraksmasher Gumbo with 2 movement points
+[11:54:20.092] [INFO] Defensive blocker chose move (3, 4) with score 1318
+[11:54:20.092] [INFO] Goblin Thraksmasher Gumbo moved from (3, 2) to (3, 4)
+[11:54:20.092] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4)]
+[11:54:20.092] [INFO] Moving defensive blocker Bludface Warmage with 2 movement points
+[11:54:20.092] [INFO] Defensive blocker chose move (4, 5) with score 1279
+[11:54:20.092] [INFO] Goblin Bludface Warmage moved from (4, 3) to (4, 5)
+[11:54:20.092] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5)]
+[11:54:20.092] [INFO] Moving defensive blocker Zogsquisher Dolman with 2 movement points
+[11:54:20.092] [INFO] Defensive blocker chose move (4, 3) with score 1224
+[11:54:20.092] [INFO] Goblin Zogsquisher Dolman moved from (4, 1) to (4, 3)
+[11:54:20.092] [INFO] Movement trail: [(6, 1), (4, 1), (4, 3)]
+[11:54:20.092] [INFO] Moving defensive blocker Wortgob Paskel with 4 movement points
+[11:54:20.093] [INFO] Defensive blocker chose move (3, 3) with score 1274
+[11:54:20.093] [INFO] Goblin Wortgob Paskel moved from (5, 2) to (3, 3)
+[11:54:20.093] [INFO] Movement trail: [(8, 1), (5, 2), (3, 3)]
+[11:54:20.093] [INFO] Moving defensive blocker Wortsquisher with 3 movement points
+[11:54:20.093] [INFO] Defensive blocker chose move (8, 6) with score 968
+[11:54:20.093] [INFO] Goblin Wortsquisher moved from (8, 3) to (8, 6)
+[11:54:20.093] [INFO] Movement trail: [(9, 1), (8, 3), (8, 6)]
+[11:54:20.518] [INFO] Moving carrier Zogmangler Dakkone with 1 movement points
+[11:54:20.519] [INFO] Goblin Zogmangler Dakkone moved from (3, 7) to (2, 7)
+[11:54:20.519] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7), (2, 7)]
+[11:54:20.519] [INFO] Carrier Zogmangler Dakkone moved to (2, 7) (score: 23.0)
+[11:54:20.519] [INFO] Moving offensive blocker Skabfist Needles  with 2 movement points
+[11:54:20.519] [INFO] Offensive blocker chose move (3, 7) with score 740
+[11:54:20.519] [INFO] Goblin Skabfist Needles  moved from (4, 7) to (3, 7)
+[11:54:20.519] [INFO] Movement trail: [(2, 8), (4, 8), (4, 7), (3, 7)]
+[11:54:20.519] [INFO] Moving offensive blocker Skabchomper with 1 movement points
+[11:54:20.519] [INFO] Offensive blocker chose move (4, 7) with score 671
+[11:54:20.519] [INFO] Goblin Skabchomper moved from (4, 8) to (4, 7)
+[11:54:20.519] [INFO] Movement trail: [(6, 8), (5, 8), (4, 8), (4, 7)]
+[11:54:20.519] [INFO] Moving offensive blocker Globgob  with 4 movement points
+[11:54:20.519] [INFO] Offensive blocker chose move (2, 6) with score 736
+[11:54:20.519] [INFO] Goblin Globgob  moved from (3, 6) to (2, 6)
+[11:54:20.519] [INFO] Movement trail: [(8, 8), (5, 7), (3, 6), (2, 6)]
+[11:54:20.519] [INFO] Moving offensive blocker Snotfist Tinika the Brutal with 2 movement points
+[11:54:20.519] [INFO] Offensive blocker chose move (5, 7) with score 556
+[11:54:20.519] [INFO] Goblin Snotfist Tinika the Brutal moved from (6, 7) to (5, 7)
+[11:54:20.519] [INFO] Movement trail: [(9, 8), (8, 7), (6, 7), (5, 7)]
+[11:54:20.519] [INFO] Moving defensive blocker Thraksmasher Gumbo with 2 movement points
+[11:54:20.519] [INFO] Defensive blocker chose move (2, 5) with score 1337
+[11:54:20.519] [INFO] Goblin Thraksmasher Gumbo moved from (3, 4) to (2, 5)
+[11:54:20.519] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4), (2, 5)]
+[11:54:20.519] [INFO] Moving defensive blocker Bludface Warmage with 2 movement points
+[11:54:20.519] [INFO] Defensive blocker chose move (3, 6) with score 1347
+[11:54:20.519] [INFO] Goblin Bludface Warmage moved from (4, 5) to (3, 6)
+[11:54:20.519] [INFO] Movement trail: [(4, 1), (4, 3), (4, 5), (3, 6)]
+[11:54:20.519] [INFO] Moving defensive blocker Zogsquisher Dolman with 2 movement points
+[11:54:20.520] [INFO] Defensive blocker chose move (3, 4) with score 1245
+[11:54:20.520] [INFO] Goblin Zogsquisher Dolman moved from (4, 3) to (3, 4)
+[11:54:20.520] [INFO] Movement trail: [(6, 1), (4, 1), (4, 3), (3, 4)]
+[11:54:20.520] [INFO] Moving defensive blocker Wortgob Paskel with 4 movement points
+[11:54:20.520] [INFO] Defensive blocker chose move (2, 4) with score 1316
+[11:54:20.520] [INFO] Goblin Wortgob Paskel moved from (3, 3) to (2, 4)
+[11:54:20.520] [INFO] Movement trail: [(8, 1), (5, 2), (3, 3), (2, 4)]
+[11:54:20.520] [INFO] Moving defensive blocker Wortsquisher with 3 movement points
+[11:54:20.520] [INFO] Defensive blocker chose move (5, 6) with score 1075
+[11:54:21.058] [INFO] Moving carrier Zogmangler Dakkone with 1 movement points
+[11:54:21.058] [INFO] Goblin Zogmangler Dakkone moved from (2, 7) to (1, 7)
+[11:54:21.058] [INFO] Movement trail: [(4, 8), (4, 7), (3, 7), (2, 7), (1, 7)]
+[11:54:21.058] [INFO] Carrier Zogmangler Dakkone moved to (1, 7) (score: 27.0)
+[11:54:21.059] [INFO] Moving offensive blocker Skabfist Needles  with 2 movement points
+[11:54:21.059] [INFO] Attempt block of Bludface Warmage by Skabfist Needles 
+[11:54:21.059] [INFO] Offensive blocker chose move (3, 7) with score 3018
+[11:54:21.059] [INFO] Moving offensive blocker Skabchomper with 1 movement points
+[11:54:21.059] [INFO] Attempt block of Bludface Warmage by Skabchomper
+[11:54:21.059] [INFO] Moving offensive blocker Globgob  with 4 movement points
+[11:54:21.059] [INFO] Attempt block of Thraksmasher Gumbo by Globgob 
+[11:54:21.059] [INFO] Block succeeded!
+[11:54:21.059] [INFO] Moving offensive blocker Snotfist Tinika the Brutal with 2 movement points
+[11:54:21.059] [INFO] Offensive blocker chose move (4, 6) with score 2354
+[11:54:21.059] [INFO] Goblin Snotfist Tinika the Brutal moved from (5, 7) to (4, 6)
+[11:54:21.059] [INFO] Movement trail: [(9, 8), (8, 7), (6, 7), (5, 7), (4, 6)]
+[11:54:21.059] [INFO] Moving defensive blocker Thraksmasher Gumbo with 2 movement points
+[11:54:21.059] [INFO] Defensive blocker chose move (1, 6) with score 3397
+[11:54:21.059] [INFO] Goblin Thraksmasher Gumbo moved from (2, 5) to (1, 6)
+[11:54:21.059] [INFO] Movement trail: [(2, 1), (3, 2), (3, 4), (2, 5), (1, 6)]
+[11:54:21.059] [INFO] Moving defensive blocker Bludface Warmage with 2 movement points
+[11:54:21.059] [INFO] Defensive blocker chose move (2, 7) with score 2973
+[11:54:21.059] [INFO] Moving defensive blocker Zogsquisher Dolman with 2 movement points
+[11:54:21.059] [INFO] Defensive blocker chose move (2, 5) with score 1306
+[11:54:21.059] [INFO] Goblin Zogsquisher Dolman moved from (3, 4) to (2, 5)
+[11:54:21.059] [INFO] Movement trail: [(6, 1), (4, 1), (4, 3), (3, 4), (2, 5)]
+[11:54:21.059] [INFO] Moving defensive blocker Wortgob Paskel with 4 movement points
+[11:54:21.059] [INFO] Defensive blocker chose move (2, 7) with score 3942
+[11:54:22.405] [INFO] Moving carrier Zogmangler Dakkone with 1 movement points
+[11:54:22.405] [INFO] Carrier Zogmangler Dakkone couldn't find valid move
+[11:54:22.405] [INFO] Moving offensive blocker Thraksmasher Gumbo with 2 movement points
+[11:54:22.405] [INFO] No carrier found for team Skullsmashers!
+[11:54:22.405] [INFO] Moving offensive blocker Zogsquisher Dolman with 2 movement points
+[11:54:22.405] [INFO] No carrier found for team Skullsmashers!
+[11:54:22.406] [INFO] Moving defensive blocker Skabfist Needles  with 2 movement points
+[11:54:22.406] [INFO] No carrier found for team Skullsmashers!
+[11:54:22.406] [INFO] Moving defensive blocker Skabchomper with 1 movement points
+[11:54:22.406] [INFO] No carrier found for team Skullsmashers!
+[11:54:22.406] [INFO] Moving defensive blocker Globgob  with 4 movement points
+[11:54:22.406] [INFO] No carrier found for team Skullsmashers!
+[11:54:22.406] [INFO] Moving defensive blocker Snotfist Tinika the Brutal with 2 movement points
+[11:54:22.406] [INFO] No carrier found for team Skullsmashers!
